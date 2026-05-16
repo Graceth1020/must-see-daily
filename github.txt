@@ -1,0 +1,19 @@
+● Here's the quickest path:
+
+  1. Install GitHub CLI (one-time):
+  Open PowerShell/admin terminal:
+  winget install GitHub.cli
+  gh auth login
+
+  2. Run the setup script:
+  setup-github.bat
+
+  That script automates everything — initializes git, creates the repo on GitHub, pushes the claude_source branch, and
+  enables GitHub Pages.
+
+  Alternatively, manual one-liner (if you prefer copy-paste):
+  git init && git checkout -b claude_source && git add . && git commit -m "Initial commit" && gh repo create
+  must-see-daily --public --push --remote=origin --source=.
+
+  After either method, the last step is adding your API keys in Repo Settings → Secrets and variables → Actions
+  (FINNHUB_KEY, GNEWS_KEY), then go to Actions → Fetch Daily News → Run workflow to generate the first news_*.json.

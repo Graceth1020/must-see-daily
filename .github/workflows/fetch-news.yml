@@ -1,0 +1,191 @@
+# =============================================================================
+# Daily News Dashboard — Data Fetcher
+#
+# Runs daily at 08:00 Beijing time (00:00 UTC) to fetch finance, AI, and
+# GitHub trending data, then commits the merged result to news.json.
+#
+# Secrets required (set in GitHub repo → Settings → Secrets and variables → Actions):
+#   - FINNHUB_KEY   (https://finnhub.io/  — free tier: 60 calls/min)
+#   - GNEWS_KEY     (https://gnews.io/    — free tier: 100 calls/day)
+#   - GITHUB_TOKEN  (auto-provided, no setup needed)
+# =============================================================================
+
+name: Fetch Daily News
+
+on:
+  schedule:
+    # 00:00 UTC = 08:00 Beijing time. Adjust if your timezone differs.
+    - cron: '0 0 * * *'
+  # Allow manual trigger from the Actions tab
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-and-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out claude_source branch
+        uses: actions/checkout@v4
+        with:
+          ref: claude_source
+          # Fetch full history so we can push without force
+          fetch-depth: 0
+
+      - name: Calculate yesterday's date (ISO)
+        id: dates
+        run: |
+          echo "yesterday=$(date -d 'yesterday' '+%Y-%m-%d')" >> $GITHUB_OUTPUT
+          echo "now=$(date -u '+%Y-%m-%dT%H:%M:%SZ')" >> $GITHUB_OUTPUT
+
+      # ------------------------------------------------------------------
+      # 1. FINANCE — Finnhub API
+      # ------------------------------------------------------------------
+      - name: Fetch Finance News
+        id: finance
+        env:
+          FINNHUB_KEY: ${{ secrets.FINNHUB_KEY }}
+        run: |
+          if [ -z "$FINNHUB_KEY" ]; then
+            echo 'finance=[]' >> $GITHUB_OUTPUT
+            echo "::warning::FINNHUB_KEY is not set — finance data will be empty"
+            exit 0
+          fi
+          RESP=$(curl -s --max-time 15 \
+            "https://finnhub.io/api/v1/news?category=general&token=${FINNHUB_KEY}")
+          echo 'finance<<FINFIN' >> $GITHUB_OUTPUT
+          echo "$RESP" >> $GITHUB_OUTPUT
+          echo 'FINFIN' >> $GITHUB_OUTPUT
+
+      # ------------------------------------------------------------------
+      # 2. AI — GNews API
+      # ------------------------------------------------------------------
+      - name: Fetch AI News
+        id: ai
+        env:
+          GNEWS_KEY: ${{ secrets.GNEWS_KEY }}
+        run: |
+          if [ -z "$GNEWS_KEY" ]; then
+            echo 'ai=[]' >> $GITHUB_OUTPUT
+            echo "::warning::GNEWS_KEY is not set — AI data will be empty"
+            exit 0
+          fi
+          RESP=$(curl -s --max-time 15 \
+            "https://gnews.io/api/v4/search?q=artificial%20intelligence&token=${GNEWS_KEY}&lang=en&max=5")
+          echo 'ai<<GNEWS' >> $GITHUB_OUTPUT
+          echo "$RESP" >> $GITHUB_OUTPUT
+          echo 'GNEWS' >> $GITHUB_OUTPUT
+
+      # ------------------------------------------------------------------
+      # 3. GITHUB — Trending repos (last 24h)
+      # ------------------------------------------------------------------
+      - name: Fetch GitHub Trending
+        id: github
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          YESTERDAY="${{ steps.dates.outputs.yesterday }}"
+          RESP=$(curl -s --max-time 15 \
+            -H "Authorization: token ${GH_TOKEN}" \
+            -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/search/repositories?q=created:>${YESTERDAY}&sort=stars&order=desc&per_page=5")
+          echo 'github<<GHEOF' >> $GITHUB_OUTPUT
+          echo "$RESP" >> $GITHUB_OUTPUT
+          echo 'GHEOF' >> $GITHUB_OUTPUT
+
+      # ------------------------------------------------------------------
+      # 4. Transform & Merge → news.json
+      # ------------------------------------------------------------------
+      - name: Build news.json
+        uses: actions/github-script@v7
+        env:
+          FINANCE_RAW: ${{ steps.finance.outputs.finance }}
+          AI_RAW: ${{ steps.ai.outputs.ai }}
+          GITHUB_RAW: ${{ steps.github.outputs.github }}
+          NOW: ${{ steps.dates.outputs.now }}
+        with:
+          script: |
+            const fs = require('fs');
+
+            const now = process.env.NOW;
+            let financeRaw = process.env.FINANCE_RAW || '[]';
+            let aiRaw = process.env.AI_RAW || '{}';
+            let githubRaw = process.env.GITHUB_RAW || '{}';
+
+            // ---- Parse finance (max 5 items) ----
+            let finance = [];
+            try {
+              const parsed = JSON.parse(financeRaw);
+              if (Array.isArray(parsed)) {
+                finance = parsed.slice(0, 5).map(item => ({
+                  title: item.headline || item.title || '',
+                  summary: item.summary || '',
+                  url: item.url || '',
+                  source: item.source || '',
+                  datetime: item.datetime || 0,
+                  image: item.image || ''
+                }));
+              }
+            } catch (e) {
+              console.warn('Failed to parse finance data:', e.message);
+            }
+
+            // ---- Parse AI (max 5 items) ----
+            let ai = [];
+            try {
+              const parsed = JSON.parse(aiRaw);
+              const articles = parsed.articles || [];
+              ai = articles.slice(0, 5).map(item => ({
+                title: item.title || '',
+                description: item.description || '',
+                url: item.url || '',
+                source: (item.source && item.source.name) || item.source || '',
+                publishedAt: item.publishedAt || '',
+                image: item.image || ''
+              }));
+            } catch (e) {
+              console.warn('Failed to parse AI data:', e.message);
+            }
+
+            // ---- Parse GitHub (max 5 items) ----
+            let github = [];
+            try {
+              const parsed = JSON.parse(githubRaw);
+              const items = parsed.items || [];
+              github = items.slice(0, 5).map(item => ({
+                full_name: item.full_name || '',
+                description: item.description || '',
+                stargazers_count: item.stargazers_count || 0,
+                html_url: item.html_url || '',
+                language: item.language || null
+              }));
+            } catch (e) {
+              console.warn('Failed to parse GitHub data:', e.message);
+            }
+
+            // ---- Build output ----
+            const datePart = now.slice(0, 10).replace(/-/g, '');
+            const output = { lastUpdated: now, finance, ai, github };
+            fs.mkdirSync('news', { recursive: true });
+            fs.writeFileSync(`news/news_${datePart}.json`, JSON.stringify(output, null, 2) + '\n');
+            console.log(`news/news_${datePart}.json written with ${finance.length} finance, ${ai.length} AI, ${github.length} GitHub items`);
+
+      # ------------------------------------------------------------------
+      # 5. Commit & Push
+      # ------------------------------------------------------------------
+      - name: Commit and push news.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add news/
+          # Only commit if something changed
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Auto-update news/news_* [skip ci]"
+          git push

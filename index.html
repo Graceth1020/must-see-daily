@@ -1,0 +1,615 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Daily News Dashboard</title>
+<style>
+  /* ── Reset & Base ── */
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  :root {
+    --bg-primary: #f5f7fb;
+    --bg-secondary: #ffffff;
+    --bg-card: #ffffff;
+    --bg-card-hover: #f8faff;
+    --border: #e2e8f0;
+    --text-primary: #1a202c;
+    --text-secondary: #4a5568;
+    --text-muted: #a0aec0;
+    --accent-blue: #3b82f6;
+    --accent-purple: #7c3aed;
+    --accent-green: #10b981;
+    --accent-orange: #f59e0b;
+    --glow-blue: 0 0 20px rgba(59,130,246,0.1);
+    --glow-purple: 0 0 20px rgba(124,58,237,0.1);
+    --radius: 12px;
+    --radius-lg: 16px;
+    --shadow: 0 1px 3px rgba(0,0,0,0.08), 0 1px 2px rgba(0,0,0,0.06);
+    --font: 'SF Mono','Cascadia Code','Segoe UI',system-ui,-apple-system,sans-serif;
+  }
+  html { font-size: 16px; scroll-behavior: smooth; }
+  body {
+    font-family: var(--font);
+    background: var(--bg-primary);
+    color: var(--text-primary);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-image:
+      radial-gradient(ellipse 60% 50% at 10% 5%, rgba(59,130,246,0.05) 0%, transparent 60%),
+      radial-gradient(ellipse 50% 40% at 90% 95%, rgba(124,58,237,0.04) 0%, transparent 60%);
+    background-attachment: fixed;
+  }
+  a { color: var(--accent-blue); text-decoration: none; transition: opacity .2s; }
+  a:hover { text-decoration: underline; }
+
+  /* ── Header ── */
+  header {
+    padding: 2rem 1.5rem 1rem;
+    text-align: center;
+  }
+  header h1 {
+    font-size: 1.6rem;
+    font-weight: 700;
+    background: linear-gradient(135deg, var(--accent-blue), var(--accent-purple));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    letter-spacing: -0.5px;
+  }
+  header p {
+    color: var(--text-secondary);
+    font-size: 0.8rem;
+    margin-top: 0.3rem;
+  }
+  #last-updated {
+    color: var(--text-muted);
+    font-size: 0.72rem;
+    margin-top: 0.25rem;
+  }
+  .badge-mock {
+    display: inline-block;
+    background: #fef3c7;
+    color: #b45309;
+    font-size: 0.6rem;
+    padding: 0.15rem 0.5rem;
+    border-radius: 99px;
+    margin-left: 0.5rem;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    vertical-align: middle;
+  }
+
+  /* ── Container ── */
+  .container {
+    max-width: 880px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 1rem 3rem;
+    flex: 1;
+  }
+
+  /* ── Tabs ── */
+  .tabs {
+    display: flex;
+    gap: 0.25rem;
+    background: var(--bg-secondary);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 0.35rem;
+    margin-bottom: 1.5rem;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+  }
+  .tab-btn {
+    flex: 1;
+    background: transparent;
+    border: none;
+    color: var(--text-secondary);
+    font-family: var(--font);
+    font-size: 0.78rem;
+    font-weight: 500;
+    padding: 0.6rem 0.5rem;
+    border-radius: calc(var(--radius) - 4px);
+    cursor: pointer;
+    transition: all 0.2s ease;
+    position: relative;
+    white-space: nowrap;
+  }
+  .tab-btn:hover { color: var(--text-primary); background: #f1f5f9; }
+  .tab-btn.active {
+    color: var(--accent-blue);
+    background: #eff6ff;
+    font-weight: 600;
+  }
+  .tab-btn .tab-icon { margin-right: 0.35rem; }
+  .tab-btn .tab-count {
+    display: inline-block;
+    margin-left: 0.3rem;
+    font-size: 0.6rem;
+    background: #f1f5f9;
+    color: var(--text-muted);
+    padding: 0.05rem 0.4rem;
+    border-radius: 99px;
+    min-width: 1.2rem;
+  }
+  .tab-btn.active .tab-count { background: #dbeafe; color: var(--accent-blue); }
+
+  /* ── Content Area ── */
+  .tab-content { display: none; animation: fadeUp 0.35s ease; }
+  .tab-content.active { display: block; }
+
+  @keyframes fadeUp {
+    from { opacity: 0; transform: translateY(8px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+
+  /* ── Loading Skeleton ── */
+  .skeleton {
+    background: var(--bg-card);
+    border-radius: var(--radius);
+    padding: 1.25rem;
+    margin-bottom: 0.75rem;
+    border: 1px solid var(--border);
+  }
+  .skeleton-line {
+    height: 0.7rem;
+    background: linear-gradient(90deg, #e2e8f0 25%, #f1f5f9 50%, #e2e8f0 75%);
+    background-size: 200% 100%;
+    animation: shimmer 1.5s ease-in-out infinite;
+    border-radius: 4px;
+    margin-bottom: 0.6rem;
+  }
+  .skeleton-line:first-child { width: 75%; height: 0.85rem; }
+  .skeleton-line:nth-child(2) { width: 55%; }
+  .skeleton-line:nth-child(3) { width: 90%; }
+  @keyframes shimmer { 0% { background-position: 200% 0; } 100% { background-position: -200% 0; } }
+
+  /* ── Card ── */
+  .card {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 1.15rem 1.25rem;
+    margin-bottom: 0.65rem;
+    backdrop-filter: blur(12px);
+    transition: all 0.2s ease;
+    cursor: default;
+  }
+  .card:hover {
+    background: var(--bg-card-hover);
+    border-color: #cbd5e1;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  }
+  .card-body {
+    display: flex;
+    gap: 1rem;
+  }
+  .card-thumb {
+    width: 110px;
+    height: 82px;
+    object-fit: cover;
+    border-radius: 8px;
+    flex-shrink: 0;
+    background: #e2e8f0;
+  }
+  .card-thumb--empty {
+    display: none;
+  }
+  .card-text {
+    flex: 1;
+    min-width: 0;
+  }
+  .card-title {
+    font-size: 0.88rem;
+    font-weight: 600;
+    color: var(--text-primary);
+    margin-bottom: 0.3rem;
+    line-height: 1.4;
+  }
+  .card-title a { color: inherit; }
+  .card-title a:hover { color: var(--accent-blue); text-decoration: none; }
+  .card-meta {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.5rem 0.8rem;
+    margin-top: 0.4rem;
+    font-size: 0.7rem;
+  }
+  .card-source {
+    color: var(--accent-blue);
+    font-weight: 500;
+  }
+  .card-date {
+    color: var(--text-muted);
+  }
+  .card-summary {
+    color: var(--text-secondary);
+    font-size: 0.78rem;
+    line-height: 1.5;
+    margin-top: 0.35rem;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .card-stars {
+    color: var(--accent-orange);
+    font-weight: 600;
+  }
+  .card-lang {
+    display: inline-block;
+    background: #ede9fe;
+    color: #6d28d9;
+    font-size: 0.62rem;
+    padding: 0.1rem 0.45rem;
+    border-radius: 4px;
+    font-weight: 500;
+  }
+
+  /* ── Error / Empty ── */
+  .state-msg {
+    text-align: center;
+    padding: 3rem 1.5rem;
+    color: var(--text-secondary);
+  }
+  .state-msg .icon { font-size: 2rem; margin-bottom: 0.5rem; display: block; }
+  .state-msg p { font-size: 0.85rem; line-height: 1.5; }
+
+  /* ── Footer ── */
+  footer {
+    text-align: center;
+    padding: 1.5rem;
+    color: var(--text-muted);
+    font-size: 0.7rem;
+    border-top: 1px solid var(--border);
+    background: var(--bg-secondary);
+  }
+
+  /* ── Responsive ── */
+  @media (max-width: 600px) {
+    header { padding: 1.25rem 1rem 0.75rem; }
+    header h1 { font-size: 1.25rem; }
+    .tab-btn { font-size: 0.72rem; padding: 0.5rem 0.3rem; }
+    .card-body { flex-direction: column; }
+    .card-thumb { width: 100%; height: 160px; }
+    .card { padding: 0.9rem 1rem; }
+    .card-title { font-size: 0.82rem; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Daily News Dashboard</h1>
+  <p>Finance &middot; AI &middot; GitHub Trending</p>
+  <div id="last-updated"></div>
+</header>
+
+<div class="container">
+  <div class="tabs" role="tablist">
+    <button class="tab-btn active" data-tab="finance" role="tab" aria-selected="true">
+      <span class="tab-icon">&#x1F4B0;</span> Finance <span class="tab-count" id="count-finance">0</span>
+    </button>
+    <button class="tab-btn" data-tab="ai" role="tab" aria-selected="false">
+      <span class="tab-icon">&#x1F916;</span> AI <span class="tab-count" id="count-ai">0</span>
+    </button>
+    <button class="tab-btn" data-tab="github" role="tab" aria-selected="false">
+      <span class="tab-icon">&#x2B50;</span> GitHub <span class="tab-count" id="count-github">0</span>
+    </button>
+  </div>
+
+  <div id="content-finance" class="tab-content active" role="tabpanel"></div>
+  <div id="content-ai" class="tab-content" role="tabpanel"></div>
+  <div id="content-github" class="tab-content" role="tabpanel"></div>
+</div>
+
+<footer>
+  Built with automation &middot; Data updates daily via GitHub Actions
+</footer>
+
+<script>
+/* ===================================================================
+   CONFIGURATION
+   =================================================================== */
+const USE_MOCK_DATA = false;           // ← toggle false to use real news.json
+
+/* ===================================================================
+   MOCK DATA
+   =================================================================== */
+const MOCK_DATA = {
+  "lastUpdated": "2026-05-16T08:00:00Z",
+  "finance": [
+    { "title": "Fed Holds Interest Rates Steady, Signals Caution on Inflation",
+      "summary": "The Federal Reserve maintained its benchmark interest rate at 5.25%-5.50%, citing sticky inflation and a resilient labor market.",
+      "url": "https://example.com/finance/fed-rates", "source": "Reuters", "datetime": 1747353600,
+      "image": "https://picsum.photos/seed/fed/400/200" },
+    { "title": "Oil Prices Slide as OPEC+ Considers Production Increase",
+      "summary": "Brent crude fell 2.3% on reports that OPEC+ is debating a gradual unwinding of production cuts.",
+      "url": "https://example.com/finance/oil-prices", "source": "Bloomberg", "datetime": 1747267200,
+      "image": "https://picsum.photos/seed/oil/400/200" },
+    { "title": "Nvidia Reports Record Quarterly Revenue of $35B",
+      "summary": "Nvidia posted $35 billion in quarterly revenue, driven by insatiable demand for AI chips.",
+      "url": "https://example.com/finance/nvidia-earnings", "source": "CNBC", "datetime": 1747180800,
+      "image": "https://picsum.photos/seed/nvidia/400/200" },
+    { "title": "Tesla Stock Jumps 6% on Optimistic Delivery Forecast",
+      "summary": "Tesla shares rose sharply after the company announced better-than-expected Q2 delivery numbers.",
+      "url": "https://example.com/finance/tesla-delivery", "source": "Financial Times", "datetime": 1747094400,
+      "image": "https://picsum.photos/seed/tesla/400/200" },
+    { "title": "Gold Hits All-Time High Above $2,400 Per Ounce",
+      "summary": "Gold prices breached $2,400 for the first time as investors flock to safe-haven assets.",
+      "url": "https://example.com/finance/gold-ath", "source": "MarketWatch", "datetime": 1747008000,
+      "image": "https://picsum.photos/seed/gold/400/200" }
+  ],
+  "ai": [
+    { "title": "OpenAI Unveils GPT-5: 'Significant Leap' in Reasoning",
+      "description": "OpenAI announced GPT-5, claiming major improvements in multi-step reasoning, reduced hallucinations, and native tool use.",
+      "url": "https://example.com/ai/gpt5", "source": "The Verge", "publishedAt": "2026-05-16T06:00:00Z",
+      "image": "https://picsum.photos/seed/gpt5/400/200" },
+    { "title": "Google DeepMind's AlphaFold 3 Released to Scientists Worldwide",
+      "description": "DeepMind open-sourced AlphaFold 3, enabling researchers to predict protein structures with unprecedented accuracy.",
+      "url": "https://example.com/ai/alphafold3", "source": "Nature", "publishedAt": "2026-05-16T04:30:00Z",
+      "image": "https://picsum.photos/seed/alphafold3/400/200" },
+    { "title": "EU Parliament Passes Comprehensive AI Liability Directive",
+      "description": "The European Union passed a landmark AI liability framework, holding developers accountable for harm caused by their systems.",
+      "url": "https://example.com/ai/eu-liability", "source": "TechCrunch", "publishedAt": "2026-05-15T14:00:00Z",
+      "image": "https://picsum.photos/seed/eu-ai/400/200" },
+    { "title": "AI Startup Raises $1.2B to Build Autonomous Coding Agents",
+      "description": "A stealth-mode AI startup closed a $1.2 billion Series C to develop autonomous coding agents.",
+      "url": "https://example.com/ai/coding-agents", "source": "Bloomberg", "publishedAt": "2026-05-15T10:15:00Z",
+      "image": "https://picsum.photos/seed/coding/400/200" },
+    { "title": "Meta Releases Llama 4 Under Permissive Apache 2.0 License",
+      "description": "Meta's Llama 4 open-source model rivals proprietary frontier models on key benchmarks.",
+      "url": "https://example.com/ai/llama4", "source": "Ars Technica", "publishedAt": "2026-05-14T20:00:00Z",
+      "image": "https://picsum.photos/seed/llama4/400/200" }
+  ],
+  "github": [
+    { "full_name": "anthropics/claude-code", "description": "Claude Code is an agentic coding tool that lives in your terminal.",
+      "stargazers_count": 28400, "html_url": "https://github.com/anthropics/claude-code", "language": "TypeScript" },
+    { "full_name": "microsoft/garnet", "description": "Garnet is a remote cache-store from Microsoft Research that offers high performance.",
+      "stargazers_count": 16200, "html_url": "https://github.com/microsoft/garnet", "language": "C#" },
+    { "full_name": "naklecha/llama3-from-scratch", "description": "LLaMA 3 implemented from scratch in PyTorch — a complete educational walkthrough.",
+      "stargazers_count": 14100, "html_url": "https://github.com/naklecha/llama3-from-scratch", "language": "Python" },
+    { "full_name": "astral-sh/ruff", "description": "An extremely fast Python linter and formatter written in Rust.",
+      "stargazers_count": 35800, "html_url": "https://github.com/astral-sh/ruff", "language": "Rust" },
+    { "full_name": "oven-sh/bun", "description": "Bun is a fast all-in-one JavaScript runtime, bundler, and package manager.",
+      "stargazers_count": 76800, "html_url": "https://github.com/oven-sh/bun", "language": "Zig" }
+  ]
+};
+
+/* ===================================================================
+   STATE
+   =================================================================== */
+let newsData = null;
+let isLoading = false;
+let hasError = false;
+
+/* ===================================================================
+   DOM refs
+   =================================================================== */
+const containers = {
+  finance: document.getElementById('content-finance'),
+  ai: document.getElementById('content-ai'),
+  github: document.getElementById('content-github')
+};
+const counts = {
+  finance: document.getElementById('count-finance'),
+  ai: document.getElementById('count-ai'),
+  github: document.getElementById('count-github')
+};
+const lastUpdatedEl = document.getElementById('last-updated');
+const tabBtns = document.querySelectorAll('.tab-btn');
+
+/* ===================================================================
+   HELPERS
+   =================================================================== */
+function formatDate(iso) {
+  if (!iso) return '';
+  const d = new Date(iso);
+  return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric', hour: '2-digit', minute: '2-digit' });
+}
+
+function formatUnix(ts) {
+  if (!ts) return '';
+  const d = new Date(ts * 1000);
+  return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' });
+}
+
+function timeAgo(dateStr) {
+  const now = new Date();
+  const d = new Date(dateStr);
+  const diff = (now - d) / 1000;
+  if (diff < 60) return 'just now';
+  if (diff < 3600) return `${Math.floor(diff / 60)}m ago`;
+  if (diff < 86400) return `${Math.floor(diff / 3600)}h ago`;
+  return `${Math.floor(diff / 86400)}d ago`;
+}
+
+/* ===================================================================
+   RENDERERS
+   =================================================================== */
+function renderFinance(items) {
+  if (!items || items.length === 0) return '<div class="state-msg"><span class="icon">&#x1F4CA;</span><p>No finance news available.</p></div>';
+  return items.map(item => `
+    <div class="card">
+      <div class="card-body">
+        <img class="card-thumb${item.image ? '' : ' card-thumb--empty'}" src="${escapeHtml(item.image || '')}" alt="" loading="lazy" onerror="this.classList.add('card-thumb--empty')">
+        <div class="card-text">
+          <div class="card-title"><a href="${escapeHtml(item.url)}" target="_blank" rel="noopener">${escapeHtml(item.title)}</a></div>
+          <div class="card-summary">${escapeHtml(item.summary)}</div>
+          <div class="card-meta">
+            <span class="card-source">${escapeHtml(item.source)}</span>
+            <span class="card-date">${formatUnix(item.datetime)}</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  `).join('');
+}
+
+function renderAI(items) {
+  if (!items || items.length === 0) return '<div class="state-msg"><span class="icon">&#x1F916;</span><p>No AI news available.</p></div>';
+  return items.map(item => `
+    <div class="card">
+      <div class="card-body">
+        <img class="card-thumb${item.image ? '' : ' card-thumb--empty'}" src="${escapeHtml(item.image || '')}" alt="" loading="lazy" onerror="this.classList.add('card-thumb--empty')">
+        <div class="card-text">
+          <div class="card-title"><a href="${escapeHtml(item.url)}" target="_blank" rel="noopener">${escapeHtml(item.title)}</a></div>
+          <div class="card-summary">${escapeHtml(item.description)}</div>
+          <div class="card-meta">
+            <span class="card-source">${escapeHtml(item.source)}</span>
+            <span class="card-date">${timeAgo(item.publishedAt)}</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  `).join('');
+}
+
+function renderGitHub(items) {
+  if (!items || items.length === 0) return '<div class="state-msg"><span class="icon">&#x2B50;</span><p>No trending repositories found.</p></div>';
+  return items.map(item => `
+    <div class="card">
+      <div class="card-title"><a href="${escapeHtml(item.html_url)}" target="_blank" rel="noopener">${escapeHtml(item.full_name)}</a></div>
+      <div class="card-summary">${escapeHtml(item.description || 'No description provided.')}</div>
+      <div class="card-meta">
+        ${item.language ? `<span class="card-lang">${escapeHtml(item.language)}</span>` : ''}
+        <span class="card-stars">&#x2B50; ${Number(item.stargazers_count).toLocaleString()}</span>
+      </div>
+    </div>
+  `).join('');
+}
+
+function escapeHtml(str) {
+  if (!str) return '';
+  const div = document.createElement('div');
+  div.textContent = str;
+  return div.innerHTML;
+}
+
+/* ===================================================================
+   LOADING / ERROR
+   =================================================================== */
+function showLoading() {
+  isLoading = true;
+  const skeleton = Array(4).fill(`
+    <div class="skeleton">
+      <div class="skeleton-line"></div>
+      <div class="skeleton-line"></div>
+      <div class="skeleton-line"></div>
+    </div>
+  `).join('');
+  Object.values(containers).forEach(el => el.innerHTML = skeleton);
+}
+
+function showError(msg) {
+  hasError = true;
+  isLoading = false;
+  const html = `<div class="state-msg"><span class="icon">&#x26A0;&#xFE0F;</span><p>${escapeHtml(msg)}</p></div>`;
+  Object.values(containers).forEach(el => el.innerHTML = html);
+}
+
+/* ===================================================================
+   DATE HELPERS
+   =================================================================== */
+function yyyymmdd(d) {
+  const y = d.getUTCFullYear();
+  const m = String(d.getUTCMonth() + 1).padStart(2, '0');
+  const day = String(d.getUTCDate()).padStart(2, '0');
+  return `${y}${m}${day}`;
+}
+
+/* ===================================================================
+   DATA FETCHING
+   =================================================================== */
+async function fetchData() {
+  if (USE_MOCK_DATA) {
+    newsData = MOCK_DATA;
+    renderAll();
+    return;
+  }
+
+  showLoading();
+  const today = new Date();
+  const yesterday = new Date(today.getTime() - 86400000);
+  const urls = [
+    `news/news_${yyyymmdd(today)}.json`,
+    `news/news_${yyyymmdd(yesterday)}.json`
+  ];
+
+  let loaded = null;
+  for (const url of urls) {
+    try {
+      const res = await fetch(url);
+      if (res.ok) { loaded = await res.json(); break; }
+    } catch (_) { /* try next */ }
+  }
+
+  if (loaded) {
+    newsData = loaded;
+    renderAll();
+  } else {
+    showError('Could not load news data. Make sure the <strong>news/</strong> folder exists with today\'s JSON file, or set <strong>USE_MOCK_DATA = true</strong>.');
+  }
+}
+
+/* ===================================================================
+   RENDER ALL
+   =================================================================== */
+function renderAll() {
+  if (!newsData) return;
+  isLoading = false;
+  hasError = false;
+
+  containers.finance.innerHTML = renderFinance(newsData.finance);
+  containers.ai.innerHTML = renderAI(newsData.ai);
+  containers.github.innerHTML = renderGitHub(newsData.github);
+
+  counts.finance.textContent = (newsData.finance || []).length;
+  counts.ai.textContent = (newsData.ai || []).length;
+  counts.github.textContent = (newsData.github || []).length;
+
+  if (newsData.lastUpdated) {
+    lastUpdatedEl.textContent = 'Last updated: ' + formatDate(newsData.lastUpdated);
+  }
+}
+
+/* ===================================================================
+   TAB SWITCHING
+   =================================================================== */
+function switchTab(tabId) {
+  // Update button states
+  tabBtns.forEach(btn => {
+    const isActive = btn.dataset.tab === tabId;
+    btn.classList.toggle('active', isActive);
+    btn.setAttribute('aria-selected', isActive);
+  });
+
+  // Update content panels
+  Object.keys(containers).forEach(key => {
+    containers[key].classList.toggle('active', key === tabId);
+  });
+}
+
+// Tab click handlers
+tabBtns.forEach(btn => {
+  btn.addEventListener('click', () => switchTab(btn.dataset.tab));
+});
+
+/* ===================================================================
+   INIT
+   =================================================================== */
+document.addEventListener('DOMContentLoaded', () => {
+  if (USE_MOCK_DATA) {
+    // Add mock badge to header
+    const badge = document.createElement('span');
+    badge.className = 'badge-mock';
+    badge.textContent = 'MOCK DATA';
+    document.querySelector('header h1').appendChild(badge);
+  }
+  fetchData();
+});
+</script>
+</body>
+</html>
