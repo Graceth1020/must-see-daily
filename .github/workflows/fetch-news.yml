@@ -150,11 +150,11 @@ jobs:
             }
 
             // ---- Parse GitHub (max 5 items) ----
-            let github = [];
+            let githubRepos = [];
             try {
               const parsed = JSON.parse(githubRaw);
               const items = parsed.items || [];
-              github = items.slice(0, 5).map(item => ({
+              githubRepos = items.slice(0, 5).map(item => ({
                 full_name: item.full_name || '',
                 description: item.description || '',
                 stargazers_count: item.stargazers_count || 0,
@@ -167,10 +167,10 @@ jobs:
 
             // ---- Build output ----
             const datePart = now.slice(0, 10).replace(/-/g, '');
-            const output = { lastUpdated: now, finance, ai, github };
+            const output = { lastUpdated: now, finance: finance, ai: ai, github: githubRepos };
             fs.mkdirSync('news', { recursive: true });
             fs.writeFileSync(`news/news_${datePart}.json`, JSON.stringify(output, null, 2) + '\n');
-            console.log(`news/news_${datePart}.json written with ${finance.length} finance, ${ai.length} AI, ${github.length} GitHub items`);
+            console.log(`news/news_${datePart}.json written with ${finance.length} finance, ${ai.length} AI, ${githubRepos.length} GitHub items`);
 
       # ------------------------------------------------------------------
       # 5. Commit & Push
