@@ -1,0 +1,4 @@
+node_modules
+.gitignore
+setup-github.bat
+setup-github.sh
