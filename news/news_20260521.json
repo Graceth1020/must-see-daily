@@ -1,0 +1,124 @@
+{
+  "lastUpdated": "2026-05-21T02:35:26Z",
+  "finance": [
+    {
+      "title": "Jim Cramer says the world of tech investing has changed and it's not going back",
+      "summary": "CNBC's Jim Cramer said semiconductor and AI infrastructure stocks have replaced software as the market's technology leaders.",
+      "url": "https://www.cnbc.com/2026/05/20/jim-cramer-says-the-world-of-tech-investing-has-changed-and-its-not-going-back.html",
+      "source": "CNBC",
+      "datetime": 1779316867,
+      "image": "https://image.cnbcfm.com/api/v1/image/107109967-1661524568032-NUP_198430_00186r.jpg?v=1690933351&w=1920&h=1080"
+    },
+    {
+      "title": "Sinkhole shuts runway at LaGuardia Airport, delaying flights, Port Authority warns",
+      "summary": "The Port Authority said travelers should expect delays and cancellations, with thunderstorms expected also expected to roll in Wednesday.",
+      "url": "https://www.cnbc.com/2026/05/20/laguardia-airport-lga-flights.html",
+      "source": "CNBC",
+      "datetime": 1779310237,
+      "image": "https://image.cnbcfm.com/api/v1/image/108310138-1779309913430-gettyimages-2268244986-rm_lga_getty.jpeg?v=1779310024&w=1920&h=1080"
+    },
+    {
+      "title": "Iran is consolidating control of Hormuz with island checkpoints, diplomatic deals – and sometimes ‘fees’ - Reuters",
+      "summary": "Iran is consolidating control of Hormuz with island checkpoints, diplomatic deals – and sometimes ‘fees’  Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMzNJZTNOVW9ScHNEZjlhenY5VFdwa3ZmVXhCVk9MYWgxY0hnRlVmVUFUNERHS0ZsVlBJZXNBSEw5c3BHYTJxUFA2cDdlZjBBMXRsTDFFN2dXMEJybG9ycU44d1c5WDdwZ09EdDNCWm5kRE8yTW04clJnY05URDdadVZzanZTSFA0bkxFVF90Ym10a1RUYUdmYWNmN2dlNXc1SGdOelpZLU1UQm9aV0RXZkJZeEdRamlmbEl4SlFveEs4RVA0LVlN?oc=5",
+      "source": "Reuters",
+      "datetime": 1779306750,
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "title": "Stocks rally and oil falls. Plus, the implications of Samsung averting a strike",
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "url": "https://www.cnbc.com/2026/05/20/stocks-rally-and-oil-falls-plus-the-implications-of-samsung-averting-a-strike.html",
+      "source": "CNBC",
+      "datetime": 1779300792,
+      "image": "https://image.cnbcfm.com/api/v1/image/108274734-1772802714743-gettyimages-2264237870-cros-mobilewo260304_npecz.jpeg?v=1776225451&w=1920&h=1080"
+    },
+    {
+      "title": "Trump: may have to hit Iran harder - or maybe not - Reuters",
+      "summary": "Trump: may have to hit Iran harder - or maybe not  Reuters",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR2oxOWRTdlB0bllSbFM1UE1YdFh5TlJiazU0QUgyN0RzbFFzSTFJTVVpWWZKN0ZzVEZOSXlRaE11V2V0LTYtZTVzM1JueVZ4TGhIXzdXYXlJb2s3QklWMVdUbkFTYUJwdFpxZDBFR3ZjSzhiSGdHVExHUkJWZEZ3TzZZaGdUWlBzc0tOZXh3?oc=5",
+      "source": "Reuters",
+      "datetime": 1779299671,
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    }
+  ],
+  "ai": [
+    {
+      "title": "US, India discuss expansion of cooperation in quantum, biotech, space and nuclear medicine",
+      "description": "The United States Ambassador to India, Sergio Gor called on Union Minister Jitendra Singh on Wednesday and discussed expanding bilateral cooperation across key sectors including biotechnology, quantum technologies, space, nuclear medicine and artificial intelligence, driven by growing focus on innovation-led partnerships.",
+      "url": "https://www.tribuneindia.com/news/business/us-india-discuss-expansion-of-cooperation-in-quantum-biotech-space-and-nuclear-medicine/",
+      "source": "The Tribune",
+      "publishedAt": "2026-05-20T14:31:15Z",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTkyNjg0YzAwLTU0NTgtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc="
+    },
+    {
+      "title": "US, India discuss expansion of cooperation in quantum, biotech, space and nuclear medicine",
+      "description": "The United States Ambassador to India, Sergio Gor called on Union Minister Jitendra Singh on Wednesday and discussed expanding bilateral cooperation across key sectors including biotechnology, quantum technologies, space, nuclear medicine and artificial intelligence, driven by growing focus on innovation-led partnerships.",
+      "url": "https://www.devdiscourse.com/article/business/3915712-us-india-discuss-expansion-of-cooperation-in-quantum-biotech-space-and-nuclear-medicine",
+      "source": "Devdiscourse",
+      "publishedAt": "2026-05-20T14:29:01Z",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/20_05_2026_19_58_57_5538778.jpg&width=920&format=jpeg"
+    },
+    {
+      "title": "Raghav Chadha Moves Delhi High Court Against AI-Generated Deepfakes",
+      "description": "Rajya Sabha MP Raghav Chadha has approached the Delhi High Court seeking protection of his personality rights against alleged misuse through artificial intelligence and digitally manipulated content. The matter is scheduled to be heard by Justice Subramonium Prasad on May 21.",
+      "url": "https://www.republicworld.com/india/raghav-chadha-moves-delhi-high-court-against-ai-generated-deepfakes-2026-05-20-125073",
+      "source": "Republic World",
+      "publishedAt": "2026-05-20T14:16:50Z",
+      "image": "https://img.republicworld.com/all_images/2026/05/raghav-chadha-moves-delhi-high-court-against-ai-generated-deepfakes-1779286604134-1280x720.webp"
+    },
+    {
+      "title": "Bank executives’ AI talk takes frightening turn for workers",
+      "description": "Wall Street leaders’ rhetoric about the impact of artificial intelligence on their firms has taken a dystopian turn. Read more.",
+      "url": "https://financialpost.com/fp-work/bank-executives-ai-frightening-workers",
+      "source": "Financial Post",
+      "publishedAt": "2026-05-20T14:13:26Z",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/05/0521-bc-goldman-.jpg"
+    },
+    {
+      "title": "Raghav Chadha moves Delhi High Court against AI",
+      "description": "Rajya Sabha MP Raghav Chadha has approached the Delhi High Court. He seeks protection for his personality rights. This is against the misuse of artificial intelligence and digitally manipulated content. The court will hear the matter soon. Chadha wants to stop the creation and spread of AI-generated deepfakes and fake speeches.",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/raghav-chadha-moves-delhi-high-court-against-ai-generated-deepfakes/articleshow/131228750.cms",
+      "source": "The Economic Times",
+      "publishedAt": "2026-05-20T14:06:29Z",
+      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-154572,resizemode-75,msid-131228750/tech/artificial-intelligence/raghav-chadha-moves-delhi-high-court-against-ai-generated-deepfakes.jpg"
+    }
+  ],
+  "github": [
+    {
+      "full_name": "pc-style/supply-chain-guard",
+      "description": "Local supply-chain install gate for npm packages and VS Code extensions with Socket, Codex, and PI review support.",
+      "stargazers_count": 4,
+      "html_url": "https://github.com/pc-style/supply-chain-guard",
+      "language": "TypeScript"
+    },
+    {
+      "full_name": "zcding4812/AgentForge",
+      "description": " 通用 AI Agent 平台，基于 LangChain 与 LangGraph 构建，采用 Harness 编程模式实现。以「像素工作室」为核心交互入口，在独立命名空间内编排多 Agent 串行/并行协作；内置多种执行策略，支持知识库 RAG 多模式检索、MCP 工具与全链路可审计追踪。",
+      "stargazers_count": 3,
+      "html_url": "https://github.com/zcding4812/AgentForge",
+      "language": "Python"
+    },
+    {
+      "full_name": "hiroshi211/MoekadenRoomJS",
+      "description": "",
+      "stargazers_count": 2,
+      "html_url": "https://github.com/hiroshi211/MoekadenRoomJS",
+      "language": "JavaScript"
+    },
+    {
+      "full_name": "yunaseo21c/StarsOS",
+      "description": "💫 별을 찾아 떠나는 여정, StarsOS",
+      "stargazers_count": 2,
+      "html_url": "https://github.com/yunaseo21c/StarsOS",
+      "language": null
+    },
+    {
+      "full_name": "SnakeGuitar/layla-writing-platform",
+      "description": "",
+      "stargazers_count": 2,
+      "html_url": "https://github.com/SnakeGuitar/layla-writing-platform",
+      "language": "C#"
+    }
+  ]
+}
