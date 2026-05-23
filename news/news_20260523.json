@@ -1,0 +1,124 @@
+{
+  "lastUpdated": "2026-05-23T02:13:18Z",
+  "finance": [
+    {
+      "title": "Disney's 'Star Wars: The Mandalorian and Grogu' tallies lowest Thursday preview sales in franchise history",
+      "summary": "Disney's \"Star Wars: The Mandalorian and Grogu\" tallied $12 million in Thursday night previews, the lowest collection of advanced tickets in franchise history.",
+      "url": "https://www.cnbc.com/2026/05/22/disneys-star-wars-the-mandalorian-and-grogu-box-office-preview.html",
+      "source": "CNBC",
+      "datetime": 1779475731,
+      "image": "https://image.cnbcfm.com/api/v1/image/108311292-1779466772598-star-wars-the-mandalorian-and-grogu-first-looks-stills-_9e0fdd30_Cropped.jpg?v=1779467057&w=1920&h=1080"
+    },
+    {
+      "title": "Stocks continue surging to record highs. Here's how to hedge",
+      "summary": "The rally back to records has made buying protection more affordable.",
+      "url": "https://www.cnbc.com/2026/05/22/stocks-continue-surging-to-record-highs-heres-how-to-hedge.html",
+      "source": "CNBC",
+      "datetime": 1779472744,
+      "image": "https://image.cnbcfm.com/api/v1/image/108306442-1778688845240-Traders-Photo-20260513-AS-6.jpg?v=1778688944&w=1920&h=1080"
+    },
+    {
+      "title": "Arm shares extend weekly rally to almost 50%, and Starbucks pulls the plug on an AI project",
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "url": "https://www.cnbc.com/2026/05/22/arm-shares-extend-weekly-rally-to-almost-50percent-and-starbucks-pulls-the-plug-on-an-ai-project.html",
+      "source": "CNBC",
+      "datetime": 1779471172,
+      "image": "https://image.cnbcfm.com/api/v1/image/108282893-1774451924535-gettyimages-2267715954-ARM_EVERYWHERE.jpeg?v=1774451947&w=1920&h=1080"
+    },
+    {
+      "title": "Wall Street thinks IMAX is ripe for a sale. Here's who could buy it",
+      "summary": "A source told CNBC that IMAX has held \"preliminary talks\" through intermediaries, but no official pitches have been made by the company.",
+      "url": "https://www.cnbc.com/2026/05/22/imax-sale-talks-potential-buyers-wall-street-analysts.html",
+      "source": "CNBC",
+      "datetime": 1779467186,
+      "image": "https://image.cnbcfm.com/api/v1/image/108311213-1779460294885-gettyimages-2201585805-vcg111550423487.jpeg?v=1779460316&w=1920&h=1080"
+    },
+    {
+      "title": "Egg prices are plunging due to oversupply — and producers say margins are taking a hit as costs rise",
+      "summary": "Egg prices are plunging from oversupply after avian flu shortages, but producers say persistent feed, fuel and labor costs are squeezing margins.",
+      "url": "https://www.cnbc.com/2026/05/22/egg-prices-fall-due-to-oversupply-after-bird-flu-shortages.html",
+      "source": "CNBC",
+      "datetime": 1779465554,
+      "image": "https://image.cnbcfm.com/api/v1/image/108311245-1779462808955-gettyimages-2275677304-l1081568_nrt22pgj.jpeg?v=1779462892&w=1920&h=1080"
+    }
+  ],
+  "ai": [
+    {
+      "title": "Saudi Arabia deploys drones, AI to enhance security during 2026 Hajj pilgrimage",
+      "description": "Saudi authorities are deploying drones, artificial intelligence, and advanced surveillance technologies during the 2026 Hajj season to monitor crowds, detect violations, and prevent unauthorized en…",
+      "url": "https://www.middleeastmonitor.com/20260522-saudi-arabia-deploys-drones-ai-to-enhance-security-during-2026-hajj-pilgrimage/",
+      "source": "Middle East Monitor",
+      "publishedAt": "2026-05-22T13:59:44Z",
+      "image": "https://i0.wp.com/www.middleeastmonitor.com/wp-content/uploads/2026/05/AA-20260522-41466843-41466811-PROSPECTIVE_PILGRIMS_PERFORM_THE_LAST_FRIDAY_PRAYER_BEFORE_EID_ALADHA_IN_MECCA-1-1.jpg?fit=920%2C613&ssl=1"
+    },
+    {
+      "title": "Anthropic set for first profitable quarter as OpenAI and xAI continue burning billions",
+      "description": "Artificial intelligence companies have spent the past three years burning cash at a pace Silicon Valley has rarely seen. Billions have gone into GPUs, data centers, talent wars, and training larger AI models. Profitability felt far away, almost irrelevant. Now, Anthropic may be about to change that narrative. The San Francisco AI startup is on",
+      "url": "https://techstartups.com/2026/05/22/anthropic-set-for-first-profitable-quarter-as-openai-and-xai-continue-burning-billions/",
+      "source": "TechStartups.com",
+      "publishedAt": "2026-05-22T13:51:18Z",
+      "image": "https://techstartups.com/wp-content/uploads/2024/06/Anthropic.jpg"
+    },
+    {
+      "title": "Nobel Prize winner Olga Tokarczuk under fire after revealing she uses AI to develop ideas",
+      "description": "Rest of World News: Polish author Olga Tokarczuk, who won the 2018 Nobel Prize in Literature, has found herself at the centre of a debate over artificial intelligence aft.",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/nobel-prize-winner-olga-tokarczuk-under-fire-after-revealing-she-uses-ai-to-develop-ideas/articleshow/131264613.cms",
+      "source": "Times of India",
+      "publishedAt": "2026-05-22T13:49:00Z",
+      "image": "https://static.toiimg.com/thumb/msid-131264697,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
+    },
+    {
+      "title": "California governor Gavin Newsom planning to change labour laws to protect employees from AI layoffs; says: This moment demands that we …",
+      "description": "Tech News News: California Governor Gavin Newsom is planning a major change to the US state’s labour policies amid growing concerns that artificial intelligence (AI) .",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/california-governor-gavin-newsom-planning-to-change-labour-laws-to-protect-employees-from-ai-layoffs-says-this-moment-demands-that-we-/articleshow/131264350.cms",
+      "source": "Times of India",
+      "publishedAt": "2026-05-22T13:44:00Z",
+      "image": "https://static.toiimg.com/thumb/msid-131264349,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
+    },
+    {
+      "title": "S&P 500 on Track for Strongest Earnings Growth Since 2021",
+      "description": "The S&P 500 Index is on track for its strongest earnings growth in five years as momentum spreads beyond artificial intelligence-fueled gains to much of corporate A…",
+      "url": "https://financialpost.com/pmn/business-pmn/sp-500-on-track-for-strongest-earnings-growth-since-2021",
+      "source": "Financial Post",
+      "publishedAt": "2026-05-22T13:30:45Z",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/05/sp-500-earnings-growth-for-year-revised-higher-2026-eps-gro.jpg"
+    }
+  ],
+  "github": [
+    {
+      "full_name": "gokulgml/polymarket-copy-trading-bot",
+      "description": "polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,",
+      "stargazers_count": 57,
+      "html_url": "https://github.com/gokulgml/polymarket-copy-trading-bot",
+      "language": "TypeScript"
+    },
+    {
+      "full_name": "RhysSullivan/meshnet",
+      "description": "",
+      "stargazers_count": 3,
+      "html_url": "https://github.com/RhysSullivan/meshnet",
+      "language": "JavaScript"
+    },
+    {
+      "full_name": "kingtonriser/git-booster",
+      "description": "",
+      "stargazers_count": 3,
+      "html_url": "https://github.com/kingtonriser/git-booster",
+      "language": "Shell"
+    },
+    {
+      "full_name": "ajsb85/esp-chip-analyzer",
+      "description": "Enterprise ESP32 Chip & USB Bridge Diagnostic Platform (Web Serial + WebUSB AN978 Spec)",
+      "stargazers_count": 2,
+      "html_url": "https://github.com/ajsb85/esp-chip-analyzer",
+      "language": "TypeScript"
+    },
+    {
+      "full_name": "Linejesus/Projeto_Micromobilidade_Urbana",
+      "description": "",
+      "stargazers_count": 2,
+      "html_url": "https://github.com/Linejesus/Projeto_Micromobilidade_Urbana",
+      "language": null
+    }
+  ]
+}
