@@ -1,0 +1,124 @@
+{
+  "lastUpdated": "2026-05-24T02:32:00Z",
+  "finance": [
+    {
+      "title": "Bulls push the S&P 500 back near records — here’s what drove the market last week",
+      "summary": "The combination of higher oil prices and bond market volatility nearly snapped the S&P 500's winning streak.",
+      "url": "https://www.cnbc.com/2026/05/23/bulls-push-sp-500-back-near-records-what-drove-the-market-last-week.html",
+      "source": "CNBC",
+      "datetime": 1779556896,
+      "image": "https://image.cnbcfm.com/api/v1/image/108249452-17678049242026-01-07t165209z_290545539_rc2dwiagni1x_rtrmadp_0_usa-stocks.jpeg?v=1767805134&w=1920&h=1080"
+    },
+    {
+      "title": "‘Blue dot fever’? What's really behind a tricky summer dynamic for live music",
+      "summary": "As prices rise everywhere, consumers are choosing to be more intentional with how they're spending on live music and concerts this year.",
+      "url": "https://www.cnbc.com/2026/05/23/concert-ticket-prices-live-music-demand.html",
+      "source": "CNBC",
+      "datetime": 1779537601,
+      "image": "https://image.cnbcfm.com/api/v1/image/108300007-1777561389061-gettyimages-2225069509-img_0972.jpeg?v=1777561412&w=1920&h=1080"
+    },
+    {
+      "title": "Disney's 'Star Wars: The Mandalorian and Grogu' tallies lowest Thursday preview sales in franchise history",
+      "summary": "Disney's \"Star Wars: The Mandalorian and Grogu\" tallied $12 million in Thursday night previews, the lowest collection of advanced tickets in franchise history.",
+      "url": "https://www.cnbc.com/2026/05/22/disneys-star-wars-the-mandalorian-and-grogu-box-office-preview.html",
+      "source": "CNBC",
+      "datetime": 1779475731,
+      "image": "https://image.cnbcfm.com/api/v1/image/108311292-1779466772598-star-wars-the-mandalorian-and-grogu-first-looks-stills-_9e0fdd30_Cropped.jpg?v=1779467057&w=1920&h=1080"
+    },
+    {
+      "title": "Stocks continue surging to record highs. Here's how to hedge",
+      "summary": "The rally back to records has made buying protection more affordable.",
+      "url": "https://www.cnbc.com/2026/05/22/stocks-continue-surging-to-record-highs-heres-how-to-hedge.html",
+      "source": "CNBC",
+      "datetime": 1779472744,
+      "image": "https://image.cnbcfm.com/api/v1/image/108306442-1778688845240-Traders-Photo-20260513-AS-6.jpg?v=1778688944&w=1920&h=1080"
+    },
+    {
+      "title": "Arm shares extend weekly rally to almost 50%, and Starbucks pulls the plug on an AI project",
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "url": "https://www.cnbc.com/2026/05/22/arm-shares-extend-weekly-rally-to-almost-50percent-and-starbucks-pulls-the-plug-on-an-ai-project.html",
+      "source": "CNBC",
+      "datetime": 1779471172,
+      "image": "https://image.cnbcfm.com/api/v1/image/108282893-1774451924535-gettyimages-2267715954-ARM_EVERYWHERE.jpeg?v=1774451947&w=1920&h=1080"
+    }
+  ],
+  "ai": [
+    {
+      "title": "How AI is fast-tracking search for drugs to treat brain conditions",
+      "description": "In the rapidly evolving age of artificial intelligence, scientists are using it to expedite drug development, uncovering treatments for neurological conditions that may be hiding in plain sight....",
+      "url": "https://www.thenews.com.pk/latest/1403572-how-ai-is-fast-tracking-search-for-drugs-to-treat-brain-conditions",
+      "source": "The News International",
+      "publishedAt": "2026-05-23T14:24:00Z",
+      "image": "https://www.thenews.com.pk/assets/uploads/2026-05-23/1403572_072442_updates.jpg"
+    },
+    {
+      "title": "powered campaign song ahead of 2027 polls",
+      "description": "The track, developed using artificial intelligence to blend traditional Punjabi folk rhythms with modern beats, quickly gained traction across social media",
+      "url": "https://www.tribuneindia.com/news/punjab/modi-da-punjab-bjp-releases-ai-powered-campaign-song-ahead-of-2027-polls/",
+      "source": "The Tribune",
+      "publishedAt": "2026-05-23T14:16:01Z",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWYxMDM2ZTEwLTU2YjEtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc="
+    },
+    {
+      "title": "Emerging Roles In Ai: Unlocking the Future: AI's Impact on Jobs and Workforce Transformation in India",
+      "description": "India News: Explore the groundbreaking report by CPRG and AI4India on how artificial intelligence is transforming job roles and creating new opportunities in the workforce. Discover India's unique position in this technological shift and the emerging roles amidst AI integration.",
+      "url": "https://timesofindia.indiatimes.com/india/center-of-policy-research-and-governance-and-ai4india-publish-report-on-future-of-jobs-in-the-age-of-ai/articleshow/131280835.cms",
+      "source": "Times of India",
+      "publishedAt": "2026-05-23T14:04:00Z",
+      "image": "https://static.toiimg.com/thumb/msid-131273194,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
+    },
+    {
+      "title": "China's DeepSeek to make permanent 75% price cut on flagship V4‑Pro AI model",
+      "description": "Chinese artificial intelligence startup DeepSeek will ​make permanent a 75% price cut on ‌its flagship V4‑Pro artificial intelligence model, keeping prices at a quarter of their original level, the company said in a ​statement on Saturday.",
+      "url": "https://www.reuters.com/world/china/chinas-deepseek-make-permanent-75-price-cut-flagship-v4pro-ai-model-2026-05-23/",
+      "source": "Reuters",
+      "publishedAt": "2026-05-23T13:33:22Z",
+      "image": "https://www.reuters.com/resizer/v2/3MYR2LUM3VK5VJ5GPFES4QM7XQ.jpg?auth=6fc9fde5cff93cf7455e4cfdbc132c5350ad587f932ce2473df56be9463260a4&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "title": "AI is a digital East India Company. India needs to use ‘juggad’ to protect itself",
+      "description": "As artificial intelligence turns transparency into a tool of economic extraction, India faces a new colonial challenge: how to protect sovereignty in a world driven by predictive algorithms, data legibility, and algorithmic front-running.",
+      "url": "https://indianexpress.com/article/opinion/columns/ai-digital-east-india-company-jugaad-sovereignty-satyagraha-10704582/",
+      "source": "The Indian Express",
+      "publishedAt": "2026-05-23T13:08:41Z",
+      "image": "https://images.indianexpress.com/2026/05/intersection-humanity-artificial-intelligence-dna-connection_20260523130618.jpg"
+    }
+  ],
+  "github": [
+    {
+      "full_name": "SmithVestibule/Hytale-Mods-Windows-2026",
+      "description": "⭐️ Hytale Mods 2026 | Aimbot ESP Wallhack | Triggerbot NoRecoil Glow | Mod Menu Executor Loader | Auto Farm Heal Macro | Speedhack Fly NoClip | Cheat Menu Trainer Injector | Undetected Hacks PC | Latest Build Version Pro | Get Full Setup Installer v1.0 | Pre-Activated Keygen Serial | Download for Windows 11 ⭐️",
+      "stargazers_count": 16,
+      "html_url": "https://github.com/SmithVestibule/Hytale-Mods-Windows-2026",
+      "language": null
+    },
+    {
+      "full_name": "MysticCommissioner/Revo-Uninstaller-Pro-Crack-2026",
+      "description": "⭐️ Revo Uninstaller Pro 2026 | Uninstall Software Windows 10/11 | Complete Removal Tool | Setup Installer v5.0 | Activation Keygen License | Full Version Pre-Activated | Cleanup Junk Files | Manage Installed Programs | Latest Build Pro Updated | Get Desktop Genuine Original | Uninstaller Utility PC ⭐️",
+      "stargazers_count": 16,
+      "html_url": "https://github.com/MysticCommissioner/Revo-Uninstaller-Pro-Crack-2026",
+      "language": null
+    },
+    {
+      "full_name": "Cascadethroughspark/Spotify-Premium-Crack-2026",
+      "description": "⭐️ Spotify Premium 2026 | Setup Installer v1.0 | Keygen License Key | Full Version Pre-Activated | Latest Build Pro | Bypass Activation Loader | Unlimited Music Streaming | Offline Downloads | High-Quality Audio | Get Desktop Version for Windows 10/11 PC | Enjoy All Features 2026 ⭐️",
+      "stargazers_count": 16,
+      "html_url": "https://github.com/Cascadethroughspark/Spotify-Premium-Crack-2026",
+      "language": null
+    },
+    {
+      "full_name": "VisibleChefCraft/Ads-Power-Crack-Latest-TS",
+      "description": "⭐️ Ads-Power Proxy Tool | Multi-Account Manager | Login Automation | Session Control Bypass | User-Agent Rotator | IP Rotation Manager | API Integration Tool | Full Version v3.5 | Latest Build 2026 | Windows 10/11 PC | Setup Installer Serial Key Pre-Activated ⭐️",
+      "stargazers_count": 14,
+      "html_url": "https://github.com/VisibleChefCraft/Ads-Power-Crack-Latest-TS",
+      "language": null
+    },
+    {
+      "full_name": "Forestterbreak/SolidWorks-cracked",
+      "description": "SolidWorks — 3D parametric design, simulation, PDM, rendering, electrical design, and technical communication.",
+      "stargazers_count": 14,
+      "html_url": "https://github.com/Forestterbreak/SolidWorks-cracked",
+      "language": null
+    }
+  ]
+}
