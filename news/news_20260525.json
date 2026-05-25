@@ -1,0 +1,124 @@
+{
+  "lastUpdated": "2026-05-25T02:40:27Z",
+  "finance": [
+    {
+      "title": "'I never heard of the Strait of Hormuz before this': How one medical supply CEO is navigating the oil price shock",
+      "summary": "Medical supply company Gentell sources raw materials from around the world, and the crisis at the Strait of Hormuz is causing volatility for its business.",
+      "url": "https://www.cnbc.com/2026/05/24/gentell-ceo-iran-war-oil-prices.html",
+      "source": "CNBC",
+      "datetime": 1779643592,
+      "image": "https://image.cnbcfm.com/api/v1/image/108299159-1777473957895-108299159-1777473880161-gettyimages-2273024199-dsc04213.jpg?v=1777473973&w=1920&h=1080"
+    },
+    {
+      "title": "Americans are 'entrenched' in financial stress amid debt and price pressures",
+      "summary": "Inflation and high debt levels continue cause financial anxiety for many Americans. Nonprofits can help with debt mangement.",
+      "url": "https://www.cnbc.com/2026/05/24/americans-struggling-with-debt-inflation.html",
+      "source": "CNBC",
+      "datetime": 1779634801,
+      "image": "https://image.cnbcfm.com/api/v1/image/108310671-1779380275431-gettyimages-2265448351-taxseason-6.jpeg?v=1779380285&w=1920&h=1080"
+    },
+    {
+      "title": "Bulls push the S&P 500 back near records — here’s what drove the market last week",
+      "summary": "The combination of higher oil prices and bond market volatility nearly snapped the S&P 500's winning streak.",
+      "url": "https://www.cnbc.com/2026/05/23/bulls-push-sp-500-back-near-records-what-drove-the-market-last-week.html",
+      "source": "CNBC",
+      "datetime": 1779556896,
+      "image": "https://image.cnbcfm.com/api/v1/image/108249452-17678049242026-01-07t165209z_290545539_rc2dwiagni1x_rtrmadp_0_usa-stocks.jpeg?v=1767805134&w=1920&h=1080"
+    },
+    {
+      "title": "‘Blue dot fever’? What's really behind a tricky summer dynamic for live music",
+      "summary": "As prices rise everywhere, consumers are choosing to be more intentional with how they're spending on live music and concerts this year.",
+      "url": "https://www.cnbc.com/2026/05/23/concert-ticket-prices-live-music-demand.html",
+      "source": "CNBC",
+      "datetime": 1779537601,
+      "image": "https://image.cnbcfm.com/api/v1/image/108300007-1777561389061-gettyimages-2225069509-img_0972.jpeg?v=1777561412&w=1920&h=1080"
+    },
+    {
+      "title": "DeepSeek to make permanent 75% discount on flagship AI model",
+      "summary": "DeepSeek expects the discount to strengthen its appeal in a crowded market where companies have been cutting API prices to attract developers and enterprise users",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model",
+      "source": "Bloomberg",
+      "datetime": 1779536068,
+      "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png"
+    }
+  ],
+  "ai": [
+    {
+      "title": "I asked ChatGPT to calculate the FIRE number for Delhi techie earning ₹25 lakh pa to retire early",
+      "description": "I asked ChatGPT to calculate the required ‘financial independence, retire early’ aka FIRE number to create a retirement corpus with a ₹25 lakh per annum salary at 30. Here is what the artificial intelligence chatbot said.",
+      "url": "https://www.livemint.com/money/personal-finance/i-asked-chatgpt-to-calculate-the-fire-number-for-delhi-techie-earning-25-lakh-pa-to-retire-early-11779629736115.html",
+      "source": "Livemint",
+      "publishedAt": "2026-05-24T14:23:58Z",
+      "image": "https://www.livemint.com/lm-img/img/2026/05/24/1600x900/logo/pexels-photo-14907339_1779631223534_1779631240241_231f4322-6180-41c5-a554-6e806a486a86.jpeg"
+    },
+    {
+      "title": "AI is speeding up the quantum threat to crypto, security experts warn",
+      "description": "The crypto industry has spent years debating whether quantum computing poses an existential threat to blockchains like Bitcoin and Ethereum. Now, researchers and builders believe artificial intelligence may be accelerating that timeline, and forcing a broader rethink of how digital security works altogether.",
+      "url": "https://www.coindesk.com/tech/2026/05/24/ai-is-speeding-up-the-quantum-threat-to-crypto-security-experts-warn",
+      "source": "CoinDesk",
+      "publishedAt": "2026-05-24T14:00:00Z",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/8caf5bf2426a0c13deda3f4b9b88b574b91c1a55-5493x3662.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
+    },
+    {
+      "title": "China tech plays to ride out macro volatility",
+      "description": "The China stock play right now is to focus on artificial intelligence-related names, regardless of the slower economic growth, several analysts said.",
+      "url": "https://www.cnbc.com/2026/05/24/china-tech-plays-to-ride-out-macro-volatility.html",
+      "source": "CNBC",
+      "publishedAt": "2026-05-24T12:47:03Z",
+      "image": "https://image.cnbcfm.com/api/v1/image/108229164-17636513282025-11-05t081214z_2091479820_rc2nfgakvd7y_rtrmadp_0_china-chips.jpeg?v=1763651345&w=1920&h=1080"
+    },
+    {
+      "title": "DeepSeek V4 Pro tops global bang-for-buck ranking after 75% price cut",
+      "description": "Model ranks among world’s best for intelligence per dollar thanks to now permanent price cut, according to Artificial Analysis.",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3354668/deepseek-v4-pro-tops-global-bang-buck-ranking-after-75-price-cut",
+      "source": "South China Morning Post",
+      "publishedAt": "2026-05-24T12:00:10Z",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/05/24/7664f37a-2596-4a1b-8a69-88d35b3d7374_63fe9948.jpg?itok=RhMa6VfF&v=1779610198"
+    },
+    {
+      "title": "Metro Detroit students gain access to new $5M AI, robotics learning hub",
+      "description": "Built as part of the district’s 2020 bond program, the Orsa Hub includes flexible collaborative spaces where students can explore robotics, artificial intelligence, virtual reality, augmented reality, entrepreneurship and financial literacy.",
+      "url": "https://www.mlive.com/news/detroit/2026/05/metro-detroit-students-gain-access-to-new-5m-ai-robotics-learning-hub.html",
+      "source": "M Live Michigan ",
+      "publishedAt": "2026-05-24T12:00:00Z",
+      "image": "https://www.mlive.com/resizer/v2/GYBPSLR4XVAKLKRZVNCCT3H4JE.jpg?auth=aeeac1ce3079d2f100f49f811c71c471b136ca195c7e446132d613ea35c00981&width=1280&smart=true&quality=90"
+    }
+  ],
+  "github": [
+    {
+      "full_name": "gonefunctor/ariel",
+      "description": "AArch64 EL2 hypervisor for QEMU virt that boots at EL2",
+      "stargazers_count": 23,
+      "html_url": "https://github.com/gonefunctor/ariel",
+      "language": "C"
+    },
+    {
+      "full_name": "realrossmanngroup/no_ai_slop_writing_rules",
+      "description": "Claude Code reference: write in Louis Rossmann's voice, never like AI slop. Portable CLAUDE.md plus skills.",
+      "stargazers_count": 19,
+      "html_url": "https://github.com/realrossmanngroup/no_ai_slop_writing_rules",
+      "language": null
+    },
+    {
+      "full_name": "Jarred-Sumner/xmac",
+      "description": "Download and extract macOS SDKs from Apple's public CDN for cross-compilation. Like xwin, but for macOS.",
+      "stargazers_count": 4,
+      "html_url": "https://github.com/Jarred-Sumner/xmac",
+      "language": "TypeScript"
+    },
+    {
+      "full_name": "hzauzxb/code_label_img",
+      "description": "Multi-Agent Rich-Text Image Annotation via VLM Coding",
+      "stargazers_count": 3,
+      "html_url": "https://github.com/hzauzxb/code_label_img",
+      "language": "Python"
+    },
+    {
+      "full_name": "datallmhub/agentflow4j-cookbook",
+      "description": "Runnable multi-agent LLM workflow examples in Java — RAG, ticket triage, web research, Slack bot, batch processing — with AgentFlow4J and Spring AI.",
+      "stargazers_count": 2,
+      "html_url": "https://github.com/datallmhub/agentflow4j-cookbook",
+      "language": "Java"
+    }
+  ]
+}
