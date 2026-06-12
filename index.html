@@ -248,6 +248,37 @@
     font-weight: 500;
   }
 
+  /* ── Translate button ── */
+  .card-footer {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 0.5rem;
+    padding-top: 0.5rem;
+    border-top: 1px solid var(--border);
+  }
+  .translate-btn {
+    background: #ede9fe;
+    color: #6d28d9;
+    border: none;
+    font-size: 0.62rem;
+    padding: 0.2rem 0.6rem;
+    border-radius: 99px;
+    cursor: pointer;
+    font-family: var(--font);
+    font-weight: 500;
+    line-height: 1.4;
+    transition: all 0.2s;
+  }
+  .translate-btn:hover {
+    background: #ddd6fe;
+  }
+  .translate-btn:disabled {
+    opacity: 0.4;
+    cursor: not-allowed;
+    background: #e2e8f0;
+    color: var(--text-muted);
+  }
+
   /* ── Error / Empty ── */
   .state-msg {
     text-align: center;
@@ -283,7 +314,7 @@
 
 <header>
   <h1>Daily News Dashboard</h1>
-  <p>Finance &middot; AI &middot; GitHub Trending</p>
+  <p>Finance &middot; AI</p>
   <div id="last-updated"></div>
 </header>
 
@@ -295,14 +326,10 @@
     <button class="tab-btn" data-tab="ai" role="tab" aria-selected="false">
       <span class="tab-icon">&#x1F916;</span> AI <span class="tab-count" id="count-ai">0</span>
     </button>
-    <button class="tab-btn" data-tab="github" role="tab" aria-selected="false">
-      <span class="tab-icon">&#x2B50;</span> GitHub <span class="tab-count" id="count-github">0</span>
-    </button>
   </div>
 
   <div id="content-finance" class="tab-content active" role="tabpanel"></div>
   <div id="content-ai" class="tab-content" role="tabpanel"></div>
-  <div id="content-github" class="tab-content" role="tabpanel"></div>
 </div>
 
 <footer>
@@ -322,59 +349,67 @@ const MOCK_DATA = {
   "lastUpdated": "2026-05-16T08:00:00Z",
   "finance": [
     { "title": "Fed Holds Interest Rates Steady, Signals Caution on Inflation",
+      "title_cn": "美联储维持利率不变，对通胀发出谨慎信号",
       "summary": "The Federal Reserve maintained its benchmark interest rate at 5.25%-5.50%, citing sticky inflation and a resilient labor market.",
+      "summary_cn": "美联储将基准利率维持在5.25%-5.50%，理由是通胀粘性和劳动力市场韧性。",
       "url": "https://example.com/finance/fed-rates", "source": "Reuters", "datetime": 1747353600,
       "image": "https://picsum.photos/seed/fed/400/200" },
     { "title": "Oil Prices Slide as OPEC+ Considers Production Increase",
+      "title_cn": "欧佩克+考虑增产，油价下滑",
       "summary": "Brent crude fell 2.3% on reports that OPEC+ is debating a gradual unwinding of production cuts.",
+      "summary_cn": "布伦特原油下跌2.3%，有报道称欧佩克+正在讨论逐步取消减产。",
       "url": "https://example.com/finance/oil-prices", "source": "Bloomberg", "datetime": 1747267200,
       "image": "https://picsum.photos/seed/oil/400/200" },
     { "title": "Nvidia Reports Record Quarterly Revenue of $35B",
+      "title_cn": "英伟达公布季度营收350亿美元创新高",
       "summary": "Nvidia posted $35 billion in quarterly revenue, driven by insatiable demand for AI chips.",
+      "summary_cn": "英伟达公布季度营收350亿美元，受AI芯片需求旺盛推动。",
       "url": "https://example.com/finance/nvidia-earnings", "source": "CNBC", "datetime": 1747180800,
       "image": "https://picsum.photos/seed/nvidia/400/200" },
     { "title": "Tesla Stock Jumps 6% on Optimistic Delivery Forecast",
+      "title_cn": "特斯拉因交付预测乐观股价上涨6%",
       "summary": "Tesla shares rose sharply after the company announced better-than-expected Q2 delivery numbers.",
+      "summary_cn": "特斯拉股价大幅上涨，此前该公司宣布第二季度交付量好于预期。",
       "url": "https://example.com/finance/tesla-delivery", "source": "Financial Times", "datetime": 1747094400,
       "image": "https://picsum.photos/seed/tesla/400/200" },
     { "title": "Gold Hits All-Time High Above $2,400 Per Ounce",
+      "title_cn": "黄金突破每盎司2400美元创历史新高",
       "summary": "Gold prices breached $2,400 for the first time as investors flock to safe-haven assets.",
+      "summary_cn": "黄金价格首次突破2400美元，投资者纷纷涌向避险资产。",
       "url": "https://example.com/finance/gold-ath", "source": "MarketWatch", "datetime": 1747008000,
       "image": "https://picsum.photos/seed/gold/400/200" }
   ],
   "ai": [
     { "title": "OpenAI Unveils GPT-5: 'Significant Leap' in Reasoning",
+      "title_cn": "OpenAI发布GPT-5：推理能力重大飞跃",
       "description": "OpenAI announced GPT-5, claiming major improvements in multi-step reasoning, reduced hallucinations, and native tool use.",
+      "description_cn": "OpenAI宣布GPT-5，称其在多步推理、减少幻觉和原生工具使用方面有重大改进。",
       "url": "https://example.com/ai/gpt5", "source": "The Verge", "publishedAt": "2026-05-16T06:00:00Z",
       "image": "https://picsum.photos/seed/gpt5/400/200" },
     { "title": "Google DeepMind's AlphaFold 3 Released to Scientists Worldwide",
+      "title_cn": "谷歌DeepMind的AlphaFold 3向全球科学家发布",
       "description": "DeepMind open-sourced AlphaFold 3, enabling researchers to predict protein structures with unprecedented accuracy.",
+      "description_cn": "DeepMind开源了AlphaFold 3，使研究人员能够以前所未有的准确性预测蛋白质结构。",
       "url": "https://example.com/ai/alphafold3", "source": "Nature", "publishedAt": "2026-05-16T04:30:00Z",
       "image": "https://picsum.photos/seed/alphafold3/400/200" },
     { "title": "EU Parliament Passes Comprehensive AI Liability Directive",
+      "title_cn": "欧盟议会通过全面AI责任指令",
       "description": "The European Union passed a landmark AI liability framework, holding developers accountable for harm caused by their systems.",
+      "description_cn": "欧盟通过了一项具有里程碑意义的AI责任框架，要求开发者对其系统造成的损害负责。",
       "url": "https://example.com/ai/eu-liability", "source": "TechCrunch", "publishedAt": "2026-05-15T14:00:00Z",
       "image": "https://picsum.photos/seed/eu-ai/400/200" },
     { "title": "AI Startup Raises $1.2B to Build Autonomous Coding Agents",
+      "title_cn": "AI初创公司融资12亿美元构建自主编程代理",
       "description": "A stealth-mode AI startup closed a $1.2 billion Series C to develop autonomous coding agents.",
+      "description_cn": "一家隐形AI初创公司完成了12亿美元的C轮融资，用于开发自主编程代理。",
       "url": "https://example.com/ai/coding-agents", "source": "Bloomberg", "publishedAt": "2026-05-15T10:15:00Z",
       "image": "https://picsum.photos/seed/coding/400/200" },
     { "title": "Meta Releases Llama 4 Under Permissive Apache 2.0 License",
+      "title_cn": "Meta在宽松的Apache 2.0许可下发布Llama 4",
       "description": "Meta's Llama 4 open-source model rivals proprietary frontier models on key benchmarks.",
+      "description_cn": "Meta的Llama 4开源模型在关键基准测试上与专有前沿模型抗衡。",
       "url": "https://example.com/ai/llama4", "source": "Ars Technica", "publishedAt": "2026-05-14T20:00:00Z",
       "image": "https://picsum.photos/seed/llama4/400/200" }
-  ],
-  "github": [
-    { "full_name": "anthropics/claude-code", "description": "Claude Code is an agentic coding tool that lives in your terminal.",
-      "stargazers_count": 28400, "html_url": "https://github.com/anthropics/claude-code", "language": "TypeScript" },
-    { "full_name": "microsoft/garnet", "description": "Garnet is a remote cache-store from Microsoft Research that offers high performance.",
-      "stargazers_count": 16200, "html_url": "https://github.com/microsoft/garnet", "language": "C#" },
-    { "full_name": "naklecha/llama3-from-scratch", "description": "LLaMA 3 implemented from scratch in PyTorch — a complete educational walkthrough.",
-      "stargazers_count": 14100, "html_url": "https://github.com/naklecha/llama3-from-scratch", "language": "Python" },
-    { "full_name": "astral-sh/ruff", "description": "An extremely fast Python linter and formatter written in Rust.",
-      "stargazers_count": 35800, "html_url": "https://github.com/astral-sh/ruff", "language": "Rust" },
-    { "full_name": "oven-sh/bun", "description": "Bun is a fast all-in-one JavaScript runtime, bundler, and package manager.",
-      "stargazers_count": 76800, "html_url": "https://github.com/oven-sh/bun", "language": "Zig" }
   ]
 };
 
@@ -390,13 +425,11 @@ let hasError = false;
    =================================================================== */
 const containers = {
   finance: document.getElementById('content-finance'),
-  ai: document.getElementById('content-ai'),
-  github: document.getElementById('content-github')
+  ai: document.getElementById('content-ai')
 };
 const counts = {
   finance: document.getElementById('count-finance'),
-  ai: document.getElementById('count-ai'),
-  github: document.getElementById('count-github')
+  ai: document.getElementById('count-ai')
 };
 const lastUpdatedEl = document.getElementById('last-updated');
 const tabBtns = document.querySelectorAll('.tab-btn');
@@ -431,61 +464,68 @@ function timeAgo(dateStr) {
    =================================================================== */
 function renderFinance(items) {
   if (!items || items.length === 0) return '<div class="state-msg"><span class="icon">&#x1F4CA;</span><p>No finance news available.</p></div>';
-  return items.map(item => `
-    <div class="card">
+  return items.map(item => {
+    const hasCn = item.title_cn !== undefined && item.title_cn !== null && item.title_cn !== '';
+    return `
+    <div class="card" data-lang="en">
       <div class="card-body">
         <img class="card-thumb${item.image ? '' : ' card-thumb--empty'}" src="${escapeHtml(item.image || '')}" alt="" loading="lazy" onerror="this.classList.add('card-thumb--empty')">
         <div class="card-text">
-          <div class="card-title"><a href="${escapeHtml(item.url)}" target="_blank" rel="noopener">${escapeHtml(item.title)}</a></div>
-          <div class="card-summary">${escapeHtml(item.summary)}</div>
+          <div class="card-title"><a href="${escapeHtml(item.url)}" target="_blank" rel="noopener"
+            data-en="${attr(item.title)}"
+            data-cn="${attr(item.title_cn || '')}">${escapeHtml(item.title)}</a></div>
+          <div class="card-summary"
+            data-en="${attr(item.summary)}"
+            data-cn="${attr(item.summary_cn || '')}">${escapeHtml(item.summary)}</div>
           <div class="card-meta">
             <span class="card-source">${escapeHtml(item.source)}</span>
             <span class="card-date">${formatUnix(item.datetime)}</span>
           </div>
         </div>
       </div>
-    </div>
-  `).join('');
+      ${hasCn ? '<div class="card-footer"><button class="translate-btn">中文</button></div>' : ''}
+    </div>`;
+  }).join('');
 }
 
 function renderAI(items) {
   if (!items || items.length === 0) return '<div class="state-msg"><span class="icon">&#x1F916;</span><p>No AI news available.</p></div>';
-  return items.map(item => `
-    <div class="card">
+  return items.map(item => {
+    const hasCn = item.title_cn !== undefined && item.title_cn !== null && item.title_cn !== '';
+    return `
+    <div class="card" data-lang="en">
       <div class="card-body">
         <img class="card-thumb${item.image ? '' : ' card-thumb--empty'}" src="${escapeHtml(item.image || '')}" alt="" loading="lazy" onerror="this.classList.add('card-thumb--empty')">
         <div class="card-text">
-          <div class="card-title"><a href="${escapeHtml(item.url)}" target="_blank" rel="noopener">${escapeHtml(item.title)}</a></div>
-          <div class="card-summary">${escapeHtml(item.description)}</div>
+          <div class="card-title"><a href="${escapeHtml(item.url)}" target="_blank" rel="noopener"
+            data-en="${attr(item.title)}"
+            data-cn="${attr(item.title_cn || '')}">${escapeHtml(item.title)}</a></div>
+          <div class="card-summary"
+            data-en="${attr(item.description)}"
+            data-cn="${attr(item.description_cn || '')}">${escapeHtml(item.description)}</div>
           <div class="card-meta">
             <span class="card-source">${escapeHtml(item.source)}</span>
             <span class="card-date">${timeAgo(item.publishedAt)}</span>
           </div>
         </div>
       </div>
-    </div>
-  `).join('');
+      ${hasCn ? '<div class="card-footer"><button class="translate-btn">中文</button></div>' : ''}
+    </div>`;
+  }).join('');
 }
 
-function renderGitHub(items) {
-  if (!items || items.length === 0) return '<div class="state-msg"><span class="icon">&#x2B50;</span><p>No trending repositories found.</p></div>';
-  return items.map(item => `
-    <div class="card">
-      <div class="card-title"><a href="${escapeHtml(item.html_url)}" target="_blank" rel="noopener">${escapeHtml(item.full_name)}</a></div>
-      <div class="card-summary">${escapeHtml(item.description || 'No description provided.')}</div>
-      <div class="card-meta">
-        ${item.language ? `<span class="card-lang">${escapeHtml(item.language)}</span>` : ''}
-        <span class="card-stars">&#x2B50; ${Number(item.stargazers_count).toLocaleString()}</span>
-      </div>
-    </div>
-  `).join('');
-}
 
 function escapeHtml(str) {
   if (!str) return '';
   const div = document.createElement('div');
   div.textContent = str;
   return div.innerHTML;
+}
+
+// Safe attribute escaping for data-en / data-cn
+function attr(str) {
+  if (!str) return '';
+  return str.replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/'/g, '&#39;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 }
 
 /* ===================================================================
@@ -564,11 +604,9 @@ function renderAll() {
 
   containers.finance.innerHTML = renderFinance(newsData.finance);
   containers.ai.innerHTML = renderAI(newsData.ai);
-  containers.github.innerHTML = renderGitHub(newsData.github);
 
   counts.finance.textContent = (newsData.finance || []).length;
   counts.ai.textContent = (newsData.ai || []).length;
-  counts.github.textContent = (newsData.github || []).length;
 
   if (newsData.lastUpdated) {
     lastUpdatedEl.textContent = 'Last updated: ' + formatDate(newsData.lastUpdated);
@@ -595,6 +633,34 @@ function switchTab(tabId) {
 // Tab click handlers
 tabBtns.forEach(btn => {
   btn.addEventListener('click', () => switchTab(btn.dataset.tab));
+});
+
+/* ===================================================================
+   TRANSLATE TOGGLE
+   =================================================================== */
+document.querySelector('.container').addEventListener('click', e => {
+  const btn = e.target.closest('.translate-btn');
+  if (!btn) return;
+
+  const card = btn.closest('.card');
+  if (!card) return;
+
+  const isZh = card.dataset.lang === 'zh';
+
+  // Toggle title text
+  const titleLink = card.querySelector('.card-title a');
+  if (titleLink && titleLink.dataset.cn) {
+    titleLink.textContent = isZh ? titleLink.dataset.en : titleLink.dataset.cn;
+  }
+
+  // Toggle summary text
+  const summaryEl = card.querySelector('.card-summary');
+  if (summaryEl && summaryEl.dataset.cn) {
+    summaryEl.textContent = isZh ? summaryEl.dataset.en : summaryEl.dataset.cn;
+  }
+
+  card.dataset.lang = isZh ? 'en' : 'zh';
+  btn.textContent = isZh ? '中文' : 'English';
 });
 
 /* ===================================================================

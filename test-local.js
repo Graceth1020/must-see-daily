@@ -42,13 +42,13 @@ async function main() {
   try {
     const raw = await fetch(`https://finnhub.io/api/v1/news?category=general&token=${process.env.FINNHUB_KEY}`);
     if (Array.isArray(raw)) {
-      finance = raw.slice(0, 5).map(i => ({
+      finance = raw.filter(i => i.source === 'CNBC').slice(0, 5).map(i => ({
         title: i.headline || i.title || '', summary: i.summary || '',
         url: i.url || '', source: i.source || '', datetime: i.datetime || 0,
         image: i.image || ''
       }));
     }
-    console.log(`  ✓ Finance: ${finance.length} items`);
+    console.log(`  ✓ Finance (CNBC): ${finance.length} items`);
   } catch (e) { console.warn(`  ✗ Finance: ${e.message}`); }
 
   let ai = [];
@@ -63,23 +63,11 @@ async function main() {
     console.log(`  ✓ AI: ${ai.length} items`);
   } catch (e) { console.warn(`  ✗ AI: ${e.message}`); }
 
-  let github = [];
-  try {
-    const raw = await fetch(`https://api.github.com/search/repositories?q=created:>${yesterday}&sort=stars&order=desc&per_page=5`, process.env.GITHUB_TOKEN);
-    const items = raw.items || [];
-    github = items.slice(0, 5).map(i => ({
-      full_name: i.full_name || '', description: i.description || '',
-      stargazers_count: i.stargazers_count || 0, html_url: i.html_url || '',
-      language: i.language || null
-    }));
-    console.log(`  ✓ GitHub: ${github.length} items`);
-  } catch (e) { console.warn(`  ✗ GitHub: ${e.message}`); }
-
   const datePart = now.slice(0, 10).replace(/-/g, '');
-  const output = { lastUpdated: now, finance, ai, github };
+  const output = { lastUpdated: now, finance, ai };
   fs.mkdirSync('news', { recursive: true });
   fs.writeFileSync(`news/news_${datePart}.json`, JSON.stringify(output, null, 2) + '\n');
-  console.log(`\n✅ news/news_${datePart}.json written (${finance.length} finance, ${ai.length} AI, ${github.length} GitHub)`);
+  console.log(`\n✅ news/news_${datePart}.json written (${finance.length} finance, ${ai.length} AI)`);
 }
 
 main().catch(console.error);

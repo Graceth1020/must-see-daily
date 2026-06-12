@@ -1,13 +1,14 @@
 # =============================================================================
 # Daily News Dashboard — Data Fetcher
 #
-# Runs daily at 08:00 Beijing time (00:00 UTC) to fetch finance, AI, and
-# GitHub trending data, then commits the merged result to news.json.
+# Runs daily at 08:00 Beijing time (00:00 UTC) to fetch finance and AI
+# data, then commits the merged result to news.json.
 #
 # Secrets required (set in GitHub repo → Settings → Secrets and variables → Actions):
-#   - FINNHUB_KEY   (https://finnhub.io/  — free tier: 60 calls/min)
-#   - GNEWS_KEY     (https://gnews.io/    — free tier: 100 calls/day)
-#   - GITHUB_TOKEN  (auto-provided, no setup needed)
+#   - FINNHUB_KEY        (https://finnhub.io/  — free tier: 60 calls/min)
+#   - GNEWS_KEY          (https://gnews.io/    — free tier: 100 calls/day)
+#   - TENCENT_SECRET_ID  (Tencent Cloud API key for TMT translation)
+#   - TENCENT_SECRET_KEY (Tencent Cloud API secret for TMT translation)
 # =============================================================================
 
 name: Fetch Daily News
@@ -79,31 +80,13 @@ jobs:
           echo 'GNEWS' >> $GITHUB_OUTPUT
 
       # ------------------------------------------------------------------
-      # 3. GITHUB — Trending repos (last 24h)
-      # ------------------------------------------------------------------
-      - name: Fetch GitHub Trending
-        id: github
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          YESTERDAY="${{ steps.dates.outputs.yesterday }}"
-          RESP=$(curl -s --max-time 15 \
-            -H "Authorization: token ${GH_TOKEN}" \
-            -H "Accept: application/vnd.github+json" \
-            "https://api.github.com/search/repositories?q=created:>${YESTERDAY}&sort=stars&order=desc&per_page=5")
-          echo 'github<<GHEOF' >> $GITHUB_OUTPUT
-          echo "$RESP" >> $GITHUB_OUTPUT
-          echo 'GHEOF' >> $GITHUB_OUTPUT
-
-      # ------------------------------------------------------------------
-      # 4. Transform & Merge → news.json
+      # 3. Transform & Merge → news.json
       # ------------------------------------------------------------------
       - name: Build news.json
         uses: actions/github-script@v7
         env:
           FINANCE_RAW: ${{ steps.finance.outputs.finance }}
           AI_RAW: ${{ steps.ai.outputs.ai }}
-          GITHUB_RAW: ${{ steps.github.outputs.github }}
           NOW: ${{ steps.dates.outputs.now }}
         with:
           script: |
@@ -112,14 +95,12 @@ jobs:
             const now = process.env.NOW;
             let financeRaw = process.env.FINANCE_RAW || '[]';
             let aiRaw = process.env.AI_RAW || '{}';
-            let githubRaw = process.env.GITHUB_RAW || '{}';
-
             // ---- Parse finance (max 5 items) ----
             let finance = [];
             try {
               const parsed = JSON.parse(financeRaw);
               if (Array.isArray(parsed)) {
-                finance = parsed.slice(0, 5).map(item => ({
+                finance = parsed.filter(item => item.source === 'CNBC').slice(0, 5).map(item => ({
                   title: item.headline || item.title || '',
                   summary: item.summary || '',
                   url: item.url || '',
@@ -149,28 +130,162 @@ jobs:
               console.warn('Failed to parse AI data:', e.message);
             }
 
-            // ---- Parse GitHub (max 5 items) ----
-            let githubRepos = [];
-            try {
-              const parsed = JSON.parse(githubRaw);
-              const items = parsed.items || [];
-              githubRepos = items.slice(0, 5).map(item => ({
-                full_name: item.full_name || '',
-                description: item.description || '',
-                stargazers_count: item.stargazers_count || 0,
-                html_url: item.html_url || '',
-                language: item.language || null
-              }));
-            } catch (e) {
-              console.warn('Failed to parse GitHub data:', e.message);
-            }
-
             // ---- Build output ----
             const datePart = now.slice(0, 10).replace(/-/g, '');
-            const output = { lastUpdated: now, finance: finance, ai: ai, github: githubRepos };
+            const output = { lastUpdated: now, finance: finance, ai: ai };
             fs.mkdirSync('news', { recursive: true });
             fs.writeFileSync(`news/news_${datePart}.json`, JSON.stringify(output, null, 2) + '\n');
-            console.log(`news/news_${datePart}.json written with ${finance.length} finance, ${ai.length} AI, ${githubRepos.length} GitHub items`);
+            console.log(`news/news_${datePart}.json written with ${finance.length} finance, ${ai.length} AI items`);
+
+      # ------------------------------------------------------------------
+      # 4. Translate — Tencent Cloud TMT API (Chinese)
+      # ------------------------------------------------------------------
+      - name: Translate to Chinese
+        uses: actions/github-script@v7
+        env:
+          NOW: ${{ steps.dates.outputs.now }}
+          TENCENT_SECRET_ID: ${{ secrets.TENCENT_SECRET_ID }}
+          TENCENT_SECRET_KEY: ${{ secrets.TENCENT_SECRET_KEY }}
+        with:
+          script: |
+            const fs = require('fs');
+            const crypto = require('crypto');
+
+            const now = process.env.NOW;
+            const SECRET_ID = process.env.TENCENT_SECRET_ID;
+            const SECRET_KEY = process.env.TENCENT_SECRET_KEY;
+
+            if (!SECRET_ID || !SECRET_KEY) {
+              console.log('TENCENT_SECRET_ID/KEY not set — skipping translation');
+              return;
+            }
+
+            // ── Utility: SHA-256 ──
+            function sha256(msg) {
+              return crypto.createHash('sha256').update(msg).digest('hex');
+            }
+            function hmacSha256(key, msg) {
+              return crypto.createHmac('sha256', key).update(msg).digest();
+            }
+
+            // ── Tencent Cloud Signature v3 ──
+            function buildAuthorization(payload, secretId, secretKey) {
+              const nowSec = Math.floor(Date.now() / 1000);
+              const date = new Date(nowSec * 1000).toISOString().slice(0, 10);
+              const service = 'tmt';
+              const algorithm = 'TC3-HMAC-SHA256';
+              const contentType = 'application/json';
+              const host = 'tmt.tencentcloudapi.com';
+              const signedHeaders = 'content-type;host';
+
+              const canonicalRequest = [
+                'POST', '/', '',
+                'content-type:' + contentType,
+                'host:' + host, '',
+                signedHeaders,
+                sha256(payload),
+              ].join('\n');
+
+              const credentialScope = `${date}/${service}/tc3_request`;
+              const stringToSign = [
+                algorithm,
+                nowSec.toString(),
+                credentialScope,
+                sha256(canonicalRequest),
+              ].join('\n');
+
+              const secretDate = hmacSha256('TC3' + secretKey, date);
+              const secretService = hmacSha256(secretDate, service);
+              const signingKey = hmacSha256(secretService, 'tc3_request');
+              const signature = hmacSha256(signingKey, stringToSign).toString('hex');
+
+              return {
+                authorization: `${algorithm} Credential=${secretId}/${credentialScope}, SignedHeaders=${signedHeaders}, Signature=${signature}`,
+                timestamp: nowSec,
+              };
+            }
+
+            // ── Call TMT API ──
+            async function translateText(text) {
+              if (!text || !text.trim()) return '';
+              const payload = JSON.stringify({
+                SourceText: text, Source: 'en', Target: 'zh', ProjectId: 0,
+              });
+              const { authorization, timestamp } = buildAuthorization(payload, SECRET_ID, SECRET_KEY);
+
+              const url = new URL('https://tmt.tencentcloudapi.com');
+              const res = await fetch(url, {
+                method: 'POST',
+                headers: {
+                  'Content-Type': 'application/json',
+                  'Host': 'tmt.tencentcloudapi.com',
+                  'Authorization': authorization,
+                  'X-TC-Action': 'TextTranslate',
+                  'X-TC-Version': '2018-03-21',
+                  'X-TC-Region': 'ap-guangzhou',
+                  'X-TC-Timestamp': timestamp.toString(),
+                },
+                body: payload,
+              });
+
+              const data = await res.json();
+              if (data.Response && data.Response.TargetText !== undefined) {
+                return data.Response.TargetText;
+              }
+              if (data.Response && data.Response.Error) {
+                throw new Error(`${data.Response.Error.Code}: ${data.Response.Error.Message}`);
+              }
+              throw new Error('Unexpected response: ' + JSON.stringify(data).slice(0, 200));
+            }
+
+            // ── Main ──
+            const datePart = now.slice(0, 10).replace(/-/g, '');
+            const filePath = `news/news_${datePart}.json`;
+
+            if (!fs.existsSync(filePath)) {
+              console.log(`File not found: ${filePath} — skipping translation`);
+              return;
+            }
+
+            const data = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+            const totalItems = (data.finance?.length || 0) + (data.ai?.length || 0);
+            if (totalItems === 0) {
+              console.log('No items to translate — skipping');
+              return;
+            }
+
+            console.log(`Translating ${totalItems} items...`);
+
+            // Translate finance
+            for (let i = 0; i < (data.finance?.length || 0); i++) {
+              const item = data.finance[i];
+              try {
+                if (item.title) item.title_cn = await translateText(item.title);
+                if (item.summary) item.summary_cn = await translateText(item.summary);
+                process.stdout.write('.');
+              } catch (e) {
+                console.warn(`\n  ⚠ Finance[${i}] translation failed: ${e.message}`);
+                item.title_cn = item.title_cn || '';
+                item.summary_cn = item.summary_cn || '';
+              }
+            }
+
+            // Translate AI
+            for (let i = 0; i < (data.ai?.length || 0); i++) {
+              const item = data.ai[i];
+              try {
+                if (item.title) item.title_cn = await translateText(item.title);
+                if (item.description) item.description_cn = await translateText(item.description);
+                process.stdout.write('.');
+              } catch (e) {
+                console.warn(`\n  ⚠ AI[${i}] translation failed: ${e.message}`);
+                item.title_cn = item.title_cn || '';
+                item.description_cn = item.description_cn || '';
+              }
+            }
+
+            fs.writeFileSync(filePath, JSON.stringify(data, null, 2) + '\n');
+            console.log(`\n✅ Translation complete — ${filePath}`);
 
       # ------------------------------------------------------------------
       # 5. Commit & Push
