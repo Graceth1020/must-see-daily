@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-06-14T02:49:26Z",
+  "finance": [
+    {
+      "title": "What drove the stock market last week — before and after SpaceX's historic IPO",
+      "summary": "The successful debut of Elon Musk's rocket company wiped away a week of anxiety.",
+      "url": "https://www.cnbc.com/2026/06/13/what-drove-the-stock-market-last-week-before-and-after-spacexs-historic-ipo.html",
+      "source": "CNBC",
+      "datetime": 1781368562,
+      "image": "https://image.cnbcfm.com/api/v1/image/108321157-17812776602026-06-12t144016z_756326809_rc2dslammudl_rtrmadp_0_spacex-ipo.jpeg?v=1781277686&w=1920&h=1080",
+      "title_cn": "是什么推动了上周股市--SpaceX历史性IPO前后",
+      "summary_cn": "埃隆·马斯克（Elon Musk）火箭公司的成功亮相消除了一周的焦虑。"
+    },
+    {
+      "title": "This 28-year-old paid off her law school loans selling stickers and coloring books",
+      "summary": "Elyse Burns started selling her art on Etsy when she turned 18. Now she's paid off her student loans and did nearly $5 million last year.",
+      "url": "https://www.cnbc.com/2026/06/13/paid-off-law-school-student-loans-art-business.html",
+      "source": "CNBC",
+      "datetime": 1781359201,
+      "image": "https://image.cnbcfm.com/api/v1/image/108318120-1780925705304-MillMeadowOpeningFinals80of250.jpg?v=1780937263&w=1920&h=1080",
+      "title_cn": "这位28岁的女孩通过出售贴纸和涂色书还清了法学院的贷款",
+      "summary_cn": "Elyse Burns 18岁时开始在Etsy上出售她的艺术品。现在她已经还清了学生贷款，去年收入近500万美元。"
+    },
+    {
+      "title": "Goldman nets a big payday for SpaceX IPO. Plus, what drove our winners and losers this week",
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "url": "https://www.cnbc.com/2026/06/12/goldman-nets-a-big-payday-for-spacex-ipo-plus-what-drove-our-winners-and-losers-this-week.html",
+      "source": "CNBC",
+      "datetime": 1781290330,
+      "image": "https://image.cnbcfm.com/api/v1/image/108184941-1755103927552-108184941-17550249602025-08-12t185201z_1412636933_rc216dagcg6l_rtrmadp_0_usa-trump-goldman-sachs.jpeg?v=1755103949&w=1920&h=1080",
+      "title_cn": "高盛为SpaceX IPO赚了一大笔钱。另外，是什么驱使着本周的赢家和输家",
+      "summary_cn": "每个工作日，投资俱乐部都会发布最后冲刺;这是一个可操作的下午更新，正好赶上交易的最后一个小时。"
+    },
+    {
+      "title": "FedEx's yearslong turnaround is facing a big test after executing on a major catalyst",
+      "summary": "Investors now want to know if the payoff is finally arriving.",
+      "url": "https://www.cnbc.com/2026/06/12/fedexs-yearslong-turnaround-is-facing-a-big-test-after-executing-on-a-major-catalyst.html",
+      "source": "CNBC",
+      "datetime": 1781287612,
+      "image": "https://image.cnbcfm.com/api/v1/image/108270394-1772114916036-gettyimages-2263601299-304969final.jpeg?v=1781287800&w=1920&h=1080",
+      "title_cn": "联邦快递多年的扭亏为盈在执行重大催化剂后面临重大考验",
+      "summary_cn": "投资者现在想知道回报是否最终到来。"
+    },
+    {
+      "title": "Bitcoin's latest plunge revives the debate over owning it—and whether it's just 'crypto being crypto'",
+      "summary": "The cryptocurrency's latest selloff is forcing investors to revisit what role, if any, bitcoin should play in a portfolio.",
+      "url": "https://www.cnbc.com/2026/06/12/bitcoins-price-drop-is-forcing-investors-to-revisit-why-they-own-it.html",
+      "source": "CNBC",
+      "datetime": 1781287315,
+      "image": "https://image.cnbcfm.com/api/v1/image/108321190-1781279662421-gettyimages-2195910812-r5__7003.jpeg?v=1781279896&w=1920&h=1080",
+      "title_cn": "比特币的最新暴跌重新引发了关于拥有它以及它是否只是“加密货币就是加密货币”的争论",
+      "summary_cn": "加密货币的最新抛售迫使投资者重新审视比特币在投资组合中应该扮演什么角色（如果有的话）。"
+    }
+  ],
+  "ai": [
+    {
+      "title": "Anthropic says it has taken its latest AI models offline to comply with U.S. directive",
+      "description": "AI giant Anthropic said on Friday it has taken its latest artificial intelligence models, known as Fable 5 and Mythos 5, offline to comply with a directive from the Trump administration to prevent their use by foreign nationals.",
+      "url": "https://www.cbc.ca/news/business/anthropic-ai-mythos-latest-model-offline-9.7234543",
+      "source": "CBC.ca",
+      "publishedAt": "2026-06-13T14:37:27Z",
+      "image": "https://i.cbc.ca/ais/ed42e049-10cd-4b65-9b14-aa285e256765,1781358601116/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C68%2C4961%2C2790%29%3BResize%3D620",
+      "title_cn": "Anthropic表示已将其最新的人工智能模型下线以遵守美国指令",
+      "description_cn": "人工智能巨头Anthropic周五表示，该公司已将其最新的人工智能模型《寓言5》和《神话5》下线，以遵守特朗普政府防止外国人使用这些模型的指令。"
+    },
+    {
+      "title": "AI chip boom yet to lift South Korea's wider economy, Nomura economist sees limited spillover into demand",
+      "description": "International Business News: South Korea's artificial intelligence-led semiconductor boom has yet to generate a meaningful spillover into the broader economy, even as concerns ove.",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/ai-chip-boom-yet-to-lift-koreas-wider-economy-nomura-economist-sees-limited-spillover-into-demand/articleshow/131706549.cms",
+      "source": "Times of India",
+      "publishedAt": "2026-06-13T14:25:00Z",
+      "image": "https://static.toiimg.com/thumb/msid-131706645,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "title_cn": "野村证券经济学家认为人工智能芯片繁荣尚未提振韩国更广泛的经济，对需求的溢出效应有限",
+      "description_cn": "国际商业新闻：尽管担忧加剧，韩国人工智能主导的半导体繁荣尚未对更广泛的经济产生有意义的溢出效应。"
+    },
+    {
+      "title": "Canada, Ireland agree to work together on AI, tech and food security",
+      "description": "DUBLIN — Canada and Ireland have agreed to work together on key issues like artificial intelligence, pharmaceuticals and biotechnology and food security, Prime Minister Mark Carney said Saturday.",
+      "url": "https://www.sootoday.com/national-news/canada-ireland-agree-to-work-together-on-ai-tech-and-food-security-12417216",
+      "source": "SooToday",
+      "publishedAt": "2026-06-13T14:22:13Z",
+      "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/06/dc71c6ba382f2fe1421b22ac9829d0ceabf4bb6d2a540cd016101aff32c56e8a.jpg;w=1200;h=800;mode=crop",
+      "title_cn": "加拿大、爱尔兰同意在人工智能、技术和粮食安全方面合作",
+      "description_cn": "都柏林--加拿大总理马克·卡尼周六表示，加拿大和爱尔兰已同意在人工智能、制药、生物技术以及粮食安全等关键问题上合作。"
+    },
+    {
+      "title": "Canada, Ireland agree to work together on AI, tech and food security",
+      "description": "DUBLIN — Canada and Ireland have agreed to work together on key issues like artificial intelligence, pharmaceuticals and biotechnology and food security, Prime Minister Mark Carney said Saturday.",
+      "url": "https://www.baytoday.ca/national-news/canada-ireland-agree-to-work-together-on-ai-tech-and-food-security-12417216",
+      "source": "BayToday",
+      "publishedAt": "2026-06-13T14:22:13Z",
+      "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/06/dc71c6ba382f2fe1421b22ac9829d0ceabf4bb6d2a540cd016101aff32c56e8a.jpg;w=1200;h=800;mode=crop",
+      "title_cn": "加拿大、爱尔兰同意在人工智能、技术和粮食安全方面合作",
+      "description_cn": "都柏林--加拿大总理马克·卡尼周六表示，加拿大和爱尔兰已同意在人工智能、制药、生物技术以及粮食安全等关键问题上合作。"
+    },
+    {
+      "title": "KFSH Showcases Trusted AI as the Foundation for Scalable Healthcare Transformation at HLTH Europe 2026",
+      "description": "RIYADH, Saudi Arabia, June 13, 2026 (GLOBE NEWSWIRE) -- King Faisal Specialist Hospital & Research Centre (KFSH) will use its participation at HLTH Europe 2026, taking place from June 15 to 18 in Amsterdam, to advance a clear message: artificial intelligence in healthcare will only scale when institutions can prove that it is safe, reliable, governed, and trusted by clinicians and patients.",
+      "url": "https://www.manilatimes.net/2026/06/13/tmt-newswire/globenewswire/kfsh-showcases-trusted-ai-as-the-foundation-for-scalable-healthcare-transformation-at-hlth-europe-2026/2364890",
+      "source": "The Manila Times",
+      "publishedAt": "2026-06-13T14:15:52Z",
+      "image": "https://manilatimes.net/manilatimes/uploads/images/2026/06/13/1098004.png",
+      "title_cn": "KSH在2026年HLTH Europe上展示了值得信赖的人工智能作为可扩展医疗保健转型的基础",
+      "description_cn": "沙特阿拉伯利雅得，2026年6月13日（环球新闻网）--费萨尔国王专科医院和研究中心（KSH）将利用其参加6月15日至18日在阿姆斯特丹举行的2026年HLTH Europe，传达一个明确的信息：只有当机构能够证明人工智能安全、可靠、受治理，医疗保健领域的人工智能才会扩大规模，并受到临床医生和患者的信任。"
+    }
+  ]
+}
