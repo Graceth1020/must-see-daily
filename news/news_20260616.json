@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-06-16T03:00:36.741Z",
+  "finance": [
+    {
+      "title": "I want people to be millionaires — Jim Cramer's blueprint to make money in any market",
+      "summary": "In this exclusive interview, Jim walks through how investors should think about identifying a small group of individual stocks to complement a diversified portfolio",
+      "url": "https://www.cnbc.com/2026/06/15/i-want-people-to-be-millionaires-cramer-blueprint-on-making-money-in-any-market.html",
+      "source": "CNBC",
+      "datetime": 1781554144,
+      "image": "https://image.cnbcfm.com/api/v1/image/107090835-1658243303284-NUP_198367_00047_copy.jpg?v=1694379483&w=1920&h=1080",
+      "title_cn": "我希望人们成为百万富翁--吉姆·克莱默（Jim Cramer）在任何市场赚钱的蓝图",
+      "summary_cn": "在这次独家采访中，吉姆讲述了投资者应该如何考虑识别一小群股票来补充多元化投资组合"
+    },
+    {
+      "title": "Salesforce looks to strengthen its AI platform — plus, a positive note for J&J",
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "url": "https://www.cnbc.com/2026/06/15/salesforce-looks-to-strengthen-its-ai-platform-a-positive-note-for-jj.html",
+      "source": "CNBC",
+      "datetime": 1781549620,
+      "image": "https://image.cnbcfm.com/api/v1/image/108210812-1760124319878-gettyimages-2239744238-JJ_PROTAGONIST_THERAPEUTICS.jpeg?v=1776163777&w=1920&h=1080",
+      "title_cn": "Salesforce希望加强其人工智能平台--另外，这对强生来说是一个积极的消息",
+      "summary_cn": "每个工作日，投资俱乐部都会发布最后冲刺;这是一个可操作的下午更新，正好赶上交易的最后一个小时。"
+    },
+    {
+      "title": "Things are lining up in favor of the market bulls. How to proceed from here",
+      "summary": "Oil and bond yields are falling on U.S.-Iran optimism, and the market cleared the SpaceX hurdle.",
+      "url": "https://www.cnbc.com/2026/06/15/things-are-lining-up-in-favor-of-the-market-bulls-how-to-proceed-from-here-.html",
+      "source": "CNBC",
+      "datetime": 1781545292,
+      "image": "https://image.cnbcfm.com/api/v1/image/108280599-1773956111350-gettyimages-2267437819-anotherday197764726_agd3gqcv.jpeg?v=1773956163&w=1920&h=1080",
+      "title_cn": "事情正在朝着有利于市场看涨者的方向发展。我们如何展开工作",
+      "summary_cn": "美国石油和债券收益率正在下降伊朗乐观，市场扫清了SpaceX的障碍。"
+    },
+    {
+      "title": "We're adding to our position in a consumer bank that benefits from lower oil prices",
+      "summary": "Concerns about consumer credit have weighed on this stock since the Iran war began.",
+      "url": "https://www.cnbc.com/2026/06/15/were-adding-to-our-position-in-a-consumer-bank-that-benefits-from-lower-oil-prices.html",
+      "source": "CNBC",
+      "datetime": 1781531837,
+      "image": "https://image.cnbcfm.com/api/v1/image/108263801-1770731879901-gettyimages-2259589776-US_RETAIL_SALES.jpeg?v=1770731920&w=1920&h=1080",
+      "title_cn": "我们正在巩固我们在受益于油价下跌的消费者银行的地位",
+      "summary_cn": "自伊朗战争开始以来，对消费信贷的担忧一直给该股带来压力。"
+    },
+    {
+      "title": "Strait of Hormuz traffic to return to normal as soon as August, Kalshi traders speculate",
+      "summary": "Odds that the Strait of Hormuz traffic will return to normal before August surpassed 50%, following U.S. President Donald Trump's announcement.",
+      "url": "https://www.cnbc.com/2026/06/15/strait-of-hormuz-traffic-to-return-to-normal-as-soon-as-august-kalshi-traders-speculate.html",
+      "source": "CNBC",
+      "datetime": 1781529613,
+      "image": "https://image.cnbcfm.com/api/v1/image/108285632-1774986309800-cnbc_versant_share.png?v=1774986411&w=1920&h=1080",
+      "title_cn": "卡尔什交易员推测霍尔木兹海峡交通最早将于8月恢复正常",
+      "summary_cn": "在美国总统唐纳德·特朗普宣布这一消息后，霍尔木兹海峡交通在8月之前恢复正常的可能性超过50%。"
+    }
+  ],
+  "ai": [
+    {
+      "title": "Anthropic Sued Over Claims It Shortchanged Subscribers",
+      "description": "A consumer is suing artificial intelligence company Anthropic, alleging the maker of Claude AI overstated the benefits of its most expensive subscription plans while delivering far less usage than customers were promised.",
+      "url": "https://www.newsmax.com/us/anthropic-claude-ai/2026/06/15/id/1259689/",
+      "source": "Newsmax",
+      "publishedAt": "2026-06-15T14:58:23Z",
+      "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=63ec38fd-8e07-4960-ba72-8b535bc9174f&SiteName=Newsmax",
+      "title_cn": "Anthropic因欺骗订阅者而提起诉讼",
+      "description_cn": "一名消费者正在起诉人工智能公司Anthropic，指控Claude AI的制造商夸大了其最昂贵的订阅计划的好处，同时提供的使用量远低于客户承诺的使用量。"
+    },
+    {
+      "title": "Dozens walk out as Google boss Pichai addresses Stanford graduates",
+      "description": "Some students were protesting against the company's controversial work with the US government on artificial intelligence.",
+      "url": "https://www.bbc.com/news/articles/cqx10gg2r2vo",
+      "source": "BBC News",
+      "publishedAt": "2026-06-15T14:40:17Z",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e556/live/40b6f9f0-68c7-11f1-999b-3141618c3232.jpg",
+      "title_cn": "谷歌老板皮查伊向斯坦福大学毕业生发表讲话，数十人罢工",
+      "description_cn": "一些学生抗议该公司与美国政府在人工智能方面进行的有争议的合作。"
+    },
+    {
+      "title": "linked hackers targeted US, Canadian research facilities for a year: Google",
+      "description": "A Chinese-linked hacking group secretly stole data from U.S. and Canadian academic, medical, and military research institutions. The cyberespionage campaign lasted over a year. Hackers targeted information on defense, military strategy, artificial intelligence, and medical research. Google identified the group as UNC6508. The activity began in September 2023 and ended in November 2025. Organizations were notified after detection.",
+      "url": "https://economictimes.indiatimes.com/tech/technology/chinese-linked-hackers-targeted-us-canadian-research-facilities-for-a-year-google/articleshow/131747711.cms",
+      "source": "The Economic Times",
+      "publishedAt": "2026-06-15T14:24:17Z",
+      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-29290,resizemode-75,msid-131747711/tech/technology/chinese-linked-hackers-targeted-us-canadian-research-facilities-for-a-year-google.jpg",
+      "title_cn": "谷歌：有关联的黑客攻击美国、加拿大研究机构一年",
+      "description_cn": "一个与中国有联系的黑客组织秘密窃取了美国和加拿大学术、医学和军事研究机构的数据。网络间谍活动持续了一年多。黑客的目标是国防、军事战略、人工智能和医学研究方面的信息。谷歌将该群组识别为UNC 6508。活动于2023年9月开始，于2025年11月结束。检测后通知了组织。"
+    },
+    {
+      "title": "Using AI to learn a bird's individual song",
+      "description": "Darin McNeil, Ph.D., an assistant professor of wildlife management in the University of Kentucky Martin-Gatton College of Agriculture, Food and Environment, is partnering with the University of Pittsburgh and others to help build an artificial intelligence tool that could give bird researchers a new way to follow one of Appalachia's most vulnerable songbirds.",
+      "url": "https://phys.org/news/2026-06-ai-bird-individual-song.html",
+      "source": "Phys.org",
+      "publishedAt": "2026-06-15T14:20:08Z",
+      "image": "https://scx2.b-cdn.net/gfx/news/2026/researcher-helps-ai-le.jpg",
+      "title_cn": "使用人工智能学习鸟类的个人歌曲",
+      "description_cn": "达林·麦克尼尔，博士，肯塔基大学马丁-加顿农业、食品与环境学院野生动物管理助理教授正在与匹兹堡大学和其他大学合作，帮助构建一种人工智能工具，为鸟类研究人员提供一种新的方式来跟踪阿巴拉契亚最脆弱的鸣禽之一。"
+    },
+    {
+      "title": "Sarvam AI turns unicorn after raising $234 million in Series B round",
+      "description": "Sarvam AI turns unicorn after raising $234 million in Series B round - Bengaluru, June 15 Indian artificial intelligence startup Sarvam on Monday announced that it has entered the unicorn club ... Get Latest News on Business only on lokmattimes.com",
+      "url": "https://www.lokmattimes.com/business/sarvam-ai-turns-unicorn-after-raising-234-million-in-series-b-round/",
+      "source": "Lokmat Times",
+      "publishedAt": "2026-06-15T14:19:05Z",
+      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202606153826691_202606.jpg",
+      "title_cn": "Sarvam AI在B轮融资2.34亿美元后变身独角兽",
+      "description_cn": "Sarvam AI在B轮融资2.34亿美元后成为独角兽-孟加拉国，6月15日印度人工智能初创公司Sarvam周一宣布，它已进入独角兽俱乐部...仅在lokmattimes.com上获取最新业务新闻"
+    }
+  ]
+}
