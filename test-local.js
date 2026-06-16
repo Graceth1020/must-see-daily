@@ -34,6 +34,16 @@ function fetch(url, token) {
   });
 }
 
+// ── Deduplicate articles by title (keeps first occurrence) ──
+function deduplicate(arr) {
+  const seen = new Set();
+  return arr.filter(item => {
+    if (seen.has(item.title)) return false;
+    seen.add(item.title);
+    return true;
+  });
+}
+
 // ── Main ──
 async function main() {
   console.log('Fetching...');
@@ -42,7 +52,7 @@ async function main() {
   try {
     const raw = await fetch(`https://finnhub.io/api/v1/news?category=general&token=${process.env.FINNHUB_KEY}`);
     if (Array.isArray(raw)) {
-      finance = raw.filter(i => i.source === 'CNBC').slice(0, 5).map(i => ({
+      finance = raw.filter(i => i.source === 'CNBC').slice(0, 10).map(i => ({
         title: i.headline || i.title || '', summary: i.summary || '',
         url: i.url || '', source: i.source || '', datetime: i.datetime || 0,
         image: i.image || ''
@@ -53,15 +63,18 @@ async function main() {
 
   let ai = [];
   try {
-    const raw = await fetch(`https://gnews.io/api/v4/search?q=artificial%20intelligence&token=${process.env.GNEWS_KEY}&lang=en&max=5`);
+    const raw = await fetch(`https://gnews.io/api/v4/search?q=artificial%20intelligence&token=${process.env.GNEWS_KEY}&lang=en&max=10`);
     const articles = raw.articles || [];
-    ai = articles.slice(0, 5).map(i => ({
+    ai = articles.map(i => ({
       title: i.title || '', description: i.description || '',
       url: i.url || '', source: (i.source && i.source.name) || i.source || '',
       publishedAt: i.publishedAt || '', image: i.image || ''
     }));
     console.log(`  ✓ AI: ${ai.length} items`);
   } catch (e) { console.warn(`  ✗ AI: ${e.message}`); }
+
+  finance = deduplicate(finance).slice(0, 5);
+  ai = deduplicate(ai).slice(0, 5);
 
   const datePart = now.slice(0, 10).replace(/-/g, '');
   const output = { lastUpdated: now, finance, ai };

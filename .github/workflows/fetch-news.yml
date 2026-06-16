@@ -74,7 +74,7 @@ jobs:
             exit 0
           fi
           RESP=$(curl -s --max-time 15 \
-            "https://gnews.io/api/v4/search?q=artificial%20intelligence&token=${GNEWS_KEY}&lang=en&max=5")
+            "https://gnews.io/api/v4/search?q=artificial%20intelligence&token=${GNEWS_KEY}&lang=en&max=10")
           echo 'ai<<GNEWS' >> $GITHUB_OUTPUT
           echo "$RESP" >> $GITHUB_OUTPUT
           echo 'GNEWS' >> $GITHUB_OUTPUT
@@ -100,7 +100,7 @@ jobs:
             try {
               const parsed = JSON.parse(financeRaw);
               if (Array.isArray(parsed)) {
-                finance = parsed.filter(item => item.source === 'CNBC').slice(0, 5).map(item => ({
+                finance = parsed.filter(item => item.source === 'CNBC').slice(0, 10).map(item => ({
                   title: item.headline || item.title || '',
                   summary: item.summary || '',
                   url: item.url || '',
@@ -118,7 +118,7 @@ jobs:
             try {
               const parsed = JSON.parse(aiRaw);
               const articles = parsed.articles || [];
-              ai = articles.slice(0, 5).map(item => ({
+              ai = articles.map(item => ({
                 title: item.title || '',
                 description: item.description || '',
                 url: item.url || '',
@@ -129,6 +129,18 @@ jobs:
             } catch (e) {
               console.warn('Failed to parse AI data:', e.message);
             }
+
+            // ---- Deduplicate by title (keeps first occurrence) ----
+            function deduplicate(arr) {
+              const seen = new Set();
+              return arr.filter(item => {
+                if (seen.has(item.title)) return false;
+                seen.add(item.title);
+                return true;
+              });
+            }
+            finance = deduplicate(finance).slice(0, 5);
+            ai = deduplicate(ai).slice(0, 5);
 
             // ---- Build output ----
             const datePart = now.slice(0, 10).replace(/-/g, '');

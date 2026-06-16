@@ -3,7 +3,10 @@
     "allow": [
       "Bash(gh --version)",
       "Bash(gh auth *)",
-      "Bash(git --version)"
+      "Bash(git --version)",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(node -e ' *)"
     ]
   }
 }
