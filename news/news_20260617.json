@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-06-17T02:52:21Z",
+  "finance": [
+    {
+      "title": "Cramer's lightning round: Buy Cava",
+      "summary": "\"Mad Money\" host Jim Cramer rings the lightning round bell, which means he's giving his answers to callers' stock questions at rapid speed.",
+      "url": "https://www.cnbc.com/2026/06/16/cramers-lightning-round-buy-cava.html",
+      "source": "CNBC",
+      "datetime": 1781650561,
+      "image": "https://image.cnbcfm.com/api/v1/image/108221204-1762274020755-gettyimages-2230141571-US_STOCKS.jpeg?v=1762274050&w=1920&h=1080",
+      "title_cn": "克莱默的闪电回合：购买Cava",
+      "summary_cn": "《疯狂的金钱》主持人吉姆·克莱默敲响了闪电般的圆铃，这意味着他正在快速回答来电者的股票问题。"
+    },
+    {
+      "title": "Databricks sales growth tops 80%, but margin are shrinking from swarm of AI agents",
+      "summary": "Databricks is seeing higher growth as AI agents assist with data analysis, but all that activity is significantly increasing costs.",
+      "url": "https://www.cnbc.com/2026/06/16/databricks-revenue-growth-tops-80percent-to-6point9-billion-annualized.html",
+      "source": "CNBC",
+      "datetime": 1781648728,
+      "image": "https://image.cnbcfm.com/api/v1/image/108322870-1781646191900-Handout_Databricks_Data_AI_Summit_260616_cropped.png?v=1781646335&w=1920&h=1080",
+      "title_cn": "Databricks销售额增长超过80%，但利润率因人工智能代理而萎缩",
+      "summary_cn": "随着人工智能代理协助数据分析，数据库正在实现更高的增长，但所有这些活动都在显着增加成本。"
+    },
+    {
+      "title": "SpaceX's blistering start still faces key tests that will determine the stock's true value",
+      "summary": "SpaceX's stock has yet to face true price discovery.",
+      "url": "https://www.cnbc.com/2026/06/16/spacexs-blistering-start-still-faces-key-tests-that-will-determine-the-stocks-true-value.html",
+      "source": "CNBC",
+      "datetime": 1781641669,
+      "image": "https://image.cnbcfm.com/api/v1/image/108321147-1781277050615-IMG_9372.jpg?v=1781278371&w=1920&h=1080",
+      "title_cn": "SpaceX的开局仍面临决定该股真实价值的关键考验",
+      "summary_cn": "SpaceX的股票尚未面临真正的价格发现。"
+    },
+    {
+      "title": "Lilly opens its checkbook again, and an insider buy at Broadcom captures our attention",
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "url": "https://www.cnbc.com/2026/06/16/lilly-opens-its-checkbook-again-and-an-insider-buy-at-broadcom-captures-our-attention.html",
+      "source": "CNBC",
+      "datetime": 1781636975,
+      "image": "https://image.cnbcfm.com/api/v1/image/108305064-1778513442281-Lilly-OB-Photo-20260511-CC-PRESS-13.jpg?v=1778513536&w=1920&h=1080",
+      "title_cn": "礼来再次打开支票簿，博通的内部人士收购引起了我们的注意",
+      "summary_cn": "每个工作日，投资俱乐部都会发布最后冲刺;这是一个可操作的下午更新，正好赶上交易的最后一个小时。"
+    },
+    {
+      "title": "Jim Cramer: Why we're headed back to pre-Iran war oil prices and what it means",
+      "summary": "A sustained decline in oil prices would reverberate positively through the economy.",
+      "url": "https://www.cnbc.com/2026/06/16/jim-cramer-why-were-headed-back-to-pre-iran-war-oil-prices-and-what-it-means.html",
+      "source": "CNBC",
+      "datetime": 1781633490,
+      "image": "https://image.cnbcfm.com/api/v1/image/108292480-17763467242026-04-16t133226z_1594957697_rc2gc1a3wrpj_rtrmadp_0_russia-energy-revenues.jpeg?v=1780971573&w=1920&h=1080",
+      "title_cn": "吉姆·克莱默：为什么我们要回到伊朗战争前的油价及其意味着什么",
+      "summary_cn": "油价持续下跌将对经济产生积极影响。"
+    }
+  ],
+  "ai": [
+    {
+      "title": "SpaceX Shares Spike 17% As Investors Cheer $60 Billion AI Bet, Post-IPO Momentum",
+      "description": "Fresh from its Wall Street debut, SpaceX rallies nearly 17% as investors back Elon Musk's ambitious push into artificial intelligence through the $60 billion Cursor acquisition.",
+      "url": "https://www.ndtvprofit.com/markets/spacex-shares-spike-17-as-investors-cheer-60-billion-ai-bet-post-ipo-momentum-11645039",
+      "source": "NDTV Profit",
+      "publishedAt": "2026-06-16T14:21:30Z",
+      "image": "https://c.ndtvimg.com/2026-06/k463j7qs_elon-musk_625x300_13_June_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "title_cn": "SpaceX股价飙升17%，投资者欢呼600亿美元人工智能押注，IPO后势头强劲",
+      "description_cn": "SpaceX刚刚在华尔街上市，股价上涨近17%，投资者支持埃隆·马斯克通过600亿美元收购Cursor雄心勃勃地进军人工智能领域。"
+    },
+    {
+      "title": "India hasn't missed the AI and semiconductor opportunity, but must execute intelligently: UST COO",
+      "description": "As artificial intelligence reshapes the global technology landscape, India has a fresh opportunity to emerge as a semiconductor powerhouse by leveraging its engineering talent, digital expertise and growing international partnerships, according to UST's Gilroy Mathew.",
+      "url": "https://www.cnbctv18.com/technology/india-must-execute-intelligently-to-capture-ai-semiconductor-opportunity-ust-gilroy-mathew-19926667.htm",
+      "source": "CNBC TV18",
+      "publishedAt": "2026-06-16T14:19:26Z",
+      "image": "https://images.cnbctv18.com/uploads/2026/02/semiconductor-manufacturing-2026-02-d1d984a59e69972b177b594b71722371.jpg?im=FitAndFill,width=500,height=300",
+      "title_cn": "印度没有错过人工智能和半导体的机会，但必须明智地执行：UST COO",
+      "description_cn": "UST的吉尔罗伊·马修（Gilroy Mathew）表示，随着人工智能重塑全球技术格局，印度通过利用其工程人才、数字专业知识和不断发展的国际合作伙伴关系，拥有成为半导体强国的新机会。"
+    },
+    {
+      "title": "Europe rearms: Battle management, counter",
+      "description": "Mapping Europe’s modernization from the Eastern drone wall to actual artificial intelligence resident in tanks.",
+      "url": "https://breakingdefense.com/2026/06/europe-rearms-battle-management-counter-uas-and-real-ai-at-the-edge/",
+      "source": "Breaking Defense",
+      "publishedAt": "2026-06-16T14:18:30Z",
+      "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/06/Screen-1024x683.jpg",
+      "title_cn": "欧洲重新武装：战斗管理、反击",
+      "description_cn": "将欧洲的现代化从东方无人机墙映射到坦克中的实际人工智能。"
+    },
+    {
+      "title": "SpaceX buys AI coding startup Cursor for $60 billion in race for an edge over Anthropic and OpenAI",
+      "description": "SpaceX will move forward with its $60 billion acquisition of artificial intelligence startup Cursor as Elon Musk’s space exploration and AI company seeks a competitive edge against rivals Anthropic and OpenAI after its Wall Street debut last week.",
+      "url": "https://www.latimes.com/business/story/2026-06-16/spacex-buys-ai-coding-startup-cursor-for-60-billion-in-race-for-edge-over-anthropic-openai",
+      "source": "Los Angeles Times",
+      "publishedAt": "2026-06-16T14:18:16Z",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/6a04202/2147483647/strip/true/crop/4367x2293+0+310/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe6%2F5e%2Ff0d9b82c41a7b2c7d21d1d40a35c%2F175bee518a5a4f52b3535fdc3938398b.jpg",
+      "title_cn": "SpaceX以600亿美元收购AI编码初创公司Cursor，以超越Anthropic和OpenAI",
+      "description_cn": "SpaceX将继续以600亿美元收购人工智能初创公司Cursor，埃隆·马斯克（Elon Musk）的太空探索和人工智能公司上周在华尔街首次亮相后，寻求与竞争对手Anthropic和OpenAI的竞争优势。"
+    },
+    {
+      "title": "Google CEO Sundar Pichai Cracks AI Joke, Then Spends The Rest Of His Speech Avoiding The Topic",
+      "description": "During his commencement speech at Stanford University, Google CEO Sundar Pichai surprised attendees by not focusing on artificial intelligence, despite the tech industry's current emphasis on it., Technology & Science, Times Now",
+      "url": "https://www.timesnownews.com/technology-science/google-ceo-sundar-pichai-cracks-ai-joke-then-spends-the-rest-of-his-speech-avoiding-the-topic-article-154645449",
+      "source": "Times Now",
+      "publishedAt": "2026-06-16T14:15:44Z",
+      "image": "https://images.timesnownews.com/thumb/msid-154645449,width-1280,height-720,,resizemode-75/154645449.jpg",
+      "title_cn": "谷歌首席执行官桑达尔·皮查伊（Sundar Pichai）破解了人工智能笑话，然后用剩下的时间回避这个话题",
+      "description_cn": "谷歌首席执行官桑达尔·皮查伊（Sundar Pichai）在斯坦福大学的毕业典礼演讲中，他没有关注人工智能，这让与会者感到惊讶，尽管科技行业目前非常重视人工智能。技术与科学，《时代》"
+    }
+  ]
+}
