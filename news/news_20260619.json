@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-06-19T03:32:36Z",
+  "finance": [
+    {
+      "title": "In photos: Star-studded crowd gathers to celebrate the Obama Presidential Center dedication",
+      "summary": "Barack Obama opened his presidential center in Chicago with former presidents, celebrities and dignitaries in attendance. President Donald Trump was absent.",
+      "url": "https://www.cnbc.com/2026/06/18/obama-presidential-center-opening-chicago-photos-trump.html",
+      "source": "CNBC",
+      "datetime": 1781815893,
+      "image": "https://image.cnbcfm.com/api/v1/image/108324055-1781801797445-gettyimages-2281596724-AFP_B7K47V8.jpeg?v=1781808528&w=1920&h=1080",
+      "title_cn": "照片中：众星云集的人群聚集在一起庆祝奥巴马总统中心的奉献",
+      "summary_cn": "巴拉克·奥巴马（Barack Obama）在芝加哥开设了总统中心，前总统、名人和政要出席。唐纳德·特朗普总统缺席。"
+    },
+    {
+      "title": "NBA to name winning bids for Europe teams in the coming months, deputy commissioner says",
+      "summary": "The NBA plans to name winning bidders for 12 permanent European teams in the next 60 to 90 days, Deputy Commissioner Mark Tatum told CNBC.",
+      "url": "https://www.cnbc.com/2026/06/18/nba-europe-bids-mark-tatum.html",
+      "source": "CNBC",
+      "datetime": 1781808659,
+      "image": "https://image.cnbcfm.com/api/v1/image/106601274-1593693709389gettyimages-1157264234.jpeg?v=1593693750&w=1920&h=1080",
+      "title_cn": "副专员表示，NBA将在未来几个月内公布欧洲球队的中标名单",
+      "summary_cn": "NBA副总裁马克·塔图姆（Mark Tatum）告诉CNBC，NBA计划在未来60至90天内为12支永久欧洲球队提名中标者。"
+    },
+    {
+      "title": "Markets are set for a much more hawkish Warsh Fed than expected",
+      "summary": "Fed Chairman Kevin Warsh's tough talk on inflation Wednesday reverberated through financial markets.",
+      "url": "https://www.cnbc.com/2026/06/18/markets-are-set-for-a-much-more-hawkish-warsh-fed-than-expected.html",
+      "source": "CNBC",
+      "datetime": 1781803496,
+      "image": "https://image.cnbcfm.com/api/v1/image/108323802-1781783157198-gettyimages-2282152002-vcg111648900843.jpeg?v=1781783196&w=1920&h=1080",
+      "title_cn": "市场将迎来比预期更加鹰派的沃什美联储",
+      "summary_cn": "美联储主席凯文·沃什周三关于通胀的强硬言论在金融市场引起了反响。"
+    },
+    {
+      "title": "California’s counting on an IPO tax windfall. Several factors are complicating the equation",
+      "summary": "The IPOs of SpaceX, OpenAI and Anthropic could create a tax windfall for the state of California. But experts say the revenue impact may be blunted.",
+      "url": "https://www.cnbc.com/2026/06/18/california-ipo-tax-windfall.html",
+      "source": "CNBC",
+      "datetime": 1781787301,
+      "image": "https://image.cnbcfm.com/api/v1/image/108323429-1781721662404-gettyimages-1481230617-goldengateheadlandsspring.jpeg?v=1781721674&w=1920&h=1080",
+      "title_cn": "加州指望IPO税暴利。有几个因素使这个问题变得复杂",
+      "summary_cn": "SpaceX、OpenAI和Anthropic的首次公开募股可能会为加利福尼亚州创造税收意外之财。但专家表示，收入影响可能会减弱。"
+    },
+    {
+      "title": "Jim Cramer's top 10 things to watch in the stock market Thursday",
+      "summary": "Apple plans price hikes, and Intel is surging on comments from President Donald Trump.",
+      "url": "https://www.cnbc.com/2026/06/18/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
+      "source": "CNBC",
+      "datetime": 1781787174,
+      "image": "https://image.cnbcfm.com/api/v1/image/108318337-1780940747598-gettyimages-2279910888-APPLE_WWDC.jpeg?v=1780940784&w=1920&h=1080",
+      "title_cn": "吉姆·克莱默（Jim Cramer）周四股市最值得关注的10件事",
+      "summary_cn": "苹果计划提价，英特尔因唐纳德·特朗普总统的言论而股价飙升。"
+    }
+  ],
+  "ai": [
+    {
+      "title": "Gov. Kehoe to discuss future of AI and data centers at Rolla conference",
+      "description": "ROLLA, Mo. (KMIZ) State leaders, industry experts, researchers and business stakeholders gathered in Rolla on Thursday to discuss the future of artificial intelligence and data center development in Missouri. Gov. Mike Kehoe hosted the conference at Missouri S&T's new Proto-Plex building, bringing together leaders from across the state to explore how Missouri can position itself",
+      "url": "https://abc17news.com/news/missouri/2026/06/18/gov-kehoe-to-discuss-future-of-ai-and-data-centers-at-rolla-conference/",
+      "source": "ABC17News.com",
+      "publishedAt": "2026-06-18T15:28:51Z",
+      "image": "https://abc17news.b-cdn.net/abc17news.com/2026/06/IMG_1778.jpg",
+      "title_cn": "州长Kehoe将在Rolla会议上讨论人工智能和数据中心的未来",
+      "description_cn": "密苏里州罗尔拉（KMIZ）州领导人、行业专家、研究人员和商业利益相关者周四齐聚罗尔拉，讨论密苏里州人工智能和数据中心发展的未来。州长迈克·基霍（Mike Kehoe）在密苏里州科技新的原型大楼主持了这次会议，汇集了来自全州的领导人，探讨密苏里州如何定位自己"
+    },
+    {
+      "title": "Federal regulators back Trump's plan to speed power to energy-hungry AI data centers",
+      "description": "Federal regulators have agreed to let large energy users connect more quickly to the nation’s inefficient and electric transmission system to accommodate surging demand from power-hungry artificial intelligence data centers.",
+      "url": "https://www.clickondetroit.com/business/2026/06/18/federal-regulators-back-trumps-plan-to-speed-power-to-energy-hungry-ai-data-centers/",
+      "source": "WDIV ClickOnDetroit",
+      "publishedAt": "2026-06-18T15:27:10Z",
+      "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/ZRKARROORZHLPPUTZ6E3BTLL7M.jpg?_a=DATAg1iuZAA0",
+      "title_cn": "联邦监管机构支持特朗普加快向能源匮乏的人工智能数据中心供电的计划",
+      "description_cn": "联邦监管机构已同意让大型能源用户更快地连接到美国效率低下的电力传输系统，以满足耗电量大的人工智能数据中心激增的需求。"
+    },
+    {
+      "title": "Regulators back Trump plan to speed power to energy-hungry AI data centers",
+      "description": "Federal regulators have agreed to let large energy users connect more quickly to the nation’s inefficient and electric transmission system to accommodate surging demand from power-hungry artificial intelligence data centers.",
+      "url": "https://apnews.com/article/power-electricity-ai-plants-data-centers-grid-506e3d206871111f15c3c62fc5368be5",
+      "source": "The Associated Press",
+      "publishedAt": "2026-06-18T15:27:10Z",
+      "image": "https://dims.apnews.com/dims4/default/6c6c143/2147483647/strip/true/crop/12288x8188+0+2/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa6%2F4c%2F225fb794c076e88ce779bdffcbe7%2F4eb1d6a0d9fe4999ae0e0c01e2b32a09",
+      "title_cn": "监管机构支持特朗普加快向能源匮乏的人工智能数据中心供电的计划",
+      "description_cn": "联邦监管机构已同意让大型能源用户更快地连接到美国效率低下的电力传输系统，以满足耗电量大的人工智能数据中心激增的需求。"
+    },
+    {
+      "title": "Federal Regulators Back Trump's Plan to Speed Power to Energy-Hungry AI Data Centers",
+      "description": "WASHINGTON (AP) — Federal regulators on Thursday agreed to let large energy users connect more quickly to the nation’s inefficient and electric transmission system to accommodate surging demand from power-hungry artificial intelligence data centers.",
+      "url": "https://www.usnews.com/news/business/articles/2026-06-18/federal-regulators-back-trumps-plan-to-speed-power-to-energy-hungry-ai-data-centers",
+      "source": "U.S. News & World Report",
+      "publishedAt": "2026-06-18T15:27:00Z",
+      "image": "https://www.usnews.com/dims4/USNEWS/9295b56/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F76%2Fc573e18cc9a97e11e2000c9c023b8c%2F4eb1d6a0d9fe4999ae0e0c01e2b32a09Climate_Data_Center_Impacts_8_558.jpg",
+      "title_cn": "联邦监管机构支持特朗普加快向能源匮乏的人工智能数据中心供电的计划",
+      "description_cn": "华盛顿（美联社）--联邦监管机构周四同意让大型能源用户更快地连接到美国效率低下的电力传输系统，以满足耗电量大的人工智能数据中心激增的需求。"
+    },
+    {
+      "title": "Original investors may buy back Chinese-origin AI startup Manus that Meta purchased for $2 billion",
+      "description": "Tech News News: The original Chinese backers of artificial intelligence (AI) startup Manus are planning to buy the company back from Facebook’s parent company, Meta, .",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/original-investors-may-buy-back-chinese-origin-ai-startup-manus-that-meta-purchased-for-2-billion/articleshow/131835270.cms",
+      "source": "Times of India",
+      "publishedAt": "2026-06-18T15:25:00Z",
+      "image": "https://static.toiimg.com/thumb/msid-131835242,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "title_cn": "原始投资者可能会回购Meta以20亿美元收购的中国AI初创公司Manus",
+      "description_cn": "科技新闻新闻：人工智能（AI）初创公司Manus的最初中国支持者正计划从Facebook母公司Meta手中回购该公司。"
+    }
+  ]
+}
