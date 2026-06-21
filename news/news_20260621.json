@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-06-21T02:53:07Z",
+  "finance": [
+    {
+      "title": "The budget airline model in the U.S. is running out of runway",
+      "summary": "Spirit's bankruptcy as United and Delta fly high suggests there's more to success in airline industry than low fares, and failure isn't about jet fuel spikes.",
+      "url": "https://www.cnbc.com/2026/06/20/cheap-airline-fares-summer-travel.html",
+      "source": "CNBC",
+      "datetime": 1781967499,
+      "image": "https://image.cnbcfm.com/api/v1/image/108324518-1781967006230-gettyimages-2261780378-250417_AveloProtest__TRB6637.jpeg?v=1781967137&w=1920&h=1080",
+      "title_cn": "美国廉价航空公司模式即将耗尽跑道",
+      "summary_cn": "美联航和达美航空飞得很高，精神航空破产表明航空业的成功不仅仅是低票价，而失败与航空燃油飙升无关。"
+    },
+    {
+      "title": "DOJ rebuffs judge's request to put in writing it won't move forward with 'anti-weaponization' fund",
+      "summary": "The DOJ in May announced it was creating the fund as part of a settlement of President Donald Trump's $10 billion lawsuit against the Internal Revenue Service.",
+      "url": "https://www.cnbc.com/2026/06/19/doj-anti-weaponization-fund-trump.html",
+      "source": "CNBC",
+      "datetime": 1781898656,
+      "image": "https://image.cnbcfm.com/api/v1/image/108320318-17811897962026-06-11t140954z_1157696795_rc2mrla7snp9_rtrmadp_0_usa-trump-migration-children.jpeg?v=1781189816&w=1920&h=1080",
+      "title_cn": "司法部拒绝了法官书面提出的要求，不会推进“反武器化”基金",
+      "summary_cn": "美国司法部5月宣布设立该基金，作为唐纳德·特朗普总统针对国税局100亿美元诉讼和解的一部分。"
+    },
+    {
+      "title": "Fedspeak vs. war deal: Here are the things that drove this week's stock market",
+      "summary": "The S&P 500 surged on Thursday, making up for losses seen after central bankers convened.",
+      "url": "https://www.cnbc.com/2026/06/19/fedspeak-vs-war-deal-here-are-the-things-that-drove-this-weeks-stock-market.html",
+      "source": "CNBC",
+      "datetime": 1781889850,
+      "image": "https://image.cnbcfm.com/api/v1/image/108323516-1781724683119-gettyimages-2281465619-WARSH_FOMC_NYSE.jpeg?v=1781724751&w=1920&h=1080",
+      "title_cn": "美联储发言与战争协议：以下是推动本周股市的因素",
+      "summary_cn": "标准普尔500指数周四飙升，弥补了央行行长开会后的损失。"
+    },
+    {
+      "title": "29-year-old making $250k in tech went 'undercover' at a coffee chain before opening her own matcha cafe",
+      "summary": "Michelle Yeung wasn't happy in tech, despite earning $250,000 a year. Before opening Matcha House, she spent months learning the business.",
+      "url": "https://www.cnbc.com/2026/06/19/29-year-old-software-engineer-worked-undercover-at-a-coffee-chain.html",
+      "source": "CNBC",
+      "datetime": 1781877601,
+      "image": "https://image.cnbcfm.com/api/v1/image/108323499-1781724253192-mike11.jpg?v=1781724307&w=1920&h=1080",
+      "title_cn": "29岁的科技行业收入25万美元，在开设自己的抹茶咖啡馆之前，在一家咖啡连锁店“卧底”",
+      "summary_cn": "尽管年收入25万美元，但Michelle Yeung在科技领域并不满意。在开设抹茶之家之前，她花了几个月的时间学习这项业务。"
+    },
+    {
+      "title": "Bob Iger reflects on 10 years of Shanghai Disneyland as it defies the Chinese pullback",
+      "summary": "Shanghai Disneyland hit 100 million cumulative visitors in 2025, according to the company. It's a relatively new but important foothold in Disney's history.",
+      "url": "https://www.cnbc.com/2026/06/19/bob-iger-shanghai-disneyland-chinese-pullback.html",
+      "source": "CNBC",
+      "datetime": 1781866801,
+      "image": "https://image.cnbcfm.com/api/v1/image/108323943-1781795437328-gettyimages-2281374098-EconomyLife_CHINA-SHANGHAI-DISNEYLAND-10TH_ANNIVERSARY_CN.jpeg?v=1781812541&w=1920&h=1080",
+      "title_cn": "鲍勃·艾格（Bob Iger）回顾上海迪士尼乐园10年，因为它无视中国的撤军",
+      "summary_cn": "据该公司称，上海迪士尼乐园2025年累计游客量突破1亿人次。这是迪士尼历史上一个相对较新但重要的立足点。"
+    }
+  ],
+  "ai": [
+    {
+      "title": "Police investigating doctored photo of female candidates",
+      "description": "PONTIAN: Police are investigating claims that a photograph involving female candidates in the upcoming state polls was doctored using artificial intelligence (AI).",
+      "url": "https://www.thestar.com.my/news/nation/2026/06/20/police-investigating-doctored-photo-of-female-candidates",
+      "source": "The Star",
+      "publishedAt": "2026-06-20T14:23:00Z",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/06/20/3968238.jpeg",
+      "title_cn": "警方调查被篡改的女性候选人照片",
+      "description_cn": "- 你好警方正在调查有关即将举行的州民意调查中涉及女性候选人的照片被人工智能（AI）篡改的说法。"
+    },
+    {
+      "title": "Nobel Laureate John Jumper quits DeepMind for Anthropic as AI talent war heats up",
+      "description": "Nobel Prize-winning scientist John Jumper leaves Google DeepMind to join AI startup Anthropic, highlighting fierce competition for top AI talent and shifting industry dynamics in artificial intelligence.",
+      "url": "https://www.financialexpress.com/life/technology-nobel-laureate-john-jumper-quits-deepmind-for-anthropic-as-ai-talent-war-heats-up-4272440/",
+      "source": "The Financial Express",
+      "publishedAt": "2026-06-20T14:20:32Z",
+      "image": "https://images.financialexpressdigital.com/2026/06/tm10009663vvv562222ynbyvvtyy1232100vbAAA.jpg",
+      "title_cn": "随着人工智能人才争夺战升温，诺贝尔奖获得者约翰·琼珀（John Jumper）退出DeepMind转投Anthropic",
+      "description_cn": "诺贝尔奖获得者科学家约翰·朱珀（John Jumper）离开谷歌DeepMind，加入人工智能初创公司Anthropic，凸显了顶级人工智能人才的激烈竞争和人工智能行业动态的变化。"
+    },
+    {
+      "title": "Automakers and workers face existential fight over robots, future",
+      "description": "Automakers and workers are teed up for what each side views as a fight for existence — with cobots in the middle and already operating inside General Motors Co's Factory ZERO in Detroit. Artificial intelligence, robots and automation took center stage in Detroit during this week's UAW Constitutional Convention and Reindustrialize, an industry conference focused on tech, manufacturing and ...",
+      "url": "https://www.courant.com/2026/06/20/automakers-and-workers-face-existential-fight-over-robots-future-3/",
+      "source": "Hartford Courant",
+      "publishedAt": "2026-06-20T13:00:24Z",
+      "image": "https://www.courant.com/wp-content/uploads/2026/06/202606191325MCT_____PHOTO____BIZ-AUTO-ROBOTS-FUTURE-FILEPIC-2-DTN-1.jpg?w=1024&h=708",
+      "title_cn": "汽车制造商和工人面临关于机器人和未来的生存之战",
+      "description_cn": "汽车制造商和工人们都在为每一方都认为是为了生存而战的事情做准备--协作机器人在中间，已经在通用汽车公司位于底特律的零工厂内运行。人工智能，机器人和自动化在本周的UAW制宪会议和再工业化会议上占据了底特律的中心舞台，这是一个专注于技术，制造业和工业的行业会议。"
+    },
+    {
+      "title": "AI-designed protein unlocks virus-like shells that could reshape vaccine and drug delivery",
+      "description": "An international research team led by a Korean scientist has succeeded in designing large-scale protein structures that faithfully replicate the self-assembly principles found in naturally occurring viruses, using artificial intelligence (AI).",
+      "url": "https://phys.org/news/2026-06-ai-protein-virus-shells-reshape.html",
+      "source": "Phys.org",
+      "publishedAt": "2026-06-20T13:00:01Z",
+      "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/ai-unlocks-the-secrets-2.jpg",
+      "title_cn": "人工智能设计的蛋白质解锁病毒样外壳，可以重塑疫苗和药物输送",
+      "description_cn": "由一名韩国科学家领导的国际研究团队利用人工智能（AI）成功设计了大规模蛋白质结构，该结构忠实地复制了自然存在的病毒中的自组装原理。"
+    },
+    {
+      "title": "After banning smartphones, Norway restricts AI use in schools; Country’s PM reminds ‘most important thing’",
+      "description": "Tech News News: Norway, following its previous ban on smartphones, is now imposing a near-total ban on generative artificial intelligence (AI) tools for elementary sc.",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/after-banning-smartphones-norway-restricts-ai-use-in-schools-countrys-pm-reminds-most-important-thing-in-school/articleshow/131875336.cms",
+      "source": "Times of India",
+      "publishedAt": "2026-06-20T12:48:00Z",
+      "image": "https://static.toiimg.com/thumb/msid-131875324,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "title_cn": "禁止智能手机后，挪威限制学校使用人工智能;该国总理提醒“最重要的是”",
+      "description_cn": "科技新闻新闻：继之前禁止智能手机之后，挪威现在几乎全面禁止小学生生成人工智能（AI）工具。"
+    }
+  ]
+}
