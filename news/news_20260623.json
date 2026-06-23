@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-06-23T02:30:59Z",
+  "finance": [
+    {
+      "title": "Ro Khanna challenges Elon Musk to televised debate after online DOGE battle",
+      "summary": "Rep. Ro Khanna, D-Calif., has been a critic of the Elon-Musk-led Department of Government Efficiency cuts.",
+      "url": "https://www.cnbc.com/2026/06/22/ro-khanna-challenges-elon-musk-to-televised-debate-after-doge-battle.html",
+      "source": "CNBC",
+      "datetime": 1782170542,
+      "image": "https://image.cnbcfm.com/api/v1/image/108311222-1779461401333-gettyimages-2273757699-wmr57254_tvvzfawl.jpeg?v=1779461434&w=1920&h=1080",
+      "title_cn": "Ro Khanna在在线DOGE战斗后挑战Elon Musk进行电视辩论",
+      "summary_cn": "加利福尼亚州民主党众议员Ro Khanna一直是埃隆-马斯克领导的政府效率削减部的批评者。"
+    },
+    {
+      "title": "'We'll see' — Trump hedges on guarantee Iran won't use oil profits to rebuild military",
+      "summary": "Treasury Secretary Scott Bessent authorized the import of Iranian oil and refined products into the U.S. through at least August.",
+      "url": "https://www.cnbc.com/2026/06/22/trump-iran-war-oil-profits-rebuild-military.html",
+      "source": "CNBC",
+      "datetime": 1782164428,
+      "image": "https://image.cnbcfm.com/api/v1/image/108325096-17821611232026-06-22t201429z_708456495_rc28zla9tpeu_rtrmadp_0_usa-trump.jpeg?v=1782161154&w=1920&h=1080",
+      "title_cn": "“我们拭目以待”--特朗普对伊朗不会利用石油利润重建军队的保证进行对冲",
+      "summary_cn": "财政部长斯科特·贝森特授权至少在8月之前向美国进口伊朗石油和精炼产品。"
+    },
+    {
+      "title": "Apple is a notable outlier in Monday's drubbing of mega-cap tech stocks",
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "url": "https://www.cnbc.com/2026/06/22/apple-is-a-notable-outlier-in-mondays-drubbing-of-mega-cap-tech-stocks-.html",
+      "source": "CNBC",
+      "datetime": 1782152687,
+      "image": "https://image.cnbcfm.com/api/v1/image/108267435-17715197272026-02-18t111630z_1778219502_rc2aojad5g3w_rtrmadp_0_india-ai-google.jpeg?v=1771519754&w=1920&h=1080",
+      "title_cn": "苹果是周一大盘股重挫中值得注意的离群者",
+      "summary_cn": "每个工作日，投资俱乐部都会发布最后冲刺;这是一个可操作的下午更新，正好赶上交易的最后一个小时。"
+    },
+    {
+      "title": "SpaceX makes bond sale days after record IPO, discloses over $100 billion cash pile",
+      "summary": "SpaceX on Monday unveiled a senior unsecured notes offering and said it held about $100.8 billion in cash.",
+      "url": "https://www.cnbc.com/2026/06/22/spacex-spcx-bond-sale-ipo.html",
+      "source": "CNBC",
+      "datetime": 1782134871,
+      "image": "https://image.cnbcfm.com/api/v1/image/108322526-1781619585807-gettyimages-2281285195-6k7a6625_eqkrwpss.jpeg?v=1781619683&w=1920&h=1080",
+      "title_cn": "SpaceX在创纪录的IPO几天后进行债券出售，披露了超过1000亿美元的现金储备",
+      "summary_cn": "SpaceX周一公布了一项高级无担保票据发行，并表示持有约1008亿美元现金。"
+    },
+    {
+      "title": "The Club's top 10 things to watch in the stock market Monday",
+      "summary": "Abbvie makes a move in M&A, and SpaceX is started with a hold rating at KeyBanc.",
+      "url": "https://www.cnbc.com/2026/06/22/the-clubs-top-10-things-to-watch-in-the-stock-market-monday.html",
+      "source": "CNBC",
+      "datetime": 1782134495,
+      "image": "https://image.cnbcfm.com/api/v1/image/108297750-1777306878646-108297750-1777306739336-gettyimages-2241685341-299626final.jpeg?v=1777306904&w=1920&h=1080",
+      "title_cn": "俱乐部周一股市十大值得关注的事情",
+      "summary_cn": "艾伯维（Abbvie）采取了并购行动，SpaceX在KeyBanc的持有评级开始。"
+    }
+  ],
+  "ai": [
+    {
+      "title": "Anyone can fake a scientific image with AI, tricking even academic journals",
+      "description": "When almost anyone can fabricate an image in seconds from a text prompt using artificial intelligence, how do people decide what image is real?",
+      "url": "https://www.newsbreak.com/upi-news-510013/4725293491589-anyone-can-fake-a-scientific-image-with-ai-tricking-even-academic-journals-and-undermining-trust-in-science",
+      "source": "NewsBreak",
+      "publishedAt": "2026-06-22T14:27:31Z",
+      "image": "https://img.particlenews.com/img/id/0JDSD2_1CaJFDSf00",
+      "title_cn": "任何人都可以用人工智能伪造科学图像，甚至欺骗学术期刊",
+      "description_cn": "当几乎任何人都可以使用人工智能在几秒钟内根据文本提示编造图像时，人们如何确定什么图像是真实的？"
+    },
+    {
+      "title": "Micron Invests in Anthropic, Signs Multiyear Supply Deal",
+      "description": "By Connor Hart\nMicron Technology has invested in Anthropic and will supply the artificial-intelligence startup with memory and storage products under a multiyear agreement, deepening ties between...",
+      "url": "https://www.marketscreener.com/news/micron-invests-in-anthropic-signs-multiyear-supply-deal-ce7f5cd3df8ef322",
+      "source": "MarketScreener",
+      "publishedAt": "2026-06-22T14:00:31Z",
+      "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "title_cn": "美光投资Anthropic，签署多年供应协议",
+      "description_cn": "作者：康纳·哈特\nMicron Technology投资了Anthropic，并将根据一项多年协议为这家人工智能初创公司提供内存和存储产品，加深了.."
+    },
+    {
+      "title": "Crypto’s next billion-dollar hacker may move at superhuman speed",
+      "description": "Anthropic's latest Artificial Intelligence model, Claude Fable 5, offers advanced tools but raises cybersecurity questions in crypto.",
+      "url": "https://www.activistpost.com/cryptos-next-billion-dollar-hacker-may-move-at-superhuman-speed/",
+      "source": "Activist Post",
+      "publishedAt": "2026-06-22T14:00:00Z",
+      "image": "https://www.activistpost.com/wp-content/uploads/2025/01/favico.png",
+      "title_cn": "加密货币下一个价值数十亿美元的黑客可能会以超人的速度行动",
+      "description_cn": "Anthropic最新的人工智能模型Claude Fable 5提供了先进的工具，但在加密货币中提出了网络安全问题。"
+    },
+    {
+      "title": "Why graduates cheered Steve Wozniak’s affirmation of humans over AI | Philomena V. Mantella",
+      "description": "I was seated onstage at Grand Valley State University’s commencement when Apple co-founder Steve Wozniak leaned into the microphone and reframed the entire conversation about artificial intelligence in six words.",
+      "url": "https://tulsaworld.com/opinion/column/article_e5e78d35-0bfc-5f5d-a9c8-48b44eebb6c2.html",
+      "source": "Tulsa World",
+      "publishedAt": "2026-06-22T13:45:00Z",
+      "image": "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/e/5e/e5e78d35-0bfc-5f5d-a9c8-48b44eebb6c2/6a393b7ab6b2c.preview.jpg?crop=1742%2C915%2C0%2C137&resize=1200%2C630&order=crop%2Cresize",
+      "title_cn": "为什么毕业生欢呼史蒂夫·沃兹尼亚克对人类而不是人工智能的肯定|菲洛梅娜·曼特拉",
+      "description_cn": "当我坐在大谷州立大学毕业典礼的舞台上时，苹果联合创始人史蒂夫·沃兹尼亚克（Steve Wozniak）俯身靠在麦克风前，用六个词重新构建了整个关于人工智能的对话。"
+    },
+    {
+      "title": "Electricity control will determine who wins the AI arms race, and Bitzero Holdings is positioning to succeed",
+      "description": "The narrative surrounding artificial intelligence has been dominated by one name for the past two years. NVIDIA, once a $300 billion gaming chip company, now stands as the most valuable corporation in history at over $4 trillion. A $10,000 investment in NVIDIA at the start of 2023 would be worth more than $130,000 today. The […]",
+      "url": "https://www.naturalnews.com/2026-06-22-electricity-not-chips-will-determine-who-wins-and-bitzero-holdings-is-positioning-to-succeed.html",
+      "source": "Natural News",
+      "publishedAt": "2026-06-22T13:40:01Z",
+      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/nuclear-power-plants-battery-energy-storage-state-approvals-2113-original.jpg",
+      "title_cn": "电力控制将决定谁赢得人工智能军备竞赛，Bitzero Holdings正准备取得成功",
+      "description_cn": "过去两年，围绕人工智能的叙述一直由一个名字主导。英伟达曾经是一家价值3000亿美元的游戏芯片公司，现在成为历史上最有价值的公司，市值超过4万亿美元。2023年初对英伟达的10，000美元投资今天的价值将超过130，000美元。[.]"
+    }
+  ]
+}
