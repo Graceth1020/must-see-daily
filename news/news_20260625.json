@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-06-25T02:33:19Z",
+  "finance": [
+    {
+      "title": "JPMorgan Chase unveils $50 billion buyback, Goldman Sachs raises dividend after Fed stress test",
+      "summary": "The announcements followed the release of the Federal Reserve's annual stress test, which found that all 32 large banks weathered a hypothetical recession.",
+      "url": "https://www.cnbc.com/2026/06/24/jpmorgan-goldman-sachs-fed-stress-test.html",
+      "source": "CNBC",
+      "datetime": 1782334725,
+      "image": "https://image.cnbcfm.com/api/v1/image/108222464-1762447654577-gettyimages-2244833738-AMERICAN_BUSINESS_FORUM.jpeg?v=1768398902&w=1920&h=1080",
+      "title_cn": "摩根大通推出500亿美元回购，高盛在美联储压力测试后提高股息",
+      "summary_cn": "这些消息是在美联储发布年度压力测试之前发布的，该测试发现所有32家大型银行都经历了假设的经济衰退。"
+    },
+    {
+      "title": "Identity theft victims face 'unconscionable' IRS delays, report says",
+      "summary": "Victims currently face wait times of almost two years to resolve their cases, according to the National Taxpayer Advocate.",
+      "url": "https://www.cnbc.com/2026/06/24/identity-theft-victims-face-unconscionable-irs-delays-report-says.html",
+      "source": "CNBC",
+      "datetime": 1782334228,
+      "image": "https://image.cnbcfm.com/api/v1/image/108226251-17631437432025-11-14t180524z_1034732684_rc2hwhacqqv4_rtrmadp_0_usa-shutdown.jpeg?v=1763143792&w=1920&h=1080",
+      "title_cn": "报告称，身份盗窃受害者面临国税局“不合情理”的延误",
+      "summary_cn": "据国家纳税人倡导者称，受害者目前面临近两年的等待时间才能解决案件。"
+    },
+    {
+      "title": "Bessent sees GDP growth booming again this year. Kalshi traders see little chance of that",
+      "summary": "Kalshi traders are not agreeing with Treasury Secretary Scott Bessent's prediction that the U.S. economy will have 3% growth this year.",
+      "url": "https://www.cnbc.com/2026/06/24/bessent-sees-gdp-growth-booming-this-year-kalshi-traders-see-little-chance-of-that.html",
+      "source": "CNBC",
+      "datetime": 1782320245,
+      "image": "https://image.cnbcfm.com/api/v1/image/108314048-1780081680407-gettyimages-2278066776-REAGAN_ECONOMIC_FORUM.jpeg?v=1780081714&w=1920&h=1080",
+      "title_cn": "贝森特预计今年GDP增长将再次蓬勃发展。卡尔什交易员认为这种可能性很小",
+      "summary_cn": "卡尔什交易员不同意财政部长斯科特·贝森特（Scott Bessent）关于美国经济今年将增长3%的预测。"
+    },
+    {
+      "title": "Polymarket-backed platform boosts funding to root out insider trading on prediction markets",
+      "summary": "A Polymarket-backed platform raised $1.5 million in a funding round to help build tools to detect suspicious trading activity.",
+      "url": "https://www.cnbc.com/2026/06/24/polymarket-backed-platform-boosts-funding-to-root-out-insider-trading-on-prediction-markets.html",
+      "source": "CNBC",
+      "datetime": 1782309764,
+      "image": "https://image.cnbcfm.com/api/v1/image/108315144-1780404623798-gettyimages-2273141750-AFP_A9DR89E.jpeg?v=1780404681&w=1920&h=1080",
+      "title_cn": "多元市场支持的平台增加资金以根除预测市场的内幕交易",
+      "summary_cn": "一个由Polymarket支持的平台在一轮融资中筹集了150万美元，以帮助构建检测可疑交易活动的工具。"
+    },
+    {
+      "title": "Qualcomm inks deal for AI startup Modular to bolster software stack, data center buildout",
+      "summary": "Qualcomm is looking to expand its position in the data center market as AI demand skyrockets.",
+      "url": "https://www.cnbc.com/2026/06/24/qualcomm-ai-chip-modular-software.html",
+      "source": "CNBC",
+      "datetime": 1782307763,
+      "image": "https://image.cnbcfm.com/api/v1/image/108267427-17715195242026-02-18t144515z_422228575_rc27oja2b4c4_rtrmadp_0_india-ai.jpeg?v=1771519539&w=1920&h=1080",
+      "title_cn": "高通与人工智能初创公司Modular达成协议，以增强软件堆栈和数据中心建设",
+      "summary_cn": "随着人工智能需求飙升，高通正在寻求扩大其在数据中心市场的地位。"
+    }
+  ],
+  "ai": [
+    {
+      "title": "US markets today: Nasdaq, S&P 500 recover as AI",
+      "description": "US stocks opened higher on Wednesday as chip stocks rebounded from recent losses, helping lift the S&P 500 and Nasdaq after a sharp tech sell-off in the previous session. Investor sentiment was also supported by a decline in oil prices and focus on upcoming Micron earnings, which are expected to provide key signals on artificial intelligence-driven demand trends.",
+      "url": "https://www.cnbctv18.com/market/us-markets-today-dow-jones-nasdaq-sp-500-rise-as-ai-linked-stocks-stabilise-19931719.htm",
+      "source": "CNBC TV18",
+      "publishedAt": "2026-06-24T14:27:43Z",
+      "image": "https://images.cnbctv18.com/uploads/2026/06/image-2026-06-ecf3174d5b008022efcdfff718bbb148.jpg?im=FitAndFill,width=1200,height=675",
+      "title_cn": "今日美国市场：纳斯达克、标准普尔500指数因人工智能复苏",
+      "description_cn": "美国股市周三开盘走高，芯片股从近期的跌幅中反弹，在前一交易日科技股大幅抛售后，帮助提振了标准普尔500指数和纳斯达克指数。油价下跌和对美光即将公布的盈利的关注也支撑了投资者情绪，预计这将提供人工智能驱动的需求趋势的关键信号。"
+    },
+    {
+      "title": "Culture ministry officials inform Par panel on use of AI to preserve India's rich cultural heritage",
+      "description": "New Delhi, Jun 24 (PTI) Officials of the Ministry of Culture on Wednesday informed a parliamentary panel on the use of artificial intelligence (AI) for preservation, promotion and better interpretation of India’s rich cultural heritage. Secretary, Ministry of Culture, Vivek Aggarwal, informed the members of the Parliamentary Standing Committee on Transport, Tourism and Culture on […]",
+      "url": "https://theprint.in/india/culture-ministry-officials-inform-par-panel-on-use-of-ai-to-preserve-indias-rich-cultural-heritage/2968816/",
+      "source": "ThePrint",
+      "publishedAt": "2026-06-24T14:17:53Z",
+      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
+      "title_cn": "文化部官员向Par小组通报使用人工智能保护印度丰富的文化遗产",
+      "description_cn": "新德里，6月24日（PTI）文化部官员周三向议会小组通报了使用人工智能（AI）来保护、促进和更好地解释印度丰富的文化遗产的情况。文化部部长Vivek Aggarwal向议会交通、旅游和文化常务委员会成员通报了[..]"
+    },
+    {
+      "title": "Sentient Foundation launches $42M program to back open-source AGI builders",
+      "description": "The nonprofit is combining grants with founder-friendly investments to fund developers, researchers and startups building artificial general intelligence in the open, arguing that the future of intelligence should not be controlled by a handful of corporations.",
+      "url": "https://thenextweb.com/news/sentient-foundation-launches-42m-program-to-back-open-source-agi-builders",
+      "source": "TNW",
+      "publishedAt": "2026-06-24T13:56:48Z",
+      "image": "https://media.thenextweb.com/2026/06/sentient-foundation-42m-open-source-agi-grants.avif",
+      "title_cn": "Sentient基金会启动4200万美元计划支持开源AGI构建者",
+      "description_cn": "这家非营利组织正在将赠款与对创始人友好的投资相结合，资助开发人员、研究人员和初创公司在开放的情况下构建人工通用智能，并认为智能的未来不应该由少数公司控制。"
+    },
+    {
+      "title": "Commvault Signs Multi-Year Microsoft Deal to Embed Recovery Tools in Azure",
+      "description": "By Adriano Marchese\nCommvault Systems has signed a multi-year partnership with Microsoft that will make its artificial intelligence-driven cyber-resilience platform a native service inside...",
+      "url": "https://www.marketscreener.com/news/commvault-signs-multi-year-microsoft-deal-to-embed-recovery-tools-in-azure-ce7f5fdbde80f027",
+      "source": "MarketScreener",
+      "publishedAt": "2026-06-24T13:46:46Z",
+      "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "title_cn": "Commvault与Microsoft签署多年协议，将恢复工具嵌入Azure",
+      "description_cn": "通过Adriano Marchese\nCommvault Systems已与微软签署了多年合作伙伴关系，将使其人工智能驱动的网络弹性平台成为内部的原生服务."
+    },
+    {
+      "title": "AI Could Power 70% of Mumbai Home Searches by 2030; Broker Productivity May Double, Reports Palladian Partners Advisory Ltd.",
+      "description": "Mumbai (Maharashtra) [India], June 24: Artificial Intelligence is expected to become one of the biggest drivers of change in Mumbai’s real estate sector over the next five years, according…",
+      "url": "https://www.newsx.com/business-2/ai-could-power-70-of-mumbai-home-searches-by-2030-broker-productivity-may-double-reports-palladian-partners-advisory-ltd-240504/",
+      "source": "NewsX",
+      "publishedAt": "2026-06-24T13:42:08Z",
+      "image": "https://www.newsx.com/wp-content/uploads/2026/06/AI-Could-Power-70-of-Mumbai-Home-Searches-by-2030.avif",
+      "title_cn": "到2030年，人工智能将为孟买70%的房屋租赁提供动力; Palladian Partners Advisory Ltd.报告称，经纪人生产率可能翻倍。",
+      "description_cn": "孟买（马哈拉施特拉邦）[印度]，6月24日：人工智能预计将成为未来五年孟买房地产行业变革的最大推动力之一."
+    }
+  ]
+}
