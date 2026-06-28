@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-06-28T02:41:22Z",
+  "finance": [
+    {
+      "title": "Alphabet burnishes one of its best weapons in the battle for AI supremacy",
+      "summary": "The Google parent's homegrown silicon is a big advantage in the AI compute race.",
+      "url": "https://www.cnbc.com/2026/06/27/alphabet-burnishes-one-of-its-best-weapons-in-the-battle-for-ai-supremacy.html",
+      "source": "CNBC",
+      "datetime": 1782565956,
+      "image": "https://image.cnbcfm.com/api/v1/image/108309238-1779212880170-gettyimages-2276581514-GOOGLE_IO.jpeg?v=1780349713&w=1920&h=1080",
+      "title_cn": "Alphabet在争夺人工智能霸主地位的斗争中打磨出最好的武器之一",
+      "summary_cn": "谷歌母公司的本土芯片是人工智能计算竞赛中的一大优势。"
+    },
+    {
+      "title": "Straight women can’t get enough of gay romance stories like ‘Heated Rivalry’ and ‘Red, White & Royal Blue’",
+      "summary": "Women aren't the protagonists or love interests in a subgrenre of romance focused on gay men. Still, they're consuming these stories in droves.",
+      "url": "https://www.cnbc.com/2026/06/27/heated-rivalry-red-white-royal-blue-rachel-reid-gay-romance-yaoi-mlm.html",
+      "source": "CNBC",
+      "datetime": 1782562954,
+      "image": "https://image.cnbcfm.com/api/v1/image/108326980-1782409922990-hudson-williams-connor-storrie.jpg?v=1782410226&w=1920&h=1080",
+      "title_cn": "异性恋女性对《激烈的竞争》和《红、白和皇家蓝》等同性恋浪漫故事爱不释手",
+      "summary_cn": "在以男同性恋为中心的浪漫故事中，女性并不是主角或恋人。尽管如此，他们还是成群结队地阅读这些故事。"
+    },
+    {
+      "title": "Trading in these two ETFs suggests inflation fears are overblown",
+      "summary": "It could have been a big week for bond bears, if it weren't for crude oil.",
+      "url": "https://www.cnbc.com/2026/06/27/trading-in-these-two-etfs-suggests-inflation-fears-are-overblown.html",
+      "source": "CNBC",
+      "datetime": 1782562738,
+      "image": "https://image.cnbcfm.com/api/v1/image/108323488-1781723743127-gettyimages-2282087955-cs019051_9hrckmuw.jpeg?v=1781723821&w=1920&h=1080",
+      "title_cn": "这两只ETF的交易表明通胀担忧被夸大了",
+      "summary_cn": "如果没有原油，对于债券空头来说，这可能是重要的一周。"
+    },
+    {
+      "title": "A surprisingly strong summer box office could mean Hollywood's first $10 billion year since the pandemic",
+      "summary": "Hollywood is having its best summer since the pandemic putting the annual box office on pace to cross $10 billion for the first time in seven years.",
+      "url": "https://www.cnbc.com/2026/06/27/strong-summer-box-office.html",
+      "source": "CNBC",
+      "datetime": 1782561601,
+      "image": "https://image.cnbcfm.com/api/v1/image/108324543-1782054818470-jessie_Cropped.png?v=1782054858&w=1920&h=1080",
+      "title_cn": "令人惊讶的强劲夏季票房可能意味着好莱坞自疫情爆发以来的第一个100亿美元",
+      "summary_cn": "好莱坞正经历疫情以来最好的夏天，年度票房七年来首次突破100亿美元。"
+    },
+    {
+      "title": "Oracle stock has worst week since 2001 dot-com bust as AI financing concerns escalate",
+      "summary": "Oracle's surging spending, negative free cash flow and $130 billion debt pile are weighing on the stock.",
+      "url": "https://www.cnbc.com/2026/06/26/oracle-stock-ends-worst-week-since-2001-as-investors-dwell-on-finances.html",
+      "source": "CNBC",
+      "datetime": 1782505269,
+      "image": "https://image.cnbcfm.com/api/v1/image/108213143-1760637556613-gettyimages-2236546743-STARGATE_DATA_CENTER.jpeg?v=1782499975&w=1920&h=1080",
+      "title_cn": "随着人工智能融资担忧升级，甲骨文股价遭遇自2001年互联网泡沫破灭以来最糟糕的一周",
+      "summary_cn": "甲骨文的支出激增、自由现金流负以及1300亿美元的债务堆积给该股带来了压力。"
+    }
+  ],
+  "ai": [
+    {
+      "title": "Salesforce Stock: Time To Fill Up The Truck With This Incredible Bargain (NYSE:CRM)",
+      "description": "Fears that Salesforce is about to get disrupted by artificial intelligence have become completely overblown. Find out why CRM stock is a strong buy.",
+      "url": "https://seekingalpha.com/article/4918247-salesforce-time-to-fill-up-the-truck-with-this-incredible-bargain",
+      "source": "Seeking Alpha",
+      "publishedAt": "2026-06-27T14:06:00Z",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1223906528/image_1223906528.jpg?io=getty-c-w1536",
+      "title_cn": "Salesforce股票：是时候用这个令人难以置信的便宜货装满卡车了（纽约证券交易所代码：CRM）",
+      "description_cn": "人们对Salesforce即将被人工智能颠覆的担忧已经完全被夸大了。了解为什么CRM股票是强劲的买入。"
+    },
+    {
+      "title": "Trump administration allows Anthropic to release Mythos AI to 'trusted' U.S. organizations",
+      "description": "Anthropic said on Friday that the U.S. government has allowed it to release its powerful Claude Mythos 5 artificial intelligence model to some \"trusted\" U.S. organizations, partially reversing an order two weeks ago to suspend access over national security risks.",
+      "url": "https://www.cbc.ca/news/world/united-states-anthropic-artificial-intelligence-mythos-ai-9.7251397",
+      "source": "CBC.ca",
+      "publishedAt": "2026-06-27T14:02:04Z",
+      "image": "https://i.cbc.ca/ais/b8a558ca-3503-432a-a263-5b976d150fde,1782567046019/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C156%2C3000%2C1687%29%3BResize%3D620",
+      "title_cn": "特朗普政府允许Anthropic向“值得信赖”的美国组织发布Mythos AI",
+      "description_cn": "Anthropic周五表示，美国政府已允许其向一些“值得信赖”的美国组织发布其强大的Claude Mythos 5人工智能模型，部分推翻了两周前因国家安全风险而暂停访问的命令。"
+    },
+    {
+      "title": "Fake citations on rise in Canada, expert says",
+      "description": "A troubling new trend if emerging across Canadian’s legal system as courts and tribunals confront a growing number of cases involving artificial intelligence-generated fake legal citations.",
+      "url": "https://www.cp24.com/news/canada/2026/06/27/ai-fabricated-legal-citations-in-canadian-courts-tip-of-the-iceberg-expert-warns/",
+      "source": "CP24 Toronto",
+      "publishedAt": "2026-06-27T12:33:19Z",
+      "image": "https://www.cp24.com/resizer/v2/Y3JMWKXRXMO6JD5SGZIHSNKLNI.jpg?smart=true&auth=b0ea467b87f7858c7127a6df5dfeb3d8b0317f7756197da9cdf6c8ca19fd5da5&width=1200&height=630",
+      "title_cn": "专家称，加拿大虚假引文数量上升",
+      "description_cn": "随着法院和法庭面临越来越多涉及人工智能生成的虚假法律引用的案件，加拿大法律体系中出现了一个令人不安的新趋势。"
+    },
+    {
+      "title": "Meet Prabhjeet Singh: The Ex-Uber India Chief OpenAI Picked To Lead Its Biggest AI Bet",
+      "description": "OpenAI has named former Uber India chief Prabhjeet Singh as Managing Director for India as it expands in a key Artificial Intelligence market., Companies, Times Now",
+      "url": "https://www.timesnownews.com/business-economy/companies/meet-prabhjeet-singh-the-ex-uber-india-chief-openai-picked-to-lead-its-biggest-ai-bet-article-154776888",
+      "source": "Times Now",
+      "publishedAt": "2026-06-27T12:15:35Z",
+      "image": "https://images.timesnownews.com/thumb/msid-154776888,width-1280,height-720,resizemode-75/154776888.jpg",
+      "title_cn": "来认识一下Prabhjeet Singh：前Uber印度首席执行官OpenAI被选为领导其最大的人工智能投注",
+      "description_cn": "OpenAI已任命前Uber印度首席执行官Prabhjeet Singh为印度董事总经理，以进军关键的人工智能市场。公司、时代现在"
+    },
+    {
+      "title": "India’s family firms are booming - but who will lead them tomorrow?",
+      "description": "India Business News: Family businesses across India are booming — branching into new markets, adopting artificial intelligence, preparing for IPOs and investing in sustain.",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/indias-family-firms-are-booming-but-who-will-lead-them-tomorrow/articleshow/132034289.cms",
+      "source": "Times of India",
+      "publishedAt": "2026-06-27T12:13:00Z",
+      "image": "https://static.toiimg.com/thumb/msid-132034621,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "title_cn": "印度的家族企业正在蓬勃发展--但明天谁将领导他们呢？",
+      "description_cn": "印度商业新闻：印度各地的家族企业正在蓬勃发展--进军新市场、采用人工智能、准备IPO并投资维持。"
+    }
+  ]
+}
