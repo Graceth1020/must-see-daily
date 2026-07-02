@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-07-02T02:31:43Z",
+  "finance": [
+    {
+      "title": "World Cup could boost the June jobs report by 40,000, Goldman estimates",
+      "summary": "Nonfarm payrolls are projected to post a gain of 115,000, according to the Dow Jones consensus.",
+      "url": "https://www.cnbc.com/2026/07/01/world-cup-could-boost-the-june-jobs-report-by-40000-goldman-estimates.html",
+      "source": "CNBC",
+      "datetime": 1782937629,
+      "image": "https://image.cnbcfm.com/api/v1/image/108321366-1781289964765-gettyimages-2280581172-FIFA_WORLD_CUP.jpeg?v=1781290017&w=1920&h=1080",
+      "title_cn": "高盛估计，世界杯可能使6月份就业报告增加40，000人",
+      "summary_cn": "根据道琼斯共识，非农就业人数预计将增加115，000人。"
+    },
+    {
+      "title": "Chip stocks that notched record rallies in second quarter start Q3 with a dud",
+      "summary": "Memory maker Micron, which jumped over 240% in the second quarter, dropped 11% on Wednesday, wiping out nearly $200 billion of market capitalization.",
+      "url": "https://www.cnbc.com/2026/07/01/chip-stocks-notched-record-rallies-in-second-quarter-start-q3-with-dud.html",
+      "source": "CNBC",
+      "datetime": 1782936739,
+      "image": "https://image.cnbcfm.com/api/v1/image/108136025-1745498529458-gettyimages-2208380685-IGOS2258.jpeg?v=1745498579&w=1920&h=1080",
+      "title_cn": "二季度创纪录反弹的芯片股第三季度开局惨淡",
+      "summary_cn": "内存制造商美光（Micron）在第二季度上涨超过240%，周三下跌11%，市值蒸发近2000亿美元。"
+    },
+    {
+      "title": "2026 laggards shine in Wednesday's mixed stock market that kicked off the third quarter",
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "url": "https://www.cnbc.com/2026/07/01/2026-laggards-shine-in-mixed-market-that-kicked-off-q3.html",
+      "source": "CNBC",
+      "datetime": 1782930216,
+      "image": "https://image.cnbcfm.com/api/v1/image/108326264-17823199802026-06-24t160038z_1026825060_rc2d0mafrueq_rtrmadp_0_usa-stocks.jpeg?v=1782320413&w=1920&h=1080",
+      "title_cn": "2026年落后者在周三第三季度拉开帷幕的混合股市中大放异彩",
+      "summary_cn": "每个工作日，投资俱乐部都会发布最后冲刺;这是一个可操作的下午更新，正好赶上交易的最后一个小时。"
+    },
+    {
+      "title": "The $20,000 new vehicle is all but extinct—what the most affordable new car looks like now",
+      "summary": "Why the $20,000 new car disappeared, and what budget-conscious buyers can expect today.",
+      "url": "https://www.cnbc.com/2026/07/01/the-20000-new-car-is-gonewhat-the-an-affordable-car-looks-like-now.html",
+      "source": "CNBC",
+      "datetime": 1782927001,
+      "image": "https://image.cnbcfm.com/api/v1/image/108328831-1782839970346-gettyimages-530873866-fan2035107.jpeg?v=1782840024&w=1920&h=1080",
+      "title_cn": "这辆价值20，000美元的新车几乎是预算--现在最实惠的新车看起来是什么样子",
+      "summary_cn": "为什么这辆价值20，000美元的新车消失了，以及有预算意识的买家今天可以期待什么。"
+    },
+    {
+      "title": "Bitcoin's summer swoon creates unique trade in Strategy",
+      "summary": "Outright shorting bitcoin or high-beta crypto equities after a steep decline carries immense tail risk.",
+      "url": "https://www.cnbc.com/2026/07/01/bitcoins-summer-swoon-creates-unique-trade-in-strategy.html",
+      "source": "CNBC",
+      "datetime": 1782925822,
+      "image": "https://image.cnbcfm.com/api/v1/image/108302671-1778029184116-gettyimages-2272981572-AA_28042026_2757065.jpeg?v=1778029210&w=1920&h=1080",
+      "title_cn": "比特币的夏季低迷在策略中创造了独特的交易",
+      "summary_cn": "在大幅下跌后大幅做空比特币或高贝塔值加密货币股票会带来巨大的尾部风险。"
+    }
+  ],
+  "ai": [
+    {
+      "title": "AI looms over Silicon Valley students’ career choices",
+      "description": "As artificial intelligence use increases in classrooms and workplaces, students are beginning to factor the technology into decisions about college majors and careers.",
+      "url": "https://www.mercurynews.com/2026/07/01/ai-looms-over-silicon-valley-students-career-choices/",
+      "source": "The Mercury News",
+      "publishedAt": "2026-07-01T14:30:25Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/06/Artificial_Intelligence_Politics_56521.jpg?w=1024&h=682",
+      "title_cn": "人工智能笼罩着硅谷学生的职业选择",
+      "description_cn": "随着人工智能在课堂和工作场所使用的增加，学生开始将该技术纳入大学专业和职业决策中。"
+    },
+    {
+      "title": "In 2014, DeepMind's DQN mastered atari games and transformed reinforcement learning",
+      "description": "Tech News News: Discover how DeepMind's DQN AI reshaped reinforcement learning by mastering Atari games without human input, marking a revolutionary leap in artificial intelligence.",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/in-2014-deepminds-dqn-mastered-atari-games-and-transformed-reinforcement-learning/articleshow/132112873.cms",
+      "source": "Times of India",
+      "publishedAt": "2026-07-01T14:30:00Z",
+      "image": "https://static.toiimg.com/thumb/msid-132112913,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "title_cn": "2014年，DeepMind的DQN掌握了atari游戏并改造了强化学习",
+      "description_cn": "科技新闻新闻：了解DeepMind的DQN AI如何通过在没有人工输入的情况下掌握Atari游戏来重塑强化学习，标志着人工智能的革命性飞跃。"
+    },
+    {
+      "title": "India's young startup leaders power growth across AI, SpaceTech and FinTech: Avendus Wealth",
+      "description": "India's next generation of entrepreneurs is redefining innovation, with the Avendus Wealth-Hurun India U30 List 2026 highlighting the country's most promising business leaders under the age of 30. The latest edition features 102 entrepreneurs, a 28 per cent increase from last year's 80, whose companies collectively command a valuation of Rs 2.9 lakh crore. The report underscores a significant shift towards DeepTech, Artificial Intelligence (AI), SpaceTech, electric mobility and FinTech, with the country's youngest founders increasingly tackling complex global challenges.",
+      "url": "https://www.tribuneindia.com/news/business/indias-young-startup-leaders-power-growth-across-ai-spacetech-and-fintech-avendus-wealth-hurun-india-report/",
+      "source": "The Tribune",
+      "publishedAt": "2026-07-01T14:28:55Z",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTM0NTFjN2YwLTc1NTktMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+      "title_cn": "印度年轻的初创企业领导者推动人工智能、SpaceTech和FinTech的增长：Avendus Wealth",
+      "description_cn": "印度的下一代企业家正在重新定义创新，Avendus Wealth-Hurun印度U30排行榜2026突出了该国30岁以下最有前途的商界领袖。最新版有102名企业家，比去年的80名增加了28%，这些企业家的总估值为2.9亿卢比。该报告强调了该国向深度科技、人工智能（AI）、SpaceTech、电动汽车和金融科技的重大转变，该国最年轻的创始人越来越多地应对复杂的全球挑战。"
+    },
+    {
+      "title": "Unchecked AI progress may pose ‘catastrophic risks’",
+      "description": "GENEVA - ‌Developments in artificial intelligence are outpacing scientific understanding and government policy, meaning there are no guarantees the technology will not cause catastrophic harm, an independent panel advising the United Nations warned on Wednesday.",
+      "url": "https://www.bangkokpost.com/world/3279530/unchecked-ai-progress-may-pose-catastrophic-risks",
+      "source": "Bangkok Post",
+      "publishedAt": "2026-07-01T14:19:00Z",
+      "image": "https://static.bangkokpost.com/media/content/20260701/c1_3279530_260701212024_700.jpg",
+      "title_cn": "不受控制的人工智能进展可能带来“灾难性风险”",
+      "description_cn": "日内瓦--一个为联合国提供咨询的独立小组周三警告称，人工智能的发展速度超过了科学认识和政府政策，这意味着无法保证该技术不会造成灾难性的伤害。"
+    },
+    {
+      "title": "How Tribeca, Cannes, A24 And The Generated Awards Are Validating AI Creators",
+      "description": "For years the conversation around artificial intelligence in creative industries has largely centered on fear, but AI creators are now emerging in new and exciting areas.",
+      "url": "https://www.forbes.com/sites/dougmelville/2026/07/01/how-tribeca-cannes-a24-and-the-generated-awards-are-validating-ai-creators/",
+      "source": "Forbes",
+      "publishedAt": "2026-07-01T14:00:38Z",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a3f61d762041dcbc1df8364/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "title_cn": "翠贝卡、戛纳、A24和生成奖如何验证人工智能创作者",
+      "description_cn": "多年来，围绕创意行业人工智能的对话主要集中在恐惧上，但人工智能创造者现在正在新的、令人兴奋的领域出现。"
+    }
+  ]
+}
