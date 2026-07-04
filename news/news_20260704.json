@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-07-04T02:05:18Z",
+  "finance": [
+    {
+      "title": "American Express and Chase move luxury lounge wars beyond the airport",
+      "summary": "Credit card companies are increasingly offering access to lounges and perks at festivals and sporting events, often exclusively for premium cardholders.",
+      "url": "https://www.cnbc.com/2026/07/03/amex-chase-credit-card-lounges.html",
+      "source": "CNBC",
+      "datetime": 1783080001,
+      "image": "https://image.cnbcfm.com/api/v1/image/108325629-1782237470697-Chase_Sundance.jpg?v=1782238002&w=1920&h=1080",
+      "title_cn": "美国运通和大通将豪华休息室之战移至机场以外",
+      "summary_cn": "信用卡公司越来越多地在节日和体育赛事中提供休息室和福利，通常专门针对优质卡持有人。"
+    },
+    {
+      "title": "GE Vernova's gas turbines aren't the only way it's winning from the AI boom",
+      "summary": "Electrification secured $2.4 billion in data center equipment orders during the first quarter of 2026, beating the segment's total for all of 2025.",
+      "url": "https://www.cnbc.com/2026/07/02/ge-vernovas-gas-turbines-arent-the-only-way-its-winning-from-the-ai-boom.html",
+      "source": "CNBC",
+      "datetime": 1783014246,
+      "image": "https://image.cnbcfm.com/api/v1/image/108176344-1753363274481-gettyimages-2225995478-img_9514.jpeg?v=1773056285&w=1920&h=1080",
+      "title_cn": "GE Vernova的燃气涡轮机并不是其从人工智能热潮中获胜的唯一方式",
+      "summary_cn": "2026年第一季度，电气化获得了24亿美元的数据中心设备订单，超过了该部门2025年全年的订单总额。"
+    },
+    {
+      "title": "Married Americans tend to be wealthier and happier. Gen Z is forgoing the institution anyway",
+      "summary": "Gen Z defines the American Dream as having financial stability and being happy. Marriage could help them reach both of those goals, but many aren't sold on it.",
+      "url": "https://www.cnbc.com/2026/07/02/gen-z-marriage-rates-american-dream.html",
+      "source": "CNBC",
+      "datetime": 1783010067,
+      "image": "https://image.cnbcfm.com/api/v1/image/108329500-1782930439205-Sarah_Wu_wedding.jpg?v=1783006852&w=1920&h=1080",
+      "title_cn": "已婚的美国人往往更富有、更幸福。无论如何，Z世代都会放弃该机构",
+      "summary_cn": "Z世代将美国梦定义为拥有财务稳定和幸福。婚姻可以帮助他们实现这两个目标，但许多人并不买账。"
+    },
+    {
+      "title": "Premier Lacrosse League plans to bring in team owners by 2028 'or soon thereafter,' co-founder says",
+      "summary": "Paul Rabil told CNBC he's banking on the 2028 Los Angeles Summer Games, where lacrosse will return as an Olympic sport, to shine a spotlight on PLL.",
+      "url": "https://www.cnbc.com/2026/07/02/premier-lacrosse-league-team-ownership.html",
+      "source": "CNBC",
+      "datetime": 1783009411,
+      "image": "https://image.cnbcfm.com/api/v1/image/107276661-1690324979810-NUP_202060_00911.jpg?v=1690381544&w=1920&h=1080",
+      "title_cn": "联合创始人表示，英超曲棍球联盟计划在2028年或之后不久引入球队老板",
+      "summary_cn": "保罗·拉比尔（Paul Rabil）告诉CNBC，他指望2028年洛杉矶夏季奥运会上长曲棍球将重新成为奥运项目，从而成为PLL的焦点。"
+    },
+    {
+      "title": "Why Jim Cramer says investors should 'want to own' this industrial stock",
+      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "url": "https://www.cnbc.com/2026/07/02/why-jim-cramer-says-investors-should-want-to-own-this-industrial-stock.html",
+      "source": "CNBC",
+      "datetime": 1783009369,
+      "image": "https://image.cnbcfm.com/api/v1/image/108328138-1782745575086-NYSE_Traders-OB-Photo-ALR-20260629-PRESS-6.jpg?v=1782745808&w=1920&h=1080",
+      "title_cn": "为什么吉姆·克莱默说投资者应该“想要拥有”这种工业股票",
+      "summary_cn": "投资俱乐部每个工作日上午10：20举行“晨会”。"
+    }
+  ],
+  "ai": [
+    {
+      "title": "Adobe (ADBE) Is One Stock I’m Not Giving Up On",
+      "description": "Adobe (ADBE) is one stock I’m not giving up on, even though the market prices it as if generative artificial intelligence (AI) has permanently d...",
+      "url": "https://markets.businessinsider.com/news/stocks/adobe-adbe-is-one-stock-i-m-not-giving-up-on-1036297638",
+      "source": "Markets Insider",
+      "publishedAt": "2026-07-03T13:31:20Z",
+      "image": "https://blog.tipranks.com/wp-content/uploads/2026/07/ADBE-Stock-Analysis.jpg?utm_source=markets.businessinsider.com&utm_medium=referral",
+      "title_cn": "Adobe（ADBE）是我不会放弃的一只股票",
+      "description_cn": "Adobe（ADBE）是我不会放弃的一只股票，尽管市场对其定价，就好像生成式人工智能（AI）已经永久性地改变了它。"
+    },
+    {
+      "title": "AI reads a century of Sun sketches to uncover hidden patterns in solar activity",
+      "description": "Science News: BENGALURU: Artificial Intelligence has helped scientists unlock a century of the Sun’s history by analysing hand-drawn observations from the Kodaikana.",
+      "url": "https://timesofindia.indiatimes.com/science/ai-reads-a-century-of-sun-sketches-to-uncover-hidden-patterns-in-solar-activity/articleshow/132162921.cms",
+      "source": "Times of India",
+      "publishedAt": "2026-07-03T13:27:00Z",
+      "image": "https://static.toiimg.com/thumb/msid-132162993,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "title_cn": "人工智能阅读一个世纪的太阳草图，揭示太阳活动中隐藏的模式",
+      "description_cn": "科学新闻：孟加拉国：人工智能通过分析Kodaikana的手绘观察结果帮助科学家解开了太阳一个世纪的历史。"
+    },
+    {
+      "title": "In 1958, Frank Rosenblatt unveiled the Perceptron in New York, laying the groundwork for image recognition in modern AI",
+      "description": "Tech News News: Discover how Frank Rosenblatt's 1958 invention, the Perceptron, laid the foundational principles that shaped modern artificial intelligence and computer vision, enabling machines to learn from data.",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/in-1958-frank-rosenblatt-unveiled-the-perceptron-in-new-york-laying-the-groundwork-for-image-recognition-in-modern-ai/articleshow/132134321.cms",
+      "source": "Times of India",
+      "publishedAt": "2026-07-03T13:07:00Z",
+      "image": "https://static.toiimg.com/thumb/msid-132134356,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "title_cn": "1958年，Frank Rosenblatt在纽约推出了Perceptron，为现代AI中的图像识别奠定了基础。",
+      "description_cn": "科技新闻新闻：了解弗兰克·罗森布拉特（Frank Rosenblatt）1958年的发明感知器（Perceptron）如何奠定了塑造现代人工智能和计算机视觉的基本原则，使机器能够从数据中学习。"
+    },
+    {
+      "title": "AI hiring outpaces overall IT recruitment in India: report",
+      "description": "India's IT sector is prioritising artificial intelligence (AI) hiring, with AI roles seeing a 16% year-on-year surge in June, contrasting with an overall 3% decline in IT jobs. India's $315 billion IT industry has been under pressure with clients holding back on spending on technology due to ​a weak macroeconomic environment and the ⁠advent of ‌AI that threatens their traditional business model.",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-hiring-outpaces-overall-it-recruitment-in-india-report/articleshow/132161120.cms",
+      "source": "The Economic Times",
+      "publishedAt": "2026-07-03T12:16:36Z",
+      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-58390,resizemode-75,msid-132161120/tech/artificial-intelligence/ai-hiring-outpaces-overall-it-recruitment-in-india-report.jpg",
+      "title_cn": "报告称，印度人工智能招聘速度超过IT招聘速度",
+      "description_cn": "印度IT行业优先考虑人工智能（AI）招聘，6月份人工智能职位同比激增16%，而IT职位总体下降3%。印度价值3150亿美元的IT行业一直面临着压力，由于宏观经济环境疲软以及DeliverAI的出现威胁到其传统商业模式，客户在技术支出方面有所减少。"
+    },
+    {
+      "title": "NeoProEd Launches to Build India's Next Generation of Insurance & Insurtech Leaders",
+      "description": "Mumbai (Maharashtra) [India], July 3: India's insurance industry is entering one of the most transformative periods in its history. Driven by digital innovation, artificial intelligence, embedded insurance, regulatory reforms, and rapid market expansion, the sector is projected to create thousands of new opportunities over the coming decade. Yet, one challenge continues to threaten this growth, a severe shortage of professionally trained talent.",
+      "url": "https://www.tribuneindia.com/news/business/neoproed-launches-to-build-indias-next-generation-of-insurance-insurtech-leaders/",
+      "source": "The Tribune",
+      "publishedAt": "2026-07-03T11:43:10Z",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTYyNmY2ZDUwLTc2ZDQtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+      "title_cn": "NeoProEd推出打造印度下一代保险和保险科技领导者",
+      "description_cn": "孟买（马哈拉施特拉邦）[印度]，7月3日：印度保险业正在进入其历史上最具变革性的时期之一。在数字创新、人工智能、嵌入式保险、监管改革和快速市场扩张的推动下，该行业预计将在未来十年创造数千个新机会。然而，一个挑战继续威胁着这种增长，那就是专业培训人才的严重短缺。"
+    }
+  ]
+}
