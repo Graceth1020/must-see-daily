@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-07-05T02:13:47Z",
+  "finance": [
+    {
+      "title": "The World Cup sends prediction market volumes soaring to record highs",
+      "summary": "Trading volumes on Kalshi and Polymarket both hit record highs in June. Rothera, a new prediction market platform, was also able to manage $2 billion in volume.",
+      "url": "https://www.cnbc.com/2026/07/04/2026-fifa-world-cup-boosts-prediction-market-volumes.html",
+      "source": "CNBC",
+      "datetime": 1783169644,
+      "image": "https://image.cnbcfm.com/api/v1/image/108270194-1772061798995-gettyimages-2263571474-l1049595_copy_qr8q5yqa.jpeg?v=1776174259&w=1920&h=1080",
+      "title_cn": "世界杯预测市场成交量飙升至历史新高",
+      "summary_cn": "Kalshi和Polymarket的交易量在6月份均创下历史新高。新的预测市场平台Rothera也能够管理20亿美元的交易量。"
+    },
+    {
+      "title": "American Express and Chase move luxury lounge wars beyond the airport",
+      "summary": "Credit card companies are increasingly offering access to lounges and perks at festivals and sporting events, often exclusively for premium cardholders.",
+      "url": "https://www.cnbc.com/2026/07/03/amex-chase-credit-card-lounges.html",
+      "source": "CNBC",
+      "datetime": 1783080001,
+      "image": "https://image.cnbcfm.com/api/v1/image/108325629-1782237470697-Chase_Sundance.jpg?v=1782238002&w=1920&h=1080",
+      "title_cn": "美国运通和大通将豪华休息室之战移至机场以外",
+      "summary_cn": "信用卡公司越来越多地在节日和体育赛事中提供休息室和福利，通常专门针对优质卡持有人。"
+    },
+    {
+      "title": "GE Vernova's gas turbines aren't the only way it's winning from the AI boom",
+      "summary": "Electrification secured $2.4 billion in data center equipment orders during the first quarter of 2026, beating the segment's total for all of 2025.",
+      "url": "https://www.cnbc.com/2026/07/02/ge-vernovas-gas-turbines-arent-the-only-way-its-winning-from-the-ai-boom.html",
+      "source": "CNBC",
+      "datetime": 1783014246,
+      "image": "https://image.cnbcfm.com/api/v1/image/108176344-1753363274481-gettyimages-2225995478-img_9514.jpeg?v=1773056285&w=1920&h=1080",
+      "title_cn": "GE Vernova的燃气涡轮机并不是其从人工智能热潮中获胜的唯一方式",
+      "summary_cn": "2026年第一季度，电气化获得了24亿美元的数据中心设备订单，超过了该部门2025年全年的订单总额。"
+    },
+    {
+      "title": "Married Americans tend to be wealthier and happier. Gen Z is forgoing the institution anyway",
+      "summary": "Gen Z defines the American Dream as having financial stability and being happy. Marriage could help them reach both of those goals, but many aren't sold on it.",
+      "url": "https://www.cnbc.com/2026/07/02/gen-z-marriage-rates-american-dream.html",
+      "source": "CNBC",
+      "datetime": 1783010067,
+      "image": "https://image.cnbcfm.com/api/v1/image/108329500-1782930439205-Sarah_Wu_wedding.jpg?v=1783006852&w=1920&h=1080",
+      "title_cn": "已婚的美国人往往更富有、更幸福。无论如何，Z世代都会放弃该机构",
+      "summary_cn": "Z世代将美国梦定义为拥有财务稳定和幸福。婚姻可以帮助他们实现这两个目标，但许多人并不买账。"
+    },
+    {
+      "title": "Premier Lacrosse League plans to bring in team owners by 2028 'or soon thereafter,' co-founder says",
+      "summary": "Paul Rabil told CNBC he's banking on the 2028 Los Angeles Summer Games, where lacrosse will return as an Olympic sport, to shine a spotlight on PLL.",
+      "url": "https://www.cnbc.com/2026/07/02/premier-lacrosse-league-team-ownership.html",
+      "source": "CNBC",
+      "datetime": 1783009411,
+      "image": "https://image.cnbcfm.com/api/v1/image/107276661-1690324979810-NUP_202060_00911.jpg?v=1690381544&w=1920&h=1080",
+      "title_cn": "联合创始人表示，英超曲棍球联盟计划在2028年或之后不久引入球队老板",
+      "summary_cn": "保罗·拉比尔（Paul Rabil）告诉CNBC，他指望2028年洛杉矶夏季奥运会上长曲棍球将重新成为奥运项目，从而成为PLL的焦点。"
+    }
+  ],
+  "ai": [
+    {
+      "title": "Can digital twins help athletes win? How AI is changing sport",
+      "description": "Sports News: One of the biggest stories of this year’s football World Cup isn’t just about star players but about how artificial intelligence is changing The Beaut.",
+      "url": "https://timesofindia.indiatimes.com/toi-plus/sports/can-digital-twins-help-athletes-win-how-ai-is-changing-sport/articleshow/132182420.cms",
+      "source": "Times of India",
+      "publishedAt": "2026-07-04T13:31:00Z",
+      "image": "https://static.toiimg.com/thumb/msid-132182416,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "title_cn": "数字双胞胎能否帮助运动员获胜？人工智能如何改变体育运动",
+      "description_cn": "体育新闻：今年足球世界杯上最大的新闻之一不仅是关于明星球员的，还涉及人工智能如何改变The Beaut。"
+    },
+    {
+      "title": "Questioning leadership in the Age of AI: Why human skills may matter more than ever",
+      "description": "Experts at the Jaipuria Institute of Management's international conference addressed the profound impact of Artificial Intelligence on the modern world",
+      "url": "https://www.theweek.in/news/sci-tech/2026/07/04/questioning-leadership-in-the-age-of-ai-why-human-skills-may-matter-more-than-ever.html",
+      "source": "THE WEEK",
+      "publishedAt": "2026-07-04T13:09:14Z",
+      "image": "https://img.theweek.in/content/dam/week/en/archive/news/sci-tech/images/2026/7/4/aim-peace-summit.jpg",
+      "title_cn": "质疑人工智能时代的领导力：为什么人类技能可能比以往任何时候都更重要",
+      "description_cn": "贾普里亚管理学院国际会议的专家探讨了人工智能对现代世界的深远影响"
+    },
+    {
+      "title": "43% Indian firms use AI, but workforce readiness still lags",
+      "description": "Aon's Human Capital Trends Study found 43% of Indian organisations have deployed artificial intelligence, with another 20% piloting it. The findings show adoption is rising faster than workforce readiness and benefits alignment.",
+      "url": "https://www.indiatoday.in/jobs/story/workforce-readiness-in-the-age-of-ai-43-indian-firms-use-ai-but-people-lack-skills-educ-2940523-2026-07-04",
+      "source": "India Today",
+      "publishedAt": "2026-07-04T10:57:33Z",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/ai-202121694-16x9.png?VersionId=I23uEvZkniXXyUEIl5PhUXqIAR7FA6BZ",
+      "title_cn": "43%的印度公司使用人工智能，但劳动力准备状况仍然滞后",
+      "description_cn": "怡安的人力资本趋势研究发现，43%的印度组织已经部署了人工智能，另有20%正在进行试点。研究结果显示，采用率的增长速度快于劳动力准备和福利调整。"
+    },
+    {
+      "title": "Indian IT firms likely to report muted Q1 growth amid AI spending, macro uncertainty",
+      "description": "India's Information Technology (IT) companies are expected to report another quarter of subdued earnings growth despite seasonal strength, due to client-specific issues, weakness in select verticals and geopolitical uncertainty. Addressable tech spending in Indian IT companies is expected to remain softer year-on-year as enterprises redirect technology budgets towards artificial intelligence (AI) initiatives and Global Capability Centres (GCCs), according to a report by Systematix Research.",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/indian-it-firms-likely-to-report-muted-q1-growth-amid-ai-spending-macro-uncertainty/articleshow/132179121.cms",
+      "source": "The Economic Times",
+      "publishedAt": "2026-07-04T10:05:27Z",
+      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-146428,resizemode-75,msid-132179121/tech/artificial-intelligence/indian-it-firms-likely-to-report-muted-q1-growth-amid-ai-spending-macro-uncertainty.jpg",
+      "title_cn": "由于人工智能支出和宏观不确定性，印度IT公司可能报告第一季度增长疲软",
+      "description_cn": "尽管由于客户特定问题、特定垂直行业疲软和地缘政治不确定性，印度信息技术（IT）公司预计将报告另一个季度的盈利增长疲软，但季节性强劲。根据Systematix Research的一份报告，随着企业将技术预算转向人工智能（AI）计划和全球能力中心（BCC），印度IT公司的可解决技术支出预计将同比保持疲软。"
+    },
+    {
+      "title": "Salinas: City Launches Ai Virtual Assistant To Help Residents Access City Services",
+      "description": "The City of Salinas has launched an artificial intelligence-powered virtual assistant designed to help residents quickly access information about city services, permits, and other resources, city...",
+      "url": "https://www.sfgate.com/news/bayarea/article/salinas-city-launches-ai-virtual-assistant-to-22332518.php",
+      "source": "SFGATE",
+      "publishedAt": "2026-07-04T10:05:02Z",
+      "image": "https://s.hdnux.com/photos/01/66/60/25/31130960/3/rawImage.jpg",
+      "title_cn": "萨利纳斯：城市推出AI虚拟助手帮助居民获取城市服务",
+      "description_cn": "萨利纳斯市推出了一款人工智能驱动的虚拟助理，旨在帮助居民快速访问有关城市服务、许可证和其他资源、城市."
+    }
+  ]
+}
