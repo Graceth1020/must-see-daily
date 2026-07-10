@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-07-10T02:06:20Z",
+  "finance": [
+    {
+      "title": "A huge trade just happened on the Nasdaq 100. Bulls are taking notice",
+      "summary": "Tech bulls may not have to wait much longer for fresh highs, if the single-biggest trade in the Invesco QQQ Trust ETF on Thursday is any indication.",
+      "url": "https://www.cnbc.com/2026/07/09/a-huge-trade-just-happened-on-the-nasdaq-100-bulls-are-taking-notice.html",
+      "source": "CNBC",
+      "datetime": 1783625204,
+      "image": "https://image.cnbcfm.com/api/v1/image/108321995-1781537897825-gettyimages-2281132540-US_STOCKS.jpeg?v=1781537918&w=1920&h=1080",
+      "title_cn": "纳斯达克100指数刚刚发生了一笔巨额交易。公牛队已经注意到了",
+      "summary_cn": "如果周四Invesco QQQ Trust ETF的单笔最大交易有任何迹象的话，科技股看涨者可能不必等待太久就能达到新高。"
+    },
+    {
+      "title": "It's a jam-packed afternoon of developments impacting 7 portfolio stocks",
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "url": "https://www.cnbc.com/2026/07/09/its-a-jam-packed-afternoon-of-developments-impacting-7-portfolio-stocks.html",
+      "source": "CNBC",
+      "datetime": 1783624566,
+      "image": "https://image.cnbcfm.com/api/v1/image/108285632-1774986309800-cnbc_versant_share.png?v=1774986411&w=1920&h=1080",
+      "title_cn": "这是一个拥挤的下午，事态发展影响了7只投资组合股票",
+      "summary_cn": "每个工作日，投资俱乐部都会发布最后冲刺;这是一个可操作的下午更新，正好赶上交易的最后一个小时。"
+    },
+    {
+      "title": "Why Salesforce is staying in the portfolio despite a harsh analyst downgrade",
+      "summary": "Jim Cramer isn't ready to give up on Salesforce after KeyBanc downgraded the stock",
+      "url": "https://www.cnbc.com/2026/07/09/why-salesforce-is-staying-in-the-portfolio-despite-a-harsh-analyst-downgrade-.html",
+      "source": "CNBC",
+      "datetime": 1783622365,
+      "image": "https://image.cnbcfm.com/api/v1/image/108234579-17646115872025-08-05t195108z_1314011154_rc271gaqylwe_rtrmadp_0_salesforce-m-a-informatica.jpeg?v=1764611610&w=1920&h=1080",
+      "title_cn": "为什么尽管分析师大幅下调，Salesforce仍留在投资组合中",
+      "summary_cn": "在KeyBanc下调Salesforce股票评级后，Jim Cramer还没有准备好放弃Salesforce"
+    },
+    {
+      "title": "Kalshi traders think gas prices will stay higher for longer as U.S.-Iran tensions heat back up",
+      "summary": "Odds that gas prices are above $3.50 on Election Day in November have jumped to 75% on the platform.",
+      "url": "https://www.cnbc.com/2026/07/09/kalshi-traders-see-higher-gas-prices-lasting-through-election-day.html",
+      "source": "CNBC",
+      "datetime": 1783620682,
+      "image": "https://image.cnbcfm.com/api/v1/image/108319444-1781094392933-gettyimages-2280774851-l1062155_copy_gnzahb1j.jpeg?v=1781094437&w=1920&h=1080",
+      "title_cn": "卡尔什交易员认为，随着美国的增长，天然气价格将在更长时间内保持高位。伊朗紧张局势再次升温",
+      "summary_cn": "该平台上11月选举日汽油价格高于3.50美元的可能性已跃升至75%。"
+    },
+    {
+      "title": "Action-starved traders look to small-cap stocks for the next big move",
+      "summary": "One of the biggest options trades in the entire market Thursday seems to suggest small caps might lead the next move up or down.",
+      "url": "https://www.cnbc.com/2026/07/09/action-starved-traders-look-to-small-cap-stocks-for-the-next-big-move.html",
+      "source": "CNBC",
+      "datetime": 1783619887,
+      "image": "https://image.cnbcfm.com/api/v1/image/108225739-1763069044931-gettyimages-2245970622-CBOE_MARKETS.jpeg?v=1763069102&w=1920&h=1080",
+      "title_cn": "缺乏资金的交易员将目光投向小盘股以寻求下一个大动作",
+      "summary_cn": "周四整个市场上最大的期权交易之一似乎表明小盘股可能引领下一步的上涨或下跌。"
+    }
+  ],
+  "ai": [
+    {
+      "title": "Meta jumps into AI coding market to chase Anthropic and OpenAI",
+      "description": "Meta is upgrading its Muse Spark artificial intelligence model under the leadership of AI chief Alexandr Wang.",
+      "url": "https://www.cnbc.com/2026/07/09/meta-jumps-into-ai-coding-market-to-chase-anthropic-and-openai.html",
+      "source": "CNBC",
+      "publishedAt": "2026-07-09T14:00:01Z",
+      "image": "https://image.cnbcfm.com/api/v1/image/108317329-1780663279355-gettyimages-2279132083-BLOOMBERG_TECH.jpeg?v=1780663408&w=1920&h=1080",
+      "title_cn": "Meta进军人工智能编码市场追逐Anthropic和OpenAI",
+      "description_cn": "Meta正在人工智能首席执行官Alexandr Wang的领导下升级其Muse Spark人工智能模型。"
+    },
+    {
+      "title": "UN digital tech agency launches initiative to improve trust in AI agents",
+      "description": "GENEVA, July 9 (Reuters) - The United Nation's agency for ⁠digital technologies on Thursday announced a new initiative ‌to improve the trust of artificial intelligence agents, as increasingly autonomous AI systems raise concerns about accountability and human oversight.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/07/09/un-digital-tech-agency-launches-initiative-to-improve-trust-in-ai-agents",
+      "source": "The Star",
+      "publishedAt": "2026-07-09T13:44:00Z",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/07/09/4001831.jpg",
+      "title_cn": "联合国数字技术机构发起倡议以提高对人工智能代理的信任度",
+      "description_cn": "日内瓦，7月9日（路透社）--联合国数字技术机构周四宣布了一项新举措，旨在提高人工智能代理人的信任度，因为越来越自主的人工智能系统引发了人们对问责制和人类监督的担忧。"
+    },
+    {
+      "title": "US crackdown on top AI fuels open-source surge",
+      "description": "NEW YORK — The US government's shock moves to restrict access to top artificial intelligence systems from Anthropic and OpenAI have sparked growing interest in open-source models -- especially ones from China.",
+      "url": "https://www.manilatimes.net/2026/07/09/world/us-crackdown-on-top-ai-fuels-open-source-surge/2381713",
+      "source": "The Manila Times",
+      "publishedAt": "2026-07-09T13:35:00Z",
+      "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/09/1131350.jpg",
+      "title_cn": "美国对顶级人工智能的打击推动开源热潮",
+      "description_cn": "纽约--美国政府限制访问Anthropic和OpenAI顶级人工智能系统的令人震惊的举措，引发了人们对开源模型的兴趣，尤其是来自中国的模型。"
+    },
+    {
+      "title": "How AI chatbots talking to each other about religion and their human 'handlers' gave scientists a glimpse into how AI agents ...",
+      "description": "Tech News News: A social network built for AI chatbots has given researchers a closer look at artificial intelligence (AI). By watching millions of AI agents interact.",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/how-ai-chatbots-talking-to-each-other-about-religion-and-their-human-handlers-gave-scientists-a-glimpse-into-how-ai-agents-/articleshow/132287921.cms",
+      "source": "Times of India",
+      "publishedAt": "2026-07-09T13:29:00Z",
+      "image": "https://static.toiimg.com/thumb/msid-132288497,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "title_cn": "人工智能聊天机器人如何互相谈论宗教及其人类“处理者”，让科学家们一睹人工智能代理人如何.",
+      "description_cn": "科技新闻新闻：为人工智能聊天机器人构建的社交网络让研究人员更仔细地了解人工智能（AI）。通过观看数百万人工智能代理的互动。"
+    },
+    {
+      "title": "ENvue Medical Unveils Its First Robotic-Assisted, Artificial Intelligence, Feeding Tube Automation Tool",
+      "description": "ENvue Targeting Combined $10 Billion+ Enteral Feeding and Vascular Access Market Opportunity*",
+      "url": "https://www.manilatimes.net/2026/07/09/tmt-newswire/globenewswire/envue-medical-unveils-its-first-robotic-assisted-artificial-intelligence-feeding-tube-automation-tool/2381712",
+      "source": "The Manila Times",
+      "publishedAt": "2026-07-09T13:27:37Z",
+      "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/09/1131349.jpg",
+      "title_cn": "ENvue Medical推出其首款机器人辅助人工智能饲管自动化工具",
+      "description_cn": "ENvue瞄准总价值100亿美元以上的肠内喂养和血管通道市场机会 *"
+    }
+  ]
+}
