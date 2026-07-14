@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-07-14T01:44:57Z",
+  "finance": [
+    {
+      "title": "3 things you need to know about cyclospora",
+      "summary": "Cyclospora, a parasitic infection that can cause weeks of severe diarrhea, is spreading in the U.S. Here's what to know about the disease, and how to stay safe.",
+      "url": "https://www.cnbc.com/2026/07/13/3-things-you-need-to-know-about-cyclospora.html",
+      "source": "CNBC",
+      "datetime": 1783978444,
+      "image": "https://image.cnbcfm.com/api/v1/image/108334377-1783978233201-gettyimages-1358954851-pi-2319966.jpeg?v=1783978346&w=1920&h=1080",
+      "title_cn": "关于环孢菌你需要知道的3件事",
+      "summary_cn": "环孢子虫是一种寄生虫感染，可导致数周的严重腹泻，正在美国蔓延。"
+    },
+    {
+      "title": "Chipotle is opening its first restaurant in Mexico",
+      "summary": "Fast casual chain Chipotle announced Monday that it is opening its first location in Mexico in the Monterrey area.",
+      "url": "https://www.cnbc.com/2026/07/13/chipotle-opening-first-restaurant-in-mexico.html",
+      "source": "CNBC",
+      "datetime": 1783973401,
+      "image": "https://image.cnbcfm.com/api/v1/image/108297767-1777307492105-108297767-1777307359121-gettyimages-2271667195-307029final.jpeg?v=1777307515&w=1920&h=1080",
+      "title_cn": "Chipotle将在墨西哥开设第一家餐厅",
+      "summary_cn": "快速休闲连锁店Chipotle周一宣布，将在墨西哥蒙特雷地区开设第一家门店。"
+    },
+    {
+      "title": "A toxic stew drags stocks lower as we look at what can get the AI trade back on track",
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "url": "https://www.cnbc.com/2026/07/13/a-toxic-stew-drags-stocks-lower-as-we-look-at-what-can-get-the-ai-trade-back-on-track.html",
+      "source": "CNBC",
+      "datetime": 1783969682,
+      "image": "https://image.cnbcfm.com/api/v1/image/108333454-1783696403692-Traders-Photo-20260710-KK-PRESS-023.jpg?v=1783696610&w=1920&h=1080",
+      "title_cn": "当我们研究如何让人工智能交易重回正轨时，有毒的炖菜拖累了股市走低",
+      "summary_cn": "每个工作日，投资俱乐部都会发布最后冲刺;这是一个可操作的下午更新，正好赶上交易的最后一个小时。"
+    },
+    {
+      "title": "UN maritime agency opposes Hormuz transit fees after Trump demands protection money",
+      "summary": "The security situation in Hormuz has deteriorated since Iran attacked multiple commercial ships transiting the strait over the past week.",
+      "url": "https://www.cnbc.com/2026/07/13/imo-maritime-organization-strait-hormuz-tolls-trump-iran.html",
+      "source": "CNBC",
+      "datetime": 1783967284,
+      "image": "https://image.cnbcfm.com/api/v1/image/108330705-17833366872026-07-01t164535z_267159373_rc2kvkadmuk6_rtrmadp_0_global-oil.jpeg?v=1783336748&w=1920&h=1080",
+      "title_cn": "特朗普要求保护费后，联合国海事机构反对霍尔木兹过境费",
+      "summary_cn": "自伊朗过去一周袭击多艘过境该海峡的商船以来，霍尔木兹的安全局势有所恶化。"
+    },
+    {
+      "title": "Jim Cramer's top 10 things to watch in the stock market Monday",
+      "summary": "Chip stocks are selling off, and Apple lands a big price target hike.",
+      "url": "https://www.cnbc.com/2026/07/13/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
+      "source": "CNBC",
+      "datetime": 1783947467,
+      "image": "https://image.cnbcfm.com/api/v1/image/108275886-1773132814203-gettyimages-2210929634-SKOREA_SK_HYNIX.jpeg?v=1779303284&w=1920&h=1080",
+      "title_cn": "吉姆·克莱默（Jim Cramer）周一股市最值得关注的10件事",
+      "summary_cn": "芯片股正在抛售，苹果大幅上调价格目标。"
+    }
+  ],
+  "ai": [
+    {
+      "title": "Meta admits it ‘missed the mark’ on new AI image generator ‘Muse Image’",
+      "description": "A backlash over privacy and image usage spurred by a new Meta artificial intelligence tool released on social media has prompted the company to restrict the new feature less than a week after its rollout. Called “Muse Image,” the AI tool generated images based on people’s public accounts, and any",
+      "url": "https://triblive.com/local/regional/meta-admits-it-missed-the-mark-on-new-ai-image-generator-muse-image/",
+      "source": "Pittsburgh Tribune-Review",
+      "publishedAt": "2026-07-13T13:30:35Z",
+      "image": "https://assets-varnish.triblive.com/2026/07/9751929_web1_9337001-1953e43a7a33404b945c95e1ff85f2f6.jpg",
+      "title_cn": "Meta承认它在新的人工智能图像生成器“Muse Image”上“错过了目标”",
+      "description_cn": "社交媒体上发布的一款新的Meta人工智能工具引发了对隐私和图像使用的强烈反对，促使该公司在推出不到一周后限制了这一新功能。这款人工智能工具名为“Muse Image”，根据人们的公共帐户以及任何"
+    },
+    {
+      "title": "Major Tech Companies Are Betting on Agentic AI. Kraken is Rebuilding Its App Around It.",
+      "description": "Kraken is the latest tech company to place its bets on agentic artificial intelligence. The cryptocurrency exchange company announced that it plans to restructure its entire flagship app around",
+      "url": "https://www.ibtimes.com/major-tech-companies-are-betting-agentic-ai-kraken-rebuilding-its-app-around-it-3805179",
+      "source": "International Business Times",
+      "publishedAt": "2026-07-13T13:26:30Z",
+      "image": "https://d.ibtimes.com/en/full/4650583/arjun-sethi-co-ceo-kraken-payward.jpg",
+      "title_cn": "主要科技公司正在押注大型人工智能。Kraken正在围绕其重建其应用程序。",
+      "description_cn": "Kraken是最新一家押注于代理人工智能的科技公司。这家加密货币交易所公司宣布计划围绕"
+    },
+    {
+      "title": "RISM announces scholarship for top 20% students across its five courses",
+      "description": "New Delhi [India], July 13: Ramaiah Institute of Science and Management (RISM), an internationally linked and industry-aligned institution, announces scholarship for top 20% students across its courses in B.Tech in Computer Science & Artificial Intelligence (60 seats), B.Tech in Electronics Engineering (VLSI Design and Technologies) (60 seats), B.Tech in Electronics & Computer Engineering (60 seats), B.Tech in Aerospace Engineering (60 seats) and Bachelor of Business Administration (60 seats). Eligible students in each program are entitled to an 80% scholarship on the applicable tuition fee.",
+      "url": "https://www.tribuneindia.com/news/business/rism-announces-scholarship-for-top-20-students-across-its-five-courses/",
+      "source": "The Tribune",
+      "publishedAt": "2026-07-13T12:23:12Z",
+      "image": "https://publish.tribuneindia.com/wp-content/uploads/2026/07/ANI-20260713122158.jpg",
+      "title_cn": "Rism宣布为其五门课程中排名前20%的学生提供奖学金",
+      "description_cn": "新德里[印度]，7月13日：拉马亚科学与管理学院（RISM）是一所具有国际联系和行业一致的机构，宣布为其计算机科学与人工智能B技术课程中排名前20%的学生提供奖学金（60个席位）、电子工程技术学士（超大规模集成电路设计与技术）（60个席位）、电子与计算机工程技术学士（60个席位）、航空航天工程技术学士（60个席位）和工商管理学士（60个席位）。每个项目的符合条件的学生都有权获得适用学费的80%奖学金。"
+    },
+    {
+      "title": "The importance of human review in AI-driven physicians' documentation",
+      "description": "Artificial intelligence in clinical settings is becoming more common. AI speech-to-text had a moment in the spotlight on the medical drama series \"The Pitt\" earlier this year. \"Studies show that you can spend 80% less time charting,\" says character Baran Al-Hashimi, a doctor showing her peers a new AI speech-to-text tool. But a skeptical colleague raised concerns after the tool misheard the name of a patient's medication.",
+      "url": "https://medicalxpress.com/news/2026-07-importance-human-ai-driven-physicians.html",
+      "source": "Medical Xpress",
+      "publishedAt": "2026-07-13T12:00:03Z",
+      "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/typing-keyboard-doctor.jpg",
+      "title_cn": "人工审查在人工智能驱动的医生文档中的重要性",
+      "description_cn": "临床环境中的人工智能正变得越来越普遍。今年早些时候，人工智能语音转文本在医疗剧《皮特》中成为人们关注的焦点。“研究表明，绘制图表的时间可以减少80%，”角色Baran Al-Hashimi说道，她是一位医生，她向同龄人展示了一种新的人工智能语音转文本工具。但一位持怀疑态度的同事在该工具误读了患者药物的名称后提出了担忧。"
+    },
+    {
+      "title": "Massive AI buildout poses latest inflation threat as consumers pay more",
+      "description": "The gusher of investment in data centers — likely topping $700 billion this year — to power artificial intelligence has made memory chips, computer processors and other equipment, as well as electricity, more expensive.",
+      "url": "https://www.bnnbloomberg.ca/business/international/2026/07/13/massive-ai-buildout-poses-latest-inflation-threat-as-us-consumers-pay-more-for-laptops-and-electricity/",
+      "source": "Bnn Bloomberg",
+      "publishedAt": "2026-07-13T11:46:24Z",
+      "image": "https://www.bnnbloomberg.ca/resizer/v2/UDJP3KDCDMEKUBFFZK624OYDNQ.jpg?smart=true&auth=9d7e23165a552859eccb0ad3be93891015971c8624f56f0ca9726c5c2549516c&width=1200&height=630",
+      "title_cn": "随着消费者支付更多费用，大规模人工智能建设构成了最新的通胀威胁",
+      "description_cn": "为支持人工智能而对数据中心的大量投资（今年可能超过7000亿美元）使存储芯片、计算机处理器和其他设备以及电力变得更加昂贵。"
+    }
+  ]
+}
