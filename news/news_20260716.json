@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-07-16T01:51:07Z",
+  "finance": [
+    {
+      "title": "Kalshi traders see gas prices crossing $4 by end of July",
+      "summary": "Like last month's average, Kalshi traders see gas prices surpassing $4 by the end of July.",
+      "url": "https://www.cnbc.com/2026/07/15/kalshi-traders-see-gas-prices-crossing-4-by-end-of-july-.html",
+      "source": "CNBC",
+      "datetime": 1784149863,
+      "image": "https://image.cnbcfm.com/api/v1/image/108332317-1783537477738-gettyimages-2268972383-pruebasgetty-3.jpeg?v=1783537529&w=1920&h=1080",
+      "title_cn": "卡尔什交易员预计天然气价格将在7月底突破4美元",
+      "summary_cn": "与上个月的平均水平一样，卡尔什交易员预计到7月底天然气价格将超过4美元。"
+    },
+    {
+      "title": "Apple's China breakthrough on AI provides another tailwind for its stock",
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "url": "https://www.cnbc.com/2026/07/15/apples-china-breakthrough-provides-another-tailwind-for-its-stock.html",
+      "source": "CNBC",
+      "datetime": 1784140571,
+      "image": "https://image.cnbcfm.com/api/v1/image/108154695-1749059877197-gettyimages-2218620083-img_5063.jpeg?v=1753882185&w=1920&h=1080",
+      "title_cn": "苹果在中国的人工智能突破为其股票提供了另一个顺风",
+      "summary_cn": "每个工作日，投资俱乐部都会发布最后冲刺;这是一个可操作的下午更新，正好赶上交易的最后一个小时。"
+    },
+    {
+      "title": "SpaceX stock sinks below $135 IPO price for the first time",
+      "summary": "SpaceX shares fell for a fourth-straight session on Wednesday days after entering the Nasdaq-100",
+      "url": "https://www.cnbc.com/2026/07/15/spacex-spcx-stock-ipo-price.html",
+      "source": "CNBC",
+      "datetime": 1784132064,
+      "image": "https://image.cnbcfm.com/api/v1/image/108321427-17812944442026-06-12t195341z_549671259_rc2fsla0hs71_rtrmadp_0_spacex-ipo.jpeg?v=1781294475&w=1920&h=1080",
+      "title_cn": "SpaceX股价首次跌破135美元IPO价格",
+      "summary_cn": "SpaceX股价在进入纳斯达克100指数后周三连续第四个交易日下跌"
+    },
+    {
+      "title": "Jim Cramer sees more upside for Goldman and addresses Wells Fargo's biggest question",
+      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "url": "https://www.cnbc.com/2026/07/15/jim-cramer-on-goldman-sachs-wells-fargo-earnings.html",
+      "source": "CNBC",
+      "datetime": 1784129389,
+      "image": "https://image.cnbcfm.com/api/v1/image/108252620-1768422088595-gettyimages-2256294668-_75a7556_kx08wekc.jpeg?v=1768422202&w=1920&h=1080",
+      "title_cn": "吉姆·克莱默（Jim Cramer）看到了高盛的更多好处，并解决了富国银行的最大问题",
+      "summary_cn": "投资俱乐部每个工作日上午10：20举行“晨会”。"
+    },
+    {
+      "title": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
+      "summary": "ASML delivered a blowout quarter, and the June wholesale inflation report was softer than expected.",
+      "url": "https://www.cnbc.com/2026/07/15/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
+      "source": "CNBC",
+      "datetime": 1784121370,
+      "image": "https://image.cnbcfm.com/api/v1/image/108229403-17636661312025-11-20t191219z_412767202_rc2h0iarqagm_rtrmadp_0_tech-asml-phoenix.jpeg?v=1763666203&w=1920&h=1080",
+      "title_cn": "吉姆·克莱默（Jim Cramer）周三股市最值得关注的10件事",
+      "summary_cn": "ASML季度业绩井喷，6月份批发通胀报告弱于预期。"
+    }
+  ],
+  "ai": [
+    {
+      "title": "Major supermarket chain testing human-sized robot that roams the aisles for gaps",
+      "description": "The machine independently roams the aisles using artificial intelligence, computer vision and advanced sensors to continuously monitor shelves without staff having to carry out manual checks",
+      "url": "https://www.dailystar.co.uk/news/latest-news/major-supermarket-chain-testing-human-37434586",
+      "source": "The daily Star",
+      "publishedAt": "2026-07-15T13:48:04Z",
+      "image": "https://i2-prod.dailystar.co.uk/article37434857.ece/ALTERNATES/s1200d/0_Tesco-trials-AI-powered-robot-that-scans-aisles-for-missing-stock-and-pricing-mistakes.jpg",
+      "title_cn": "大型连锁超市测试人类大小的机器人，在过道中漫游以寻找间隙",
+      "description_cn": "该机器利用人工智能、计算机视觉和先进的传感器独立在过道中漫游，连续监控货架，而无需工作人员进行手动检查"
+    },
+    {
+      "title": "Delhi's AI Education Push: Ashish Sood on Preparing Students for Tomorrow",
+      "description": "Education Minister of Delhi Ashish Sood speaks to Zenaira Bakhsh about artificial intelligence (AI) literacy, digital classrooms, teachers’ training and the ongoing efforts to prepare students for an AI-driven future. He also addressed broader national debates, including the three-language formula under the National Education Policy (NEP) and the recent exam-paper leaks. Edited excerpts:",
+      "url": "https://www.outlookindia.com/education/exclusive-delhis-ai-education-push-ashish-sood-on-preparing-students-for-tomorrow",
+      "source": "Outlook India",
+      "publishedAt": "2026-07-15T13:45:35Z",
+      "image": "https://cf-images.assettype.com/outlookindia/2026-07-14/6gd0ogfl/ashishsood120260803.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "title_cn": "德里的人工智能教育推动：Ashish Sood为明天的学生做好准备",
+      "description_cn": "德里教育部长Ashish Sood与Zenaira Bakhsh谈论了人工智能（AI）扫盲、数字课堂、教师培训以及为学生为人工智能驱动的未来做好准备的持续努力。他还谈到了更广泛的全国性辩论，包括国家教育政策（NEP）下的三语言公式和最近的试卷泄露事件。编辑摘录："
+    },
+    {
+      "title": "Google DeepMind CEO warns of safety risks",
+      "description": "Google DeepMind CEO Demis Hassabis predicts Artificial General Intelligence could arrive within five years but warns of risks without proper safety measures. He calls for global standards to prevent misuse in cybersecurity, biothreats and beyond, comparing AGI’s impact to fire or electricity.",
+      "url": "https://www.deccanherald.com/technology/artificial-intelligence/artificial-general-intelligence-just-few-years-away-but-needs-safety-guardrails-says-google-deepmind-ceo-4074691",
+      "source": "Deccan Herald",
+      "publishedAt": "2026-07-15T13:43:56Z",
+      "image": "https://media.assettype.com/deccanherald%2F2026-07-15%2Fg5bqh1l7%2F2025newsmlRC2YLEAR5K9S231704670.jpeg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
+      "title_cn": "Google DeepMind首席执行官警告安全风险",
+      "description_cn": "Google DeepMind首席执行官Demis Hassabis预测人工通用智能可能会在五年内问世，但警告称，如果没有适当的安全措施，可能存在风险。他呼吁制定全球标准，防止网络安全、生物威胁等领域的滥用，并将AGI的影响与火灾或电力进行了比较。"
+    },
+    {
+      "title": "George Lucas says AI makes it ‘much easier’ to make movies.",
+      "description": "In an interview with A Rabbit’s Foot, the man who loves pushing technological boundries enough to anger his fans with controversial remasters had this to say about people who oppose artificial intelligence in film making:\n> “It’s very much like sitting here saying, ‘Well, I believe the horse and the buggy is really where it’s at. These cars, they break down, they need gas, there’s all kinds of problems with them and pretty soon they’ll be making them into tanks, and then they’ll be killing people. It’s terrible.’ There’s nothing you can do about it. That’s progress, it’s the future.”",
+      "url": "https://www.theverge.com/entertainment/965908/george-lucas-says-ai-makes-it-much-easier-to-make-movies",
+      "source": "The Verge",
+      "publishedAt": "2026-07-15T13:40:32Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
+      "title_cn": "乔治·卢卡斯表示，人工智能让制作电影变得“容易得多”。",
+      "description_cn": "在接受《兔子脚》采访时，这位喜欢突破技术界限，以至于用有争议的重制版激怒粉丝的人对那些反对电影制作中人工智能的人这样说道：\n'这就像坐在这里说，‘好吧，我相信马和马车真的就在那里。这些汽车，它们会抛锚，需要汽油，它们有各种问题，很快它们就会把它们制成坦克，然后它们就会杀人。太可怕了。'你对此无能为力。这是进步，这是未来。”"
+    },
+    {
+      "title": "Technology stocks lead markets higher",
+      "description": "Technology stocks are leading markets higher worldwide as winners of the artificial-intelligence boom gather more strength following several shaky weeks",
+      "url": "https://www.barchart.com/story/news/3287131/technology-stocks-lead-markets-higher",
+      "source": "Barchart",
+      "publishedAt": "2026-07-15T13:36:56Z",
+      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/293941e45da44dc686f6c4c202ce9ddf/293941e45da44dc686f6c4c202ce9ddf_main_financial_markets_wall_street_45771.jpg",
+      "title_cn": "科技股领涨市场",
+      "description_cn": "随着人工智能热潮的赢家在经历了几周的动荡后增强了实力，科技股引领全球市场走高"
+    }
+  ]
+}
