@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-07-17T01:54:51Z",
+  "finance": [
+    {
+      "title": "Microsoft's Nadella rips Anthropic's Fable restrictions in staff meeting: 'Doesn't make sense'",
+      "summary": "Microsoft enjoys close ties to Anthropic, but it's also working to help companies refine models that keep their data private.",
+      "url": "https://www.cnbc.com/2026/07/16/microsoft-ceo-says-anthropic-fable-request-policy-doesnt-make-sense.html",
+      "source": "CNBC",
+      "datetime": 1784242272,
+      "image": "https://image.cnbcfm.com/api/v1/image/108336282-1784236796440-gettyimages-2262969470-20090101260225-99-646957.jpeg?v=1784237080&w=1920&h=1080",
+      "title_cn": "微软纳德拉在员工会议上撕毁Anthropic的寓言限制：“没有意义”",
+      "summary_cn": "微软与Anthropic关系密切，但它也在努力帮助公司完善保持数据保密的模型。"
+    },
+    {
+      "title": "Here's a rapid-fire update on our stock portfolio, including the 5 names to buy",
+      "summary": "Jim Cramer and Jeff Marks offered their latest thoughts on the Investing Club's portfolio during the July Monthly Meeting.",
+      "url": "https://www.cnbc.com/2026/07/16/heres-a-rapid-fire-update-on-our-stock-portfolio-including-the-5-names-to-buy.html",
+      "source": "CNBC",
+      "datetime": 1784227806,
+      "image": "https://image.cnbcfm.com/api/v1/image/107090863-1658245353699-NUP_198367_01036_copy.jpg?v=1697057303&w=1920&h=1080",
+      "title_cn": "以下是我们股票投资组合的快速更新，包括要购买的5个名字",
+      "summary_cn": "吉姆·克莱默（Jim Cramer）和杰夫·马克斯（Jeff Marks）在七月月度会议上提出了他们对投资俱乐部投资组合的最新看法。"
+    },
+    {
+      "title": "We're trimming our hedge on lower rates, which may take longer to materialize",
+      "summary": "While we think it a great \"house,\" it is unfortunately in an awful \"neighborhood.\"",
+      "url": "https://www.cnbc.com/2026/07/16/were-trimming-our-hedge-on-lower-rates-which-may-take-longer-to-materialize.html",
+      "source": "CNBC",
+      "datetime": 1784226040,
+      "image": "https://image.cnbcfm.com/api/v1/image/108188210-1755631806310-gettyimages-2230998652-l1020379_copy_b9bfqd2q.jpeg?v=1755631877&w=1920&h=1080",
+      "title_cn": "我们正在削减对较低利率的对冲，这可能需要更长的时间才能实现",
+      "summary_cn": "虽然我们认为这是一座很棒的“房子”，但不幸的是，它位于一个糟糕的“社区”中。\""
+    },
+    {
+      "title": "How a nightmare from my hedge fund days informs my current market view",
+      "summary": "I started Thursday's July Monthly Meeting of the CNBC Investing Club with Sunday's nightmare.",
+      "url": "https://www.cnbc.com/2026/07/16/cramer-a-nightmare-from-my-hedge-fund-days-informs-my-current-view.html",
+      "source": "CNBC",
+      "datetime": 1784223619,
+      "image": "https://image.cnbcfm.com/api/v1/image/107090827-1658244188400-NUP_198367_00579_copy.jpg?v=1677527449&w=1920&h=1080",
+      "title_cn": "我对冲基金时代的噩梦如何影响我目前的市场观点",
+      "summary_cn": "周四，我以周日的噩梦开始了CNBC投资俱乐部七月月度会议。"
+    },
+    {
+      "title": "42% of adults rely on their parents for financial support—there are no 'bad guys' here, says financial therapist",
+      "summary": "Parents can maximize the impact of their support by ensuring their gifts alleviate financial stress or help their kids move closer to their long-term goals.",
+      "url": "https://www.cnbc.com/2026/07/16/42percent-of-adults-rely-on-their-parents-for-financial-supportthere-are-no-bad-guys-here-says-financial-therapist.html",
+      "source": "CNBC",
+      "datetime": 1784219401,
+      "image": "https://image.cnbcfm.com/api/v1/image/106877435-1620063592262-gettyimages-1160943786-2018_09_17_best_ager_j13_1828.jpeg?v=1620063622&w=1920&h=1080",
+      "title_cn": "42%的成年人依靠父母提供经济支持--经济治疗师表示，这里没有“坏人”",
+      "summary_cn": "父母可以通过确保他们的礼物缓解经济压力或帮助孩子更接近他们的长期目标来最大限度地发挥支持的影响。"
+    }
+  ],
+  "ai": [
+    {
+      "title": "AI stocks slump again, while oil prices keep climbing",
+      "description": "Computer chipmakers and other winners of the artificial-intelligence boom are swinging lower again and weighing on stock markets worldwide",
+      "url": "https://www.barchart.com/story/news/3308907/ai-stocks-slump-again-while-oil-prices-keep-rising",
+      "source": "Barchart",
+      "publishedAt": "2026-07-16T13:51:37Z",
+      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/600e69ef37304799a9fc7204348a04de/600e69ef37304799a9fc7204348a04de_main_financial_markets_wall_street_78242.jpg",
+      "title_cn": "人工智能股再次暴跌，油价持续攀升",
+      "description_cn": "计算机芯片制造商和人工智能繁荣的其他赢家再次走低，并给全球股市带来压力"
+    },
+    {
+      "title": "AI helps nurses stay one step ahead in chronic disease care, new review finds",
+      "description": "Artificial intelligence (AI) is helping nurses better predict health problems before they become emergencies, according to a new review of existing research published in JMIR Nursing. The study found that AI-based nursing interventions can improve the care of people living with chronic illnesses by identifying patients at greater risk of complications, reducing unplanned hospital visits and potentially lowering health care costs.",
+      "url": "https://medicalxpress.com/news/2026-07-ai-nurses-stay-chronic-disease.html",
+      "source": "Medical Xpress",
+      "publishedAt": "2026-07-16T13:50:01Z",
+      "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/ai-helps-nurses-stay-o.jpg",
+      "title_cn": "新审查发现，人工智能帮助护士在慢性病护理方面领先一步",
+      "description_cn": "根据JMIR Nursing上发表的对现有研究的新评论，人工智能（AI）正在帮助护士在健康问题成为紧急情况之前更好地预测它们。研究发现，基于人工智能的护理干预措施可以通过识别并发症风险较高的患者、减少计划外就诊并可能降低医疗保健成本来改善慢性病患者的护理。"
+    },
+    {
+      "title": "National Bank από Greece Sees Greek SMEs Holding Their Nerve: Investment Resilience Meets the AI Revolution",
+      "description": "Despite geopolitical uncertainty, Greek SMEs are keeping investment plans alive while Artificial Intelligence emerges as the country's next competitive advantage. National Bank of Greece Sees Greek SMEs Holding Their Nerve: Investment Resilience Meets the AI Revolution",
+      "url": "https://www.pagenews.gr/2026/07/16/english-edition/national-bank-of-greece-sees-greek-smes-holding-their-nerve-investment-resilience-meets-the-ai-revolution/",
+      "source": "Pagenews.gr",
+      "publishedAt": "2026-07-16T13:33:28Z",
+      "image": "https://www.pagenews.gr/wp-content/uploads/2026/07/ethniki-1200x630.jpg",
+      "title_cn": "希腊国家银行a pi希腊看到希腊中小企业保持冷静：投资韧性迎接人工智能革命",
+      "description_cn": "尽管地缘政治存在不确定性，但希腊中小企业仍在维持投资计划，而人工智能则成为该国的下一个竞争优势。希腊国家银行看到希腊中小企业保持冷静：投资韧性迎接人工智能革命"
+    },
+    {
+      "title": "Early chip earnings reporters showing how high the bar really is",
+      "description": "Wall Street will have to buckle up this earnings season, based on the early reports tied to the artificial intelligence trade.",
+      "url": "https://www.cnbc.com/2026/07/16/early-chip-earnings-reporters-showing-how-high-the-bar-really-is.html",
+      "source": "CNBC",
+      "publishedAt": "2026-07-16T13:32:11Z",
+      "image": "https://image.cnbcfm.com/api/v1/image/108310566-1779374423869-gettyimages-2277485055-mms14327_wqbyxfiw.jpeg?v=1779374475&w=1920&h=1080",
+      "title_cn": "早期芯片收益记者展示了标准的真正高",
+      "description_cn": "根据与人工智能贸易相关的早期报告，华尔街将不得不在本财报季系好安全带。"
+    },
+    {
+      "title": "Vishwanand Srivastava, Founder & CEO of Caz Brain Group, Strengthens Caz Legal AI to Build AI",
+      "description": "New Delhi [India], July 16: Caz Brain, also known as Caz Brain Group, is an India-UK multinational artificial intelligence, SaaS and software engineering company led by Founder & CEO Vishwanand Srivastava.",
+      "url": "https://www.tribuneindia.com/news/business/vishwanand-srivastava-founder-ceo-of-caz-brain-group-strengthens-caz-legal-ai-to-build-ai-enabled-legal-professionals/",
+      "source": "The Tribune",
+      "publishedAt": "2026-07-16T13:23:38Z",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTkyNjJjY2IwLTgxMTktMTFmMS04YWQ1LTVkY2Y0NzZmMmZlMC5qcGc=",
+      "title_cn": "Caz Brain Group创始人兼首席执行官Vishwanand Srivastava加强Caz Legal AI构建AI",
+      "description_cn": "Caz Brain，也被称为Caz Brain Group，是一家印度-英国跨国人工智能，SaaS和软件工程公司，由创始人兼首席执行官Vishwanand Srivastava领导。"
+    }
+  ]
+}
