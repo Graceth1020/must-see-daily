@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-07-18T01:44:55Z",
+  "finance": [
+    {
+      "title": "FAA lets Boeing sign off on 737 Max, 787 airworthiness certificates again",
+      "summary": "The move is a vote of confidence in Boeing from the U.S. government.",
+      "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
+      "source": "CNBC",
+      "datetime": 1784310914,
+      "image": "https://image.cnbcfm.com/api/v1/image/108250215-1767906239901-gettyimages-2249102626-BOEING_737_MAX.jpeg?v=1768321273&w=1920&h=1080",
+      "title_cn": "美国联邦航空局让波音再次签署737 Max、787适航证书",
+      "summary_cn": "此举是美国政府对波音公司的信任投票。"
+    },
+    {
+      "title": "Meta's latest move in the AI talent war — plus Cramer's 4 quick hits on the market",
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "url": "https://www.cnbc.com/2026/07/17/metas-latest-move-in-the-ai-talent-war-plus-cramers-4-quick-hits.html",
+      "source": "CNBC",
+      "datetime": 1784310045,
+      "image": "https://image.cnbcfm.com/api/v1/image/108310069-17793063292026-05-20t194305z_1806485342_rc27dla6rwc7_rtrmadp_0_tech-ai-meta-layoffs.jpeg?v=1779306361&w=1920&h=1080",
+      "title_cn": "Meta在AI人才大战中的最新举措-加上Cramer在市场上的4个快速命中",
+      "summary_cn": "每个工作日，投资俱乐部都会发布最后冲刺;这是一个可操作的下午更新，正好赶上交易的最后一个小时。"
+    },
+    {
+      "title": "Retail and Wall Street are underwater on SpaceX — but not going down without a fight",
+      "summary": "Good times for SpaceX are proving short-lived as Elon Musk’s intergalactic IPO is now giving fodder to bears.",
+      "url": "https://www.cnbc.com/2026/07/17/retail-and-wall-street-are-underwater-on-spacex-but-not-going-down-without-a-fight.html",
+      "source": "CNBC",
+      "datetime": 1784309261,
+      "image": "https://image.cnbcfm.com/api/v1/image/108321570-1781377484011-IMG_1064.jpeg?v=1781377596&w=1920&h=1080",
+      "title_cn": "零售业和华尔街在SpaceX上陷入困境--但不会不战而下",
+      "summary_cn": "事实证明，SpaceX的好时光是短暂的，埃隆·马斯克的银河系首次公开募股现在正在为熊市提供素材。"
+    },
+    {
+      "title": "California's billionaire tax: What's at risk for the biggest state economy in America",
+      "summary": "California's billionaire tax would generate quick revenue, but Norway's example shows the longer-term economic impact of targeting the wealthy is unclear.",
+      "url": "https://www.cnbc.com/2026/07/17/california-billionaire-tax.html",
+      "source": "CNBC",
+      "datetime": 1784300577,
+      "image": "https://image.cnbcfm.com/api/v1/image/108336091-1784218723182-gettyimages-2272915772-AFP_A96A6CQ.jpeg?v=1784218758&w=1920&h=1080",
+      "title_cn": "加州亿万富翁税：美国最大的州经济面临什么风险",
+      "summary_cn": "加州的亿万富翁税将迅速产生收入，但挪威的例子表明，针对富人的长期经济影响尚不清楚。"
+    },
+    {
+      "title": "The Club's 10 things to watch in the stock market Friday",
+      "summary": "Stocks are pointing to a lower open as the sell-off in chip stocks continues. Plus, Netflix delivers a disappointing quarter.",
+      "url": "https://www.cnbc.com/2026/07/17/the-investing-clubs-10-things-to-watch-in-the-stock-market-friday.html",
+      "source": "CNBC",
+      "datetime": 1784293807,
+      "image": "https://image.cnbcfm.com/api/v1/image/108306021-1778624130186-gettyimages-2275885137-dji_20260512130602_0716_d_ovi7buu7.jpeg?v=1778624245&w=1920&h=1080",
+      "title_cn": "周五股市上俱乐部值得关注的10件事",
+      "summary_cn": "随着芯片股持续抛售，股市开盘走低。此外，Netflix的季度业绩令人失望。"
+    }
+  ],
+  "ai": [
+    {
+      "title": "Chinese President Xi Jinping Unveils Global AI Strategy, Expands AI Outreach to Developing Nations",
+      "description": "Chinese President Xi Jinping is making a bigger play for global influence in artificial intelligence. Speaking at China's flagship AI conference on Friday, Xi cast Beijing as a long-term technology partner for developing nations, promising new training programs, broader international cooperation, and a more open approach to AI at a time when Washington continues tightening",
+      "url": "https://techstartups.com/2026/07/17/chinese-president-xi-jinping-unveils-global-ai-strategy-expands-ai-outreach-to-developing-nations/",
+      "source": "TechStartups.com",
+      "publishedAt": "2026-07-17T13:41:45Z",
+      "image": "https://techstartups.com/wp-content/uploads/2026/07/WAIC-960x546.jpg",
+      "title_cn": "中国国家主席习近平公布全球人工智能战略，将人工智能拓展到发展中国家",
+      "description_cn": "中国国家主席习近平正在加大人工智能领域的全球影响力。习近平周五在中国旗舰人工智能会议上发表讲话，将北京视为发展中国家的长期技术合作伙伴，承诺在华盛顿继续收紧政策的情况下推出新的培训计划、更广泛的国际合作以及更加开放的人工智能方法"
+    },
+    {
+      "title": "Apple surpasses Nvidia to become world's most valuable company",
+      "description": "Investors are increasingly betting on Apple’s ability to monetise artificial intelligence through its ecosystem, services, and hardware — not just AI infrastructure",
+      "url": "https://www.moneycontrol.com/news/business/markets/apple-surpasses-nvidia-to-become-world-s-most-valuable-company-13977015.html",
+      "source": "Moneycontrol",
+      "publishedAt": "2026-07-17T13:40:46Z",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/05/20260515055328_apple-ind.jpg",
+      "title_cn": "苹果超越英伟达成为全球最有价值的公司",
+      "description_cn": "投资者越来越多地押注苹果通过其生态系统、服务和硬件（而不仅仅是人工智能基础设施）将人工智能货币化的能力"
+    },
+    {
+      "title": "Did PM Modi announce a Rs 25 lakh monthly income scheme? Here's the truth",
+      "description": "A fake video using artificial intelligence shows Prime Minister Modi promoting an investment scheme. This fraudulent platform falsely promises significant monthly income for a small initial investment. The Press Information Bureau has confirmed the video is fake and warned citizens about the scam. Cyber fraud cases are rising sharply across India, with many reported losses. People should remain vigilant and report suspicious content to prevent financial losses.",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/did-pm-modi-announce-a-rs-25-lakh-monthly-income-scheme-heres-the-truth/articleshow/132462831.cms",
+      "source": "The Economic Times",
+      "publishedAt": "2026-07-17T13:40:00Z",
+      "image": "https://img.etimg.com/thumb/msid-132462823,width-1200,height-630,imgsize-90338,overlay-economictimes/articleshow.jpg",
+      "title_cn": "莫迪总理是否宣布了每月25卢比的收入计划？事实是这样",
+      "description_cn": "一段使用人工智能的假视频显示莫迪总理正在推动一项投资计划。该欺诈平台虚假地承诺以小额初始投资获得可观的每月收入。新闻局已确认该视频是假的，并警告公民有关这一骗局。印度各地的网络欺诈案件急剧增加，据报道损失惨重。人们应保持警惕并报告可疑内容，以防止经济损失。"
+    },
+    {
+      "title": "Apple unseats Nvidia to become world's most valuable company as AI bets shift",
+      "description": "July 17 (Reuters) - Apple overtook ⁠Nvidia on Friday to become the world's most valuable company, reshuffling the top ranks of tech heavyweights as investors reassess the outlook ⁠for artificial intelligence.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/07/17/apple-closes-in-on-nvidia-in-race-for-world039s-most-valuable-company",
+      "source": "The Star",
+      "publishedAt": "2026-07-17T13:20:00Z",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/07/17/4016016.jpg",
+      "title_cn": "随着人工智能赌注的转变，苹果取代英伟达成为世界上最有价值的公司",
+      "description_cn": "7月17日（路透社）--随着投资者重新评估人工智能前景，苹果周五超越英伟达成为全球最有价值的公司，重新洗牌了科技巨头的顶级行列。"
+    },
+    {
+      "title": "8th Global Real Estate Brand Awards: Industry Stalwarts Convene in Bengaluru to Celebrate Innovation and Leadership",
+      "description": "Bengaluru (Karnataka) [India], July 17: The eighth edition of the Global Real Estate Brand Awards (GREBA) 2026 concluded successfully at the Taj MG Road, Bengaluru. The prestigious summit brought together over 200 prominent real estate developers, policymakers, tech innovators, and corporate leaders to deliberate on the evolving dynamics of India's real estate sector, with a strong focus on artificial intelligence (AI), PropTech, and sustainable urban development.",
+      "url": "https://www.tribuneindia.com/news/business/8th-global-real-estate-brand-awards-industry-stalwarts-convene-in-bengaluru-to-celebrate-innovation-and-leadership/",
+      "source": "The Tribune",
+      "publishedAt": "2026-07-17T13:08:33Z",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWExNTAwNzcwLTgxZTAtMTFmMS04YWQ1LTVkY2Y0NzZmMmZlMC5qcGc=",
+      "title_cn": "第八届全球房地产品牌奖：行业中坚力量齐聚班加罗尔，庆祝创新和领导力",
+      "description_cn": "班加罗尔（卡纳塔克邦）[印度]，7月17日：2026年第八届全球房地产品牌奖（GREBA）在班加罗尔Taj MG Road成功落下帷幕。这场享有盛誉的峰会汇集了200多名著名房地产开发商、政策制定者、科技创新者和企业领导者，讨论印度房地产行业不断变化的动态，重点关注人工智能（AI）、PropTech和可持续城市发展。"
+    }
+  ]
+}
