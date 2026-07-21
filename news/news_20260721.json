@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-07-21T01:53:05Z",
+  "finance": [
+    {
+      "title": "Here's our advice for investors looking to buy the dip in volatile AI stocks",
+      "summary": "When trading in a sector, industry, or stock changes dramatically, as it has with the hyperscalers and AI stocks in recent days, you must change your scales.",
+      "url": "https://www.cnbc.com/2026/07/20/jim-cramers-advice-for-investors-looking-to-buy-ai-stocks.html",
+      "source": "CNBC",
+      "datetime": 1784575709,
+      "image": "https://image.cnbcfm.com/api/v1/image/108315138-17804039612026-06-02t070118z_913331550_rc2jllarvolb_rtrmadp_0_computex-intel.jpeg?v=1780403995&w=1920&h=1080",
+      "title_cn": "以下是我们对希望购买波动性人工智能股票下跌的投资者的建议",
+      "summary_cn": "当一个行业、行业或股票的交易发生巨大变化时，就像最近几天超大规模股票和人工智能股票一样，您必须改变您的规模。"
+    },
+    {
+      "title": "2 things capping Monday's market — plus, Alphabet's new AI chip roadmap",
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "url": "https://www.cnbc.com/2026/07/20/2-things-capping-monday-market-rally-alphabet-new-ai-chip-plans.html",
+      "source": "CNBC",
+      "datetime": 1784575474,
+      "image": "https://image.cnbcfm.com/api/v1/image/108309206-1779213871939-108309206-1779210844055-108309206-1779210774213-gettyimages-2276576410-GOOGLE_IO.jpg?v=1782157746&w=1920&h=1080",
+      "title_cn": "周一市场的两件事-加上Alphabet的新人工智能芯片路线图",
+      "summary_cn": "每个工作日，投资俱乐部都会发布最后冲刺;这是一个可操作的下午更新，正好赶上交易的最后一个小时。"
+    },
+    {
+      "title": "Could ‘The Odyssey’ lead the 'apes' back home to AMC shares?",
+      "summary": "AMC options surged out of the gate this morning with over 300,000 contracts traded as of writing.",
+      "url": "https://www.cnbc.com/2026/07/20/could-the-odyssey-lead-the-apes-back-home-to-amc-shares.html",
+      "source": "CNBC",
+      "datetime": 1784570706,
+      "image": "https://image.cnbcfm.com/api/v1/image/108234335-1764594651992-gettyimages-2248651681-AFP_86MN2H6.jpeg?v=1764594670&w=1920&h=1080",
+      "title_cn": "《奥德赛》能否带领“猿类”重返AMC股票？",
+      "summary_cn": "AMC期权今天上午飙升，截至撰写本文时，交易量超过30万份合约。"
+    },
+    {
+      "title": "The bar for Tesla earnings is sky-high. Here's why and how options traders can capitalize",
+      "summary": "Michael Khouw breaks down how he's trading Tesla into earnings.",
+      "url": "https://www.cnbc.com/2026/07/20/the-bar-for-tesla-earnings-is-sky-high-heres-why-and-how-options-traders-can-capitalize.html",
+      "source": "CNBC",
+      "datetime": 1784567782,
+      "image": "https://image.cnbcfm.com/api/v1/image/108313753-1780058057806-gettyimages-2278014626-20090101260529-99-569038.jpeg?v=1780058107&w=1920&h=1080",
+      "title_cn": "特斯拉盈利的门槛很高。这里是为什么以及如何选择交易者可以资本化",
+      "summary_cn": "Michael Khouw解释了他如何将特斯拉交易成收益。"
+    },
+    {
+      "title": "What to know about testosterone replacement therapy as the U.S. military plans to test troops",
+      "summary": "While some research has shown benefits for patients who qualify, questions remain about the therapy's long-term risks and use among men without a medical need.",
+      "url": "https://www.cnbc.com/2026/07/20/what-to-know-about-testosterone-replacement-therapy.html",
+      "source": "CNBC",
+      "datetime": 1784562007,
+      "image": "https://image.cnbcfm.com/api/v1/image/108288569-1775650790544-gettyimages-2269788793-AFP_A7499F2.jpeg?v=1775650813&w=1920&h=1080",
+      "title_cn": "美国军方计划对部队进行测试，了解睾酮替代疗法",
+      "summary_cn": "虽然一些研究表明该疗法对符合条件的患者有好处，但关于该疗法的长期风险以及在没有医疗需求的男性中使用的问题仍然存在。"
+    }
+  ],
+  "ai": [
+    {
+      "title": "Swiss researchers hoard vast trove of NASA climate data",
+      "description": "Researchers have copied massive quantities of publicly available climate and environmental data from NASA onto a Swiss supercomputer to train artificial intelligence models—and for safekeeping amid U.S. funding cuts.",
+      "url": "https://phys.org/news/2026-07-swiss-hoard-vast-trove-nasa.html",
+      "source": "Phys.org",
+      "publishedAt": "2026-07-20T13:50:02Z",
+      "image": "https://scx2.b-cdn.net/gfx/news/2026/speeding-up-climate-da.jpg",
+      "title_cn": "瑞士研究人员囤积了大量NASA气候数据",
+      "description_cn": "研究人员将美国宇航局的大量公开气候和环境数据复制到瑞士超级计算机上，以训练人工智能模型，并在美国资金削减的情况下用于NPS。"
+    },
+    {
+      "title": "China unveils roadmap to make nuclear energy systems smarter",
+      "description": "At the World Artificial Intelligence Conference (WAIC) in Shanghai, China laid out a roadmap to integrate AI into full life cycle of nuclear energy systems.",
+      "url": "https://interestingengineering.com/energy/china-roadmap-ai-nuclear-energy-systems",
+      "source": "Interesting Engineering",
+      "publishedAt": "2026-07-20T13:45:32Z",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/Untitled-design-2026-07-20T191322.439.jpg",
+      "title_cn": "中国公布让核能系统更智能的路线图",
+      "description_cn": "在上海举行的世界人工智能大会（WAIC）上，中国制定了将人工智能融入核能系统全生命周期的路线图。"
+    },
+    {
+      "title": "Wall Street holds steadier as chip companies swing back upward",
+      "description": "Wall Street is holding steadier, as stocks of chip companies and other winners of the artificial intelligence-boom swing back upward on their roller-coaster ride. The S&P 500 rose 0.6% early Monday, coming off its first losing week in the last three and just its third since the end of March. The Dow Jones Industrial Average rose 190 points, and the Nasdaq composite rose 0.8%. Nvidia rose 1.6% after serving as the heaviest weight on the S&P 500 Friday. AMC Entertainment and Domino's Pizza rose after reporting better-than-expected revenue for the latest quarter. European markets were mixed, and South Korea's Kospi index fell 4.5%.",
+      "url": "https://www.ajc.com/news/2026/07/wall-street-futures-rise-oil-prices-retreat-despite-an-escalation-in-fighting-by-the-us-and-iran/",
+      "source": "The Atlanta Journal-Constitution",
+      "publishedAt": "2026-07-20T13:42:17Z",
+      "image": "https://images.ajc.com/resizer/v2/5JKFHUW2HZATNDTBXSJISU2IUM.jpg?auth=2c22ce0c11b9478fea6637661f1c9462ea56ba62a0cb1a83aa03c557a0d2ae9c&width=1200&height=630&smart=true",
+      "title_cn": "芯片公司回升，华尔街保持稳定",
+      "description_cn": "随着芯片公司和人工智能繁荣的其他赢家的股票在过山车般的旅程中回升，华尔街的股价正在变得更加稳定。标准普尔500指数周一早盘上涨0.6%，结束了过去三周以来的首次下跌，也是自3月底以来的第三周下跌。道琼斯工业平均指数上涨190点，纳斯达克综合指数上涨0.8%。周五，英伟达成为标准普尔500指数中最大的权重股，上涨1.6%。AMC Entertainment和达美乐披萨在报告最新季度收入好于预期后上涨。欧洲市场涨跌互现，韩国综合指数下跌4.5%。"
+    },
+    {
+      "title": "DU plans to develop AI-based verification tool after detecting manipulated documents in admissions",
+      "description": "New Delhi, July 20 (PTI) A day after warning applicants against submitting AI-generated or digitally manipulated documents during the admission process, Delhi University officials on Monday said it is planning to develop an artificial intelligence-based verification tool for the next admission cycle to detect forged certificates more efficiently. Speaking to PTI, Dean of Admissions Haneet […]",
+      "url": "https://theprint.in/india/du-plans-to-develop-ai-based-verification-tool-after-detecting-manipulated-documents-in-admissions/2991453/",
+      "source": "ThePrint",
+      "publishedAt": "2026-07-20T13:20:03Z",
+      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
+      "title_cn": "Du计划在检测到招生中的被操纵文件后开发基于人工智能的验证工具",
+      "description_cn": "新德里，7月20日（PTI）在警告申请人不要在录取过程中提交人工智能生成或数字处理的文件后的第二天，德里大学官员周一表示，计划为下一个录取周期开发一种基于人工智能的验证工具，以更有效地检测伪造的证书。在接受PTI采访时，招生办主任Haneet [...]"
+    },
+    {
+      "title": "This Nonprofit Organisation Is Building The World Wide Web Of AI To Challenge Big Tech",
+      "description": "Current AI, a non-profit organisation, aims to reshape artificial intelligence by creating an open ecosystem accessible to all. , Technology & Science, Times Now",
+      "url": "https://www.timesnownews.com/technology-science/this-nonprofit-organisation-is-building-the-world-wide-web-of-ai-to-challenge-big-tech-article-155141151",
+      "source": "Times Now",
+      "publishedAt": "2026-07-20T13:18:07Z",
+      "image": "https://images.timesnownews.com/thumb/msid-155141197,thumbsize-2816015,width-1280,height-720,resizemode-75/155141197.jpg",
+      "title_cn": "这个非营利组织正在构建人工智能万维网以挑战大型科技",
+      "description_cn": "当前的人工智能是一个非营利组织，旨在通过创建一个所有人都可以访问的开放生态系统来重塑人工智能。、技术与科学、时代现代"
+    }
+  ]
+}
