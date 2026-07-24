@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-07-24T01:55:08Z",
+  "finance": [
+    {
+      "title": "Southwest Airlines put Texas jet fuel on a boat to LA for the first time amid supply worries",
+      "summary": "Southwest hired a ship this spring to send fuel from Houston to Los Angeles in case of supply shortages.",
+      "url": "https://www.cnbc.com/2026/07/23/southwest-shipped-jet-fuel-from-texas-to-california-amid-supply-crunch.html",
+      "source": "CNBC",
+      "datetime": 1784837562,
+      "image": "https://image.cnbcfm.com/api/v1/image/108291911-1776272392422-gettyimages-2265481207-260307_lax_157.jpeg?v=1776895740&w=1920&h=1080",
+      "title_cn": "由于供应担忧，西南航空首次在飞往洛杉矶的船上装载德克萨斯州喷气燃料",
+      "summary_cn": "西南航空今年春天租用了一艘船，将燃料从休斯顿运送到洛杉矶，以防供应短缺。"
+    },
+    {
+      "title": "OpenAI's Hugging Face hack triggers 'AI Kill Switch' bill in Congress",
+      "summary": "OpenAI disclosed this week that some of its AI models went rogue and hacked into open-source developer platform Hugging Face.",
+      "url": "https://www.cnbc.com/2026/07/23/open-ai-hugging-face-hack-kill-switch-bill-congress.html",
+      "source": "CNBC",
+      "datetime": 1784836345,
+      "image": "https://image.cnbcfm.com/api/v1/image/108278455-1773678841099-gettyimages-2266872486-090a8128_qfezmsqc.jpeg?v=1773678871&w=1920&h=1080",
+      "title_cn": "OpenAI的Hugging Face黑客攻击引发国会“AI Kill Switch”法案",
+      "summary_cn": "OpenAI本周透露，其一些人工智能模型变得流氓，并入侵了开源开发者平台Hugging Face。"
+    },
+    {
+      "title": "Wall Street stumbles as oil surges, and Lilly takes a new path on next-gen obesity drug",
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "url": "https://www.cnbc.com/2026/07/23/wall-street-stumbles-as-oil-surges-and-lilly-takes-a-new-path-on-next-gen-obesity-drug.html",
+      "source": "CNBC",
+      "datetime": 1784831753,
+      "image": "https://image.cnbcfm.com/api/v1/image/108230191-17637574202025-11-21t203348z_1528530032_rc231ianvoco_rtrmadp_0_usa-stocks.jpeg?v=1777050196&w=1920&h=1080",
+      "title_cn": "华尔街因油价飙升而步履蹒跚，礼来公司在下一代肥胖药物上开辟了新的道路",
+      "summary_cn": "每个工作日，投资俱乐部都会发布最后冲刺;这是一个可操作的下午更新，正好赶上交易的最后一个小时。"
+    },
+    {
+      "title": "JPMorgan report finds dramatic jump in AI-themed ETFs — despite rough quarter",
+      "summary": "Wall Street is banking heavily on exchange-traded funds that give investors artificial intelligence exposure, according to JPMorgan Asset Management.",
+      "url": "https://www.cnbc.com/2026/07/23/jpmorgan-dramatic-jump-in-ai-etfs-despite-rough-quarter.html",
+      "source": "CNBC",
+      "datetime": 1784826606,
+      "image": "https://image.cnbcfm.com/api/v1/image/108331527-1783439064152-gettyimages-2213179432-07_artificial_intelligence_editorial_dsc_2369.jpeg?v=1783439101&w=1920&h=1080",
+      "title_cn": "摩根大通报告发现人工智能主题ETF大幅增长--尽管季度表现不佳",
+      "summary_cn": "摩根大通资产管理公司表示，华尔街非常依赖为投资者提供人工智能风险的交易所交易基金。"
+    },
+    {
+      "title": "Cramer has a problem with Alphabet. Plus, updates on 2 industrials",
+      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "url": "https://www.cnbc.com/2026/07/23/cramer-has-a-problem-with-alphabet-plus-updates-on-2-industrials-.html",
+      "source": "CNBC",
+      "datetime": 1784823886,
+      "image": "https://image.cnbcfm.com/api/v1/image/108144891-1747157455478-Untitled-1.jpg?v=1747157552&w=1920&h=1080",
+      "title_cn": "克莱默对Alphabet有问题。另外，更新了2个工业指数",
+      "summary_cn": "投资俱乐部每个工作日上午10：20举行“晨会”。"
+    }
+  ],
+  "ai": [
+    {
+      "title": "Democrats seize on AI data center backlash that's dividing rural Republicans",
+      "description": "AMARILLO, Texas — When Gina Hinojosa, the Democratic nominee for Texas governor, began her campaign last year, candidates weren't talking about — or hearing about — data centers that power artificial intelligence.",
+      "url": "https://www.manilatimes.net/2026/07/23/world/democrats-seize-on-ai-data-center-backlash-thats-dividing-rural-republicans/2390455",
+      "source": "The Manila Times",
+      "publishedAt": "2026-07-23T13:53:00Z",
+      "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/23/1148867.jpg",
+      "title_cn": "民主党抓住了人工智能数据中心的强烈反对，这一反对正在分裂农村共和党人",
+      "description_cn": "德克萨斯州阿马里洛--当德克萨斯州州长民主党候选人吉娜·伊诺霍萨（Gina Hinojosa）去年开始竞选时，候选人并没有谈论或听说过为人工智能提供动力的数据中心。"
+    },
+    {
+      "title": "Govt disconnects over 88 lakh suspicious mobile connections to tackle cyber frauds",
+      "description": "Govt disconnects over 88 lakh suspicious mobile connections to tackle cyber frauds - New Delhi, July 23 The Department of Telecommunications (DoT) has used an artificial intelligence and big data analytics ... Get Latest News on Technology only on lokmattimes.com",
+      "url": "https://www.lokmattimes.com/technology/govt-disconnects-over-88-lakh-suspicious-mobile-connections-to-tackle-cyber-frauds-1/",
+      "source": "Lokmat Times",
+      "publishedAt": "2026-07-23T13:42:13Z",
+      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202607233875808_202607.jpg",
+      "title_cn": "政府切断了超过88万可疑移动连接以应对网络欺诈",
+      "description_cn": "政府切断了超过88万可疑移动连接以应对网络欺诈-新德里，7月23日电信部（DoT）使用了人工智能和大数据分析.仅在lokmattimes.com上获取有关技术的最新新闻"
+    },
+    {
+      "title": "Track AI Use Cases To Enhance Public Service Delivery Across J&K",
+      "description": "SRINAGAR, Jul 23: Chief Secretary, Atal Dulloo, today chaired a high-level review meeting to assess the progress made on the adoption of Artificial Intelligence (AI) in governance in Jammu and Kashmir and the establishment of the Ministry of Electronics &...",
+      "url": "https://www.dailyexcelsior.com/cs-directs-departments-to-fast-track-ai-use-cases-to-enhance-public-service-delivery-across-jk/",
+      "source": "Daily Excelsior",
+      "publishedAt": "2026-07-23T13:36:15Z",
+      "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTdhZDA3MjUwLTg2OWItMTFmMS04YWQ1LTVkY2Y0NzZmMmZlMC5qcGc=",
+      "title_cn": "跟踪AI用例以增强J&K的公共服务交付",
+      "description_cn": "斯里纳加，7月23日：首席秘书阿塔尔·杜洛（Atal Dulloo）今天主持了一次高级别审查会议，评估查谟和克什米尔治理中采用人工智能（AI）以及建立电子和."
+    },
+    {
+      "title": "Blackstone beats profit estimates with AI gains as assets hit $1.35 trillion",
+      "description": "NEW ⁠YORK, July 23 (Reuters) - Blackstone's second-quarter income rose to beat market expectations on Thursday, as the world's largest alternative ⁠asset manager benefited from growing assets under management and reaping profits from a mammoth bet on artificial intelligence.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/07/23/blackstone-beats-profit-estimates-on-ai-gains-as-assets-hit-135-trillion",
+      "source": "The Star",
+      "publishedAt": "2026-07-23T13:09:00Z",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/07/23/4025241.jpg",
+      "title_cn": "资产达到1.35万亿美元，黑石凭借人工智能收益超出利润预期",
+      "description_cn": "纽约，7月23日（路透社）--周四，黑石集团第二季度收入上涨超出市场预期，因为这家全球最大的另类资产管理公司受益于管理资产的增长以及对人工智能的巨额押注中获得利润。"
+    },
+    {
+      "title": "Elon Musk predicts AI will surpass all human intelligence by 2031",
+      "description": "Tech billionaire Elon Musk has issued one of his most optimistic projections regarding artificial intelligence, forecasting that it will surpass all human intelligence by 2031. In an interview with...",
+      "url": "https://www.thenews.com.pk/latest/1409993-elon-musk-predicts-ai-will-surpass-all-human-intelligence-by-2031",
+      "source": "The News International",
+      "publishedAt": "2026-07-23T13:05:00Z",
+      "image": "https://www.thenews.com.pk/assets/uploads/2026-07-23/1409993_060600_updates.jpg",
+      "title_cn": "埃隆·马斯克预测人工智能到2031年将超越所有人类智能",
+      "description_cn": "科技亿万富翁埃隆·马斯克（Elon Musk）发布了他对人工智能最乐观的预测之一，预测到2031年人工智能将超越所有人类智能。在接受.采访时"
+    }
+  ]
+}
