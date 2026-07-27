@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-07-27T02:06:31Z",
+  "finance": [
+    {
+      "title": "Here are the 3 big things we're watching in the stock market in the week ahead",
+      "summary": "It's a busy week filled with Big Tech earnings, a Fed meeting and inflation data.",
+      "url": "https://www.cnbc.com/2026/07/26/here-are-the-3-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
+      "source": "CNBC",
+      "datetime": 1785099054,
+      "image": "https://image.cnbcfm.com/api/v1/image/108298022-1777328774097-108298022-1777328726130-gettyimages-2272947606-AMAZON_EARNS.jpeg?v=1777328788&w=1920&h=1080",
+      "title_cn": "以下是未来一周我们关注的股市3件大事",
+      "summary_cn": "这是忙碌的一周，充满了大型科技公司的盈利、美联储会议和通胀数据。"
+    },
+    {
+      "title": "How AI wealth could be distributed to all Americans",
+      "summary": "AI riches are already concentrated among a handful of powerful companies, but there are plenty of new, some radical, ideas about how to spread the wealth.",
+      "url": "https://www.cnbc.com/2026/07/26/how-can-ai-wealth-be-shared-with-all-americans.html",
+      "source": "CNBC",
+      "datetime": 1785074813,
+      "image": "https://image.cnbcfm.com/api/v1/image/108338677-1784741729407-gettyimages-2271654767-_04a6709_lptf6aqj.jpeg?v=1784741748&w=1920&h=1080",
+      "title_cn": "AI财富如何分配给所有美国人",
+      "summary_cn": "人工智能财富已经集中在少数强大的公司手中，但关于如何分配财富，有很多新的、一些激进的想法。"
+    },
+    {
+      "title": "4 generations, 6 different visions of the American Dream: 'I'm optimistic because of our resilience'",
+      "summary": "CNBC Make It asked notable voices in politics, finance and relationships on what it takes to achieve happiness and success in America today.",
+      "url": "https://www.cnbc.com/2026/07/26/how-different-generations-are-rewriting-the-american-dream-today.html",
+      "source": "CNBC",
+      "datetime": 1785072602,
+      "image": "https://image.cnbcfm.com/api/v1/image/108340060-1784924698527-AD250_Conversations_v4.png?v=1784924801&w=1920&h=1080",
+      "title_cn": "四代人，对美国梦的6种不同愿景：“我很乐观，因为我们的韧性”",
+      "summary_cn": "CNBC Make It向政治、金融和关系领域的知名人士询问如何在当今的美国实现幸福和成功。"
+    },
+    {
+      "title": "How this 70-year-old honey bee farmer is keeping his family farm alive: 'We completely rely on Mother Nature'",
+      "summary": "Being a beekeeper is harder than ever, but David Bradshaw is determined to protect his hives.",
+      "url": "https://www.cnbc.com/2026/07/25/how-this-70-year-old-honey-bee-farmer-is-keeping-his-family-farm-alive.html",
+      "source": "CNBC",
+      "datetime": 1784988001,
+      "image": "https://image.cnbcfm.com/api/v1/image/108335374-1784125519632-David_Bradshaw_with_honey_supers.jpg?v=1784927101&w=1920&h=1080",
+      "title_cn": "这位70岁的蜜蜂农民如何让他的家庭农场保持活力：“我们完全依赖大自然”",
+      "summary_cn": "成为一名养蜂人比以往任何时候都困难，但大卫·布拉德肖决心保护他的蜂巢。"
+    },
+    {
+      "title": "Imax 70 mm screenings become the biggest star for Christopher Nolan’s ‘The Odyssey’",
+      "summary": "Moviegoers are traveling, lining up and paying premiums to see Christopher Nolan’s ‘The Odyssey’ in scarce Imax 70 mm screenings.",
+      "url": "https://www.cnbc.com/2026/07/25/the-odyssey-imax-70mm-screenings.html",
+      "source": "CNBC",
+      "datetime": 1784983594,
+      "image": "https://image.cnbcfm.com/api/v1/image/108339516-1784838940183-gettyimages-2286083832-260718b6_odyssey_hllywd_gvs_b-gr_04.jpeg?v=1784930676&w=1920&h=1080",
+      "title_cn": "Imax 70毫米放映成为克里斯托弗·诺兰《奥德赛》的最大明星",
+      "summary_cn": "电影观众们正在旅行、排队并支付额外费用，在稀缺的Imax 70毫米放映中观看克里斯托弗·诺兰的《奥德赛》。"
+    }
+  ],
+  "ai": [
+    {
+      "title": "Rising AI Demand Drives Surge in Data Center Water Consumption, Reports Indicate",
+      "description": "Analyze the environmental cost of Artificial Intelligence (AI) as data center water consumption spikes to unprecedented levels in the U.S.",
+      "url": "https://www.activistpost.com/rising-ai-demand-drives-surge-in-data-center-water-consumption-reports-indicate/",
+      "source": "Activist Post",
+      "publishedAt": "2026-07-26T13:00:00Z",
+      "image": "https://www.activistpost.com/wp-content/uploads/2026/07/ai-demand-data-center-water-consumption-cooling-systems-2542-original.jpg",
+      "title_cn": "NPS报告称，人工智能需求不断上升推动数据中心用水量激增",
+      "description_cn": "随着美国数据中心用水量飙升至前所未有的水平，分析人工智能（AI）的环境成本"
+    },
+    {
+      "title": "Hugging Face presses OpenAI for transparency after AI agent breach",
+      "description": "TRYING to explain what happened in the unprecedented cybersecurity incident involving autonomous artificial intelligence (AI) systems has raised more questions than answers about how an experimental AI system escaped its test environment. As of this writing Hugging Face is pressing OpenAI to disclose the agents' activity and help strengthen defenses against similar attacks.",
+      "url": "https://www.manilatimes.net/2026/07/26/business/science-technology/hugging-face-presses-openai-for-transparency-after-ai-agent-breach/2391658",
+      "source": "The Manila Times",
+      "publishedAt": "2026-07-26T12:18:00Z",
+      "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/26/1151604.png",
+      "title_cn": "人工智能代理违规后，Hugging Face向OpenAI施压要求透明度",
+      "description_cn": "试图解释涉及自主人工智能（AI）系统的前所未有的网络安全事件中发生的事情，引发的问题多于答案，即实验性人工智能系统如何逃离其测试环境。截至本文撰写时，Hugging Face正在向OpenAI施压，要求其披露特工的活动，并帮助加强对类似攻击的防御。"
+    },
+    {
+      "title": "Sam Altman says humanity already in the singularity, warns of AI authoritarianism",
+      "description": "The singularity, long viewed as a distant milestone in artificial intelligence, has already arrived, according to OpenAI CEO Sam Altman. The ChatGPT-maker’s frontman reiterated that humanity is already in the singularity, stating that the pace of AI development in the past decade has ushered in an era of superintelligence. Altman made these remarks in a […]",
+      "url": "https://indianexpress.com/shorts/technology/artificial-intelligence/openai-sam-altman-humanity-singularity-ai-authoritarianism-10804471/",
+      "source": "The Indian Express",
+      "publishedAt": "2026-07-26T10:57:50Z",
+      "image": "https://images.indianexpress.com/2026/04/sam-altman.jpg",
+      "title_cn": "萨姆·奥尔特曼称人类已经处于奇异性，警告人工智能独裁主义",
+      "description_cn": "OpenAI首席执行官萨姆·奥尔特曼（Sam Altman）表示，长期以来被视为人工智能领域遥远里程碑的奇异性已经到来。ChatGPT制作者的主唱重申，人类已经处于奇异性，并表示过去十年人工智能的发展速度迎来了超级智能时代。奥尔特曼在[.]中发表了这些言论"
+    },
+    {
+      "title": "Keeping at bay the dangers of AI",
+      "description": "A conversation with artificial intelligence ‘godfather’ Geoffrey Hinton",
+      "url": "https://www.theglobeandmail.com/opinion/editorials/article-keeping-at-bay-the-dangers-of-ai/",
+      "source": "The Globe and Mail",
+      "publishedAt": "2026-07-26T10:45:00Z",
+      "image": "https://www.theglobeandmail.com/resizer/v2/4ZDOYSVU7VG3BPECG3RC6CAOAA.jpg?auth=996d0d297508ab8de6c638675c7b6083c41ee6873c1000f73752f3ad4cb8b175&width=1200&height=800&quality=80&smart=true",
+      "title_cn": "避免人工智能的危险",
+      "description_cn": "与人工智能“教父”杰弗里·辛顿的对话"
+    },
+    {
+      "title": "Israel pitches Canada high-tech trade and safer AI as diplomatic tensions persist",
+      "description": "OTTAWA — Israel is pitching itself to Canada as a technology partner that can offer tangible solutions and safer artificial intelligence, despite the heavy strains on the bilateral relationship over wars in the Middle East.",
+      "url": "https://www.sootoday.com/national-news/israel-pitches-canada-high-tech-trade-and-safer-ai-as-diplomatic-tensions-persist-12594003",
+      "source": "SooToday",
+      "publishedAt": "2026-07-26T10:00:07Z",
+      "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/07/74d6c02667c7c9b199c2b846bd6abff21fb85436451fd03a900fe92ffe5a5d9d.jpg;w=1200;h=800;mode=crop",
+      "title_cn": "由于外交紧张局势持续存在，以色列向加拿大推销高科技贸易和更安全的人工智能",
+      "description_cn": "渥太华--尽管中东战争给双边关系带来了沉重压力，以色列仍将自己定位为能够提供切实解决方案和更安全人工智能的技术合作伙伴。"
+    }
+  ]
+}
