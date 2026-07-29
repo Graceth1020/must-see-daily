@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-07-29T01:50:06Z",
+  "finance": [
+    {
+      "title": "The Dow jumps as the AI trade wobbles. Plus, a portfolio name goes on the M&A hunt",
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "url": "https://www.cnbc.com/2026/07/28/the-dow-jumps-as-the-ai-trade-wobbles-plus-a-portfolio-name-goes-on-the-ma-hunt.html",
+      "source": "CNBC",
+      "datetime": 1785266115,
+      "image": "https://image.cnbcfm.com/api/v1/image/108051276-1729627797179-gettyimages-2180319214-img_1352_lujsrouk.jpeg?v=1775822997&w=1920&h=1080",
+      "title_cn": "随着人工智能交易波动，道琼斯指数上涨。此外，投资组合名称将参与并购搜寻",
+      "summary_cn": "每个工作日，投资俱乐部都会发布最后冲刺;这是一个可操作的下午更新，正好赶上交易的最后一个小时。"
+    },
+    {
+      "title": "Jim Cramer: J&J talc settlement is good for a stock that has so much going for it already",
+      "summary": "Jim Cramer described the recent trading action on Wall Street as a \"J&J market.\"",
+      "url": "https://www.cnbc.com/2026/07/28/jim-cramer-jj-talc-settlement-is-good-for-a-stock-that-has-so-much-going-for-it-already.html",
+      "source": "CNBC",
+      "datetime": 1785263395,
+      "image": "https://image.cnbcfm.com/api/v1/image/108210810-1760124319448-gettyimages-2239744009-JJ_PROTAGONIST_THERAPEUTICS.jpeg?v=1773853623&w=1920&h=1080",
+      "title_cn": "吉姆克莱默：强生滑石结算是一个很好的股票，有这么多的去它已经",
+      "summary_cn": "吉姆·克莱默将华尔街最近的交易行为描述为“强生市场”。\""
+    },
+    {
+      "title": "We're trimming a rallying stock to protect against a potential earnings letdown",
+      "summary": "The sale comes a day before the company reports earnings.",
+      "url": "https://www.cnbc.com/2026/07/28/were-trimming-a-rallying-stock-to-protect-against-a-potential-earnings-letdown-.html",
+      "source": "CNBC",
+      "datetime": 1785262624,
+      "image": "https://image.cnbcfm.com/api/v1/image/108226885-1763397102961-gettyimages-2246608610-US_STOCKS.jpeg?v=1774492750&w=1920&h=1080",
+      "title_cn": "我们正在削减上涨股票，以防止潜在的盈利下滑",
+      "summary_cn": "此次出售是在公司公布盈利的前一天进行的。"
+    },
+    {
+      "title": "We're buying the dip on one of our stocks for two key reasons",
+      "summary": "We don't see signs of a slowdown in the parcel delivery industry, and believe FedEx is stealing share from its rival UPS.",
+      "url": "https://www.cnbc.com/2026/07/28/were-buying-the-dip-on-one-of-our-stocks-for-two-key-reasons.html",
+      "source": "CNBC",
+      "datetime": 1785260721,
+      "image": "https://image.cnbcfm.com/api/v1/image/108337404-17845637512026-07-20t160708z_1331384416_rc2phmayntj4_rtrmadp_0_usa-stocks.jpeg?v=1784563809&w=1920&h=1080",
+      "title_cn": "我们购买一只股票的下跌有两个关键原因",
+      "summary_cn": "我们没有看到包裹递送行业放缓的迹象，并认为联邦快递正在从竞争对手UPS那里窃取市场份额。"
+    },
+    {
+      "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+      "summary": "The downturn in chip stocks continues. Is the Nvidia selling at last overdone?",
+      "url": "https://www.cnbc.com/2026/07/28/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
+      "source": "CNBC",
+      "datetime": 1785243430,
+      "image": "https://image.cnbcfm.com/api/v1/image/108333408-1783698826800-108333408-1783693761472-gettyimages-2284861123-SK_HYNIX_IPO.jpg?v=1783698862&w=1920&h=1080",
+      "title_cn": "吉姆·克莱默（Jim Cramer）周二股市最值得关注的10件事",
+      "summary_cn": "芯片股持续低迷。英伟达终于卖过头了吗？"
+    }
+  ],
+  "ai": [
+    {
+      "title": "Workplaces look for cheaper AI as ‘tokenmaxxing’ fades as a corporate fad",
+      "description": "A corporate fad of “tokenmaxxing” on artificial intelligence technology is hitting its limits as workplaces throwing AI at everything are seeing the costs rise without a similar spike in productivity",
+      "url": "https://www.barchart.com/story/news/3501606/workplaces-look-for-cheaper-ai-as-tokenmaxxing-fades-as-a-corporate-fad",
+      "source": "Barchart",
+      "publishedAt": "2026-07-28T13:32:56Z",
+      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/f3abc5890f1f4a78ba2e9b4870d59d81/f3abc5890f1f4a78ba2e9b4870d59d81_main_trump_anthropic_ai_49628.jpg",
+      "title_cn": "随着“tokenmaxing”逐渐成为企业时尚，工作场所寻找更便宜的人工智能",
+      "description_cn": "人工智能技术“tokenmaxing”的企业时尚正在达到其极限，因为工作场所将人工智能应用到一切，成本上升，而生产力却没有类似的飙升"
+    },
+    {
+      "title": "Andhra govt partners with AstraZeneca to transform cancer care",
+      "description": "Andhra Pradesh signed an MoU with AstraZeneca for an integrated precision oncology ecosystem. This initiative will integrate artificial intelligence and advanced genomics for cancer care. The collaboration aims to transform patient journeys from screening to follow-up. AstraZeneca will deploy AI-powered solutions for early lung cancer detection. An Integrated Genomic Solutions Centre will expand access to advanced cancer diagnostics.",
+      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/andhra-govt-partners-with-astrazeneca-to-transform-cancer-care/articleshow/132685561.cms",
+      "source": "The Economic Times",
+      "publishedAt": "2026-07-28T13:27:00Z",
+      "image": "https://img.etimg.com/thumb/msid-132685609,width-1200,height-630,imgsize-92516,overlay-economictimes/articleshow.jpg",
+      "title_cn": "安得拉政府与阿斯利康合作改变癌症护理",
+      "description_cn": "安得拉邦与阿斯利康签署了一份关于集成精准肿瘤生态系统的谅解备忘录。该计划将人工智能和先进基因组学集成在癌症护理中。该合作旨在将患者的旅程从筛查转变为随访。阿斯利康将部署人工智能驱动的解决方案用于早期肺癌检测。一个综合基因组解决方案中心将扩大获得先进的癌症诊断。"
+    },
+    {
+      "title": "Anthropic’s Dario Amodei rejects open model ban, calls for testing",
+      "description": "Silicon Valley leaders warned against a US crackdown on open-weight artificial intelligence systems, deepening a debate about how Washington should respond to a surprise breakthrough from Chinese startup Moonshot.",
+      "url": "https://www.mercurynews.com/2026/07/28/anthropics-amodei-rejects-open-model-ban-calls-for-testing/",
+      "source": "The Mercury News",
+      "publishedAt": "2026-07-28T13:13:34Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/07/Trump_Anthropic_AI_49628_563b7b.jpg?w=2000&h=1333",
+      "title_cn": "Anthropic的Dario Amedei拒绝开放模特禁令，呼吁进行测试",
+      "description_cn": "硅谷领导人警告美国不要打击开放重量人工智能系统，这加深了关于华盛顿应如何应对中国初创公司Moonshot的意外突破的争论。"
+    },
+    {
+      "title": "From artificial intelligence to photonic intelligence: The next big frontier for science, industry, and society",
+      "description": "Photonic computing could redefine the future of AI by using light instead of electrons, enabling faster, energy-efficient computing and next-generation AI systems.",
+      "url": "https://www.cnbctv18.com/technology/from-artificial-intelligence-to-photonic-intelligence-the-next-big-frontier-for-science-industry-and-society-19952547.htm",
+      "source": "CNBC TV18",
+      "publishedAt": "2026-07-28T13:04:33Z",
+      "image": "https://images.cnbctv18.com/uploads/2026/07/image-1-2026-07-e5f2f70d5b9f1bcd21f44b3c955639ac.jpg?im=FitAndFill,width=1200,height=675",
+      "title_cn": "从人工智能到光智能：科学、工业和社会的下一个大前沿",
+      "description_cn": "光计算可以通过使用光而不是电子来重新定义人工智能的未来，从而实现更快、更节能的计算和下一代人工智能系统。"
+    },
+    {
+      "title": "Nvidia’s $750 billion deals revive fear of AI circular financing",
+      "description": "Nvidia Corp. is working on a fresh round of AI infrastructure deals potentially worth more than $750 billion, accelerating a streak of investments that skeptics warn is artificially inflating demand and valuations across the industry. An artificial intelligence initiative with the parent of South Korean chipmaker SK Hynix Inc. unveiled late Friday is worth more than $500 billion, Nvidia said. ...",
+      "url": "https://www.courant.com/2026/07/28/nvidias-750-billion-deals-revive-fear-of-ai-circular-financing-2/",
+      "source": "Hartford Courant",
+      "publishedAt": "2026-07-28T13:00:05Z",
+      "image": "https://www.courant.com/wp-content/uploads/2026/07/202607271408MCT_____PHOTO____BIZ-PFP-AI-FINANCING-NVIDIA-FILEPIC-DA_12724f.jpg?w=2000&h=1334",
+      "title_cn": "Nvidia 7500亿美元交易重燃对人工智能循环融资的担忧",
+      "description_cn": "英伟达公司（Nvidia Corp.）正在制定新一轮人工智能基础设施交易，价值可能超过7500亿美元，加速了一系列投资，怀疑者警告称，这些投资正在人为地抬高整个行业的需求和估值。与韩国芯片制造商SK Hynix Inc.母公司合作的人工智能计划。英伟达表示，周五晚间公布的价值超过5000亿美元。..."
+    }
+  ]
+}
