@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-07-30T01:43:07Z",
+  "finance": [
+    {
+      "title": "Samsung Electronics second-quarter operating profit beats estimates on soaring AI chip demand",
+      "summary": "Samsung Electronics extended its record run with second-quarter operating profit topping analysts' estimates.",
+      "url": "https://www.cnbc.com/2026/07/30/samsung-q2-earnings-ai-chip-.html",
+      "source": "CNBC",
+      "datetime": 1785369530,
+      "image": "https://image.cnbcfm.com/api/v1/image/108341488-1785296216748-gettyimages-2285687677-SAMSUNG.jpeg?v=1785296228&w=1920&h=1080",
+      "title_cn": "三星电子第二季度营业利润超出人工智能芯片需求飙升的预期",
+      "summary_cn": "三星电子延续了创纪录的业绩，第二季度营业利润超出分析师预期。"
+    },
+    {
+      "title": "Here are the five big takeaways from this week's Fed meeting",
+      "summary": "The Federal Reserve on Wednesday followed through on expectations for no interest rate change.",
+      "url": "https://www.cnbc.com/2026/07/29/here-are-the-five-big-takeaways-from-this-weeks-fed-meeting.html",
+      "source": "CNBC",
+      "datetime": 1785357770,
+      "image": "https://image.cnbcfm.com/api/v1/image/108341950-17853511062026-07-29t184850z_304480039_rc2qnmazclax_rtrmadp_0_usa-fed.jpeg?v=1785351122&w=1920&h=1080",
+      "title_cn": "以下是本周美联储会议的五大要点",
+      "summary_cn": "美联储周三兑现了利率不变的预期。"
+    },
+    {
+      "title": "Fed keeps rates steady. The big question now: What will Microsoft and Meta say on AI capex?",
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "url": "https://www.cnbc.com/2026/07/29/fed-keeps-rates-steady-the-big-question-now-what-will-microsoft-and-meta-say-on-ai-capex-.html",
+      "source": "CNBC",
+      "datetime": 1785352318,
+      "image": "https://image.cnbcfm.com/api/v1/image/108341730-1785334072851-gettyimages-2284736819-20090101260709-99-13491.jpeg?v=1785334098&w=1920&h=1080",
+      "title_cn": "美联储保持利率稳定。现在的大问题是：微软和Meta对人工智能资本支出有何看法？",
+      "summary_cn": "每个工作日，投资俱乐部都会发布最后冲刺;这是一个可操作的下午更新，正好赶上交易的最后一个小时。"
+    },
+    {
+      "title": "Hims and Hers shares fall 10% as FTC sues company over data, billing practices",
+      "summary": "The FTC sued Hims & Hers over alleged health data sharing with Meta and Snap, billing practices and subscription cancellations.",
+      "url": "https://www.cnbc.com/2026/07/29/hims-and-hers-ftc-lawsuit-stock.html",
+      "source": "CNBC",
+      "datetime": 1785349449,
+      "image": "https://image.cnbcfm.com/api/v1/image/108341888-1785347609916-gettyimages-2261740366-img_9107.jpeg?v=1785347632&w=1920&h=1080",
+      "title_cn": "由于FTC就数据和计费行为起诉公司，Hims和Hers股价下跌10%",
+      "summary_cn": "FTC起诉Hims & Hers涉嫌与Meta和Snap共享健康数据、计费做法和取消订阅。"
+    },
+    {
+      "title": "Jim Cramer sees opportunity to snap up more shares of this chipmaker",
+      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "url": "https://www.cnbc.com/2026/07/29/jim-cramer-sees-opportunity-to-snap-up-more-shares-of-this-chipmaker-.html",
+      "source": "CNBC",
+      "datetime": 1785341675,
+      "image": "https://image.cnbcfm.com/api/v1/image/108209987-1760019895735-clearwater-forest-chip-fab-52-scaled.jpg?v=1760019984&w=1920&h=1080",
+      "title_cn": "吉姆·克莱默（Jim Cramer）看到了抢购这家芯片制造商更多股份的机会",
+      "summary_cn": "投资俱乐部每个工作日上午10：20举行“晨会”。"
+    }
+  ],
+  "ai": [
+    {
+      "title": "DoorDash CEO Tony Xu disagrees with everyone who says AI makes software engineers more productive: Engineers spend large part of their time in ...",
+      "description": "Tech News News: DoorDash CEO Tony Xu has challenged a common belief related to artificial intelligence (AI). Xu believes AI cannot dramatically improve software engin.",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/doordash-ceo-tony-xu-disagrees-with-everyone-who-says-ai-makes-software-engineers-more-productive-engineers-spend-large-part-of-their-time-in-/articleshow/132705915.cms",
+      "source": "Times of India",
+      "publishedAt": "2026-07-29T13:36:00Z",
+      "image": "https://static.toiimg.com/thumb/msid-132705915,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "title_cn": "DoorDash首席执行官Tony Xu不同意所有认为人工智能使软件工程师更有生产力的人的观点：工程师将大部分时间花在.",
+      "description_cn": "科技新闻新闻：DoorDash首席执行官Tony Xu挑战了与人工智能（AI）相关的普遍信念。徐认为人工智能无法显着改进软件引擎。"
+    },
+    {
+      "title": "Insilico Medicine Receives FDA Fast Track Designation for ISM6331, the AI-driven Pan-TEAD Inhibitor, in Advanced Mesothelioma",
+      "description": "FDA Fast Track Designation (FTD) aims to accelerate the review process of high-value assets, and ISM6331 marks Insilico's first FTD, recognizing the clinical potential in advanced mesothelioma.ISM6331 is a novel, potential best-in-class, pan-TEAD inhibitor engineered via Chemistry42 to restore Hippo pathway balance, and its Phase I first-in-human data has been accepted for a brief oral presentation at ESMO 2026.The FTD grants ISM6331 enhanced FDA engagement to accelerate the clinical development processes, alongside eligibility for Rolling Review, Accelerated Approval, and Priority Review, if relevant criteria are met.CAMBRIDGE, Mass., July 29, 2026 /PRNewswire/ -- Insilico Medicine ('Insilico'; HKEX: 3696), a clinical-stage generative artificial intelligence (AI)-driven drug discovery company, today announced that ISM6331, a novel, potential best-in-class pan-TEAD inhibitor driven by Insilico's proprietary AI, has received Fast Track Designation (FTD) from the U.S. Food and Drug Administration (FDA), for the treatment of adult patients with unresectable malignant pleural mesothelioma whose disease has progressed on or after prior treatment with anti-PD-1 antibody therapy, with or without anti-CTLA-4 antibody therapy, and platinum-based chemotherapy.",
+      "url": "https://www.manilatimes.net/2026/07/29/tmt-newswire/pr-newswire/insilico-medicine-receives-fda-fast-track-designation-for-ism6331-the-ai-driven-pan-tead-inhibitor-in-advanced-mesothelioma/2394068",
+      "source": "The Manila Times",
+      "publishedAt": "2026-07-29T12:56:28Z",
+      "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+      "title_cn": "Insilico Medicine因AI驱动的泛TEAD抑制剂ISM6331在晚期间皮瘤治疗中获得FDA快速通道认证",
+      "description_cn": "FDA快速通道指定（GPT）旨在加速高价值资产的审查过程，而ISM 6331标志着Insilico的第一个MTD，认识到晚期间皮瘤的临床潜力。ISM 6331是一种新型、潜在的同类最佳泛TEAD抑制剂，通过Chemistry 42工程设计，旨在恢复Hippo途径平衡，其第一阶段首次人体数据已被接受，在ESCO 2026上进行简短的口头演示。FLEX授权ISM 6331加强FDA参与度，以加速临床开发流程，并获得滚动审查、加速批准、如果满足相关标准，并进行优先审查。马萨诸塞州剑桥，2026年7月29日/美通社/ -- Insilico Medicine（“Insilico”;香港交易所：3696）是一家临床阶段生成人工智能（AI）驱动的药物发现公司，今天宣布，由Insilico专有人工智能驱动的新型、潜在的同类最佳泛TEAD抑制剂ISM 6331已获得美国食品和药物管理局（FDA）的快速通道指定（GPT），用于治疗患有不可切除的恶性胸腔间皮瘤的成年患者，其疾病在既往接受抗PD-1抗体治疗、联合或不联合抗CTLA-4抗体治疗和铂类化疗期间或之后已进展。"
+    },
+    {
+      "title": "United and Delta join growing airline ban on humanoid and animal-like robots",
+      "description": "The devices that fall under this rule are defined by United as a humanoid robot that is an artificial intelligence-driven or remote-controlled machine that mimics how a...",
+      "url": "https://www.techspot.com/news/113283-united-delta-join-growing-airline-ban-humanoid-animal.html",
+      "source": "TechSpot",
+      "publishedAt": "2026-07-29T12:54:00Z",
+      "image": "https://www.techspot.com/images2/news/bigimage/2026/07/2026-07-29-image-9.jpg",
+      "title_cn": "美联航和达美航空加入航空公司日益严格的人形和类动物机器人禁令",
+      "description_cn": "美联航将属于这一规则的设备定义为人形机器人，它是一种人工智能驱动或远程控制的机器，模仿如何."
+    },
+    {
+      "title": "Leveraged chip ETFs under scrutiny for amplifying Korea market swings",
+      "description": "Single-stock leveraged exchange-traded funds (ETFs) linked to Samsung Electronics and SK hynix have come under scrutiny for amplifying volatility in South Korea's stock market after the reversal of the artificial intelligence (AI)-driven chip rally, according to a news report by The Korea Herald.",
+      "url": "https://www.tribuneindia.com/news/business/leveraged-chip-etfs-under-scrutiny-for-amplifying-korea-market-swings/",
+      "source": "The Tribune",
+      "publishedAt": "2026-07-29T12:48:26Z",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWNmODRmMDAwLThiNGItMTFmMS1iM2M4LTBmNWEyOThmZjA3MC5qcGc=",
+      "title_cn": "杠杆芯片ETF因放大韩国市场波动而受到审查",
+      "description_cn": "据《韩国先驱报》新闻报道，在人工智能（AI）驱动的芯片涨势逆转后，与三星电子和SK hynix相关的单一股票杠杆交易所交易基金（ETF）因放大韩国股市波动而受到审查。"
+    },
+    {
+      "title": "Tata Group Firms Team Up On AI Platform For Small Businesses",
+      "description": "Tata Communications and Tata Tele Business Services (TTBS), on July 28, announced a partnership to bring artificial intelligence tools to India's small and medium businesses through a shared AI platform built for the segment.",
+      "url": "https://www.outlookbusiness.com/corporate/tata-group-firms-team-up-on-ai-platform-for-small-businesses",
+      "source": "Outlook Business",
+      "publishedAt": "2026-07-29T12:28:11Z",
+      "image": "https://media.assettype.com/outlookbusiness/2026-05-21/j8a0fw7p/Tata_Story.webp?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "title_cn": "塔塔集团公司联手打造小企业人工智能平台",
+      "description_cn": "塔塔通讯（Tata Communications）和塔塔电信商业服务（TTBS）于7月28日宣布建立合作伙伴关系，通过为该部门构建的共享人工智能平台将人工智能工具带到印度的中小企业。"
+    }
+  ]
+}
