@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-07-31T02:00:14Z",
+  "finance": [
+    {
+      "title": "'The Odyssey' extends stay in 70mm IMAX theaters as shows sell out weeks in advance",
+      "summary": "Universal and IMAX have extended the availability of 70mm screenings of Christopher Nolan's retelling of Homer's epic into mid-September.",
+      "url": "https://www.cnbc.com/2026/07/30/the-odyssey-70mm-imax-run-extended-until-september.html",
+      "source": "CNBC",
+      "datetime": 1785439450,
+      "image": "https://image.cnbcfm.com/api/v1/image/108339540-1784840429335-CT-47787.jpg?v=1784932847&w=1920&h=1080",
+      "title_cn": "《奥德赛》延长在70毫米IMAX影院的演出时间，该剧提前几周售罄",
+      "summary_cn": "环球影业和IMAX已将克里斯托弗·诺兰重述荷马史诗的70毫米放映延长至9月中旬。"
+    },
+    {
+      "title": "Microsoft wins back Jim Cramer's support after a surprisingly good quarter",
+      "summary": "Jim Cramer has had a change of heart about Microsoft following Wednesday evening's earnings report.",
+      "url": "https://www.cnbc.com/2026/07/30/microsoft-wins-back-jim-cramers-support-after-a-surprisingly-good-quarter.html",
+      "source": "CNBC",
+      "datetime": 1785437533,
+      "image": "https://image.cnbcfm.com/api/v1/image/108324167-17818086432026-06-18t184626z_2089636406_rc2fwlandty4_rtrmadp_0_france-tech.jpeg?v=1781808690&w=1920&h=1080",
+      "title_cn": "微软在经历了令人惊讶的良好季度后赢回了吉姆·克莱默的支持",
+      "summary_cn": "在周三晚间的财报公布后，吉姆·克莱默（Jim Cramer）对微软改变了主意。"
+    },
+    {
+      "title": "UEFA threatens World Cup boycott over FIFA private equity investment plan",
+      "summary": "FIFA has faced backlash from global soccer governing bodies over the proposal to allow private investment.",
+      "url": "https://www.cnbc.com/2026/07/30/uefa-threatens-world-cup-boycott-over-fifa-investment-plan.html",
+      "source": "CNBC",
+      "datetime": 1785432606,
+      "image": "https://image.cnbcfm.com/api/v1/image/108342600-1785429318283-gettyimages-2270968771-IMF_WORLD_BANK.jpeg?v=1785429353&w=1920&h=1080",
+      "title_cn": "欧足联威胁抵制世界杯，抵制国际足联私募股权投资计划",
+      "summary_cn": "国际足联在允许私人投资的提议上面临着全球足球管理机构的强烈反对。"
+    },
+    {
+      "title": "Cramer predicts a breakout for Starbucks shares as CEO Niccol's turnaround accelerates",
+      "summary": "\"There are so many good things ahead here,\" Jim Cramer said Thursday.",
+      "url": "https://www.cnbc.com/2026/07/30/cramer-predicts-a-breakout-for-starbucks-shares-as-ceo-niccols-turnaround-accelerates-.html",
+      "source": "CNBC",
+      "datetime": 1785429395,
+      "image": "https://image.cnbcfm.com/api/v1/image/108259666-1769793014617-gettyimages-2258480321-NICCOL_INTERVIEW.jpeg?v=1769793046&w=1920&h=1080",
+      "title_cn": "克莱默预测，随着首席执行官尼科尔加速扭亏为盈，星巴克股价将突破",
+      "summary_cn": "吉姆·克莱默周四表示：“这里还有很多好事。”"
+    },
+    {
+      "title": "Cramer sees a 'sure signal to buy' stocks. Plus what we want from Amazon's results",
+      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "url": "https://www.cnbc.com/2026/07/30/cramer-sees-signal-to-buy-stocks-previews-reports-amzn-aapl.html",
+      "source": "CNBC",
+      "datetime": 1785428231,
+      "image": "https://image.cnbcfm.com/api/v1/image/107200472-1677528554272-NUP_200782_00307.jpg?v=1785428018&w=1920&h=1080",
+      "title_cn": "克莱默看到了一个“买入”股票的信号。加上我们想从亚马逊的结果中得到的",
+      "summary_cn": "投资俱乐部每个工作日上午10：20举行“晨会”。"
+    }
+  ],
+  "ai": [
+    {
+      "title": "FDPPI, MYRA join hands to strengthen data protection education",
+      "description": "In a move aimed at strengthening India’s capabilities in data protection, privacy and artificial intelligence (AI) governance and digital trust, the Foundation of Data Protection Professionals in India (FDPPI) and MYRA School of Business, Mysuru, signed a MoU on Wednesday to collaborate in education, research, professional certification and capacity building.",
+      "url": "https://www.thehindu.com/news/national/karnataka/fdppi-myra-join-hands-to-strengthen-data-protection-education/article71285526.ece",
+      "source": "The Hindu",
+      "publishedAt": "2026-07-30T13:48:03Z",
+      "image": "https://th-i.thgim.com/public/incoming/fyi8cb/article71286506.ece/alternates/LANDSCAPE_1200/2303_30_7_2026_18_17_52_1_MYRAPC.JPEG",
+      "title_cn": "FDPPI、MYRA联手加强数据保护教育",
+      "description_cn": "为了加强印度在数据保护、隐私和人工智能（AI）治理和数字信任方面的能力，印度数据保护专业人员基金会（FDPPI）和Mysuru MYRA商学院于周三签署了一份谅解备忘录，在教育、研究、专业认证和能力建设方面进行合作。"
+    },
+    {
+      "title": "Vedic Maths Forum India launches AI-powered Vedic Maths practice platform for personalised mathematics learning",
+      "description": "Kolkata (West Bengal) [India], July 30:  Vedic Maths Forum India (VMFI) has launched an artificial intelligence-powered Vedic Mathematics Practice Engine aimed at providing students with personalised mathematics practice…",
+      "url": "https://www.newsx.com/business/vedic-maths-forum-india-launches-ai-powered-vedic-maths-practice-platform-for-personalised-mathematics-learning-254618/",
+      "source": "NewsX",
+      "publishedAt": "2026-07-30T13:32:22Z",
+      "image": "https://www.newsx.com/wp-content/uploads/2026/07/Vedic-Maths-Forum-India-launches-AI-powered-Vedic-Maths-practice-platform.avif",
+      "title_cn": "印度吠陀数学论坛推出人工智能驱动的吠陀数学实践平台，用于个性化数学学习",
+      "description_cn": "加尔各答（西孟加拉邦）[印度]，7月30日：印度吠陀数学论坛（VMFI）推出了一个人工智能驱动的吠陀数学实践引擎，旨在为学生提供个性化的数学实践."
+    },
+    {
+      "title": "Meta AI chief Alexandr Wang shares the most-important lesson from his startup days, before Mark Zuckerberg took stake in his company ScaleAI by paying billions",
+      "description": "Tech News News: Meta AI chief Alexandr Wang says artificial intelligence (AI) has fundamentally leveled the playing field for new businesses or startups, turning trad.",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/meta-ai-chief-alexandr-wang-shares-the-most-important-lesson-from-his-startup-days-before-mark-zuckerberg-took-stake-in-his-company-scaleai-by-paying-billions/articleshow/132735938.cms",
+      "source": "Times of India",
+      "publishedAt": "2026-07-30T13:14:00Z",
+      "image": "https://static.toiimg.com/thumb/msid-132741406,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "title_cn": "Meta AI首席执行官亚历山大·王（Alexandr Wang）分享了他初创时期最重要的教训，当时马克·扎克伯格（Mark Zuckerberg）斥资数十亿美元入股了他的公司ScaleAI",
+      "description_cn": "科技新闻新闻：Meta AI首席执行官Alexandr Wang表示，人工智能（AI）从根本上为新企业或初创公司创造了公平的竞争环境，转变了传统。"
+    },
+    {
+      "title": "Samsung expands Texas operations as global memory crunch worsens through 2028",
+      "description": "Samsung bets on accelerating its manufacturing footprint in Texas as surging artificial intelligence demand strains advanced-chip capacity worldwide, stretching into 2028, according to a news report by The Korea Herald.",
+      "url": "https://www.tribuneindia.com/news/business/samsung-expands-texas-operations-as-global-memory-crunch-worsens-through-2028/",
+      "source": "The Tribune",
+      "publishedAt": "2026-07-30T12:58:38Z",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTY1ZWNjMTYwLThjMTYtMTFmMS1iM2M4LTBmNWEyOThmZjA3MC5qcGc=",
+      "title_cn": "随着全球内存危机持续到2028年，三星扩大德克萨斯州业务",
+      "description_cn": "据《韩国先驱报》的新闻报道，随着人工智能需求激增，全球先进芯片产能将持续到2028年，三星押注于加快其在德克萨斯州的制造足迹。"
+    },
+    {
+      "title": "Samsung AI demand drives record chip earnings amid foundry and mobile hurdles",
+      "description": "Samsung's AI boom lifts chips, tests foundry and mobile units, according to a news report by The Korea Herald. Samsung Electronics' semiconductor business delivered its strongest-ever second-quarter performance, fueled by booming demand for artificial intelligence server memory that pushed revenue and operating profit to record highs.",
+      "url": "https://www.tribuneindia.com/news/business/samsung-ai-demand-drives-record-chip-earnings-amid-foundry-and-mobile-hurdles/",
+      "source": "The Tribune",
+      "publishedAt": "2026-07-30T12:43:11Z",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTNmMDhlYzYwLThjMTQtMTFmMS1iM2M4LTBmNWEyOThmZjA3MC5qcGc=",
+      "title_cn": "在代工和移动障碍中，三星人工智能需求推动创纪录的芯片盈利",
+      "description_cn": "据《韩国先驱报》报道，三星的人工智能热潮提升了芯片、测试了代工厂和移动设备。三星电子（Samsung Electronics）的半导体业务在第二季度实现了有史以来最强劲的业绩，这得益于对人工智能服务器内存的需求激增，将收入和营业利润推至创纪录高位。"
+    }
+  ]
+}
