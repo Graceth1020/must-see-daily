@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-08-08T00:59:37Z",
+  "finance": [
+    {
+      "title": "‘SaaSpocalypse’ debate intensifies as software stocks swing wildly",
+      "summary": "This week saw massive moves in both directions for software stocks, as investors try to figure out which names are best insulated from artificial intelligence.",
+      "url": "https://www.cnbc.com/2026/08/07/saaspocalypse-debate-intensifies-as-software-stocks-swing-wildly.html",
+      "source": "CNBC",
+      "datetime": 1786134137,
+      "image": "https://image.cnbcfm.com/api/v1/image/106413615-1582815498409img_8994r.jpg?v=1698963731&w=1920&h=1080",
+      "title_cn": "随着软件股剧烈波动，“SaaSpocalypse”争论加剧",
+      "summary_cn": "本周，软件股在两个方向上都出现了大幅波动，投资者试图找出哪些公司最能与人工智能隔绝。"
+    },
+    {
+      "title": "A huge day and week for Corning as the S&P 500 approaches another record high",
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "url": "https://www.cnbc.com/2026/08/07/a-huge-day-and-week-for-corning-as-the-sp-500-aims-for-record-close.html",
+      "source": "CNBC",
+      "datetime": 1786121957,
+      "image": "https://image.cnbcfm.com/api/v1/image/108256652-1769211369805-Contour_wide.jpg?v=1777394877&w=1920&h=1080",
+      "title_cn": "随着标准普尔500指数再创历史新高，康宁将迎来重要的一天和一周",
+      "summary_cn": "每个工作日，投资俱乐部都会发布Homestretch;一个可操作的下午更新，正好赶上交易的最后一个小时。"
+    },
+    {
+      "title": "Rockstar Energy founder builds Celsius stake, wants to take over as CEO",
+      "summary": "Rockstar Energy founder Russ Savage told CNBC he now controls 12 million shares of Celsius Holdings, amounting to roughly 4.7% of the energy drink company.",
+      "url": "https://www.cnbc.com/2026/08/07/rockstar-energy-founder-celsius-stake-ceo.html",
+      "source": "CNBC",
+      "datetime": 1786116416,
+      "image": "https://image.cnbcfm.com/api/v1/image/108346647-1786112854479-gettyimages-2240656304-nebraskavsmaryland1001-gettyf.jpeg?v=1786112883&w=1920&h=1080",
+      "title_cn": "Rockstar Energy创始人增持Celsius股份，希望接任首席执行官",
+      "summary_cn": "Rockstar Energy创始人Russ Savage告诉CNBC，他现在控制着Celsius Holdings的1200万股股票，约占该能量饮料公司的4.7%。"
+    },
+    {
+      "title": "Cassidy supports Todd Blanche, rescuing Trump's embattled attorney general pick",
+      "summary": "Attorney General nominee Todd Blanche needs at least 50 votes on the Senate floor to be confirmed after clearing the Senate Judiciary Committee.",
+      "url": "https://www.cnbc.com/2026/08/07/blanche-ag-trump-cassidy-senate-confirmation.html",
+      "source": "CNBC",
+      "datetime": 1786114491,
+      "image": "https://image.cnbcfm.com/api/v1/image/108344489-1785850230003-gettyimages-2286239833-1el01847_nh19zon2.jpeg?v=1785850283&w=1920&h=1080",
+      "title_cn": "卡西迪支持托德·布兰奇，拯救特朗普陷入困境的司法部长人选",
+      "summary_cn": "司法部长提名人托德·布兰奇（Todd Blanche）在通过参议院司法委员会后需要参议院至少50票才能确认。"
+    },
+    {
+      "title": "Jim Cramer's top 10 things to watch in the stock market Friday",
+      "summary": "The July jobs was a big miss, and shares of Atlassian are rising after a strong quarter.",
+      "url": "https://www.cnbc.com/2026/08/07/jim-cramers-top-10-things-to-watch-in-the-stock-market-friday-.html",
+      "source": "CNBC",
+      "datetime": 1786108198,
+      "image": "https://image.cnbcfm.com/api/v1/image/108055242-1730322135532-gettyimages-1243056983-INDIA_ATLASSIAN.jpeg?v=1730322249&w=1920&h=1080",
+      "title_cn": "吉姆·克莱默周五在股市上要注意的10件事",
+      "summary_cn": "7月份的工作是一个很大的失误，Atlassian的股票在经历了一个强劲的季度后正在上涨。"
+    }
+  ],
+  "ai": [
+    {
+      "title": "Daft Punk’s Thomas Bangalter might be a robot, but even he’s not interested in AI music.",
+      "description": "He’s continuing his post-helmet media whirlwind and stopped by the Chanel Connects podcast, where the topic briefly turned toward AI. “I’m not really interested in the creative usage of artificial intelligence,” he says, noting that part of the creative process is experimentation and discovery, “The number one goal of this process is surprise.”\n[Media: https://www.youtube.com/watch?v=Etl79iuZxaU&t=1246s]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976621/daft-punks-thomas-bangalter-might-be-a-robot-but-even-hes-not-interested-in-ai-music",
+      "source": "The Verge",
+      "publishedAt": "2026-08-07T12:47:30Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
+      "title_cn": "Daft Punk的Thomas Bangalter可能是一个机器人，但即使是他也对人工智能音乐不感兴趣。",
+      "description_cn": "他继续他的头盔后媒体旋风，并在Chanel Connects播客中停止，其中的话题短暂转向了人工智能。“我对人工智能的创造性使用并不感兴趣，”他说，并指出创造过程的一部分是实验和发现，“这个过程的首要目标是惊喜。”\n[媒体：https://www.youtube.com/watch? v= Etl79iuZxaU &t =1246s]"
+    },
+    {
+      "title": "Some US adults are using AI for financial guidance but few trust it, Gallup poll finds",
+      "description": "NEW YORK (AP) — Some U.S. adults are using artificial intelligence for financial guidance, but it’s far from the most trusted source of advice…",
+      "url": "https://wtop.com/lifestyle/2026/08/some-us-adults-are-using-ai-for-financial-guidance-but-few-trust-it-gallup-poll-finds/",
+      "source": "WTOP",
+      "publishedAt": "2026-08-07T12:32:26Z",
+      "image": "https://wtop.com/wp-content/uploads/2026/08/Financial_Wellness-AI-Poll_6_726-scaled.jpg",
+      "title_cn": "盖洛普民意调查发现，一些美国成年人正在使用人工智能进行财务指导，但很少有人相信它",
+      "description_cn": "纽约（美联社）--一些美国成年人正在使用人工智能进行财务指导，但它远非最值得信赖的建议来源……"
+    },
+    {
+      "title": "Gallup poll finds some US adults using AI for financial advice but few trust it",
+      "description": "U.S. adults are using artificial intelligence for financial guidance, but it’s far from the most trusted source of advice.",
+      "url": "https://apnews.com/article/artificial-intelligence-financial-planning-money-7b77e31b127d83dd22c11161ffaddff2",
+      "source": "The Associated Press",
+      "publishedAt": "2026-08-07T12:30:19Z",
+      "image": "https://dims.apnews.com/dims4/default/18d7479/2147483647/strip/true/crop/3500x2332+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F19%2F4b%2Fbf17bc366ea328f348c37bd58f61%2F705bdb510c2548149d2a8454d80bb26d",
+      "title_cn": "盖洛普民意调查发现，一些美国成年人使用人工智能提供财务建议，但很少有人相信它",
+      "description_cn": "美国成年人正在使用人工智能进行财务指导，但它远非最值得信赖的建议来源。"
+    },
+    {
+      "title": "SK hynix commits USD 39.42 billion to expand AI memory chip fabs",
+      "description": "South Korean semiconductor manufacturer SK hynix Inc. has decided to invest approximately 54 trillion won (USD 39.42 billion) to construct new fabrication plants in Yongin and Cheongju to meet expanding memory demand driven by artificial intelligence applications.",
+      "url": "https://www.tribuneindia.com/news/business/sk-hynix-commits-usd-39-42-billion-to-expand-ai-memory-chip-fabs/",
+      "source": "The Tribune",
+      "publishedAt": "2026-08-07T12:08:23Z",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWI0MzA3ZDEwLTkyNTgtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5wbmc=",
+      "title_cn": "SK hynix承诺394.2亿美元扩建人工智能存储芯片晶圆厂",
+      "description_cn": "韩国半导体制造商SK hynix Inc.已决定投资约54万亿韩圆（394.2亿美元）在龙仁和清州建设新的制造工厂，以满足人工智能应用推动的不断扩大的存储需求。"
+    },
+    {
+      "title": "Scientists create first AI-designed viruses to fight drug-resistant superbugs",
+      "description": "Researchers in the United States have used artificial intelligence to create viruses, opening pathways for new drug development and raising biosecurity fears.",
+      "url": "https://www.euronews.com/health/2026/08/07/scientists-create-first-ai-designed-viruses-to-fight-drug-resistant-superbugs",
+      "source": "Euronews",
+      "publishedAt": "2026-08-07T12:04:52Z",
+      "image": "https://images.euronews.com/articles/stories/09/86/64/15/1200x675_cmsv2_bd2ce11d-6114-5709-acca-4edff21ba500-9866415.jpg",
+      "title_cn": "科学家创造了第一个人工智能设计的病毒来对抗耐药超级细菌",
+      "description_cn": "美国研究人员利用人工智能制造病毒，为新药开发开辟了途径，并引发了生物安全担忧。"
+    }
+  ]
+}
