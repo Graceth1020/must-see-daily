@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-08-11T01:04:13Z",
+  "finance": [
+    {
+      "title": "Meta's latest model advances Zuckerberg's vision for personal AI assistants",
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "url": "https://www.cnbc.com/2026/08/10/metas-latest-model-advances-zuckerbergs-vision-for-personal-ai-assistants.html",
+      "source": "CNBC",
+      "datetime": 1786388996,
+      "image": "https://image.cnbcfm.com/api/v1/image/108217759-1761656513846-gettyimages-2235448475-META_CONNECT.jpeg?v=1769640322&w=1920&h=1080",
+      "title_cn": "Meta的最新模型推进了扎克伯格的个人人工智能助理愿景",
+      "summary_cn": "每个工作日，投资俱乐部都会发布Homestretch;一个可操作的下午更新，正好赶上交易的最后一个小时。"
+    },
+    {
+      "title": "We're buying more of an AI stock that's under pressure to start the week",
+      "summary": "The purchase will increase the stock's weighting in our portfolio to 3.3% from 3.1%.",
+      "url": "https://www.cnbc.com/2026/08/10/were-buying-more-of-an-ai-stock-thats-under-pressure-to-start-the-week.html",
+      "source": "CNBC",
+      "datetime": 1786376116,
+      "image": "https://image.cnbcfm.com/api/v1/image/108346681-17861152912026-08-07t145632z_1710338362_rc2ptmahkgl1_rtrmadp_0_usa-stocks.jpeg?v=1786115422&w=1920&h=1080",
+      "title_cn": "我们正在购买更多人工智能股票，该股票在本周开始时面临压力",
+      "summary_cn": "此次收购将使该股在我们投资组合中的权重从3.1%增加到3.3%。"
+    },
+    {
+      "title": "HHS moves to tighten oversight of food ingredients as safety concerns mount",
+      "summary": "HHS moves to tighten oversight of food ingredients and define ultra-processed foods as food safety concerns raise questions about FDA visibility.",
+      "url": "https://www.cnbc.com/2026/08/10/hhs-makes-announcements-on-gras-ultraprocessed-food.html",
+      "source": "CNBC",
+      "datetime": 1786374204,
+      "image": "https://image.cnbcfm.com/api/v1/image/108250006-17678891482026-01-08t161359z_617881314_rc24xiap1sl2_rtrmadp_0_usa-health-diet.jpeg?v=1767889168&w=1920&h=1080",
+      "title_cn": "随着安全问题加剧，美国卫生与公众服务部采取行动加强对食品成分的监督",
+      "summary_cn": "美国卫生与公众服务部（HHS）采取行动加强对食品成分的监督，并将超加工食品定义为食品安全问题，这引发了人们对FDA可见性的质疑。"
+    },
+    {
+      "title": "The Club's top 10 things to watch in the stock market Monday",
+      "summary": "Apple was downgraded at Jefferies, and Intel is selling stock to fund its investment agenda.",
+      "url": "https://www.cnbc.com/2026/08/10/the-clubs-top-10-things-to-watch-in-the-stock-market-monday.html",
+      "source": "CNBC",
+      "datetime": 1786367960,
+      "image": "https://image.cnbcfm.com/api/v1/image/108327012-1782412272907-gettyimages-2283305768-anotherday231781790_02z0qwo8.jpeg?v=1782412363&w=1920&h=1080",
+      "title_cn": "俱乐部周一股市十大值得关注的事情",
+      "summary_cn": "苹果在杰富瑞的评级被下调，英特尔正在出售股票为其投资议程提供资金。"
+    },
+    {
+      "title": "Santoli: Stocks return to their winning ways. But was July's brief pain enough to satisfy the market gods?",
+      "summary": "The stock market's winning history – a hit rate of 100% over any past 20-year span - is well understood. But investors recognize – or need to – the genuine hazard in equities.",
+      "url": "https://www.cnbc.com/2026/08/10/santoli-stocks-return-to-their-winning-ways-but-was-julys-brief-pain-enough-to-satisfy-the-market-gods.html",
+      "source": "CNBC",
+      "datetime": 1786358618,
+      "image": "https://image.cnbcfm.com/api/v1/image/108346036-1786028392167-gettyimages-2289337999-anotherday258793706_oxehpwvk.jpeg?v=1786028432&w=1920&h=1080",
+      "title_cn": "桑托利：股市重回制胜之路。但七月短暂的痛苦足以让市场诸神满意吗？",
+      "summary_cn": "股市的胜利历史--过去20年的命中率均为100%--众所周知。但投资者认识到--或者需要--股票的真正风险。"
+    }
+  ],
+  "ai": [
+    {
+      "title": "Why Meta Is Betting Big on Open A.I.",
+      "description": "The technology giant is embracing open models, closer ties to Washington and more as it seeks to catch up in the artificial intelligence race.",
+      "url": "https://www.nytimes.com/2026/08/10/business/dealbook/meta-open-ai.html",
+      "source": "The New York Times",
+      "publishedAt": "2026-08-10T12:43:02Z",
+      "image": "https://static01.nyt.com/images/2026/08/10/multimedia/10db-zuckerberg-lbjf/10db-zuckerberg-lbjf-facebookJumbo.jpg",
+      "title_cn": "Meta为何在开放人工智能上投入巨资",
+      "description_cn": "这家科技巨头正在拥抱开放模式、与华盛顿建立更密切的联系等等，以寻求在人工智能竞赛中迎头赶上。"
+    },
+    {
+      "title": "MIT BLRU, IBM SkillsBuild Launch AI Lab to Accelerate Research and Democratise AI Skills",
+      "description": "Bengaluru (Karnataka) [India], August 10: Manipal Institute of Technology (MIT) Bengaluru, a constituent unit of Manipal Academy of Higher Education (MAHE), Institution of Eminence Deemed-to-be University, today inaugurated the IBM-MIT AI Lab - MAHE Intelligence GPU (MIG) at its Bengaluru campus in collaboration with IBM. The Centre houses a High-Performance Computing (HPC) facility and is designed to democratise access to Artificial Intelligence (AI). The Lab will provide advanced AI computing resources, research infrastructure, and digital skilling opportunities to students, researchers, and institutions across India.",
+      "url": "https://www.aninews.in/news/business/mit-blru-ibm-skillsbuild-launch-ai-lab-to-accelerate-research-and-democratise-ai-skills20260810180726/",
+      "source": "ANI (Asian News International)",
+      "publishedAt": "2026-08-10T12:37:26Z",
+      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260810123704-thumbnail-320x180-70.jpg",
+      "title_cn": "麻省理工学院BLRU、IBM技能建立启动人工智能实验室以加速研究并民主化人工智能技能",
+      "description_cn": "班加罗尔（卡纳塔克邦）[印度]，8月10日：马尼帕尔理工学院（MIT）班加罗尔是马尼帕尔高等教育学院（MAHE）的一个组成单位，被誉为杰出大学的机构，今天在其班加罗尔园区与IBM合作，为IBM-MIT人工智能实验室- MAHE智能图形处理器（RST）落成。该中心拥有高性能计算（IPC）设施，旨在实现人工智能（AI）的民主化。该实验室将为印度各地的学生、研究人员和机构提供先进的人工智能计算资源、研究基础设施和数字技能机会。"
+    },
+    {
+      "title": "If software and agentic AI are key to mission success, accelerate them to the front lines",
+      "description": "Artificial intelligence (AI) chat functions have swiftly changed the way we acquire information today. Now the next iteration has arrived in the form of",
+      "url": "https://www.europesays.com/3186272/",
+      "source": "EUROPE SAYS",
+      "publishedAt": "2026-08-10T12:36:27Z",
+      "image": "https://www.europesays.com/wp-content/uploads/2026/08/Future-Fight-2-scaled-768x549.jpg",
+      "title_cn": "如果软件和人工智能是任务成功的关键，那就加速它们到达前线",
+      "description_cn": "人工智能（AI）聊天功能迅速改变了我们今天获取信息的方式。现在下一次迭代已经以以下形式到来"
+    },
+    {
+      "title": "Meta launches Muse Glimmer as Zuckerberg calls for fewer US AI curbs to beat China",
+      "description": "Meta has launched Muse Glimmer, a new open-weight artificial intelligence model designed to run on a single graphics card, as chief executive Mark Zuckerberg called for fewer US restrictions on open AI technology t",
+      "url": "https://www.livemint.com/technology/tech-news/meta-launches-muse-glimmer-zuckerberg-urges-us-to-ease-ai-curbs-to-compete-with-china-11786363574645.html",
+      "source": "Livemint",
+      "publishedAt": "2026-08-10T12:14:12Z",
+      "image": "https://www.livemint.com/lm-img/img/2026/08/10/1600x900/logo/LATVIA-BRANDING-60_1786259976193_1786259981658_53cd5bbb-b9d0-41ed-b5d2-5c4757bff658_1786363749695_4b71ab22-5701-4ec9-ac4f-cf80633d29b2.jpg",
+      "title_cn": "扎克伯格呼吁美国减少人工智能限制以击败中国，Meta推出Muse Glimmer",
+      "description_cn": "Meta推出了Muse Glimmer，这是一种新的开放重量型人工智能模型，旨在在单个图形卡上运行，首席执行官马克·扎克伯格呼吁美国减少对开放人工智能技术的限制。"
+    },
+    {
+      "title": "Two CityUHK scholars elected to the European Academy of Engineering in recognition of their internationally acclaimed research achievements",
+      "description": "Hong Kong, August 10: Professor Li Wen Jung, Vice-President (Talent and International Strategy) and Chair Professor in the Department of Mechanical Engineering at City University of Hong Kong (CityUHK), and Professor So Hing Cheung, from the Department of Electrical Engineering, have both been elected as Members of the European Academy of Engineering (EAE). They have been recognised for their outstanding contributions to artificial intelligence (AI)-enabled micro/nano-sensing technologies and statistical signal processing and intelligent algorithms, respectively.",
+      "url": "https://www.tribuneindia.com/news/business/two-cityuhk-scholars-elected-to-the-european-academy-of-engineering-in-recognition-of-their-internationally-acclaimed-research-achievements/",
+      "source": "The Tribune",
+      "publishedAt": "2026-08-10T12:08:51Z",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTQ0YjkzYTkwLTk0YjQtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
+      "title_cn": "两名香港城市大学学者入选欧洲工程院，以表彰他们在国际上享有盛誉的研究成就",
+      "description_cn": "香港，8月10日：香港城市大学（CityUHK）机械工程系副校长（人才与国际战略）兼讲座教授李文戎教授和电机工程系苏庆张教授均当选为欧洲工程院（EAE）院士。他们分别因对人工智能（AI）微/纳米传感技术以及统计信号处理和智能算法的杰出贡献而受到认可。"
+    }
+  ]
+}
