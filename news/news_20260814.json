@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-08-14T01:12:50Z",
+  "finance": [
+    {
+      "title": "Cramer: How words of wisdom from Gene Hackman help me make peace with investing mistakes",
+      "summary": "This is an excerpt from the CNBC Investing Club's August Monthly Meeting, which was held Thursday.",
+      "url": "https://www.cnbc.com/2026/08/13/cramer-how-words-of-wisdom-from-gene-hackman-help-me-make-peace-with-investing-mistakes.html",
+      "source": "CNBC",
+      "datetime": 1786649004,
+      "image": "https://image.cnbcfm.com/api/v1/image/108349274-1786640959292-108349274-1786640901076-gettyimages-1039964326-0000359743-002.jpg?v=1786640975&w=1920&h=1080",
+      "title_cn": "克莱默：吉恩·哈克曼的智慧之言如何帮助我与投资错误和解",
+      "summary_cn": "这是周四举行的CNBC投资俱乐部八月月度会议的摘录。"
+    },
+    {
+      "title": "Sweetgreen isn't linked to cyclospora, but many customers still don't want salads: 'I didn't think it would last' this long, CEO says",
+      "summary": "Though Sweetgreen has not been linked to the cyclospora outbreak, the fast-casual chain has taken a hit as consumers steer clear of lettuce and fresh produce.",
+      "url": "https://www.cnbc.com/2026/08/13/cyclospora-outbreak-sweetgreen-ceo.html",
+      "source": "CNBC",
+      "datetime": 1786627869,
+      "image": "https://image.cnbcfm.com/api/v1/image/108348058-1786473829586-smaller_format.png?v=1786474084&w=1920&h=1080",
+      "title_cn": "Sweetgreen与环孢菌无关，但许多客户仍然不想要沙拉：“我没想到它会持续这么久，”首席执行官说",
+      "summary_cn": "尽管Sweetgreen与环孢子虫爆发无关，但由于消费者避开生菜和新鲜农产品，这家快速休闲连锁店受到了打击。"
+    },
+    {
+      "title": "Jim Cramer's top 10 things to watch in the stock market Thursday",
+      "summary": "Cisco shares fell on earnings, and the July producer price index was mostly cooler than expected.",
+      "url": "https://www.cnbc.com/2026/08/13/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
+      "source": "CNBC",
+      "datetime": 1786626607,
+      "image": "https://image.cnbcfm.com/api/v1/image/108263391-1770655531107-gettyimages-2256632755-DAVOS_WEF_2026.jpeg?v=1770913120&w=1920&h=1080",
+      "title_cn": "吉姆·克莱默（Jim Cramer）周四股市最值得关注的10件事",
+      "summary_cn": "思科股价因盈利而下跌，7月份生产者价格指数大多低于预期。"
+    },
+    {
+      "title": "Goat herding hedge: How Susquehanna and Kalshi are helping this company offset a change in California law",
+      "summary": "A goat herding business facing higher wage costs turned to prediction market platform Kalshi to hedge and help offset the possible expense.",
+      "url": "https://www.cnbc.com/2026/08/13/how-a-california-goat-herding-company-is-hedging-against-risk-of-higher-wages.html",
+      "source": "CNBC",
+      "datetime": 1786622427,
+      "image": "https://image.cnbcfm.com/api/v1/image/108348733-1786565541551-castle_goat_pic_3.jpg?v=1786565612&w=1920&h=1080",
+      "title_cn": "山羊放牧树篱：萨斯奎哈娜和卡尔什如何帮助该公司抵消加州法律的变化",
+      "summary_cn": "一家面临更高工资成本的山羊放牧企业转向预测市场平台Kalshi进行对冲并帮助抵消可能的费用。"
+    },
+    {
+      "title": "The Iran war risks bringing the G7's fastest-growing economy to a halt",
+      "summary": "The U.K. economy is showing further signs of a long-awaited rebound, but the picture is complicated by the fallout from the Iran war and high energy prices.",
+      "url": "https://www.cnbc.com/2026/08/13/iran-war-g7s-fastest-growing-economy.html",
+      "source": "CNBC",
+      "datetime": 1786621222,
+      "image": "https://image.cnbcfm.com/api/v1/image/108348958-1786612254614-gettyimages-2281481201-710a7647.jpeg?v=1786615618&w=1920&h=1080",
+      "title_cn": "伊朗战争有可能使七国集团增长最快的经济陷入停滞",
+      "summary_cn": "英国经济进一步显示出期待已久的反弹迹象，但伊朗战争和高能源价格的影响使情况变得复杂。"
+    }
+  ],
+  "ai": [
+    {
+      "title": "Flock announces changes after dozens of police officers accused of abusing system, stalking",
+      "description": "Flock has installed more than 120,000 of the artificial-intelligence-enabled cameras across the U.S. since 2017.",
+      "url": "https://www.al.com/news/2026/08/flock-announces-changes-after-dozens-of-police-officers-accused-of-abusing-system-stalking.html",
+      "source": "AL.com",
+      "publishedAt": "2026-08-13T13:10:44Z",
+      "image": "https://www.al.com/resizer/v2/QFBOAKXGPZCZHBVHY5E4ZIHUDU.jpg?auth=b9a5c506a48b23f08e864231f03e44c38dcdfccf824038f8e8e99db94406e85a&width=1280&smart=true&quality=90",
+      "title_cn": "数十名警察被指控滥用系统、跟踪后，弗洛克宣布做出改变",
+      "description_cn": "自2017年以来，Flock已在美国各地安装了超过120，000个支持人工智能的摄像头。"
+    },
+    {
+      "title": "The good, the bad and the ugly of AI",
+      "description": "What is generative artificial intelligence doing to your mind? Here are some hypotheses from three smart thinkers - Anne-Laure Le Cunff, Daniel Goleman and Sahil Bloom",
+      "url": "https://www.theglobeandmail.com/business/careers/management/article-the-good-the-bad-and-the-ugly-of-ai/",
+      "source": "The Globe and Mail",
+      "publishedAt": "2026-08-13T13:00:00Z",
+      "image": "https://www.theglobeandmail.com/resizer/v2/3HZRH6HNDFDXJOBCB5N5NCJH7M.jpg?auth=4160c959c5e33c70b7fd06062821176e5ba6053d0aa740ae13fe435bdda8ede9&width=1200&height=800&quality=80&smart=true",
+      "title_cn": "AI的好、坏和丑陋",
+      "description_cn": "生成性人工智能对你的思想做了什么？以下是三位聪明思想家的一些假设--安妮-劳雷·勒·坎夫、丹尼尔·戈尔曼和萨希尔·布鲁姆"
+    },
+    {
+      "title": "“In Focus” Syllabus Supplements: Artificial Intelligence, Emerging Technology, and National Security (2025-2026)",
+      "description": "This syllabus supplement offers curated articles intended to be combined with traditional casebooks in a law or higher ed classroom.",
+      "url": "https://www.justsecurity.org/153306/syllabus-supplements-artificial-intelligence-emerging-technology/",
+      "source": "Just Security",
+      "publishedAt": "2026-08-13T12:45:33Z",
+      "image": "https://www.justsecurity.org/wp-content/uploads/2026/08/syllabus-supplement-wp.jpg",
+      "title_cn": "“焦点”课程补充：人工智能、新兴技术和国家安全（2025-2026）",
+      "description_cn": "该教学大纲补充提供精心策划的文章，旨在与法律或高等教育课堂中的传统案例簿相结合。"
+    },
+    {
+      "title": "XChange TEC.INC Announces Intent to Acquire First Cycle, INC., Accelerating AI-Powered Insurance Transformation",
+      "description": "SHANGHAI, Aug. 13, 2026 /PRNewswire/ -- XChange TEC.INC (Nasdaq: XHG) ('XChange' or the 'Company'), an insurance agency and insurance technology platform serving consumers across the People's Republic of China and Hong Kong, today announced that it has signed a non-binding letter of intent to acquire First Cycle, INC. ('First Cycle'), a growing artificial intelligence ('AI') technology company headquartered in Hong Kong. The proposed acquisition represents a pivotal step in XChange's strategic vision to become an AI-driven insurance ecosystem platform in the Asia-Pacific region.",
+      "url": "https://www.manilatimes.net/2026/08/13/tmt-newswire/pr-newswire/xchange-tecinc-announces-intent-to-acquire-first-cycle-inc-accelerating-ai-powered-insurance-transformation/2404877",
+      "source": "The Manila Times",
+      "publishedAt": "2026-08-13T12:30:52Z",
+      "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+      "title_cn": "XChange TEC.Inc宣布有意收购First Cycling，Inc.加速人工智能驱动的保险转型",
+      "description_cn": "上海2026年8月13日电/美通社/ -- XChange TEC.Inc（纳斯达克股票代码：XHG）（“XChange”或“公司”）是一家为中华人民共和国和香港消费者提供服务的保险机构和保险技术平台，今天宣布已签署一份不具约束力的收购First Cycling，Inc.的意向书。（“第一周期”），一家总部位于香港的不断发展的人工智能（“AI”）技术公司。此次收购是XChange战略愿景的关键一步，该战略愿景是成为亚太地区人工智能驱动的保险生态系统平台。"
+    },
+    {
+      "title": "Why the Sovereign Edge AI Platform Is Redefining Personal Intelligence in 2026",
+      "description": "The cloud is moving out of the world of artificial intelligence. Citizens require AI that honours their privacy, information, and individual",
+      "url": "https://techbullion.com/why-the-sovereign-edge-ai-platform-is-redefining-personal-intelligence-in-2026/",
+      "source": "TechBullion",
+      "publishedAt": "2026-08-13T12:29:53Z",
+      "image": "https://techbullion.com/wp-content/uploads/2026/08/IMG-20260813-WA0079-1000x600.jpg",
+      "title_cn": "为什么Sovereign Edge AI平台将在2026年重新定义个人智能",
+      "description_cn": "云计算正在走出人工智能的世界。公民需要尊重他们的隐私，信息和个人的人工智能"
+    }
+  ]
+}
