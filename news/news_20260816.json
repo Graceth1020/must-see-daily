@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-08-16T00:47:41Z",
+  "finance": [
+    {
+      "title": "Inflation moderated as Intel and Nvidia fueled the AI trade in last week's market",
+      "summary": "No surprises on inflation and new financing developments in the artificial intelligence trade drove the record-breaking action on Wall Street last week.",
+      "url": "https://www.cnbc.com/2026/08/15/inflation-moderated-as-intel-and-nvidia-fueled-the-ai-trade-in-last-week-market.html",
+      "source": "CNBC",
+      "datetime": 1786803774,
+      "image": "https://image.cnbcfm.com/api/v1/image/108344539-1785853710278-Traders-Photo-20260803-KK-PRESS-016.jpg?v=1785853829&w=1920&h=1080",
+      "title_cn": "随着英特尔和英伟达在上周市场上推动人工智能交易，",
+      "summary_cn": "通胀和人工智能贸易新融资发展并不令人意外，推动了上周华尔街的破纪录行动。"
+    },
+    {
+      "title": "Marijuana reform is emerging as a midterm elections issue on both sides of the aisle",
+      "summary": "With November's midterms fast approaching, cannabis reform is an issue. It's popular with voters, but its power to tilt elections remains uncertain.",
+      "url": "https://www.cnbc.com/2026/08/15/cannabis-marijuana-legalization-midterm-elections.html",
+      "source": "CNBC",
+      "datetime": 1786798801,
+      "image": "https://image.cnbcfm.com/api/v1/image/108349571-1786691479170-gettyimages-2275460438-cannabis_BC_021_051326JPG.jpeg?v=1786691530&w=1920&h=1080",
+      "title_cn": "马里亚诺改革正在成为两党中期选举的一个议题",
+      "summary_cn": "随着11月中期选举的临近，大麻改革成为一个问题。它很受选民欢迎，但其倾斜选举的能力仍然不确定。"
+    },
+    {
+      "title": "What flash memory maker SanDisk told investors this week is a boon for our newest stock",
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "url": "https://www.cnbc.com/2026/08/14/what-sandisk-told-investors-this-week-is-a-boon-for-our-newest-stock.html",
+      "source": "CNBC",
+      "datetime": 1786732415,
+      "image": "https://image.cnbcfm.com/api/v1/image/108250005-1767889146082-gettyimages-2254571339-SANDISK_RALLY.jpeg?v=1775043071&w=1920&h=1080",
+      "title_cn": "闪存制造商Sandisk本周告诉投资者的话对我们最新股票来说是一个福音",
+      "summary_cn": "每个工作日，投资俱乐部都会发布Homestretch;一个可操作的下午更新，正好赶上交易的最后一个小时。"
+    },
+    {
+      "title": "New CNBC Generation Lab poll shows almost half of 18- to 34-year-olds see democratic socialism positively",
+      "summary": "New CNBC Generation Lab poll shows almost half of 18- to 34-year-olds see democratic socialism positively and nearly 80% see the U.S. economy negatively.",
+      "url": "https://www.cnbc.com/2026/08/13/cnbc-poll-half-of-those-18-to-34-view-democratic-socialism-positively.html",
+      "source": "CNBC",
+      "datetime": 1786720920,
+      "image": "https://image.cnbcfm.com/api/v1/image/108348392-1786537674263-gettyimages-2290106549-6e6a3717_copy_sqg9ptmk.jpeg?v=1786652512&w=1920&h=1080",
+      "title_cn": "CNBC一代实验室的新民意调查显示，近一半的18至34岁人群对民主社会主义持积极态度",
+      "summary_cn": "CNBC一代实验室的新民意调查显示，近一半的18至34岁人群对民主社会主义持积极态度，近80%的人对美国经济持消极态度。"
+    },
+    {
+      "title": "Disney CEO Josh D'Amaro to speak with CNBC live from D23 expo",
+      "summary": "New CEO Josh D'Amaro has said his strategy for continued growth at Disney is centered around storytelling, intellectual property and technology.",
+      "url": "https://www.cnbc.com/2026/08/14/disney-ceo-josh-damaro-d23-expo.html",
+      "source": "CNBC",
+      "datetime": 1786720436,
+      "image": "https://image.cnbcfm.com/api/v1/image/108260683-1770126131917-108260683-1770125907979-gettyimages-1869811750-vcg111470591485.jpg?v=1770126142&w=1920&h=1080",
+      "title_cn": "迪士尼首席执行官乔什·达马罗将在D23展会上接受CNBC现场采访",
+      "summary_cn": "新任首席执行官乔什·达马罗表示，他在迪士尼持续增长的战略是围绕故事讲述、知识产权和技术展开的。"
+    }
+  ],
+  "ai": [
+    {
+      "title": "Alibaba’s Qwen AI Models Cross 3 Billion Downloads, Surpass Google And Meta In Open-Source AI",
+      "description": "Alibaba’s Qwen family of open AI models has crossed 3 billion downloads globally in six months, surpassing models from Google, Meta and Chinese rivals. With more than 460 open-source models and 300,000 derivatives, Qwen is emerging as a major foundation for developers building and customizing artificial intelligence applications",
+      "url": "https://www.freepressjournal.in/business/alibabas-qwen-ai-models-cross-3-billion-downloads-surpass-google-and-meta-in-open-source-ai",
+      "source": "Free Press Journal",
+      "publishedAt": "2026-08-15T12:18:01Z",
+      "image": "https://media.assettype.com/freepressjournal/2026-08-15/jssrwkn4/images-22.jpg",
+      "title_cn": "阿里巴巴Qwen AI模型下载量突破30亿，超越Google和Meta开源AI",
+      "description_cn": "阿里巴巴的Qwen系列开放人工智能模型在六个月内全球下载量突破了30亿次，超过了谷歌、Meta和中国竞争对手的模型。Qwen拥有460多个开源模型和300，000个衍生品，正在成为开发人员构建和定制人工智能应用程序的主要基础"
+    },
+    {
+      "title": "AI skilling for 1cr youth within a year, says Modi",
+      "description": "Prime Minister Narendra Modi, on Independence Day 2026, unveiled a plan to equip one crore youth with Artificial Intelligence skills within the next year.",
+      "url": "https://www.newsbytesapp.com/news/science/1cr-youth-to-be-trained-in-ai-skills-says-modi/story",
+      "source": "NewsBytes",
+      "publishedAt": "2026-08-15T10:37:29Z",
+      "image": "https://i.cdn.newsbytesapp.com/images/l14120260815154300.jpeg",
+      "title_cn": "莫迪表示，一年内培养1CR年轻人的人工智能技能",
+      "description_cn": "总理纳伦德拉·莫迪（Narendra Modi）在2026年独立日公布了一项计划，在明年内为1亿年轻人提供人工智能技能。"
+    },
+    {
+      "title": "Teen charged with murder of mother and brother used ChatGPT to create ‘fantasy stories’ about killing family, officials say",
+      "description": "A Massachusetts teen charged in the double murder of his mother and younger brother had used the artificial intelligence chatbot ChatGPT to search for “theoretical ideas or fantasy stories” about the killing of his family, prosecutors have said.",
+      "url": "https://edition.cnn.com/2026/08/15/us/arjun-aravind-massachusetts-killing-chatgpt-hnk",
+      "source": "Cable News Network",
+      "publishedAt": "2026-08-15T10:30:30Z",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/usatsi-29567278.jpg?c=16x9&q=w_800,c_fill",
+      "title_cn": "官员称，被指控谋杀母亲和兄弟的青少年使用ChatGPT创作了有关杀害家人的“幻想故事”",
+      "description_cn": "检察官称，马萨诸塞州一名青少年被指控双重谋杀母亲和弟弟，他使用人工智能聊天机器人ChatGPT来搜索有关家人被杀的“理论想法或幻想故事”。"
+    },
+    {
+      "title": "Opinion: Artificial intelligence can imitate us, but it cannot truly design or invent",
+      "description": "Generative models excel at transforming old patterns, but true design relies on genuine human invention",
+      "url": "https://www.mercurynews.com/2026/08/15/commentary-artificial-intelligence-can-imitate-us-but-it-cannot-truly-design-or-invent-2/",
+      "source": "The Mercury News",
+      "publishedAt": "2026-08-15T10:15:41Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/08/202608110400MCT_____PHOTO____OPED-AI-DESIGN-INVENT-COMMENTARY-FILEPIC-DMT_77eac8.jpg?w=1600&h=1024",
+      "title_cn": "观点：人工智能可以模仿我们，但无法真正设计或发明",
+      "description_cn": "生成模型擅长改变旧模式，但真正的设计依赖于真正的人类发明"
+    },
+    {
+      "title": "NITI Aayog proposes major service-sector reforms: What it means for future professionals",
+      "description": "According to the report, artificial intelligence, automation are changing how services are delivered while creating demand for areas such as advanced analytics and strategic advisory services. For students, professionals, the areas highlighted in the report include professional licensing and more.",
+      "url": "https://indianexpress.com/article/education/niti-aayog-fixing-regulation-service-sector-doctors-lawyers-engineering-nursing-licensure-next-gdp-icai-10834591/",
+      "source": "The Indian Express",
+      "publishedAt": "2026-08-15T10:15:13Z",
+      "image": "https://images.indianexpress.com/2026/08/niti-aayog-express-photo-ai.jpg",
+      "title_cn": "NITI Aayog提出重大服务业改革：这对未来专业人士意味着什么",
+      "description_cn": "报告称，人工智能、自动化正在改变服务的交付方式，同时创造了对高级分析和战略咨询服务等领域的需求。对于学生、专业人士来说，报告中强调的领域包括专业许可等。"
+    }
+  ]
+}
