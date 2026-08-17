@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-08-17T00:44:54Z",
+  "finance": [
+    {
+      "title": "Believe the unbelievable in this market — things can be different this time",
+      "summary": "Here is what's so amazing: These four unbelievably performing stocks remain the most hated and feared on Wall Street.",
+      "url": "https://www.cnbc.com/2026/08/16/cramer-believe-the-unbelievable-in-this-market-things-can-be-different.html",
+      "source": "CNBC",
+      "datetime": 1786915945,
+      "image": "https://image.cnbcfm.com/api/v1/image/108242674-1765922857470-gettyimages-2251668534-MICRON_EARNS.jpeg?v=1773262309&w=1920&h=1080",
+      "title_cn": "相信这个市场上令人难以置信的事情--这次事情可能会有所不同",
+      "summary_cn": "令人惊奇的是：这四只表现令人难以置信的股票仍然是华尔街最令人讨厌和恐惧的股票。"
+    },
+    {
+      "title": "Top U.S. commander acknowledges mental health issues on USS Lincoln",
+      "summary": "Cooper's visit and statement come after reports of widespread morale and mental health concerns aboard the Lincoln.",
+      "url": "https://www.cnbc.com/2026/08/16/top-us-commander-acknowledges-mental-health-issues-on-uss-lincoln.html",
+      "source": "CNBC",
+      "datetime": 1786910312,
+      "image": "https://image.cnbcfm.com/api/v1/image/108277507-17733468252026-03-12t201739z_1867101499_rc2n1karw15x_rtrmadp_0_iran-crisis.jpeg?v=1773346961&w=1920&h=1080",
+      "title_cn": "美国最高指挥官承认林肯号航空母舰存在心理健康问题",
+      "summary_cn": "库珀此次访问并发表声明是在有报道称林肯号上普遍存在士气和心理健康问题之后发表的。"
+    },
+    {
+      "title": "Here are the 2 big things we're watching in the stock market in the week ahead",
+      "summary": "The housing industry and consumer spending take center stage across earnings reports and economic releases.",
+      "url": "https://www.cnbc.com/2026/08/16/here-are-the-2-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
+      "source": "CNBC",
+      "datetime": 1786896253,
+      "image": "https://image.cnbcfm.com/api/v1/image/108269360-1771964339199-gettyimages-2263364069-dji_20260224095932_0062_d_eu4fq6ty.jpeg?v=1771964411&w=1920&h=1080",
+      "title_cn": "以下是未来一周我们关注的股市的两件大事",
+      "summary_cn": "房地产行业和消费者支出在盈利报告和经济发布中占据中心地位。"
+    },
+    {
+      "title": "Inflation moderated as Intel and Nvidia fueled the AI trade in last week's market",
+      "summary": "No surprises on inflation and new financing developments in the artificial intelligence trade drove the record-breaking action on Wall Street last week.",
+      "url": "https://www.cnbc.com/2026/08/15/inflation-moderated-as-intel-and-nvidia-fueled-the-ai-trade-in-last-week-market.html",
+      "source": "CNBC",
+      "datetime": 1786803774,
+      "image": "https://image.cnbcfm.com/api/v1/image/108344539-1785853710278-Traders-Photo-20260803-KK-PRESS-016.jpg?v=1785853829&w=1920&h=1080",
+      "title_cn": "随着英特尔和英伟达推动上周市场人工智能交易，通胀放缓",
+      "summary_cn": "通胀和人工智能贸易新融资发展并不令人意外，推动了上周华尔街的破纪录行动。"
+    },
+    {
+      "title": "Marijuana reform is emerging as a midterm elections issue on both sides of the aisle",
+      "summary": "With November's midterms fast approaching, cannabis reform is an issue. It's popular with voters, but its power to tilt elections remains uncertain.",
+      "url": "https://www.cnbc.com/2026/08/15/cannabis-marijuana-legalization-midterm-elections.html",
+      "source": "CNBC",
+      "datetime": 1786798801,
+      "image": "https://image.cnbcfm.com/api/v1/image/108349571-1786691479170-gettyimages-2275460438-cannabis_BC_021_051326JPG.jpeg?v=1786691530&w=1920&h=1080",
+      "title_cn": "马里亚诺改革正在成为两党中期选举的一个议题",
+      "summary_cn": "随着11月中期选举的临近，大麻改革成为一个问题。它很受选民欢迎，但其倾斜选举的能力仍然不确定。"
+    }
+  ],
+  "ai": [
+    {
+      "title": "Why AI training can backfire for older workers",
+      "description": "Employers are increasingly investing in training to prepare their employees for artificial intelligence (AI). Training budgets are growing, and \"upskilling\" has become a common response to rapid technological change.",
+      "url": "https://phys.org/news/2026-08-ai-backfire-older-workers.html",
+      "source": "Phys.org",
+      "publishedAt": "2026-08-16T12:20:01Z",
+      "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/older-people-online.jpg",
+      "title_cn": "为什么人工智能培训会对老年员工产生适得其反的效果",
+      "description_cn": "雇主越来越多地投资于培训，为员工做好人工智能（AI）准备。培训预算正在增长，“提高技能”已成为对快速技术变革的常见反应。"
+    },
+    {
+      "title": "AI Could Give Us 100 Years Of Medical Progress In Just 5-10 Years, Says Anthropic CEO",
+      "description": "The rapid advancement of artificial intelligence is highlighted by Anthropic's CEO, Dario Amodei, who believes this is just the beginning of AI's potential. He envisions that within the next decade, AI could significantly aid in curing diseases. , Technology & Science, Times Now",
+      "url": "https://www.timesnownews.com/technology-science/ai-could-give-us-100-years-of-medical-progress-in-just-5-10-years-says-anthropic-ceo-article-155696458",
+      "source": "Times Now",
+      "publishedAt": "2026-08-16T11:14:13Z",
+      "image": "https://images.timesnownews.com/thumb/msid-155696598,thumbsize-105494,width-1280,height-720,resizemode-75/155696598.jpg",
+      "title_cn": "Anthropic首席执行官表示，人工智能可以在短短5-10年内为我们带来100年的医学进步",
+      "description_cn": "Anthropic首席执行官达里奥·阿莫迪（Dario Amedei）强调了人工智能的快速发展，他认为这只是人工智能潜力的开始。他设想，在未来十年内，人工智能可以极大地帮助治愈疾病。、技术与科学、时代现代"
+    },
+    {
+      "title": "Open-weight AI won’t crimp demand for picks and shovels",
+      "description": "Some of the artificial intelligence boom’s biggest beneficiaries can cash in whether open models proliferate or not. | Technology News",
+      "url": "https://www.hindustantimes.com/technology/openweight-ai-won-t-crimp-demand-for-picks-and-shovels-101786875793458.html",
+      "source": "Hindustan Times",
+      "publishedAt": "2026-08-16T10:24:28Z",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/08/16/1600x900/logo/im-00376855_1786875797667_1786875825960_4fc9052b-b832-4c80-b16d-ad48f82e1f6b.jpg",
+      "title_cn": "开重人工智能不会抑制对镐和铲子的需求",
+      "description_cn": "无论开放模型是否激增，人工智能热潮的一些最大受益者都可以从中获利。| 科技讯"
+    },
+    {
+      "title": "Flock is watching you | Sheneman",
+      "description": "Second only to artificial intelligence data centers and AI itself, Flock cameras are drawing the ire of the masses over incidents of abuse.",
+      "url": "https://www.nj.com/opinion/2026/08/flock-is-watching-you-sheneman.html",
+      "source": "NJ.com",
+      "publishedAt": "2026-08-16T10:00:00Z",
+      "image": "https://www.nj.com/resizer/v2/5Y7EGGDNNZG4ZCJI4XK6QGJQEM.jpg?auth=5e4cba167f24b960d5f658afdcdc1556a82e0321fd817deba6ef4fd71df3a925&width=1280&smart=true&quality=90",
+      "title_cn": "弗洛克正在看着你|谢内曼",
+      "description_cn": "仅次于人工智能数据中心和人工智能本身的Flock摄像头正在引起大众对虐待事件的愤怒。"
+    },
+    {
+      "title": "AI's New Red Flag: US Dangles Pax Silica At Partners To Sideline China",
+      "description": "In the looming Artificial Intelligence (AI) battle, the US is preparing the groundwork to let its partners know that they can't have pacts with China if they are keen to join the US-led AI coalition.",
+      "url": "https://www.ibtimes.com/ais-new-red-flag-us-dangles-pax-silica-partners-sideline-china-3806460",
+      "source": "International Business Times",
+      "publishedAt": "2026-08-16T09:45:09Z",
+      "image": "https://d.ibtimes.com/en/full/4652150/smartphone-displaying-words-ai-artificial-intelligence.jpg",
+      "title_cn": "人工智能的新危险信号：美国将硅和平作为合作伙伴，与中国并列",
+      "description_cn": "在迫在眉睫的人工智能（AI）之战中，美国正在做好准备，让其合作伙伴知道，如果他们热衷于加入美国领导的人工智能联盟，他们就无法与中国达成协议。"
+    }
+  ]
+}
