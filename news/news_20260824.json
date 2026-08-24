@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-08-24T00:46:46Z",
+  "finance": [
+    {
+      "title": "Democratic House leader Jeffries meets with Jared Kushner as midterms loom",
+      "summary": "Democrats are currently favored to win a majority in the House of Representatives after November's elections.",
+      "url": "https://www.cnbc.com/2026/08/23/democratic-leader-jeffries-meets-with-jared-kushner-as-midterms-loom.html",
+      "source": "CNBC",
+      "datetime": 1787507886,
+      "image": "https://image.cnbcfm.com/api/v1/image/108315442-1780426534373-photo_181.jpg?v=1780511397&w=1920&h=1080",
+      "title_cn": "中期选举迫在眉睫，民主党众议院领袖杰弗里斯会见贾里德·库什纳",
+      "summary_cn": "目前，民主党有望在11月的选举后赢得众议院多数席位。"
+    },
+    {
+      "title": "Here are the 2 big things we're watching in the stock market this week",
+      "summary": "Nvidia reports earnings, and Fed Chairman Kevin Warsh is set to deliver his first Jackson Hole speech.",
+      "url": "https://www.cnbc.com/2026/08/23/here-are-the-2-big-things-were-watching-in-the-stock-market-this-week.html",
+      "source": "CNBC",
+      "datetime": 1787504162,
+      "image": "https://image.cnbcfm.com/api/v1/image/108314325-1780289502127-gettyimages-2278510322-AFP_B4KP4D2.jpeg?v=1780289528&w=1920&h=1080",
+      "title_cn": "以下是本周我们在股市上关注的两件大事",
+      "summary_cn": "英伟达公布财报，美联储主席凯文·沃什将发表他的首次杰克逊霍尔演讲。"
+    },
+    {
+      "title": "After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AI",
+      "summary": "United Airlines CEO Scott Kirby talked to CNBC in a wide-ranging interview about his proposed airline megadeals, AI and the future of the carrier.",
+      "url": "https://www.cnbc.com/2026/08/23/united-airlines-ceo-scott-kirby.html",
+      "source": "CNBC",
+      "datetime": 1787486401,
+      "image": "https://image.cnbcfm.com/api/v1/image/108282297-1774370354680-gettyimages-2267710515-AFP_A4JX7G8.jpeg?v=1776879619&w=1920&h=1080",
+      "title_cn": "在美联航工作10年后，首席执行官斯科特·柯比（Scott Kirby）正在对他的航空公司从肯尼迪机场（JFK）到人工智能的未来进行宏伟的思考",
+      "summary_cn": "联合航空首席执行官斯科特·柯比（Scott Kirby）在接受CNBC采访时谈到了他提议的航空公司巨额交易、人工智能和航空公司的未来。"
+    },
+    {
+      "title": "United's next decision: What to do with all those Boeing 737 Max 10 seats it ordered years ago",
+      "summary": "United Airlines wanted to put lie-flat premium seats on its Max 10 planes once they were certified, but that has been delayed by years.",
+      "url": "https://www.cnbc.com/2026/08/23/united-airlines-boeing-737-max-10-seats.html",
+      "source": "CNBC",
+      "datetime": 1787486401,
+      "image": "https://image.cnbcfm.com/api/v1/image/108350326-1786973662775-gettyimages-2284942155-AFP_B9W49E4.jpeg?v=1786973690&w=1920&h=1080",
+      "title_cn": "美联航的下一个决定：该如何处理多年前订购的所有波音737 Max 10座",
+      "summary_cn": "美联航希望在其Max 10飞机获得认证后在其飞机上安装平躺式高级座椅，但这一计划已被推迟多年。"
+    },
+    {
+      "title": "Airbnb's new fee change frustrates hosts—what to know before renting out your home",
+      "summary": "A new Airbnb fee change is one of many costs and considerations that can affect whether running a short-term rental makes money.",
+      "url": "https://www.cnbc.com/2026/08/22/airbnb-fee-change-frustrates-hosts-what-to-know-before-listing.html",
+      "source": "CNBC",
+      "datetime": 1787407201,
+      "image": "https://image.cnbcfm.com/api/v1/image/108352829-1787330088287-gettyimages-1599046471-glmp-2.jpeg?v=1787330151&w=1920&h=1080",
+      "title_cn": "Airbnb的新费用变化让房东感到沮丧-出租房屋之前需要了解什么",
+      "summary_cn": "新的Airbnb费用变化是可能影响短期租赁是否赚钱的众多成本和考虑因素之一。"
+    }
+  ],
+  "ai": [
+    {
+      "title": "OpenAI warns AI-powered cyberattacks could become ‘ongoing, persistent’",
+      "description": "A senior OpenAI executive is warning that people should prepare for ongoing, persistent cyber-attacks launched by artificial intelligence, as frontier models gain the ability to plan and execute...",
+      "url": "https://www.thenews.com.pk/latest/1413317-openai-warns-ai-powered-cyberattacks-could-become-ongoing-persistent",
+      "source": "The News International",
+      "publishedAt": "2026-08-23T12:15:42Z",
+      "image": "https://www.thenews.com.pk/assets/uploads/2026-08-23/1413317_052542_updates.jpg",
+      "title_cn": "OpenAI警告人工智能驱动的网络攻击可能会变得“持续、持续”",
+      "description_cn": "OpenAI的一位高级高管警告说，随着前沿模型获得规划和执行的能力，人们应该为人工智能发起的持续、持续的网络攻击做好准备."
+    },
+    {
+      "title": "Top analysts believe in the growth potential of these 3 stocks",
+      "description": "Analysts are bullish on the prospects of several stocks due to their long-term growth potential and exposure to lucrative areas, such as artificial intelligence.",
+      "url": "https://www.cnbc.com/2026/08/23/top-analysts-believe-in-the-growth-potential-of-these-3-stocks.html",
+      "source": "CNBC",
+      "publishedAt": "2026-08-23T11:29:05Z",
+      "image": "https://image.cnbcfm.com/api/v1/image/108348675-1786560867014-gettyimages-2289703994-US_STOCKS.jpeg?v=1786560938&w=1920&h=1080",
+      "title_cn": "顶级分析师相信这3只股票的增长潜力",
+      "description_cn": "分析师看好几只股票的前景，因为它们具有长期增长潜力，并且涉足人工智能等利润丰厚的领域。"
+    },
+    {
+      "title": "'Losing the creative ones': Schoolchildren leaving critical thinking to AI, research shows",
+      "description": "Schoolchildren are dispensing with analytical thinking as they increasingly lean on artificial intelligence, a fast-changing technology that many teenagers struggle to understand.",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/23/039losing-the-creative-ones039-schoolchildren-leaving-critical-thinking-to-ai-research-shows",
+      "source": "The Star",
+      "publishedAt": "2026-08-23T09:44:00Z",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/08/23/4073937.jpg",
+      "title_cn": "“失去创造力”：研究显示，学童将批判性思维留给人工智能",
+      "description_cn": "随着越来越多地依赖人工智能，学生们正在放弃分析性思维，人工智能是一种快速变化的技术，许多青少年很难理解。"
+    },
+    {
+      "title": "Alibaba to raise $10B via share sale for AI purposes",
+      "description": "Alibaba announced plans to raise HK$80 billion (US$10.2 billion) through a Hong Kong share placement, aiming to accelerate advancements in artificial intelligence development.",
+      "url": "https://www.newsbytesapp.com/news/business/alibaba-to-raise-hk-80bn-for-ai-purposes/story",
+      "source": "NewsBytes",
+      "publishedAt": "2026-08-23T09:33:49Z",
+      "image": "https://i.cdn.newsbytesapp.com/images/l10420260823134144.jpeg",
+      "title_cn": "阿里巴巴将通过出售股票筹集100亿美元用于人工智能",
+      "description_cn": "阿里巴巴宣布计划通过香港配股筹集800亿港元（102亿美元），旨在加快人工智能发展的进程。"
+    },
+    {
+      "title": "Alibaba seeks $10 billion from share sale for AI expansion",
+      "description": "Alibaba aims to raise $10 billion through a share sale to enhance its artificial intelligence capabilities and compete globally.",
+      "url": "https://www.thehindubusinessline.com/info-tech/alibaba-seeks-10-billion-from-share-sale-for-ai-expansion/article71380466.ece",
+      "source": "The Hindu Business Line",
+      "publishedAt": "2026-08-23T09:16:14Z",
+      "image": "https://bl-i.thgim.com/public/incoming/p69kh4/article71316148.ece/alternates/LANDSCAPE_1200/2026-07-03T084235Z_1720081101_RC2UJCAOBJAU_RTRMADP_3_ANTHROPIC-AI-ALIBABA.JPG",
+      "title_cn": "阿里巴巴寻求通过出售股票100亿美元用于人工智能扩张",
+      "description_cn": "阿里巴巴的目标是通过出售股票筹集100亿美元，以增强其人工智能能力并在全球竞争。"
+    }
+  ]
+}
