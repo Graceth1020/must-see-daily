@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-08-25T00:45:30Z",
+  "finance": [
+    {
+      "title": "Los Angeles Lakers worth 'every bit' of $12.5 billion price tag: 76ers and Commanders owner Josh Harris",
+      "summary": "The Los Angeles Lakers set a new record for a professional team sale price at $12.5 billion, and sports investor Josh Harris said the team is worth \"every bit.\"",
+      "url": "https://www.cnbc.com/2026/08/24/los-angeles-lakers-worth-every-bit-of-12point5-billion-price-tag-76ers-and-commanders-owner-josh-harris.html",
+      "source": "CNBC",
+      "datetime": 1787611876,
+      "image": "https://image.cnbcfm.com/api/v1/image/108137542-1745865385060-gettyimages-2212423926-wm020612_fbhuh4jd.jpeg?v=1787610366&w=1920&h=1080",
+      "title_cn": "洛杉矶湖人队身价125亿美元：76人队和指挥官队老板乔什·哈里斯",
+      "summary_cn": "洛杉矶湖人队以125亿美元的价格创下了职业球队销售价格的新纪录，体育投资者乔什·哈里斯表示，球队“物有所值”。\""
+    },
+    {
+      "title": "Here's what Jim Cramer says stock investors need to know about the bond market",
+      "summary": "Cramer said investors should watch long-term Treasury yields, which have surged amid inflation concerns, government borrowing and AI-related corporate debt issuances.",
+      "url": "https://www.cnbc.com/2026/08/24/jim-cramer-stock-investors-know-bond-market.html",
+      "source": "CNBC",
+      "datetime": 1787611201,
+      "image": "https://image.cnbcfm.com/api/v1/image/108285632-1774986309800-cnbc_versant_share.png?v=1774986411&w=1920&h=1080",
+      "title_cn": "以下是吉姆·克莱默（Jim Cramer）所说的股票投资者需要了解的有关债券市场的信息",
+      "summary_cn": "克莱默表示，投资者应该关注长期国债收益率，由于通胀担忧、政府借款和人工智能相关企业债务发行，长期国债收益率飙升。"
+    },
+    {
+      "title": "Paramount CEO David Ellison is at the final hurdle before buying WBD. So far, he can't clear it",
+      "summary": "An antitrust challenge by a group of state attorneys general has left Paramount CEO David Ellison hunting for avenues to get his deal for WBD done.",
+      "url": "https://www.cnbc.com/2026/08/24/paramount-ceo-david-ellison-wbd-acquisition-final-hurdle.html",
+      "source": "CNBC",
+      "datetime": 1787608585,
+      "image": "https://image.cnbcfm.com/api/v1/image/108238393-1765214232072-108238393-1765211822234-gettyimages-2250111360-PARAMOUNT_NYSE.jpeg?v=1770743687&w=1920&h=1080",
+      "title_cn": "派拉蒙首席执行官大卫·埃里森（David Ellison）正处于收购WBD之前的最后一个障碍。到目前为止，他还无法清除",
+      "summary_cn": "一群州总检察长发起的反垄断挑战让派拉蒙首席执行官大卫·埃里森（David Ellison）寻找途径来完成与WBD的交易。"
+    },
+    {
+      "title": "Main Street Sports sues Comcast, Charter for underpaid licensing fees",
+      "summary": "Main Street has been in the process of winding down its portfolio of regional sports networks since the the NHL and NBA seasons ended earlier this year.",
+      "url": "https://www.cnbc.com/2026/08/24/main-street-sports-comcast-charter-lawsuit-payments.html",
+      "source": "CNBC",
+      "datetime": 1787608405,
+      "image": "https://image.cnbcfm.com/api/v1/image/108141052-1746462162675-gettyimages-2202369468-2025_nba_0226_pistonsvceltics_19.jpeg?v=1746462341&w=1920&h=1080",
+      "title_cn": "Main Street Sports收件箱康卡斯特，特许经营费过低",
+      "summary_cn": "自今年早些时候NHL和NBA赛季结束以来，Main Street一直在缩减其区域体育网络组合。"
+    },
+    {
+      "title": "Here's what the charts say about Nvidia's stock heading into earnings",
+      "summary": "We see a flashing yellow light into Nvidia's earnings report Wednesday night.",
+      "url": "https://www.cnbc.com/2026/08/24/heres-what-the-charts-say-about-nvidias-stock-heading-into-earnings.html",
+      "source": "CNBC",
+      "datetime": 1787601085,
+      "image": "https://image.cnbcfm.com/api/v1/image/108278435-1773676408574-gettyimages-2266412179-2026_mar_16_keynote_0162.jpeg?v=1773676461&w=1920&h=1080",
+      "title_cn": "以下是图表显示的Nvidia股票收益",
+      "summary_cn": "周三晚上，我们看到英伟达的盈利报告亮起了黄灯。"
+    }
+  ],
+  "ai": [
+    {
+      "title": "An AI job boom? Here's what the tedious, temporary work in data labeling is actually like",
+      "description": "Amid all the talk about artificial intelligence (AI) both creating and destroying jobs, a troubling reality flies under the radar.",
+      "url": "https://phys.org/news/2026-08-ai-job-boom-tedious-temporary.html",
+      "source": "Phys.org",
+      "publishedAt": "2026-08-24T12:40:01Z",
+      "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/ai-job.jpg",
+      "title_cn": "人工智能就业热潮？这就是数据标签中乏味的临时工作的实际情况",
+      "description_cn": "在所有关于人工智能（AI）创造和破坏就业机会的讨论中，一个令人不安的现实却被忽视了。"
+    },
+    {
+      "title": "General Atomics and SDSC use AI to advance fusion laser research",
+      "description": "Collaboration combines high-performance computing and artificial intelligence to accelerate the design and optimisation of laser systems for inertial confinement fusion research",
+      "url": "https://www.scientific-computing.com/article/general-atomics-sdsc-use-ai-advance-fusion-laser-research",
+      "source": "Scientific Computing World",
+      "publishedAt": "2026-08-24T12:30:30Z",
+      "image": "https://www.scientific-computing.com/themes/custom/bootstrap_sass_lse/images/faviconSCW.ico",
+      "title_cn": "通用原子公司和SDSC利用人工智能推进聚变激光研究",
+      "description_cn": "合作结合高性能计算和人工智能，加速惯性约束聚变研究激光系统的设计和优化"
+    },
+    {
+      "title": "AI is changing more than technology: Why the TOI AI Quotient Awards 2026 are also about the leaders behind the change",
+      "description": "Artificial intelligence is quickly becoming part of everyday business. Companies are using it to understand customers, improve operations, build produ.",
+      "url": "https://timesofindia.indiatimes.com/life-style/spotlight/ai-is-changing-more-than-technology-why-the-toi-ai-quotient-awards-2026-are-also-about-the-leaders-behind-the-change/articleshow/133466029.cms",
+      "source": "Times of India",
+      "publishedAt": "2026-08-24T12:30:00Z",
+      "image": "https://static.toiimg.com/thumb/msid-133466061,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "title_cn": "人工智能正在改变的不仅仅是技术：为什么2026年TOI人工智能商数奖也是关于变革背后的领导者",
+      "description_cn": "人工智能正在迅速成为日常业务的一部分。公司正在使用它来了解客户、改善运营、构建产品。"
+    },
+    {
+      "title": "Pasqal and Eleven Ventures Establish Commercial Joint Venture to Scale Quantum and AI Computing Across Saudi Arabia and the Broader MENA Region",
+      "description": "Announcement coincides with the State Visit of the Kingdom of Saudi Arabia to France, highlighting growing cooperation in quantum computing, artificial intelligence and advanced technologies",
+      "url": "https://www.manilatimes.net/2026/08/24/tmt-newswire/globenewswire/pasqal-and-eleven-ventures-establish-commercial-joint-venture-to-scale-quantum-and-ai-computing-across-saudi-arabia-and-the-broader-mena-region/2410964",
+      "source": "The Manila Times",
+      "publishedAt": "2026-08-24T12:28:58Z",
+      "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/24/1188051.jpg",
+      "title_cn": "Pasqal和Eleven Ventures成立商业合资企业，在沙特阿拉伯和更广泛的中东和北非地区扩大量子和人工智能计算规模",
+      "description_cn": "该公告恰逢沙特阿拉伯王国对法国进行国事访问，强调量子计算、人工智能和先进技术领域的合作不断加强"
+    },
+    {
+      "title": "This historian may have just agreed with Microsoft AI CEO Mustafa Suleyman’s warning on AI’s ability to manipulate human minds",
+      "description": "Tech News News: Yuval Noah Harari, the renowned historian and author of Sapiens, has warned that society needs to act now to stop artificial intelligence (AI) being g.",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/this-historian-may-have-just-agreed-with-microsoft-ai-ceo-mustafa-suleymans-warning-on-ais-ability-to-manipulate-human-minds/articleshow/133465818.cms",
+      "source": "Times of India",
+      "publishedAt": "2026-08-24T12:16:00Z",
+      "image": "https://static.toiimg.com/thumb/msid-133465842,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "title_cn": "这位历史学家可能刚刚同意微软人工智能首席执行官穆斯塔法·苏莱曼关于人工智能操纵人类思想能力的警告",
+      "description_cn": "科技新闻新闻：著名历史学家、《智人》一书的作者尤瓦尔·诺亚·哈拉里（Yuval Noah Harari）警告说，社会需要立即采取行动，阻止人工智能（AI）成为G。"
+    }
+  ]
+}
