@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-08-28T08:10:29Z",
+  "finance": [
+    {
+      "title": "Jim Cramer says Nvidia and Salesforce earnings upended two bear narratives",
+      "summary": "CNBC’s Jim Cramer said strong earnings from Nvidia and Salesforce shattered two major bear cases that had weighed on the tech stocks.",
+      "url": "https://www.cnbc.com/2026/08/27/cramer-nvidia-salesforce-earnings-upended-two-bear-narratives.html",
+      "source": "CNBC",
+      "datetime": 1787869214,
+      "image": "https://image.cnbcfm.com/api/v1/image/107109968-NUP_198430_00193r.jpg?v=1696632386&w=1920&h=1080",
+      "title_cn": "吉姆·克莱默（Jim Cramer）表示Nvidia和Salesforce的盈利颠覆了两种熊市叙事",
+      "summary_cn": "CNBC的吉姆·克莱默（Jim Cramer）表示，英伟达（Nvidia）和Salesforce（Salesforce）的强劲收益打破了拖累科技股的两大重大熊市。"
+    },
+    {
+      "title": "What's expected at Apple's September event — plus, an uneven rally in AI stocks",
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "url": "https://www.cnbc.com/2026/08/27/what-to-expect-from-apples-september-event-and-whats-driving-rally.html",
+      "source": "CNBC",
+      "datetime": 1787856513,
+      "image": "https://image.cnbcfm.com/api/v1/image/108327021-1782412818379-gettyimages-2283305837-anotherday231781905_ihuwwd2j.jpeg?v=1782412889&w=1920&h=1080",
+      "title_cn": "苹果9月份发布会的预期--加上人工智能股的不均衡上涨",
+      "summary_cn": "每个工作日，投资俱乐部都会发布Homestretch;一个可操作的下午更新，正好赶上交易的最后一个小时。"
+    },
+    {
+      "title": "What Warsh will say and how the market will react, according to prediction markets",
+      "summary": "Kalshi sees a low chance that Federal Reserve Chairman Kevin Warsh will mention \"bond market\" or \"rate cut\" at the annual Jackson Hole Symposium.",
+      "url": "https://www.cnbc.com/2026/08/27/what-warsh-will-say-and-how-the-market-will-react-according-to-prediction-markets.html",
+      "source": "CNBC",
+      "datetime": 1787854497,
+      "image": "https://image.cnbcfm.com/api/v1/image/108341956-1785351393922-gettyimages-2288188064-wm024548_95y2ncpt.jpeg?v=1785351532&w=1920&h=1080",
+      "title_cn": "根据预测市场，沃什会说什么以及市场将如何反应",
+      "summary_cn": "卡尔什认为美联储主席凯文·沃什在年度杰克逊霍尔研讨会上提及“债券市场”或“降息”的可能性很低。"
+    },
+    {
+      "title": "Donald Trump Jr. told Republican state attorneys not to fight prediction markets, NY Times reports",
+      "summary": "The president's son, who is an advisor to two prediction market platforms, told Republican attorneys general to back off on the industry, the Times reported.",
+      "url": "https://www.cnbc.com/2026/08/27/trump-jr-told-gop-state-attorneys-general-dont-fight-prediction-markets-nyt-reports.html",
+      "source": "CNBC",
+      "datetime": 1787854194,
+      "image": "https://image.cnbcfm.com/api/v1/image/108284204-1774629538528-gettyimages-2268078700-FII_PRIORITY_SUMMIT.jpeg?v=1774629571&w=1920&h=1080",
+      "title_cn": "小唐纳德·特朗普据《纽约时报》报道，告诉共和党州检察官不要对抗预测市场",
+      "summary_cn": "据《泰晤士报》报道，总统的儿子是两个预测市场平台的顾问，他告诉共和党总检察长放弃该行业。"
+    },
+    {
+      "title": "Jim Cramer says the 'worst is over' at Salesforce, sees another 20% upside from here",
+      "summary": "Jim Cramer believes the comeback rally in Salesforce is far from over.",
+      "url": "https://www.cnbc.com/2026/08/27/jim-cramer-says-the-worst-is-over-at-salesforce-sees-another-20percent-upside-from-here.html",
+      "source": "CNBC",
+      "datetime": 1787849940,
+      "image": "https://image.cnbcfm.com/api/v1/image/108235551-1764713796371-gettyimages-2249038342-SALESFORCE_EARNS.jpeg?v=1772222816&w=1920&h=1080",
+      "title_cn": "吉姆·克莱默（Jim Cramer）表示Salesforce“最糟糕的时期已经过去”，并预计将再上涨20%",
+      "summary_cn": "吉姆·克莱默（Jim Cramer）认为，Salesforce的卷土重来还远未结束。"
+    }
+  ],
+  "ai": [
+    {
+      "title": "Major tech companies call for defensive surge to defeat AI-driven hacks",
+      "description": "Major tech companies including OpenAI, Anthropic, Microsoft, Alphabet and Amazon are calling for a society-wide defensive surge to defeat what they describe as an impending wave of hacks driven by artificial intelligence.",
+      "url": "https://www.nbcnews.com/tech/security/major-tech-companies-call-defensive-surge-defeat-ai-driven-hacks-rcna594780",
+      "source": "NBC News",
+      "publishedAt": "2026-08-27T20:04:22Z",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-04/260430-openai-rs-4b7945.jpg",
+      "title_cn": "主要科技公司呼吁加强防御以击败人工智能驱动的黑客攻击",
+      "description_cn": "OpenAI、Anthropic、微软、Alphabet和亚马逊等主要科技公司呼吁在全社会范围内加强防御，以击败他们所说的人工智能驱动的即将到来的黑客浪潮。"
+    },
+    {
+      "title": "With Agentic AI, Agencies Ask, ‘Can It, Should It, May It?’ - MeriTalk",
+      "description": "As agentic artificial intelligence (AI) gains traction across the public and private sectors, one line of questioning emerged repeatedly at MeriTalk’s Mission",
+      "url": "https://www.europesays.com/3218911/",
+      "source": "EUROPE SAYS",
+      "publishedAt": "2026-08-27T19:55:18Z",
+      "image": "https://www.europesays.com/wp-content/uploads/2026/08/Frank-Gao_mission-room.jpg",
+      "title_cn": "通过夸张的人工智能，机构会问：“可以吗？应该吗？”- MeriTalk",
+      "description_cn": "随着代理人工智能（AI）在公共和私营部门获得关注，MeriTalk的Mission中反复出现了一系列质疑"
+    },
+    {
+      "title": "Naidu Clears ₹730.70-Cr Quantum, AI University Campus in Amaravati",
+      "description": "The campus will focus on Quantum Technologies, Artificial Intelligence, semiconductors and other emerging deep-tech areas, combining education, research, skilling, innovation and entrepreneurship.",
+      "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/naidu-clears-73070-cr-quantum-ai-university-campus-in-amaravati-1982842",
+      "source": "Deccan Chronicle",
+      "publishedAt": "2026-08-27T19:29:52Z",
+      "image": "https://www.deccanchronicle.com/h-upload/2026/02/13/2009925-cm-naidu.jpg",
+      "title_cn": "Naidu Clears SYS 730.70-CR Quantum，阿马拉瓦蒂人工智能大学校园",
+      "description_cn": "该园区将重点关注量子技术、人工智能、半导体和其他新兴深度科技领域，将教育、研究、技能、创新和创业融为一体。"
+    },
+    {
+      "title": "Data centers power your apps, streaming, AI tools and remote work",
+      "description": "Data centers power artificial intelligence, streaming, gaming, cloud storage, online shopping, navigation and remote work. Here are 10 ways they impact daily life.",
+      "url": "https://www.foxnews.com/politics/netflix-gps-10-ways-hidden-tech-infrastructure-quietly-powers-modern-life",
+      "source": "Fox News",
+      "publishedAt": "2026-08-27T19:26:16Z",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/Phone-Scrolling.gif",
+      "title_cn": "数据中心为您的应用程序、流媒体、人工智能工具和远程工作提供动力",
+      "description_cn": "数据中心为人工智能、流媒体、游戏、云存储、在线购物、导航和远程工作提供动力。以下是它们影响日常生活的10种方式。"
+    },
+    {
+      "title": "Kioxia, Sandisk plan $31.4 billion Japan investment to boost AI chip output",
+      "description": "Kioxia and Sandisk will invest over $31.4 billion to increase chip production. This significant investment will occur over the next six years in Japan. A new facility in Kitakami will produce high-density 3D flash memory chips. These chips are essential for managing massive artificial intelligence workloads. The move aims to ease global shortages and reduce electronics costs.",
+      "url": "https://economictimes.indiatimes.com/news/international/business/kioxia-sandisk-plan-31-4-billion-japan-investment-to-boost-ai-chip-output/articleshow/133577385.cms",
+      "source": "The Economic Times",
+      "publishedAt": "2026-08-27T19:08:00Z",
+      "image": "https://img.etimg.com/thumb/msid-133577392,width-1200,height-630,imgsize-86330,overlay-economictimes/articleshow.jpg",
+      "title_cn": "Kioxia，Sandisk计划在日本投资314亿美元以提高AI芯片产量",
+      "description_cn": "Kioxia和Sandisk将投资超过314亿美元来增加芯片产量。这项重大投资将在未来六年内在日本进行。北上的新工厂将生产高密度3D闪存芯片。这些芯片对于管理大量人工智能工作负载至关重要。此举旨在缓解全球短缺并降低电子产品成本。"
+    }
+  ]
+}
