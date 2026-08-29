@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-08-29T04:56:06Z",
+  "finance": [
+    {
+      "title": "Stock traders warm up to Warsh as volatility index touches year-to-date low",
+      "summary": "The Cboe Volatility Index (VIX), which measures the price of 30-day options on the S&P 500 Index, fell to as low as 14.1.",
+      "url": "https://www.cnbc.com/2026/08/28/stock-traders-warm-up-to-warsh-as-volatility-index-touches-year-to-date-low.html",
+      "source": "CNBC",
+      "datetime": 1787945709,
+      "image": "https://image.cnbcfm.com/api/v1/image/108353951-1787671978491-Traders-20260825-AS-PRESS-4.jpg?v=1787672206&w=1920&h=1080",
+      "title_cn": "波动率指数触及年初迄今低点，股票交易员对Warsh升温",
+      "summary_cn": "衡量标准普尔500指数30天期权价格的Cboe波动率指数（VIX）跌至14.1。"
+    },
+    {
+      "title": "Bessent attacks Warren over yen intervention query, offers ‘Foreign Exchange for Dummies’ lesson",
+      "summary": "Treasury has not disclosed how much yen it bought, the execution rate or the current value of the position, despite Warren’s requests for details.",
+      "url": "https://www.cnbc.com/2026/08/28/bessent-warren-yen-intervention-treasury-japan.html",
+      "source": "CNBC",
+      "datetime": 1787944998,
+      "image": "https://image.cnbcfm.com/api/v1/image/108355925-1787942125378-Untitled-2.jpg?v=1787942256&w=1920&h=1080",
+      "title_cn": "贝森特攻击沃伦日元干预质询，提供“傻瓜外汇”课程",
+      "summary_cn": "尽管沃伦要求提供细节，财政部尚未透露购买了多少日元、执行利率或头寸的当前价值。"
+    },
+    {
+      "title": "Meta's $17 billion settlement mandates new safeguards for kids—many are promising, says safety expert",
+      "summary": "Following a major legal settlement, Instagram and Facebook users under age 18 will soon have a daily two-hour limit and won't be able to see reactions on posts.",
+      "url": "https://www.cnbc.com/2026/08/28/new-meta-safeguards-teens.html",
+      "source": "CNBC",
+      "datetime": 1787944025,
+      "image": "https://image.cnbcfm.com/api/v1/image/108355745-1787924027969-Meta_Platforms_Photo_Illustrations-2291623801-Getty.jpg?v=1787924160&w=1920&h=1080",
+      "title_cn": "Meta 170亿美元的和解协议要求为儿童提供新的保障措施--安全专家表示，许多人都有希望",
+      "summary_cn": "在达成重大法律和解后，18岁以下的Instagram和Facebook用户很快将有每天两小时的限制，并且将无法看到帖子的反应。"
+    },
+    {
+      "title": "What we learned from Warsh's Jackson Hole speech, and GE Vernova's CFO to retire",
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "url": "https://www.cnbc.com/2026/08/28/what-we-learned-from-warshs-jackson-hole-speech-and-ge-vernovas-cfo-to-retire.html",
+      "source": "CNBC",
+      "datetime": 1787940185,
+      "image": "https://image.cnbcfm.com/api/v1/image/108355819-1787935047563-108355819-1787932538588-_05A6269.jpg?v=1787935061&w=1920&h=1080",
+      "title_cn": "我们从Warsh的Jackson Hole演讲以及GE Vernova首席财务官退休中学到了什么",
+      "summary_cn": "每个工作日，投资俱乐部都会发布Homestretch;一个可操作的下午更新，正好赶上交易的最后一个小时。"
+    },
+    {
+      "title": "Apple hikes subscription prices for Apple TV and Apple One in the U.S.",
+      "summary": "Apple raised prices for Apple Music by $1 per month in July, citing licensing costs.",
+      "url": "https://www.cnbc.com/2026/08/28/apple-tv-one-price-hike-us.html",
+      "source": "CNBC",
+      "datetime": 1787936236,
+      "image": "https://image.cnbcfm.com/api/v1/image/108355851-1787936063724-Ted_Lasso_Photo_040303.jpg?v=1787936142&w=1920&h=1080",
+      "title_cn": "苹果提高Apple TV和Apple One在美国的订阅价格",
+      "summary_cn": "7月份，苹果以许可成本为由将Apple Music的价格提高了每月1美元。"
+    }
+  ],
+  "ai": [
+    {
+      "title": "Judge says Pentagon's measures against Anthropic were 'illegal and baseless'",
+      "description": "A federal judge has ruled in favor of artificial intelligence company Anthropic in its legal battle against the Pentagon after the government labeled the c",
+      "url": "https://www.newsbreak.com/pbs-newshour-513240/4854823693519-judge-says-pentagon-s-measures-against-anthropic-were-illegal-and-baseless",
+      "source": "NewsBreak",
+      "publishedAt": "2026-08-28T16:52:00Z",
+      "image": "https://img.particlenews.com/img/id/25RThL_1Eepqdsw00",
+      "title_cn": "法官说，五角大楼对人类的措施是“非法和毫无根据的”",
+      "description_cn": "在政府将人工智能公司Anthropic标记为c后，一名联邦法官在人工智能公司与五角大楼的法律诉讼中做出了有利于五角大楼的裁决"
+    },
+    {
+      "title": "South Korea is funding free AI to help citizens book appointments, file taxes, and everyday tasks",
+      "description": "South Korea wants to make access to artificial intelligence as easy as electricity or public transit. Instead of leaving premium AI tools behind a",
+      "url": "https://www.europesays.com/3220481/",
+      "source": "EUROPE SAYS",
+      "publishedAt": "2026-08-28T16:40:20Z",
+      "image": "https://www.europesays.com/wp-content/uploads/2026/08/people-using-phones.jpg",
+      "title_cn": "韩国正在资助免费人工智能，帮助公民预订预约、报税和日常任务",
+      "description_cn": "韩国希望让人工智能像电力或公共交通一样简单。而不是将优质人工智能工具抛在身后"
+    },
+    {
+      "title": "South Korea to offer free AI access to all 52 million citizens: What to know",
+      "description": "South Korea is reportedly planning to give its entire population free access to generative AI services-a state-led initiative that treats artificial intelligence as an essential public utility. The...",
+      "url": "https://www.thenews.com.pk/latest/1414028-south-korea-to-offer-free-ai-access-to-all-52-million-citizens-what-to-know",
+      "source": "The News International",
+      "publishedAt": "2026-08-28T16:14:00Z",
+      "image": "https://www.thenews.com.pk/assets/uploads/2026-08-28/1414028_091444_updates.jpg",
+      "title_cn": "韩国将向所有5200万公民提供免费人工智能访问：需要了解的信息",
+      "description_cn": "据报道，韩国计划让全体民众免费获得生成性人工智能服务，这是一项由国家主导的举措，将人工智能视为一项重要的公共事业。那个..."
+    },
+    {
+      "title": "Gokongwei elected Philweb chairman after P2B investment",
+      "description": "PHILWEB Corp. has elected Lance Gokongwei as chairman of its board, completing the listed gaming technology firm’s governance restructuring as it moves to accelerate the rollout of artificial intelligence (AI)-powered infrastructure.",
+      "url": "https://www.manilatimes.net/2026/08/29/business/corporate-news/gokongwei-elected-philweb-chairman-after-p2b-investment/2414297",
+      "source": "The Manila Times",
+      "publishedAt": "2026-08-28T16:09:00Z",
+      "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/29/1194441.jpg",
+      "title_cn": "Gokongwei在P2B投资后当选Philweb董事长",
+      "description_cn": "PHILWeb Corp.已选举Lance Gokongwei为其董事会主席，完成了这家上市游戏技术公司的治理重组，同时加快了人工智能（AI）驱动的基础设施的推出。"
+    },
+    {
+      "title": "Nvidia pauses some deals with AI cloud companies",
+      "description": "NVIDIA has paused some deals that were part of its new financing initiative that offered credit support to artificial intelligence (AI) cloud companies in exchange for a share of revenue, the Wall Street Journal reported on Thursday, citing people familiar with the matter.",
+      "url": "https://www.manilatimes.net/2026/08/29/business/foreign-business/nvidia-pauses-some-deals-with-ai-cloud-companies/2414068",
+      "source": "The Manila Times",
+      "publishedAt": "2026-08-28T16:07:00Z",
+      "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/28/1194041.jpg",
+      "title_cn": "英伟达暂停与人工智能云公司的部分交易",
+      "description_cn": "《华尔街日报》周四援引知情人士的话报道称，英伟达已暂停一些交易，这些交易是其新融资计划的一部分，该计划向人工智能（AI）云公司提供信贷支持，以换取一定的收入分成。"
+    }
+  ]
+}
