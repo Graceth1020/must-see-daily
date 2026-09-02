@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-09-02T02:09:23Z",
+  "finance": [
+    {
+      "title": "OpenAI says Astra AI model is its first that crosses 'Critical' cybersecurity capability",
+      "summary": "OpenAI said it will make Astra available \"soon,\" but access to its cybersecurity capabilities will be limited.",
+      "url": "https://www.cnbc.com/2026/09/01/open-ai-astra-cyber-model.html",
+      "source": "CNBC",
+      "datetime": 1788293555,
+      "image": "https://image.cnbcfm.com/api/v1/image/108316427-1780524884815-gettyimages-2278945689-AFP_B4XB779.jpeg?v=1780524953&w=1920&h=1080",
+      "title_cn": "OpenAI表示Astra AI模型是其第一个跨越“关键”网络安全能力的模型",
+      "summary_cn": "OpenAI表示将“很快”推出Astra，但对其网络安全功能的访问将受到限制。"
+    },
+    {
+      "title": "Stan Kroenke buys controlling stake in MLB's Los Angeles Angels",
+      "summary": "Kroenke Sports and Entertainment was valued at more than $26 billion in CNBC's most recent list of the world's most valuable sports empire.",
+      "url": "https://www.cnbc.com/2026/09/01/stan-kroenke-controlling-stake-los-angeles-angels.html",
+      "source": "CNBC",
+      "datetime": 1788291610,
+      "image": "https://image.cnbcfm.com/api/v1/image/108357246-1788288785086-gettyimages-2272587527-TDP-L-NUGGETS-TWOLVESA03_5109.jpeg?v=1788288911&w=1920&h=1080",
+      "title_cn": "斯坦·克伦克（Stan Kroenke）收购MLB洛杉矶天使队（Los Angeles Angels）的控股权",
+      "summary_cn": "在CNBC最新的全球最有价值体育帝国名单中，克伦克体育娱乐公司的估值超过260亿美元。"
+    },
+    {
+      "title": "We're sitting on more cash than at any time this year. Here's why",
+      "summary": "Cash management is an important part of managing risk. This current market demands our attention.",
+      "url": "https://www.cnbc.com/2026/09/01/were-sitting-on-more-cash-than-at-any-time-this-year-heres-why.html",
+      "source": "CNBC",
+      "datetime": 1788285734,
+      "image": "https://image.cnbcfm.com/api/v1/image/108196593-1757470544526-gettyimages-1497989532-dolar10.jpeg?v=1757470569&w=1920&h=1080",
+      "title_cn": "我们拥有的现金比今年任何时候都多。原因如下",
+      "summary_cn": "现金管理是管理风险的重要组成部分。当前的市场需要我们的关注。"
+    },
+    {
+      "title": "Jim Cramer says selling Amazon shares over new FTC lawsuit would be 'hysterical'",
+      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "url": "https://www.cnbc.com/2026/09/01/cramer-selling-amazon-shares-over-new-ftc-lawsuit-would-be-hysterical.html",
+      "source": "CNBC",
+      "datetime": 1788279553,
+      "image": "https://image.cnbcfm.com/api/v1/image/108356308-1788176931150-gettyimages-2292146629-schneider-amazonde260829_npADw.jpeg?v=1788176981&w=1920&h=1080",
+      "title_cn": "吉姆·克莱默（Jim Cramer）表示，因新的联邦贸易委员会诉讼而出售亚马逊股票将是“歇斯底里的”",
+      "summary_cn": "投资俱乐部每个工作日上午10：20举行“晨会”。"
+    },
+    {
+      "title": "Students are reconsidering their majors, career paths and industries due to AI: CNBC survey",
+      "summary": "As AI continues to reshape industries, some students are wondering what their careers will look like once they graduate.",
+      "url": "https://www.cnbc.com/2026/09/01/students-are-reconsidering-majors-career-paths-due-to-ai-cnbc-survey.html",
+      "source": "CNBC",
+      "datetime": 1788279479,
+      "image": "https://image.cnbcfm.com/api/v1/image/108356535-1788195885329-gettyimages-2174212954-dsc01606.jpeg?v=1788196121&w=1920&h=1080",
+      "title_cn": "由于人工智能，学生们正在重新考虑自己的专业、职业道路和行业：CNBC调查",
+      "summary_cn": "随着人工智能不断重塑行业，一些学生想知道毕业后他们的职业生涯会是什么样子。"
+    }
+  ],
+  "ai": [
+    {
+      "title": "AI Is Changing How Companies Access Capital Markets",
+      "description": "Artificial intelligence (AI) is reshaping the full lifecycle of capital, from where it flows and how companies access it, to how investors deploy it.",
+      "url": "https://www.forbes.com/sites/garydrenik/2026/09/01/ai-is-changing-how-companies-access-capital-markets/",
+      "source": "Forbes",
+      "publishedAt": "2026-09-01T14:00:00Z",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a8f4ee75a6ea158135b3531/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "title_cn": "人工智能正在改变公司进入资本市场的方式",
+      "description_cn": "人工智能（AI）正在重塑资本的整个生命周期，从资本流向哪里、公司如何获取资本，到投资者如何部署资本。"
+    },
+    {
+      "title": "Photon Achieves CyberVadis Platinum Rating, Reinforcing Enterprise Trust Through Independent Cybersecurity Validation",
+      "description": "/PRNewswire/ -- As enterprises accelerate investments in artificial intelligence, cloud modernization, and digital transformation, cybersecurity has become a...",
+      "url": "https://www.prnewswire.co.uk/news-releases/photon-achieves-cybervadis-platinum-rating-reinforcing-enterprise-trust-through-independent-cybersecurity-validation-302866181.html",
+      "source": "PR Newswire UK",
+      "publishedAt": "2026-09-01T14:00:00Z",
+      "image": "https://mmx.prnewswire.com/media/MS1979374/PHTN-Logo.jpg?id=OA2922890&p=facebook",
+      "title_cn": "Photon获得CyberVadis白金评级，通过独立网络安全验证增强企业信任",
+      "description_cn": "/美通社/ --随着企业加速对人工智能、云现代化和数字化转型的投资，网络安全已成为."
+    },
+    {
+      "title": "Ashok Soota’s Happiest Minds stake sale to ITC Infotech not driven by AI fears",
+      "description": "The clarification from Happiest Minds comes at a time when artificial intelligence has cast a shadow over the future of the country’s $300 billion IT sector, as clients look to shrink their outsourcing costs by deploying AI agents.",
+      "url": "https://www.livemint.com/companies/news/ashok-soota-happiest-minds-stake-sale-itc-infotech-ai-india-it-sector-11788260346589.html",
+      "source": "Livemint",
+      "publishedAt": "2026-09-01T13:53:10Z",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/01/1600x900/logo/Ashok_Soota_1788270346788_1788270354348_6bff30ae-1642-4faa-861f-2d7171e53500.jpg",
+      "title_cn": "Ashok Soota的Hapbitt Minds股份出售给ITCInfotech并非出于人工智能担忧",
+      "description_cn": "Hapspel Minds做出澄清之际，人工智能给该国3000亿美元IT行业的未来蒙上了阴影，客户希望通过部署人工智能代理来降低外包成本。"
+    },
+    {
+      "title": "Apple’s new CEO Ternus takes over from Tim Cook after 15 years",
+      "description": "The transition to a new CEO comes at a pivotal time for Apple as it navigates artificial intelligence challenges in the industry.",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3366022/apples-new-ceo-ternus-takes-over-tim-cook-after-15-years",
+      "source": "South China Morning Post",
+      "publishedAt": "2026-09-01T13:27:55Z",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/01/264cf33f-9f2a-40f2-82a6-ff9f82da5927_98c04c7e.jpg?itok=L_V5UO9r&v=1788269266",
+      "title_cn": "苹果新任首席执行官Ternus在15年后接替Tim Cook",
+      "description_cn": "向新首席执行官的转变正值苹果应对行业人工智能挑战的关键时刻。"
+    },
+    {
+      "title": "New NCERT textbooks for classes 10 to 12 being prepared in mission mode: Education minister",
+      "description": "Union Education Minister Pralhad Joshi revealed that new NCERT textbooks are currently in the works, with updated materials for classes one to nine already available. The rise of artificial intelligence in daily life necessitates changes in educational content. The National Education Policy aims to tackle these evolving challenges, emphasizing the importance of parental involvement. With a large youth demographic, India holds tremendous potential for future success.",
+      "url": "https://economictimes.indiatimes.com/news/india/new-ncert-textbooks-for-classes-10-to-12-being-prepared-in-mission-mode-education-minister/articleshow/133682940.cms",
+      "source": "The Economic Times",
+      "publishedAt": "2026-09-01T13:22:00Z",
+      "image": "https://img.etimg.com/thumb/msid-133682979,width-1200,height-630,imgsize-352986,overlay-economictimes/articleshow.jpg",
+      "title_cn": "教育部长：正在以任务模式为10至12年级准备新的NCERT教科书",
+      "description_cn": "联邦教育部长Pralhad Joshi透露，新的NCERT教科书目前正在编写中，一至九年级的更新材料已经可用。人工智能在日常生活中的兴起需要改变教育内容。国家教育政策旨在应对这些不断变化的挑战，强调家长参与的重要性。印度拥有大量的年轻人口，未来的成功潜力巨大。"
+    }
+  ]
+}
