@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-09-03T02:15:54Z",
+  "finance": [
+    {
+      "title": "Jim Cramer says investors aren't ditching tech — they just want cheaper stocks",
+      "summary": "CNBC's Jim Cramer said investors aren’t abandoning AI or technology stocks — they’re rotating out of high-multiple names and into cheaper stocks.",
+      "url": "https://www.cnbc.com/2026/09/02/cramer-says-investors-arent-ditching-tech-they-want-cheaper-stocks.html",
+      "source": "CNBC",
+      "datetime": 1788390549,
+      "image": "https://image.cnbcfm.com/api/v1/image/107113452-NUP_198430_00216r.jpg?v=1697496575&w=1920&h=1080",
+      "title_cn": "Jim Cramer表示，投资者并没有抛弃科技股，他们只是想要更便宜的股票",
+      "summary_cn": "CNBC的吉姆·克莱默（Jim Cramer）表示，投资者并没有放弃人工智能或科技股--他们正在从高倍数的股票转向更便宜的股票。"
+    },
+    {
+      "title": "NBA suspends Clippers owner Ballmer for one year in Kawhi Leonard salary cap probe",
+      "summary": "The NBA also fined the Los Angeles Clippers $30 million and said the team will forfeit five first-round picks, one in each year in drafts starting in 2029.",
+      "url": "https://www.cnbc.com/2026/09/02/nba-suspends-clippers-ballmer-kawhi-leonard-salary-cap.html",
+      "source": "CNBC",
+      "datetime": 1788382777,
+      "image": "https://image.cnbcfm.com/api/v1/image/108358072-1788381479834-gettyimages-2253968374-km3_3102_0l3wn4ow.jpeg?v=1788381518&w=1920&h=1080",
+      "title_cn": "NBA在Kawhi Leonard工资帽调查中暂停快船老板鲍尔默一年",
+      "summary_cn": "NBA还对洛杉矶快船队处以3000万美元罚款，并表示球队将放弃5名首轮选秀权，从2029年开始，每年一名选秀权。"
+    },
+    {
+      "title": "J&J's run to record highs hasn't reached the finish line yet. Here are the key drivers",
+      "summary": "Jim Cramer agrees with UBS: The rally in Johnson & Johnson shares still has room to run.",
+      "url": "https://www.cnbc.com/2026/09/02/jjs-run-to-record-highs-hasnt-reached-the-finish-line-yet-here-are-the-key-drivers.html",
+      "source": "CNBC",
+      "datetime": 1788382388,
+      "image": "https://image.cnbcfm.com/api/v1/image/108210810-1760124319448-gettyimages-2239744009-JJ_PROTAGONIST_THERAPEUTICS.jpeg?v=1773853623&w=1920&h=1080",
+      "title_cn": "强生公司创下历史新高尚未到达终点线。以下是关键驱动因素",
+      "summary_cn": "吉姆·克莱默同意瑞银的观点：强生股价的涨势仍有空间。"
+    },
+    {
+      "title": "Broadcom's stock drops 5% as weak guidance overshadows earnings beat",
+      "summary": "Broadcom gave a disappointing revenue forecast for the current quarter.",
+      "url": "https://www.cnbc.com/2026/09/02/broadcom-avgo-q3-earnings-report-2026.html",
+      "source": "CNBC",
+      "datetime": 1788380865,
+      "image": "https://image.cnbcfm.com/api/v1/image/108357861-1788367050351-gettyimages-2279132480-BLOOMBERG_TECH.jpeg?v=1788367146&w=1920&h=1080",
+      "title_cn": "博通股价下跌5%，因为疲软的指引掩盖了盈利表现",
+      "summary_cn": "博通给出了本季度令人失望的收入预测。"
+    },
+    {
+      "title": "Judge refuses to block Arkansas news reporting on Google data center energy documents",
+      "summary": "Entergy Arkansas said the documents cited by the Arkansas Democrat-Gazette contained \"trade secrets\" and \"highly sensitive protected information.\"",
+      "url": "https://www.cnbc.com/2026/09/02/google-data-center-arkansas-entergy-court.html",
+      "source": "CNBC",
+      "datetime": 1788379050,
+      "image": "https://image.cnbcfm.com/api/v1/image/108357717-1788356292285-gettyimages-2269974069-ENTERGY_GROUNDBREAKING.jpeg?v=1788356317&w=1920&h=1080",
+      "title_cn": "法官拒绝阻止阿肯色州对谷歌数据中心能源文件的新闻报道",
+      "summary_cn": "阿肯色州恩特吉表示，《阿肯色州民主党公报》引用的文件包含“商业秘密”和“高度敏感的受保护信息”。\""
+    }
+  ],
+  "ai": [
+    {
+      "title": "12 Things Your GPU Can Do Besides Play Games",
+      "description": "The artificial intelligence revolution has driven up the cost of graphics cards, but AI and gaming aren't the only reasons good GPUs are in demand.",
+      "url": "https://www.bgr.com/2248404/things-gpu-can-do-besides-games/",
+      "source": "BGR",
+      "publishedAt": "2026-09-02T14:02:00Z",
+      "image": "https://www.bgr.com/img/gallery/12-things-your-gpu-can-do-besides-play-games/l-intro-1788196803.jpg",
+      "title_cn": "除了玩游戏之外，你的图形处理器还可以做的12件事",
+      "description_cn": "人工智能革命推高了显卡的成本，但人工智能和游戏并不是需要好的GPU的唯一原因。"
+    },
+    {
+      "title": "Two of America's biggest AI companies are in price war, and the links go to China",
+      "description": "Tech News News: OpenAI and Anthropic – two of America’s artificial intelligence (AI) pioneers – have slashed access fees for their language models to stop budget-focu.",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/two-of-americas-biggest-ai-companies-are-in-price-war-and-the-links-go-to-china/articleshow/133712629.cms",
+      "source": "Times of India",
+      "publishedAt": "2026-09-02T13:56:00Z",
+      "image": "https://static.toiimg.com/thumb/msid-133712681,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "title_cn": "美国两家最大的人工智能公司陷入价格战，联系到中国",
+      "description_cn": "科技新闻新闻：OpenAI和Anthropic --美国人工智能（AI）的两位先驱--削减了其语言模型的访问费用，以阻止预算集中。"
+    },
+    {
+      "title": "Türkiye builds its $3 billion vehicle inspection transformation on artificial intelligence and automation with TURKA Vehicle Inspection",
+      "description": "/PRNewswire/ -- Türkiye is rebuilding its 20-year-old vehicle inspection system on new technological foundations. TURKA will run it for the next 20 years from...",
+      "url": "https://www.prnewswire.co.uk/news-releases/turkiye-builds-its-3-billion-vehicle-inspection-transformation-on-artificial-intelligence-and-automation-with-turka-vehicle-inspection-302867773.html",
+      "source": "PR Newswire UK",
+      "publishedAt": "2026-09-02T13:48:00Z",
+      "image": "https://mmx.prnewswire.com/media/MS1980365/1-Turka_Vehicle-Inspection.jpg?id=OA2925689&p=facebook",
+      "title_cn": "Türkiye通过TUKA Vehicles Inspection在人工智能和自动化的基础上构建了价值30亿美元的车辆检查转型",
+      "description_cn": "/美通社/ -- Türkiye正在新的技术基础上重建其拥有20年历史的车辆检测系统。Turka将在未来20年内运营该项目，从."
+    },
+    {
+      "title": "Review finds fragmented reporting on bias in commercial medical AI validation",
+      "description": "The recent flood of artificial intelligence (AI) models and content has undoubtedly introduced an unwelcome flaw from the human-made content it scrapes: bias. AI has been shown to form, copy and amplify harmful stereotypes of already marginalized groups. This phenomenon has far-reaching effects as AI becomes a normal part of everyday life.",
+      "url": "https://medicalxpress.com/news/2026-09-fragmented-bias-commercial-medical-ai.html",
+      "source": "Medical Xpress",
+      "publishedAt": "2026-09-02T13:20:01Z",
+      "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/check-for-copycat-bias.jpg",
+      "title_cn": "审查发现商业医疗人工智能验证中的偏见报告支离破碎",
+      "description_cn": "最近大量涌入的人工智能（AI）模型和内容无疑在它所删除的人造内容中引入了一个不受欢迎的缺陷：偏见。人工智能被证明会形成、复制和放大对已经边缘化的群体的有害刻板印象。随着人工智能成为日常生活的正常组成部分，这种现象具有深远的影响。"
+    },
+    {
+      "title": "Tech bosses press G20 to build data centers, but split on risk",
+      "description": "Top US tech bosses, including Nvidia chief Jensen Huang and OpenAI's Sam Altman, urged G20 ministers Wednesday to embrace artificial intelligence and",
+      "url": "https://www.breitbart.com/news/tech-bosses-press-g20-to-build-data-centers-but-split-on-risk/",
+      "source": "Breitbart News Network",
+      "publishedAt": "2026-09-02T13:19:28Z",
+      "image": "https://media.breitbart.com/media/2026/09/wi/afp/nvidia-ceo-jensen-huang-us-secretary-of-commerce-howard-lutnick-speak-g20-innovation-ministerial-640x335.jpg",
+      "title_cn": "科技巨头敦促G20建立数据中心，但在风险上存在分歧",
+      "description_cn": "包括Nvidia首席执行官Jensen Huang和OpenAI的Sam Altman在内的美国顶级科技公司老板周三敦促G20部长们拥抱人工智能，"
+    }
+  ]
+}
