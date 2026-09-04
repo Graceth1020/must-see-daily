@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-09-04T02:11:44Z",
+  "finance": [
+    {
+      "title": "Adobe names Anil Chakravarthy as CEO, replacing Shantanu Narayen",
+      "summary": "Adobe announced Anil Chakravarthy as its next CEO, replacing Shantanu Narayen, who announced his departure last March.",
+      "url": "https://www.cnbc.com/2026/09/03/adobe-anil-chakravarthy-ceo.html",
+      "source": "CNBC",
+      "datetime": 1788467368,
+      "image": "https://image.cnbcfm.com/api/v1/image/108355107-1787834424220-gettyimages-2291687986-schneider-adobeoff260826_nppiC.jpeg?v=1787834460&w=1920&h=1080",
+      "title_cn": "Adobe任命Anil Chakravarthy为首席执行官，取代Shantanu Narayen",
+      "summary_cn": "Adobe宣布Anil Chakravarthy担任下一任首席执行官，接替去年三月宣布离职的Shantanu Narayen。"
+    },
+    {
+      "title": "We're lifting our price targets on 2 stocks that have shaken off AI disruption concerns",
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "url": "https://www.cnbc.com/2026/09/03/were-lifting-our-price-targets-on-2-stocks-that-have-shaken-off-ai-disruption-concerns.html",
+      "source": "CNBC",
+      "datetime": 1788460053,
+      "image": "https://image.cnbcfm.com/api/v1/image/108212066-1760473027063-gettyimages-2240649632-2025_DREAMFORCE.jpeg?v=1773842656&w=1920&h=1080",
+      "title_cn": "我们将提高2只已经摆脱人工智能干扰担忧的股票的价格目标",
+      "summary_cn": "每个工作日，投资俱乐部都会发布Homestretch;一个可操作的下午更新，正好赶上交易的最后一个小时。"
+    },
+    {
+      "title": "What's behind Nvidia buying Hugging Face? A past Microsoft deal offers clues",
+      "summary": "This is nothing new to the world of Big Tech.",
+      "url": "https://www.cnbc.com/2026/09/03/whats-behind-nvidia-buying-hugging-face-look-to-microsoft.html",
+      "source": "CNBC",
+      "datetime": 1788459270,
+      "image": "https://image.cnbcfm.com/api/v1/image/108358324-1788438068627-Screenshot_2026-09-03_at_82012_AM.png?v=1788439138&w=1920&h=1080",
+      "title_cn": "Nvidia收购Hugging Face的背后是什么？微软过去的交易提供了线索",
+      "summary_cn": "这对于大型科技界来说并不是什么新鲜事。"
+    },
+    {
+      "title": "Options volume erupts in retail trading favorites as Robinhood, Tesla surge",
+      "summary": "Options traders are kicking off the historically worst month for stocks by piling on bullish bets on a handful of retail trading favorites.",
+      "url": "https://www.cnbc.com/2026/09/03/options-volume-erupts-in-retail-trading-favorites-as-robinhood-tesla-surge.html",
+      "source": "CNBC",
+      "datetime": 1788458213,
+      "image": "https://image.cnbcfm.com/api/v1/image/108225750-1763069160018-gettyimages-2245970413-CBOE_MARKETS.jpeg?v=1763069191&w=1920&h=1080",
+      "title_cn": "Robinhood、特斯拉激增，零售交易热门期权量激增",
+      "summary_cn": "期权交易员通过对少数最受欢迎的零售交易股进行看涨押注，拉开了股市历史上最糟糕的一个月的序幕。"
+    },
+    {
+      "title": "Automakers urge Congress to permanently ban Chinese connected vehicles in U.S.",
+      "summary": "Major automakers in the U.S. are urging Congress to ban the domestic sale, import and manufacturing of Chinese connected vehicles, hardware and software.",
+      "url": "https://www.cnbc.com/2026/09/03/chinese-vehicles-congress.html",
+      "source": "CNBC",
+      "datetime": 1788454273,
+      "image": "https://image.cnbcfm.com/api/v1/image/108333834-1783918441707-gettyimages-2283163436-_DSC4514JPG.jpeg?v=1783918460&w=1920&h=1080",
+      "title_cn": "汽车制造商敦促国会在美国永久禁止中国互联汽车",
+      "summary_cn": "美国主要汽车制造商敦促国会禁止在国内销售、进口和制造中国互联汽车、硬件和软件。"
+    }
+  ],
+  "ai": [
+    {
+      "title": "Abu Dhabi AI institute releases fully open-source models with training data, code",
+      "description": "Sept ⁠3 (Reuters) - Abu Dhabi-based research institute IFM on Thursday ⁠released six artificial intelligence models together with the ‌data and methods used to build them, challenging an industry trend toward increasingly secretive AI development.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/09/03/abu-dhabi-ai-institute-releases-fully-open-source-models-with-training-data-code",
+      "source": "The Star",
+      "publishedAt": "2026-09-03T14:11:00Z",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/09/03/4091981.jpg",
+      "title_cn": "阿布扎比人工智能研究所发布了完全开源的模型，包括训练数据和代码",
+      "description_cn": "9月3日（路透社）--总部位于阿布扎比的研究机构IFM周四发布了六个人工智能模型，以及用于构建这些模型的NPS数据和方法，挑战了人工智能开发日益保密的行业趋势。"
+    },
+    {
+      "title": "Nvidia pays $16.4b for Hugging Face",
+      "description": "Nvidia acquires AI platform Hugging Face for $12.9 billion, supporting open models and expanding its presence in the growing artificial intelligence ecosystem. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/business/companies-markets/nvidia-pays-16-4b-for-hugging-face-and-an-open-ai-future",
+      "source": "The Straits Times",
+      "publishedAt": "2026-09-03T14:02:54Z",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/355f1508fe19d7da98c50300ee0ef4a620d53231d35a96f6a1047bf275b2dab4",
+      "title_cn": "Nvidia斥资164亿美元收购Hugging Face",
+      "description_cn": "Nvidia以129亿美元收购人工智能平台Hugging Face，支持开放模型并扩大其在不断发展的人工智能生态系统中的影响力。请访问straitstimes.com了解更多信息。"
+    },
+    {
+      "title": "India to host BRICS Chief Justices' Forum; CJI to hold bilateral meetings with judicial leaders",
+      "description": "New Delhi will host the BRICS Chief Justices' Forum from September 4 to 6. Chief Justice Surya Kant will meet senior judicial leaders from various nations. The forum will discuss justice delivery, international dispute resolution, and technology. Discussions will focus on mediation, arbitral awards, and artificial intelligence. Judicial leaders from BRICS and partner countries will share their perspectives.",
+      "url": "https://economictimes.indiatimes.com/news/india/india-to-host-brics-chief-justices-forum-cji-to-hold-bilateral-meetings-with-judicial-leaders/articleshow/133738225.cms",
+      "source": "The Economic Times",
+      "publishedAt": "2026-09-03T14:00:00Z",
+      "image": "https://img.etimg.com/thumb/msid-133738539,width-1200,height-630,imgsize-154298,overlay-economictimes/articleshow.jpg",
+      "title_cn": "印度将主办金砖国家首席大法官论坛; CJI将与司法领导人举行双边会议",
+      "description_cn": "新德里将于9月4日至6日主办金砖国家首席法官论坛。首席大法官苏里亚·康德将会见来自各国的高级司法领导人。该论坛将讨论正义交付、国际争端解决和技术。讨论将重点关注调解、仲裁裁决和人工智能。来自金砖国家和伙伴国家的司法领导人将分享他们的观点。"
+    },
+    {
+      "title": "Nilekani panel should look beyond exam reforms, review NEP: N K Singh",
+      "description": "Former Finance Commission chairman says the task force should examine the wider education ecosystem, including the NEP and the impact of artificial intelligence",
+      "url": "https://www.business-standard.com/education/news/nilekani-panel-should-look-beyond-exam-reforms-review-nep-n-k-singh-126090301327_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-09-03T13:53:55Z",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2020-01/23/thumb/fitandfill/1200X628/1579720954-1038.jpg",
+      "title_cn": "尼勒卡尼小组应超越考试改革，审查NEP：N K Singh",
+      "description_cn": "前财政委员会主席表示，特别工作组应该审查更广泛的教育生态系统，包括新经济政策和人工智能的影响"
+    },
+    {
+      "title": "US stocks open higher while oil prices continue to climb",
+      "description": "U.S. stocks are opening higher while oil prices continue to climb amid ongoing tension in the Middle East. Fighting between the U.S. and Iran has increased this week after the U.S. hit Iranian rocket launchers on an island in the Strait of Hormuz on Sunday. The S&P 500 rose 0.5% in early trading Thursday. The Dow Jones Industrial Average added 368 points, or 0.7%, and the Nasdaq composite rose 0.6%. Nvidia rose 1% after the giant chip company said it would buy the artificial intelligence platform Hugging Face for $13 billion. Treasury yields moved lower in the bond market.",
+      "url": "https://www.ajc.com/news/2026/09/us-futures-mostly-lower-and-oil-prices-climb-due-to-ongoing-clashes-around-iran/",
+      "source": "The Atlanta Journal-Constitution",
+      "publishedAt": "2026-09-03T13:42:32Z",
+      "image": "https://images.ajc.com/resizer/v2/BV3ZRBI7RRHTTOFVY7QFLPQ5HQ.jpg?auth=1ab84a82ca1066c7e15f10dda5a8c9486184f1e801a17e452e821b12f7e33724&width=1200&height=630&smart=true",
+      "title_cn": "美股开盘走高，油价继续攀升",
+      "description_cn": "由于中东持续紧张局势，美国股市开盘走高，油价继续攀升。美国周日在霍尔木兹海峡的一个岛屿上击中了伊朗火箭发射器后，本周美国和伊朗之间的战斗有所加剧。周四早盘，标准普尔500指数上涨0.5%。道琼斯工业平均指数上涨368点，涨幅0.7%，纳斯达克综合指数上涨0.6%。英伟达股价上涨1%，此前该芯片巨头表示将以130亿美元收购人工智能平台Hugging Face。债券市场国债收益率走低。"
+    }
+  ]
+}
