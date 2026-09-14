@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-09-14T02:36:13Z",
+  "finance": [
+    {
+      "title": "Here are the 2 big things we're watching in this week's stock market",
+      "summary": "We're looking forward to what promises to be a consequential Federal Reserve meeting and a slew of conferences.",
+      "url": "https://www.cnbc.com/2026/09/13/here-are-the-2-big-things-were-watching-in-this-weeks-stock-market.html",
+      "source": "CNBC",
+      "datetime": 1789318663,
+      "image": "https://image.cnbcfm.com/api/v1/image/108356338-1788181104655-gettyimages-667735328-_mg_5102.jpeg?v=1788181165&w=1920&h=1080",
+      "title_cn": "以下是本周股市我们关注的两件大事",
+      "summary_cn": "我们期待着什么承诺将是一个重要的美联储会议和一系列会议。"
+    },
+    {
+      "title": "Washington scrambles to meet calls for AI guardrails while the window to act closes",
+      "summary": "The House is scheduled to be sent home in the coming days until after November's midterm elections, leaving a narrow window to pass any form of AI regulation.",
+      "url": "https://www.cnbc.com/2026/09/13/ai-congress-anthropic-openai-crisis.html",
+      "source": "CNBC",
+      "datetime": 1789318577,
+      "image": "https://image.cnbcfm.com/api/v1/image/108279107-1773772538515-gettyimages-2267071488-_s010514_2opooioo.jpeg?v=1773772591&w=1920&h=1080",
+      "title_cn": "在采取行动的窗口关闭之际，华盛顿争先恐后地满足人工智能护栏的呼吁",
+      "summary_cn": "众议院计划在未来几天内被遣返，直到11月中期选举之后，这为通过任何形式的人工智能监管留下了一个狭窄的窗口。"
+    },
+    {
+      "title": "I'm a psychologist who studies couples: Emotionally intelligent partners ask 1 question every morning—that most neglect",
+      "summary": "A \"capacity check\" might be the most thoughtful question to ask in the morning, says Mark Travers, a psychologist who studies relationships. How to do it right.",
+      "url": "https://www.cnbc.com/2026/09/13/emotionally-intelligent-couples-ask-question-every-morning-psychologist.html",
+      "source": "CNBC",
+      "datetime": 1789304821,
+      "image": "https://image.cnbcfm.com/api/v1/image/108361821-1789135715135-CNBC_Illo_Morning_Routines_PINK_EDITED80.jpg?v=1789135821&w=1920&h=1080",
+      "title_cn": "我是一名研究伴侣的心理学家：情感上聪明的伴侣每天早上都会问1个问题--最容易忽视的问题",
+      "summary_cn": "研究人际关系的心理学家马克·特拉弗斯（Mark Travers）表示，“能力检查”可能是早上提出的最深思熟虑的问题。如何正确地做好。"
+    },
+    {
+      "title": "I worked with Gloria Steinem for 30 years—This was her No. 1 antidote to fear",
+      "summary": "Take The Lead founder Gloria Feldt recalls working with Gloria Steinem and the part of her legacy she will carry with her.",
+      "url": "https://www.cnbc.com/2026/09/12/i-worked-with-gloria-steinem-for-30-years-this-was-her-no-1-antidote-to-fear.html",
+      "source": "CNBC",
+      "datetime": 1789218001,
+      "image": "https://image.cnbcfm.com/api/v1/image/108362066-1789158626121-cropped_2.png?v=1789159060&w=1920&h=1080",
+      "title_cn": "我与格洛丽亚·斯泰纳姆（Gloria Steinem）一起工作了30年--这是她恐惧的头号解药",
+      "summary_cn": "Take The Lead创始人Gloria Feldt回忆起与Gloria Steinem的合作以及她将随身携带的部分遗产。"
+    },
+    {
+      "title": "Oil's roundtrip back to $100. Why China could determine what happens next",
+      "summary": "The U.S. crude oil price on Thursday topped $102 per barrel for its highest close since May.",
+      "url": "https://www.cnbc.com/2026/09/12/oils-roundtrip-back-to-100-why-china-could-determine-what-happens-next.html",
+      "source": "CNBC",
+      "datetime": 1789216805,
+      "image": "https://image.cnbcfm.com/api/v1/image/108284017-1774615135525-gettyimages-2268007114-AFP_A4VU6NZ.jpeg?v=1774615226&w=1920&h=1080",
+      "title_cn": "油价往返回到100美元。为什么中国可以决定接下来会发生什么",
+      "summary_cn": "周四美国原油价格突破每桶102美元，为5月份以来的最高收盘价。"
+    }
+  ],
+  "ai": [
+    {
+      "title": "Trump downplays growing alarm over risks from artificial intelligence",
+      "description": "Trump minimizes AI risks as industry leaders advocate for a slower development pace amid growing safety concerns.",
+      "url": "https://www.thehindubusinessline.com/info-tech/trump-downplays-ai-concerns-as-ceos-call-for-slowing-technology/article71463828.ece",
+      "source": "The Hindu Business Line",
+      "publishedAt": "2026-09-13T14:33:27Z",
+      "image": "https://bl-i.thgim.com/public/incoming/uw008f/article71403365.ece/alternates/LANDSCAPE_1200/2025-01-06T224054Z_333524864_RC2A18AMCS40_RTRMADP_3_USA-TRUMP-NEW-YORK.JPG",
+      "title_cn": "特朗普淡化了人们对人工智能风险日益增长的警报",
+      "description_cn": "特朗普最大限度地减少了人工智能的风险，因为行业领导者主张在日益增长的安全问题中放慢开发速度。"
+    },
+    {
+      "title": "Trump's AI Vision: Guardrails Amidst Global Competition",
+      "description": "President Donald Trump discussed concerns over artificial intelligence, emphasizing the need for the U.S. to maintain a leadership role. Despite warnings from researchers about AI risks, he seeks to avoid fear-mongering. AI industry and Pentagon express different views on advancement pace and international coordination.",
+      "url": "https://www.devdiscourse.com/article/technology/3976561-trumps-ai-vision-guardrails-amidst-global-competition",
+      "source": "Devdiscourse",
+      "publishedAt": "2026-09-13T14:25:01Z",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/13_06_2024_16_58_38_5959805.png&width=920&format=jpeg",
+      "title_cn": "特朗普的人工智能愿景：全球竞争中的护栏",
+      "description_cn": "唐纳德·特朗普总统讨论了对人工智能的担忧，强调美国需要保持领导作用。尽管研究人员对人工智能风险发出警告，但他仍试图避免散布恐惧。人工智能行业和五角大楼对推进步伐和国际协调表达了不同看法。"
+    },
+    {
+      "title": "Trump brushes off AI doom predictions, says US must push ahead",
+      "description": "President Trump brushed aside artificial intelligence doomsayers Sunday as \"things that won't happen\" and downplayed the need for more regulation — saying that beating China was the most important goal in the AI race.",
+      "url": "https://nypost.com/2026/09/13/tech/trump-brushes-off-ai-doom-predictions-says-us-must-push-ahead/",
+      "source": "New York Post",
+      "publishedAt": "2026-09-13T14:22:44Z",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/comp-MCDTETH_EC026-1.jpg?quality=75&strip=all&w=1200",
+      "title_cn": "特朗普驳斥人工智能厄运预测，称美国必须继续前进",
+      "description_cn": "特朗普总统周日对人工智能末日论者不屑一顾，称其为“不会发生的事情”，并淡化了加强监管的必要性，称击败中国是人工智能竞赛中最重要的目标。"
+    },
+    {
+      "title": "Trump rejects calls to slow AI, says US leads China in technology",
+      "description": "US News: US President Donald Trump on Sunday said the United States is leading China in artificial intelligence and must maintain its edge, declaring that “who.",
+      "url": "https://timesofindia.indiatimes.com/world/us/trump-rejects-calls-to-slow-ai-says-us-leads-china-in-technology/articleshow/134205742.cms",
+      "source": "Times of India",
+      "publishedAt": "2026-09-13T14:16:00Z",
+      "image": "https://static.toiimg.com/thumb/msid-134205832,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "title_cn": "特朗普拒绝减缓人工智能的呼吁，称美国在技术上领先中国",
+      "description_cn": "美国新闻：美国总统唐纳德·特朗普周日表示，美国在人工智能领域领先中国，必须保持优势，并宣称“谁。"
+    },
+    {
+      "title": "Trump slams AI critics after Anthropic CEO, OpenAI chief raise alarm: ‘Negative forces’",
+      "description": "The US President, referring to critics of artificial intelligence, said that they are bringing up things that would not happen. | World News",
+      "url": "https://www.hindustantimes.com/world-news/trump-slams-ai-critics-after-anthropic-ceo-openai-chief-elon-musk-raise-alarm-doomsday-negative-forces-101789307326182.html",
+      "source": "Hindustan Times",
+      "publishedAt": "2026-09-13T13:56:37Z",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/13/1600x900/Trump-Ireland-91_1789307637227_16eaeb35-91ab-471e-9e18-690504b507fb_1789307668695_aede831f-37f5-46e1-993f-6383bbe128f5_7463b859-78cc-49b4-b295-69b42b32310f_793a6a4c-7fab-43bb-b0cb-6ea1cc6f13a9.jpg",
+      "title_cn": "Anthropic首席执行官、OpenAI首席执行官发出警报后，特朗普猛烈抨击人工智能批评者：“负面力量”",
+      "description_cn": "美国总统在谈到人工智能的批评者时表示，他们正在提出一些不会发生的事情。| 世界新闻"
+    }
+  ]
+}
