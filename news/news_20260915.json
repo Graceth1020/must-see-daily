@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-09-15T02:39:58Z",
+  "finance": [
+    {
+      "title": "Not all tech is under fire in Monday's selling, while investors seek refuge in defensive stocks",
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "url": "https://www.cnbc.com/2026/09/14/not-all-tech-is-under-fire-in-monday-selling-investors-seek-out-defensives.html",
+      "source": "CNBC",
+      "datetime": 1789414049,
+      "image": "https://image.cnbcfm.com/api/v1/image/108285632-1774986309800-cnbc_versant_share.png?v=1774986411&w=1920&h=1080",
+      "title_cn": "并非所有科技公司都在周一的抛售中受到攻击，而投资者则在防御性股票中寻求庇护",
+      "summary_cn": "每个工作日，投资俱乐部都会发布Homestretch;一个可操作的下午更新，正好赶上交易的最后一个小时。"
+    },
+    {
+      "title": "Counting the votes: Warsh faces a tough battle as the Fed girds for expected interest rate hike",
+      "summary": "Traders were pricing in a better than 92% probability of a rate increase, as well as a more than 75% chance for another one in December.",
+      "url": "https://www.cnbc.com/2026/09/14/counting-the-votes-warsh-faces-tough-battle-as-fed-girds-for-expected-rate-hike.html",
+      "source": "CNBC",
+      "datetime": 1789411832,
+      "image": "https://image.cnbcfm.com/api/v1/image/108323501-1781724301992-gettyimages-2281465312-WARSH_FOMC.jpeg?v=1781724364&w=1920&h=1080",
+      "title_cn": "计票：随着美联储为预期的加息做好准备，沃什面临一场艰苦的战斗",
+      "summary_cn": "交易员预计加息的可能性超过92%，12月再次加息的可能性也超过75%。"
+    },
+    {
+      "title": "Is a 'SaaSpocalypse'-like sell-off coming for AI hardware stocks? Not so fast",
+      "summary": "Anthropic's safety warning is crushing data center stocks, but demand for compute still outstrips supply.",
+      "url": "https://www.cnbc.com/2026/09/14/is-a-saaspocalypse-like-sell-off-coming-for-ai-hardware-stocks-not-so-fast.html",
+      "source": "CNBC",
+      "datetime": 1789411424,
+      "image": "https://image.cnbcfm.com/api/v1/image/108239382-1765318074991-gettyimages-2250345560-AMODEI_INTERVIEW.jpeg?v=1773069513&w=1920&h=1080",
+      "title_cn": "人工智能硬件股是否会出现类似“SaaSpocalypse”的抛售？没那么快",
+      "summary_cn": "Anthropic的安全警告正在压垮数据中心库存，但计算需求仍然超过供应。"
+    },
+    {
+      "title": "As the oil surge continues, trader Mike Khouw sees more upside in this surging name",
+      "summary": "Michael Khouw breaks down how he's trading this energy name.",
+      "url": "https://www.cnbc.com/2026/09/14/as-the-oil-surge-continues-trader-mike-khouw-sees-more-upside-in-this-surging-name.html",
+      "source": "CNBC",
+      "datetime": 1789406183,
+      "image": "https://image.cnbcfm.com/api/v1/image/108348621-1786555918107-gettyimages-73737271-Huty1594110.jpeg?v=1786555996&w=1920&h=1080",
+      "title_cn": "随着油价飙升的持续，交易员迈克·库（Mike Khouw）看到了这个飙升的名字更多的好处",
+      "summary_cn": "Michael Khouw详细介绍了他如何交易这个能源名称。"
+    },
+    {
+      "title": "Jim Cramer on why 'sitting on your hands' is worth it in this oversold market",
+      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "url": "https://www.cnbc.com/2026/09/14/jim-cramer-on-why-sitting-on-your-hands-is-worth-it-in-this-oversold-market.html",
+      "source": "CNBC",
+      "datetime": 1789402282,
+      "image": "https://image.cnbcfm.com/api/v1/image/48800799-wall_street__-1325621764_v2.jpg?v=1349505535&w=1920&h=1080",
+      "title_cn": "吉姆·克莱默（Jim Cramer）解释为什么在这个过度抛售的市场中“袖手旁观”值得",
+      "summary_cn": "投资俱乐部每个工作日上午10：20举行“晨会”。"
+    }
+  ],
+  "ai": [
+    {
+      "title": "The Latest: Trump dismisses need for guardrails as a 'SICK conspiracy' against AI",
+      "description": "Trump is playing down any need to check the development of artificial intelligence, saying he doesn’t want America to give up its edge over China. He dismissed the idea of new AI guardrails on...",
+      "url": "https://www.dallasnews.com/news/politics/article/the-latest-2nd-judge-freezes-trump-mail-ballot-22430677.php",
+      "source": "The Dallas Morning News",
+      "publishedAt": "2026-09-14T14:39:28Z",
+      "image": "https://s.hdnux.com/photos/01/67/25/61/31284303/3/rawImage.jpg",
+      "title_cn": "最新消息：特朗普认为需要护栏是针对人工智能的“病态阴谋”",
+      "description_cn": "特朗普淡化了检查人工智能发展的任何必要性，称他不希望美国放弃对中国的优势。他驳回了在."
+    },
+    {
+      "title": "King Charles to host execs as fears of tech rise",
+      "description": "King Charles will host the leaders of major artificial intelligence companies this week to discuss whether a shared set of principles is needed to guide a technology that has sparked growing warnings about its threat to humanity.",
+      "url": "https://www.cp24.com/news/world/2026/09/14/king-charles-to-host-ai-leaders-after-dire-warnings-from-researchers/",
+      "source": "CP24 Toronto",
+      "publishedAt": "2026-09-14T14:38:34Z",
+      "image": "https://www.cp24.com/resizer/v2/34W6ZEUZG5QGVWSOMZ4V3533HE.jpg?smart=true&auth=65366c60f38eda97f2e6e6c0b23e560474931edac035b590ffbd53443ba5020c&width=1200&height=630",
+      "title_cn": "随着对科技的担忧加剧，查尔斯国王将接待高管",
+      "description_cn": "查尔斯国王本周将接待主要人工智能公司的领导人，讨论是否需要一套共同的原则来指导这项已引发越来越多关于其对人类威胁的警告的技术。"
+    },
+    {
+      "title": "Royal Summit: The Future of AI Under King Charles' Watch",
+      "description": "King Charles is set to host leaders from top AI firms to discuss the need for guiding principles for artificial intelligence. The summit aims to address concerns about AI's potential threat to humanity and explore ways it can be beneficial. Major industry players like Nvidia, Google DeepMind, and OpenAI will attend.",
+      "url": "https://www.devdiscourse.com/article/technology/3977049-royal-summit-the-future-of-ai-under-king-charles-watch",
+      "source": "Devdiscourse",
+      "publishedAt": "2026-09-14T14:34:44Z",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/28_05_2024_09_17_57_1788262.png&width=920&format=jpeg",
+      "title_cn": "皇家峰会：查尔斯国王麾下人工智能的未来",
+      "description_cn": "查尔斯国王将接待来自顶级人工智能公司的领导人，讨论人工智能指导原则的必要性。此次峰会旨在解决人们对人工智能对人类潜在威胁的担忧，并探索其有益的方式。Nvidia、Google DeepMind和OpenAI等主要行业参与者将出席。"
+    },
+    {
+      "title": "One of the best documentaries about gen AI is finally coming to YouTube.",
+      "description": "Director Valerie Veatch’s excellent Ghost in the Machine documentary digging into the origins of generative artificial intelligence is set to make its debut on the PBS Documentaries YouTube channel this evening.\n[Link: The gen AI Kool-Aid tastes like eugenics | https://www.theverge.com/entertainment/897923/ghost-in-the-machine-valerie-veatch-interview | The Verge]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994750/ghost-in-the-machine-ai-documentary-veatch-pbs-premiere",
+      "source": "The Verge",
+      "publishedAt": "2026-09-14T14:30:48Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
+      "title_cn": "关于人工智能一代的最佳纪录片之一终于登陆YouTube。",
+      "description_cn": "导演瓦莱丽·维奇（Valerie Veatch）的精彩纪录片《机器中的幽灵》（Ghost in the Machine）深入探讨生成人工智能的起源，将于今晚在PBS纪录片YouTube频道上首次亮相。\n[Link：AI世代Kool-Aid味道像优生学|https://www.theverge.com/entertainment/897923/ghost-in-the-machine-valerie-veatch-interview|边缘]"
+    },
+    {
+      "title": "Trump dismisses new AI guardrails, says there is a 'SICK conspiracy' against AI and data centers",
+      "description": "U.S. President Donald Trump said that he is a sufficient guardrail against rogue artificial intelligence, claiming there is a ‘SICK conspiracy’ against AI.",
+      "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/09/14/trump-dismisses-new-ai-guardrails-says-there-is-a-sick-conspiracy-against-ai-and-data-centers/",
+      "source": "Bnn Bloomberg",
+      "publishedAt": "2026-09-14T14:30:25Z",
+      "image": "https://www.bnnbloomberg.ca/resizer/v2/WIXAUN4FFQYDW4PA5CU6JTZEPQ.jpg?smart=true&auth=3ff2b9c687fe648c772f70cf06d9b6a842ed2e24bc92c7359048eaea83a4a795&width=1200&height=630",
+      "title_cn": "特朗普驳斥了新的人工智能护栏，称存在针对人工智能和数据中心的“病态阴谋”",
+      "description_cn": "美国总统唐纳德·特朗普表示，他是抵御流氓人工智能的足够屏障，声称存在针对人工智能的“病态阴谋”。"
+    }
+  ]
+}
