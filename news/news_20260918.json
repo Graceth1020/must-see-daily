@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-09-18T02:26:10Z",
+  "finance": [
+    {
+      "title": "Intel and Micron lead our portfolio higher, and J&J's strengthens our case for owning it",
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "url": "https://www.cnbc.com/2026/09/17/intel-and-micron-lead-our-portfolio-higher-and-jjs-strengthens-our-case-for-owning-it-.html",
+      "source": "CNBC",
+      "datetime": 1789671323,
+      "image": "https://image.cnbcfm.com/api/v1/image/108060310-17310733342024-11-08t130300z_1943392587_rc220baum8sh_rtrmadp_0_china-trade.jpeg?v=1736781935&w=1920&h=1080",
+      "title_cn": "英特尔和美光引领我们的投资组合走高，强生加强了我们拥有它的理由",
+      "summary_cn": "每个工作日，投资俱乐部都会发布Homestretch;一个可操作的下午更新，正好赶上交易的最后一个小时。"
+    },
+    {
+      "title": "Stephen Curry says his Li-Ning signature shoe will debut early next year",
+      "summary": "Golden State Warrior superstar Stephen Curry announced in June he was signing a long-term partnership with Chinese brand Li-Ning.",
+      "url": "https://www.cnbc.com/2026/09/17/stephen-curry-li-ning-signature-shoe.html",
+      "source": "CNBC",
+      "datetime": 1789666035,
+      "image": "https://image.cnbcfm.com/api/v1/image/108178664-1753818860296-gettyimages-2207715090-_sg21245_vu0ywyck.jpeg?v=1753819028&w=1920&h=1080",
+      "title_cn": "斯蒂芬·库里（Stephen Curry）表示，他的李宁标志性鞋子将于明年初首次亮相",
+      "summary_cn": "金州勇士队超级巨星斯蒂芬·库里（Stephen Curry）六月宣布，他将与中国品牌李宁签署长期合作伙伴关系。"
+    },
+    {
+      "title": "We're buying more shares of a retailer that's been punished enough for a rare misstep",
+      "summary": "Shares have been in the dumps since earnings in August.",
+      "url": "https://www.cnbc.com/2026/09/17/were-buying-more-shares-of-a-retailer-thats-been-punished-enough-for-a-rare-misstep.html",
+      "source": "CNBC",
+      "datetime": 1789664920,
+      "image": "https://image.cnbcfm.com/api/v1/image/107150378-1668172177669-gettyimages-1440720252-vcg111409482345.jpeg?v=1668172224&w=1920&h=1080",
+      "title_cn": "我们正在购买一家零售商的更多股票，该零售商因罕见的失误而受到足够的惩罚",
+      "summary_cn": "自8月份财报以来，股价一直处于低迷状态。"
+    },
+    {
+      "title": "Stocks stage a comeback after Fed-induced declines — plus, what's ailing Boeing",
+      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "url": "https://www.cnbc.com/2026/09/17/stocks-stage-a-comeback-after-fed-induced-declines-plus-whats-ailing-boeing.html",
+      "source": "CNBC",
+      "datetime": 1789663020,
+      "image": "https://image.cnbcfm.com/api/v1/image/108285632-1774986309800-cnbc_versant_share.png?v=1774986411&w=1920&h=1080",
+      "title_cn": "美联储引发下跌后，股市卷土重来--再加上波音公司的境况不佳",
+      "summary_cn": "投资俱乐部每个工作日上午10：20举行“晨会”。"
+    },
+    {
+      "title": "Our top 10 things to watch in the stock market Thursday",
+      "summary": "Stocks are set for a big bounce-back rally after yesterday's Fed sell-off.",
+      "url": "https://www.cnbc.com/2026/09/17/our-top-10-things-to-watch-in-the-stock-market-thursday.html",
+      "source": "CNBC",
+      "datetime": 1789650715,
+      "image": "https://image.cnbcfm.com/api/v1/image/108309527-1779255938140-gettyimages-1139073776-20192996-2019-v1_editorial.jpeg?v=1779255952&w=1920&h=1080",
+      "title_cn": "周四股市最值得关注的10件事",
+      "summary_cn": "昨天美联储抛售后，股市将出现大幅反弹。"
+    }
+  ],
+  "ai": [
+    {
+      "title": "King Charles warns AI leaders of 'existential dangers' during summit in Scotland",
+      "description": "Britain's King Charles III has warned AI leaders of the \"existential dangers\" posed by the technology falling into the wrong hands while hosting the leaders from top artificial intelligence firms.",
+      "url": "https://www.abc.net.au/news/2026-09-18/king-charles-warns-ai-leaders-of-existential-dangers/107166548",
+      "source": "ABC (Australian Broadcasting Corporation)",
+      "publishedAt": "2026-09-17T14:23:33Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/8313cea55d5b936c74858460e4642ec8?impolicy=wcms_watermark_news&cropH=2781&cropW=4944&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+      "title_cn": "查尔斯国王在苏格兰峰会期间警告人工智能领导人存在“生存危险”",
+      "description_cn": "英国国王查理三世在接待顶级人工智能公司的领导人时警告人工智能领导人，该技术落入坏人之手会带来“生存危险”。"
+    },
+    {
+      "title": "OpenAI flags concerning new AI behavior and vows to track it more closely",
+      "description": "OpenAI has disclosed six reports of \"unexpected or concerning\" behavior in artificial intelligence models as the debate on AI safety increases.",
+      "url": "https://abc7.com/post/openai-flags-concerning-new-ai-behavior-vows-track-more-closely/19843540/",
+      "source": "KABC-TV",
+      "publishedAt": "2026-09-17T14:23:00Z",
+      "image": "https://cdn.abcotvs.com/dip/images/19581244_717ad591-ba8b-426e-9763-767e7d0fa920.jpg?w=1600",
+      "title_cn": "OpenAI标记了新的人工智能行为，并发誓要更密切地跟踪它",
+      "description_cn": "OpenAI已经披露了六份关于人工智能模型中“意外或令人担忧”行为的报告，因为关于人工智能安全性的争论越来越多。"
+    },
+    {
+      "title": "AI Fears Cloud China's Premier Annual Defense Conference",
+      "description": "The Beijing Xiangshan Forum features discussions of the security risks posed by artificial intelligence (AI) technology.",
+      "url": "https://www.breitbart.com/tech/2026/09/17/ai-fears-cloud-chinas-premier-annual-defense-conference/",
+      "source": "Breitbart News Network",
+      "publishedAt": "2026-09-17T14:17:24Z",
+      "image": "https://media.breitbart.com/media/2026/09/AP25261072782484-640x335.png",
+      "title_cn": "人工智能担心云中国总理年度国防会议",
+      "description_cn": "北京相山论坛讨论了人工智能（AI）技术带来的安全风险。"
+    },
+    {
+      "title": "King Charles meets leaders as safety concerns swirl",
+      "description": "King Charles III urged senior leaders from OpenAI, Anthropic, Google DeepMind and Nvidia to make sure that artificial intelligence remains under control.",
+      "url": "https://www.cp24.com/news/world/2026/09/17/king-charles-meets-artificial-intelligence-leaders-as-safety-concerns-swirl/",
+      "source": "CP24 Toronto",
+      "publishedAt": "2026-09-17T14:15:43Z",
+      "image": "https://www.cp24.com/resizer/v2/N26K632E6C274CUR7NR2BMOBUY.jpg?smart=true&auth=99618e5dcd4e58ce20342fbec19d5a14796d1a2747140b3568df5025a8b4f24f&width=1200&height=630",
+      "title_cn": "安全担忧加剧，查尔斯国王会见领导人",
+      "description_cn": "查理三世国王敦促OpenAI、Anthropic、Google DeepMind和Nvidia的高级领导人确保人工智能仍处于控制之下。"
+    },
+    {
+      "title": "Meet Myreen Ahsan, the Friendswood 8th-grader who screened over 10 million drug-like molecules with AI for a frontotemporal dementia project",
+      "description": "US News: An eighth-grade student from Texas has used artificial intelligence and computer models to screen more than 10 million drug-like molecules in search o.",
+      "url": "https://timesofindia.indiatimes.com/world/us/meet-myreen-ahsan-the-friendswood-8th-grader-who-screened-over-10-million-drug-like-molecules-with-ai-for-a-frontotemporal-dementia-project/articleshow/134312651.cms",
+      "source": "Times of India",
+      "publishedAt": "2026-09-17T14:10:00Z",
+      "image": "https://static.toiimg.com/thumb/msid-134313346,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "title_cn": "来认识一下Myreen Ahsan，这位尼斯伍德八年级学生，他为额颞叶痴呆项目用人工智能筛查了超过1000万个药物样分子",
+      "description_cn": "美国新闻：来自德克萨斯州的一名八年级学生使用人工智能和计算机模型筛选了1000多万种药物样分子，以寻找药物。"
+    }
+  ]
+}
