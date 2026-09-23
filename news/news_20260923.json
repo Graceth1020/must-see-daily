@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-09-23T02:36:05Z",
+  "finance": [
+    {
+      "title": "Qantas to start selling tickets next year for its New York to Sydney nonstop flight",
+      "summary": "Qantas plans to start selling tickets for its first New York to Sydney nonstop flight.",
+      "url": "https://www.cnbc.com/2026/09/22/qantas-flight-new-york-sydney-nonstop.html",
+      "source": "CNBC",
+      "datetime": 1790118001,
+      "image": "https://image.cnbcfm.com/api/v1/image/107258957-1687219415290-gettyimages-1187731711-qantas-1a-4_2019111514639035.jpeg?v=1790117286&w=1920&h=1080",
+      "title_cn": "澳洲航空明年开始出售纽约至悉尼直飞航班的机票",
+      "summary_cn": "澳洲航空计划开始销售其首个纽约至悉尼直飞航班的机票。"
+    },
+    {
+      "title": "A top chip stock analyst sees big things for Nvidia, Broadcom. How his case aligns with ours",
+      "summary": "The bullish sentiment comes despite calls to slow down AI model development and rekindled investor enthusiasm for a competing part of the AI chip ecosystem.",
+      "url": "https://www.cnbc.com/2026/09/22/a-top-chip-stock-analyst-sees-big-things-for-nvidia-broadcom-how-his-case-aligns-with-ours.html",
+      "source": "CNBC",
+      "datetime": 1790109828,
+      "image": "https://image.cnbcfm.com/api/v1/image/108279787-1773856963026-gettyimages-2266693711-NVIDIA_GTC.jpeg?v=1779315606&w=1920&h=1080",
+      "title_cn": "一位顶级芯片股分析师认为Nvidia和Broadcom有重大影响。他的案件与我们的案件如何一致",
+      "summary_cn": "尽管有人呼吁放慢人工智能模型开发并重新点燃了投资者对人工智能芯片生态系统竞争部分的热情，但看涨情绪还是出现了。"
+    },
+    {
+      "title": "Royal Caribbean nears $3 billion deal to take 50% equity stake in Sandals",
+      "summary": "Royal Caribbean has been trying to diversify beyond cruises and become a leader overall in vacations.",
+      "url": "https://www.cnbc.com/2026/09/22/royal-caribbean-sandals.html",
+      "source": "CNBC",
+      "datetime": 1790105617,
+      "image": "https://image.cnbcfm.com/api/v1/image/108366440-1790105281800-gettyimages-2161029164-AFP_363W4FY.jpeg?v=1790105475&w=1920&h=1080",
+      "title_cn": "皇家加勒比以接近30亿美元的交易收购Sandals 50%的股权",
+      "summary_cn": "皇家加勒比一直在努力实现游轮以外的多元化，并成为度假领域的整体领导者。"
+    },
+    {
+      "title": "Cisco stock sinks 5% after Piper Sandler cuts price target on growth concerns",
+      "summary": "Cisco stock hit a record over the summer, but Piper Sandler analysts expressed concerns that growth is peaking in the industry.",
+      "url": "https://www.cnbc.com/2026/09/22/cisco-stock-piper-sandler-price-target.html",
+      "source": "CNBC",
+      "datetime": 1790104871,
+      "image": "https://image.cnbcfm.com/api/v1/image/108291985-1776277173996-gettyimages-2270936890-AFP_A7XF2FB.jpeg?v=1776277198&w=1920&h=1080",
+      "title_cn": "Piper Sandler因增长担忧下调价格目标后，思科股价下跌5%",
+      "summary_cn": "思科股价在夏季创下历史新高，但Piper Sandler分析师对该行业增长正在见顶表示担忧。"
+    },
+    {
+      "title": "Nvidia options are doing something unusual ahead of two catalysts. Here's how one trader is playing it",
+      "summary": "A curious dynamic is happening in shares of Nvidia ahead of two potential catalysts this month.",
+      "url": "https://www.cnbc.com/2026/09/22/nvidia-options-are-doing-something-unusual-ahead-of-two-catalysts-heres-how-one-trader-is-playing-it.html",
+      "source": "CNBC",
+      "datetime": 1790096308,
+      "image": "https://image.cnbcfm.com/api/v1/image/108364527-1789665953765-gettyimages-2294936867-2026_sep_14_dreamforce_2974.jpeg?v=1789665981&w=1920&h=1080",
+      "title_cn": "英伟达的选择是做一些不寻常的两个催化剂之前。下面是一位交易员的做法",
+      "summary_cn": "本月，在两个潜在催化剂出现之前，英伟达股价正在发生一种奇怪的动态。"
+    }
+  ],
+  "ai": [
+    {
+      "title": "UN chief urges action on AI curbs and ongoing wars in final address",
+      "description": "On Tuesday, United Nations Secretary-General Antonio Guterres gave his final address to the General Assembly, urging policymakers to set rules for advanced artificial intelligence to end conflicts,...",
+      "url": "https://www.thenews.com.pk/latest/1417207-un-chief-urges-action-on-ai-curbs-and-ongoing-wars-in-final-address",
+      "source": "The News International",
+      "publishedAt": "2026-09-22T14:34:26Z",
+      "image": "https://www.thenews.com.pk/assets/uploads/2026-09-22/1417207_073614_updates.jpg",
+      "title_cn": "联合国秘书长在最后讲话中敦促对人工智能限制和持续的战争采取行动",
+      "description_cn": "周二，联合国秘书长安东尼奥·古特雷斯向大会发表最后一次讲话，敦促政策制定者为先进人工智能制定规则，以结束冲突……"
+    },
+    {
+      "title": "Nearly half of young people in England trust AI more than humans, study finds",
+      "description": "UK schools battling ‘crisis of relevance’ as pupils’ reliance on artificial intelligence rises, report warns",
+      "url": "https://www.independent.co.uk/news/uk/home-news/half-of-young-people-trust-ai-more-than-humans-b3054171.html",
+      "source": "The Independent",
+      "publishedAt": "2026-09-22T14:31:24Z",
+      "image": "https://static.independent.co.uk/2025/10/16/15/16145138-ccb28ea3-35bb-45af-ae5c-9ba212f40ba5.jpg?width=1200&height=800&crop=1200:800",
+      "title_cn": "研究发现，英国近一半的年轻人比人类更信任人工智能",
+      "description_cn": "报告警告称，随着学生对人工智能的依赖上升，英国学校正在应对“相关性危机”"
+    },
+    {
+      "title": "Trump Tells U.N. that America Is Replacing Term Artificial Intelligence with 'Super Intelligence'",
+      "description": "President Trump declared at the United Nations General Assembly on Tuesday that artificial intelligence will be renamed \"super intelligence,\" in all official United States documents. Trump told the U.N., \"The United States also totally rejects any attempt to construct a globality scheme to control for the artificial intelligence being spoken of so much now, hereinafter called super intelligence. Changing the name.\"",
+      "url": "https://www.breitbart.com/politics/2026/09/22/welcome-to-si-trump-tells-u-n-that-america-is-replacing-term-artificial-intelligence-with-super-intelligence/",
+      "source": "Breitbart News Network",
+      "publishedAt": "2026-09-22T14:19:38Z",
+      "image": "https://media.breitbart.com/media/2026/09/Trump-renames-AI-as-SI-640x335.jpg",
+      "title_cn": "特朗普告诉联合国美国正在用“超级智能”取代人工智能一词",
+      "description_cn": "特朗普总统周二在联合国大会上宣布，在美国所有官方文件中，人工智能将更名为“超级智能”。特朗普告诉联合国，“美国也完全拒绝任何建立全球性计划来控制现在被广泛谈论的人工智能（以下称为超级智能）的企图。更改名称。\""
+    },
+    {
+      "title": "Xi Jinping, Peng Liyuan set for ‘double date’ with Trump-Melania in US: What’s on the cards",
+      "description": "The two-day programme on September 24 and 25 will combine elaborate state-visit ceremonies with high-stakes discussions on artificial intelligence (AI), trade, rare earths, fentanyl and detained foreigners.",
+      "url": "https://www.moneycontrol.com/world/xi-jinping-peng-liyuan-set-for-double-date-with-trump-melania-in-us-what-s-on-the-cards-article-14035693.html",
+      "source": "Moneycontrol",
+      "publishedAt": "2026-09-22T14:17:24Z",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260922141419_AFP__20171109__U45VM__v1__HighRes__ChinaUsTrumpPoliticsDiplomacy.jpg",
+      "title_cn": "习近平、彭丽媛将在美国与特朗普和梅拉尼娅进行“双重约会”：可能会发生什么",
+      "description_cn": "9月24日和25日为期两天的计划将把精心设计的国事访问仪式与有关人工智能（AI）、贸易、稀土、芬太尼和被拘留外国人的高风险讨论结合起来。"
+    },
+    {
+      "title": "US-China AI rivalry: Can Trump and Xi agree on rules for the artificial intelligence race?",
+      "description": "The United States and China are racing for artificial intelligence dominance, but the technology's growing risks may also require them to work together. As US President Donald Trump prepares to meet Chinese President Xi Jinping in Washington on Thursday, both sides face the challenge of competing on AI while managing s",
+      "url": "https://www.channelnewsasia.com/watch/us-china-ai-rivalry-can-trump-and-xi-agree-rules-artificial-intelligence-race-6402501",
+      "source": "CNA",
+      "publishedAt": "2026-09-22T13:43:08Z",
+      "image": "https://dam.mediacorp.sg/image/upload/s--voPD08UD--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/09/22/0922airace.jpg?itok=zB6jmeJt",
+      "title_cn": "美中人工智能竞争：特朗普和习近平能否就人工智能竞赛规则达成一致？",
+      "description_cn": "美国和中国正在争夺人工智能的主导地位，但该技术日益增长的风险可能也需要他们共同努力。当美国总统唐纳德·特朗普准备周四在华盛顿会见中国国家主席习近平时，双方都面临着在人工智能方面竞争的挑战，同时管理"
+    }
+  ]
+}
