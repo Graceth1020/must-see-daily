@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-09-27T02:45:30Z",
+  "finance": [
+    {
+      "title": "Apple faces $5.7 billion patent infringement verdict over iPhone and Apple Watch haptics",
+      "summary": "A federal jury awarded Taction Technology more than $5.7 billion after finding Apple infringed claims from two haptics patents. Apple plans to appeal.",
+      "url": "https://www.cnbc.com/2026/09/26/apple-taction-technology-patent-infringement-verdict.html",
+      "source": "CNBC",
+      "datetime": 1790434559,
+      "image": "https://image.cnbcfm.com/api/v1/image/108360790-1788983095011-gettyimages-2293834700-AFP_C7UF98N.jpeg?v=1790433460&w=1920&h=1080",
+      "title_cn": "苹果因iPhone和Apple Watch触觉产品面临57亿美元的专利侵权判决",
+      "summary_cn": "在发现苹果侵犯了两项触觉专利的索赔后，联邦陪审团向Taction Technology赔偿了超过57亿美元。苹果计划上诉。"
+    },
+    {
+      "title": "The blue-collar AI job market is booming. Will data center backlash make it go bust?",
+      "summary": "The public has soured on AI data centers and states are slowing development, but for HVAC, plumbing, welding, and electrical workers, it's been a jobs boom.",
+      "url": "https://www.cnbc.com/2026/09/26/blue-collar-jobs-ai-data-center-backlash.html",
+      "source": "CNBC",
+      "datetime": 1790430222,
+      "image": "https://image.cnbcfm.com/api/v1/image/108358051-1788380247070-gettyimages-2289739893-AFP_C4JC7YV.jpeg?v=1788380269&w=1920&h=1080",
+      "title_cn": "蓝领人工智能就业市场正在蓬勃发展。数据中心的强烈反对会导致其破产吗？",
+      "summary_cn": "公众对人工智能数据中心感到不满，各州正在放缓开发，但对于空调、管道、焊接和电气工人来说，这是一个就业热潮。"
+    },
+    {
+      "title": "27-year-old started a run club to meet new people—now his NYC side hustle brings in $640K a year",
+      "summary": "When Owen Akhibi Herrera started his New York City-based run club in 2024, he craved community — and entrepreneurial opportunity.",
+      "url": "https://www.cnbc.com/2026/09/26/nyc-run-club-side-hustle.html",
+      "source": "CNBC",
+      "datetime": 1790427901,
+      "image": "https://image.cnbcfm.com/api/v1/image/108368382-1790372829397-owen_akhibi_herrera_at_an_event_.jpg?v=1790374287&w=1920&h=1080",
+      "title_cn": "27岁的他成立了一个跑步俱乐部来结识新朋友-现在他在纽约的副业每年收入64万美元",
+      "summary_cn": "当欧文·阿希比·埃雷拉（Owen Akhibi Herrera）于2024年在纽约市创办跑步俱乐部时，他渴望社区和创业机会。"
+    },
+    {
+      "title": "Here's exactly what Paramount promised Hollywood to land WBD — and why some are still skeptical",
+      "summary": "Paramount CEO David Ellison's antitrust settlement eased some theatrical concerns, but questions remain about what happens when the five-year agreement ends.",
+      "url": "https://www.cnbc.com/2026/09/25/paramount-hollywood-promises.html",
+      "source": "CNBC",
+      "datetime": 1790375492,
+      "image": "https://image.cnbcfm.com/api/v1/image/108366218-1790089325194-gettyimages-2296039391-boivin-photoill260922_npJvq.jpeg?v=1790089357&w=1920&h=1080",
+      "title_cn": "这正是派拉蒙向好莱坞承诺登陆WBD的内容-以及为什么一些人仍然持怀疑态度",
+      "summary_cn": "派拉蒙首席执行官大卫·埃里森（David Ellison）的反垄断和解缓解了一些戏剧性担忧，但五年协议结束后会发生什么仍然存在疑问。"
+    },
+    {
+      "title": "What we want to see next week from one of Jim Cramer's 6 stocks to buy",
+      "summary": "Micron has all the leverage heading into earnings as memory supply constraints persist. But how long will this favorable cycle last?",
+      "url": "https://www.cnbc.com/2026/09/25/what-we-want-to-see-next-week-from-one-of-jim-cramers-6-stocks-to-buy.html",
+      "source": "CNBC",
+      "datetime": 1790365244,
+      "image": "https://image.cnbcfm.com/api/v1/image/108352482-1787272514906-IMG_8261.jpeg?v=1787272676&w=1920&h=1080",
+      "title_cn": "我们希望下周从吉姆·克莱默（Jim Cramer）要购买的6只股票之一中看到什么",
+      "summary_cn": "由于内存供应限制持续存在，美光拥有所有盈利杠杆。但这种有利的循环会持续多久？"
+    }
+  ],
+  "ai": [
+    {
+      "title": "OpenAI bots accessed public U.S. Census, SEC data, as company discloses unexpected AI activity",
+      "description": "OpenAI disclosed Friday that its artificial intelligence agents had interacted with several U.S. government websites in unexpected ways, discovered as part of an ongoing review into the company’s models’ unanticipated behavior.",
+      "url": "https://www.cbc.ca/news/world/openai-rogue-us-sites-activity-9.7359673",
+      "source": "CBC.ca",
+      "publishedAt": "2026-09-26T14:38:18Z",
+      "image": "https://i.cbc.ca/ais/5270b93a-e4ca-4aac-8811-169935df9d4e,1790428149304/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C600%2C5760%2C3240%29%3BResize%3D620",
+      "title_cn": "OpenAI机器人访问了公开的美国人口普查、SEC数据，公司披露了意想不到的人工智能活动",
+      "description_cn": "OpenAI上周五披露，其人工智能代理以意想不到的方式与几个美国政府网站进行了互动，这是对该公司模型意外行为进行持续审查的一部分。"
+    },
+    {
+      "title": "Driven Drug Development Faces a Real Test... The Key Lies in Experimental Data [Weekend Money]",
+      "description": "The competition for leadership in new drug development leveraging artificial intelligence (AI) is shifting from analysis algorithms to securing proprietary",
+      "url": "https://www.europesays.com/3273934/",
+      "source": "EUROPE SAYS",
+      "publishedAt": "2026-09-26T14:18:37Z",
+      "image": "https://www.europesays.com/wp-content/uploads/2026/09/2026092310564439847_1790128604.png",
+      "title_cn": "药物研发面临真正的考验关键在于实验数据[周末理财]",
+      "description_cn": "利用人工智能（AI）的新药开发领导力的竞争正在从分析算法转向确保专有权"
+    },
+    {
+      "title": "AI just spotted a new pattern in viral DNA. Is it anything like CRISPR?",
+      "description": "A string of DNA from a virus that infects bacteria caught an artificial intelligence agent’s attention.",
+      "url": "https://timesofindia.indiatimes.com/toi-plus/technology/ai-just-spotted-a-new-pattern-in-viral-dna-is-it-anything-like-crispr/articleshow/134505762.cms",
+      "source": "Times of India",
+      "publishedAt": "2026-09-26T14:13:00Z",
+      "image": "https://static.toiimg.com/thumb/msid-134506125,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "title_cn": "人工智能刚刚在病毒DNA中发现了一种新模式。它像CRISPR吗？",
+      "description_cn": "来自感染细菌的病毒的一串DNA引起了人工智能特工的注意。"
+    },
+    {
+      "title": "US, China agree on $30 billion tariff cut, AI dialogue as Xi wraps up US visit",
+      "description": "China and the United States have agreed on a package covering tariffs, artificial intelligence and trade cooperation following Chinese President Xi Jinping's three-day visit to Washington",
+      "url": "https://www.firstpost.com/world/us-china-agree-on-30-billion-tariff-cut-ai-dialogue-as-xi-wraps-up-us-visit-14048564.html",
+      "source": "Firstpost",
+      "publishedAt": "2026-09-26T13:40:25Z",
+      "image": "https://images.firstpost.com/uploads/2026/09/2026-09-26T083836Z_1_LYNXMPEM8P05Z_RTROPTP_4_USA-CHINA-2026-09-ce0a6425a883d380ab2204c888fc6ac5-1200x675.jpg?im=FitAndFill,width=1200,height=675",
+      "title_cn": "习近平结束美国访问之际，美国、中国同意削减300亿美元关税，人工智能对话",
+      "description_cn": "中国国家主席习近平对华盛顿进行为期三天的访问后，中美就涵盖关税、人工智能和贸易合作的一揽子计划达成一致"
+    },
+    {
+      "title": "Trump hails ‘productive’ meeting with Jinping - only to double down on AI rebrand",
+      "description": "US president Donald Trump is facing criticism online, after taking to Truth Social to praise a 'productive' meeting with his Chinese counterpart Xi Jinping, only to write about the latter's reported support for his rebranding of artificial intelligence to super intelligence. Trump previously claimed AI was 'inaccurate' and 'ineloquent'.",
+      "url": "https://www.indy100.com/politics/trump/trump-jinping-super-intelligence-ai",
+      "source": "indy100",
+      "publishedAt": "2026-09-26T13:30:30Z",
+      "image": "https://www.indy100.com/media-library/left-xi-jinping-and-right-donald-trump-smiling-on-an-airfield.jpg?id=67865794&width=1200&height=600&coordinates=0%2C165%2C0%2C593",
+      "title_cn": "特朗普称赞与习近平的“富有成效”的会面--但却在人工智能品牌重塑上加倍努力",
+      "description_cn": "美国总统唐纳德·特朗普在Truth Social上赞扬了与中国国家主席习近平的“富有成效”的会面，但却写道，据报道习近平支持他将人工智能更名为超级智能，因此在网上面临批评。特朗普此前声称人工智能“不准确”且“无法雄辩”。"
+    }
+  ]
+}
