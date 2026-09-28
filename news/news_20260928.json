@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-09-28T02:46:54Z",
+  "finance": [
+    {
+      "title": "Trump to have dinner with Anthropic CEO Amodei at the White House, Axios reports",
+      "summary": "Athropic CEO Dario Amodei is set to have dinner with President Donald Trump at the White House on Sunday, Axios reported.",
+      "url": "https://www.cnbc.com/2026/09/27/trump-dinner-anthropic-ceo-amodei.html",
+      "source": "CNBC",
+      "datetime": 1790534647,
+      "image": "https://image.cnbcfm.com/api/v1/image/108342843-1785448090042-gettyimages-2280291466-ANTHROPIC_CIRCUIT.jpeg?v=1785448353&w=1920&h=1080",
+      "title_cn": "特朗普将在白宫与Anthropic首席执行官Amodei共进晚餐，Axios报道",
+      "summary_cn": "据Axios报道，Athropic首席执行官达里奥·阿莫迪将于周日在白宫与唐纳德·特朗普总统共进晚餐。"
+    },
+    {
+      "title": "Here are the 4 big things we're watching in the stock market in the week ahead",
+      "summary": "Both sides of the Fed's dual mandate are in focus. Plus, Micron reports and Eli Lilly delivers updates on its obesity pipeline.",
+      "url": "https://www.cnbc.com/2026/09/27/here-are-the-4-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
+      "source": "CNBC",
+      "datetime": 1790525803,
+      "image": "https://image.cnbcfm.com/api/v1/image/108342390-1785415941466-gettyimages-2287553149-AFP_C3J43AD.jpeg?v=1788288022&w=1920&h=1080",
+      "title_cn": "以下是我们未来一周在股市中关注的4件大事",
+      "summary_cn": "美联储双重使命的双方都成为焦点。此外，美光还报道了其肥胖渠道的最新情况，礼来公司也提供了最新消息。"
+    },
+    {
+      "title": "At NFL games this season, drone defense tech aims to bring down disruptions",
+      "summary": "The NFL told CNBC it recorded 10,852 drone violations over stadiums between 2021 and 2025. The Jaguars became the first team to sign a drone defense firm.",
+      "url": "https://www.cnbc.com/2026/09/27/nfl-drone-defense-tech-game-disruptions.html",
+      "source": "CNBC",
+      "datetime": 1790510401,
+      "image": "https://image.cnbcfm.com/api/v1/image/102978971-GettyImages-458697482.jpg?v=1789181305&w=1920&h=1080",
+      "title_cn": "在本赛季的NFL比赛中，无人机防御技术旨在减少干扰",
+      "summary_cn": "NFL告诉CNBC，它在2021年至2025年期间记录了10，852起无人机违规事件。美洲虎队成为第一支与无人机防御公司签约的球队。"
+    },
+    {
+      "title": "Wall Street money takes back over from small investors as driving force of the stock market",
+      "summary": "One firm sees a \"reasonably constructive signal for risk appetite\" among institutional investors.",
+      "url": "https://www.cnbc.com/2026/09/27/institutional-investors-stocks-treaurys-retail-traders.html",
+      "source": "CNBC",
+      "datetime": 1790508755,
+      "image": "https://image.cnbcfm.com/api/v1/image/108364036-17895893572026-09-16t200737z_126985946_rc2iknasv7pe_rtrmadp_0_usa-fed-stocks.jpeg?v=1789589422&w=1920&h=1080",
+      "title_cn": "华尔街资金从小投资者手中夺回成为股市驱动力",
+      "summary_cn": "一家公司在机构投资者中看到了“风险偏好的合理建设性信号”。"
+    },
+    {
+      "title": "Apple faces $5.7 billion patent infringement verdict over iPhone and Apple Watch haptics",
+      "summary": "A federal jury awarded Taction Technology more than $5.7 billion after finding Apple infringed claims from two haptics patents. Apple plans to appeal.",
+      "url": "https://www.cnbc.com/2026/09/26/apple-taction-technology-patent-infringement-verdict.html",
+      "source": "CNBC",
+      "datetime": 1790434559,
+      "image": "https://image.cnbcfm.com/api/v1/image/108360790-1788983095011-gettyimages-2293834700-AFP_C7UF98N.jpeg?v=1790433460&w=1920&h=1080",
+      "title_cn": "苹果因iPhone和Apple Watch触觉产品面临57亿美元的专利侵权判决",
+      "summary_cn": "在发现苹果侵犯了两项触觉专利的索赔后，联邦陪审团向Taction Technology赔偿了超过57亿美元。苹果计划上诉。"
+    }
+  ],
+  "ai": [
+    {
+      "title": "OpenAI pauses training of latest models after AI agents probed U.S. government sites in unexpected ways",
+      "description": "OpenAI said it has paused training of its latest artificial intelligence models as reports of AI agents going rogue mount.",
+      "url": "https://www.cbc.ca/news/business/openai-pause-training-after-probes-9.7360166",
+      "source": "CBC.ca",
+      "publishedAt": "2026-09-27T14:16:04Z",
+      "image": "https://i.cbc.ca/ais/c117d8df-6441-463b-b295-34b6e4d3711e,1790517059579/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C417%2C8015%2C4508%29%3BResize%3D620",
+      "title_cn": "人工智能代理以意想不到的方式调查美国政府网站后，OpenAI暂停了最新模型的训练",
+      "description_cn": "OpenAI表示，随着有关人工智能代理流氓行为的报道不断增加，该公司已暂停其最新人工智能模型的训练。"
+    },
+    {
+      "title": "Will artificial intelligence really kill us all?",
+      "description": "AI experts discuss the risks inherent in artificial intelligence teaching itself to become smarter; and whether recent declarations of AI's threat to humanity are to be taken seriously.",
+      "url": "https://www.cbsnews.com/news/will-artificial-intelligence-really-kill-us-all/",
+      "source": "CBS News",
+      "publishedAt": "2026-09-27T13:48:22Z",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/27/3deb3c82-04d7-4b28-894d-434248923748/thumbnail/1200x630/166781a38cb7ff02e1b0b9d08d341adf/ai-1280.jpg",
+      "title_cn": "人工智能真的会杀死我们所有人吗？",
+      "description_cn": "人工智能专家讨论了人工智能自我教育变得更聪明所固有的风险;以及是否应该认真对待最近关于人工智能对人类威胁的声明。"
+    },
+    {
+      "title": "Malaysia, Kazakhstan to revive higher education cooperation, says Zambry",
+      "description": "ASTANA: Malaysia and Kazakhstan are looking to revive the momentum of higher education cooperation affected by the Covid-19 pandemic, with the focus now expanded to strategic areas including artificial intelligence (AI), nuclear energy, critical minerals and agriculture.",
+      "url": "https://www.thestar.com.my/news/nation/2026/09/27/malaysia-kazakhstan-to-revive-higher-education-cooperation-says-zambry",
+      "source": "The Star",
+      "publishedAt": "2026-09-27T13:38:00Z",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/09/27/4132547.JPG",
+      "title_cn": "赞布里表示，马来西亚、哈萨克斯坦将恢复高等教育合作",
+      "description_cn": "阿塔娜：马来西亚和哈萨克斯坦正在寻求重振受Covid-19大流行影响的高等教育合作势头，重点现已扩大到人工智能（AI）、核能、关键矿产和农业等战略领域。"
+    },
+    {
+      "title": "OpenAI pauses training, evaluation of top AI models after agent bypasses internet restrictions",
+      "description": "OpenAI pauses training, evaluation of top AI models after agent bypasses internet restrictions - New Delhi, Sep 27 OpenAI has paused training, evaluation and tool-based use of its most capable artificial intelligence ... Get Latest News on Business only on lokmattimes.com",
+      "url": "https://www.lokmattimes.com/business/openai-pauses-training-evaluation-of-top-ai-models-after-agent-bypasses-internet-restrictions/",
+      "source": "Lokmat Times",
+      "publishedAt": "2026-09-27T13:24:16Z",
+      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202609273957267_202609.jpg",
+      "title_cn": "代理绕过互联网限制后，OpenAI暂停培训和顶级人工智能模型评估",
+      "description_cn": "在代理绕过互联网限制后，OpenAI暂停了对顶级人工智能模型的培训和评估-新德里，9月27日OpenAI暂停了对其最强大的人工智能的培训、评估和基于工具的使用.仅在lokmattimes.com上获取最新商业新闻"
+    },
+    {
+      "title": "Anime actor Kenjiro Tsuda sues TikTok over AI voice cloning",
+      "description": "A high-profile Japanese anime voice actor has taken TikTok to court over videos he says feature an artificial intelligence clone of his “lustrous” baritone, with a verdict due on Wednesday.",
+      "url": "https://www.cp24.com/news/world/2026/09/27/anime-actor-kenjiro-tsuda-fights-tiktok-over-ai-voice-cloning/",
+      "source": "CP24 Toronto",
+      "publishedAt": "2026-09-27T13:19:04Z",
+      "image": "https://www.cp24.com/resizer/v2/XNRD7LBUP7D3EUIKBPW3G7YTZA.jpg?smart=true&auth=8eee2ec4963a804154b0a9bde8c82ec351d5f989032748b7913a476a86ccde8d&width=1200&height=630",
+      "title_cn": "动漫演员津田健次郎就人工智能语音克隆问题起诉TikTok",
+      "description_cn": "一位知名的日本动漫配音演员将TikTok告上法庭，原因是他称该视频包含他“凹凸不平”的男中音的人工智能克隆，判决将于周三做出。"
+    }
+  ]
+}
