@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-09-29T03:28:31Z",
+  "finance": [
+    {
+      "title": "Michael Burry believes the AI bubble 'may burst' sooner than he first believed",
+      "summary": "The famed short seller is switching to puts with expiries in June for his major tech short bets.",
+      "url": "https://www.cnbc.com/2026/09/28/michael-burry-believes-the-ai-bubble-may-burst-sooner-than-he-first-believed.html",
+      "source": "CNBC",
+      "datetime": 1790628194,
+      "image": "https://image.cnbcfm.com/api/v1/image/108231762-1764085435434-108231762-1764085364402-gettyimages-498540380-88290117.jpg?v=1769446729&w=1920&h=1080",
+      "title_cn": "迈克尔·伯里（Michael Burry）认为人工智能泡沫“可能会比他最初认为的更早破裂”",
+      "summary_cn": "这位著名的卖空者将于6月份转向与对冲基金的看跌期权，以进行他的主要科技空头押注。"
+    },
+    {
+      "title": "Meta's splashy new business AI hire offers yet another reason to bank on Zuckerberg",
+      "summary": "By poaching MongoDB's CJ Desai, Mark Zuckerberg shows he's serious about building an enterprise AI business.",
+      "url": "https://www.cnbc.com/2026/09/28/metas-splashy-new-business-ai-hire-offers-yet-another-reason-to-bank-on-zuckerberg.html",
+      "source": "CNBC",
+      "datetime": 1790625676,
+      "image": "https://image.cnbcfm.com/api/v1/image/108367419-1790258260358-108367419-1790256216366-gettyimages-2296215540-20090101260924-99-741349.jpg?v=1790258272&w=1920&h=1080",
+      "title_cn": "Meta引人注目的新业务人工智能招聘为扎克伯格提供了另一个依靠扎克伯格的理由",
+      "summary_cn": "通过挖走MongoDB的CJ Desai，马克·扎克伯格表明他对建立企业人工智能业务的认真态度。"
+    },
+    {
+      "title": "Boeing 737 Max 10 certification delayed by software issue, FAA says",
+      "summary": "The FAA administrator said the Max 10 will be delayed until the agency can assess a software issue on the aircraft.",
+      "url": "https://www.cnbc.com/2026/09/28/faa-boeing-737-max-10-certification-delay-software-issue.html",
+      "source": "CNBC",
+      "datetime": 1790624802,
+      "image": "https://image.cnbcfm.com/api/v1/image/107256668-1686758919563-gettyimages-1241994183-farnborough_airshow-20-18-07-2022.jpeg?v=1686758967&w=1920&h=1080",
+      "title_cn": "美国联邦航空局称波音737 Max 10认证因软件问题而推迟",
+      "summary_cn": "美国联邦航空局局长表示，Max 10将被推迟，直到该机构能够评估飞机上的软件问题。"
+    },
+    {
+      "title": "What the market needs to branch out beyond AI stocks. Plus, a win for CrowdStrike",
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "url": "https://www.cnbc.com/2026/09/28/what-the-market-needs-to-branch-out-beyond-ai-stocks-plus-a-win-for-crowdstrike-.html",
+      "source": "CNBC",
+      "datetime": 1790621646,
+      "image": "https://image.cnbcfm.com/api/v1/image/108316343-1780518921561-gettyimages-2243418927-NVIDIA_AI_KEYNOTE.jpeg?v=1780519019&w=1920&h=1080",
+      "title_cn": "市场需要什么才能超越人工智能股票。另外，CrowdStrike的胜利",
+      "summary_cn": "每个工作日，投资俱乐部都会发布Homestretch;一个可操作的下午更新，正好赶上交易的最后一个小时。"
+    },
+    {
+      "title": "Feds can't withhold counterterrorism funds from states to force election admin changes, judge rules",
+      "summary": "The judge said FEMA never explained how the election changes it wanted were \"tied to the goal of shoring up vulnerabilities to terrorist attacks.\"",
+      "url": "https://www.cnbc.com/2026/09/28/elections-dhs-counterterrorism.html",
+      "source": "CNBC",
+      "datetime": 1790620911,
+      "image": "https://image.cnbcfm.com/api/v1/image/108315203-1780408967315-gettyimages-2278723586-sm1_5165.jpeg?v=1780409020&w=1920&h=1080",
+      "title_cn": "法官规定，联邦政府不能扣留各州反恐资金以迫使选举管理改变",
+      "summary_cn": "法官表示，联邦应急管理局从未解释过它想要的选举改变如何“与加强恐怖袭击脆弱性的目标有关”。\""
+    }
+  ],
+  "ai": [
+    {
+      "title": "Nvidia unveils security platform to stop AI agents from going rogue",
+      "description": "Nvidia on Monday unveiled a new security platform that the company said can stop artificial intelligence agents from going rogue after new, troubling incidents.",
+      "url": "https://www.sfgate.com/business/article/nvidia-unveils-security-platform-to-stop-ai-22452712.php",
+      "source": "SFGATE",
+      "publishedAt": "2026-09-28T15:22:01Z",
+      "image": "https://s.hdnux.com/photos/01/67/36/07/31318477/3/rawImage.jpg",
+      "title_cn": "Nvidia推出安全平台以阻止人工智能特工变得流氓",
+      "description_cn": "英伟达周一推出了一款新的安全平台，该公司表示可以阻止人工智能特工在发生新的令人不安的事件后变得流氓。"
+    },
+    {
+      "title": "Bill Gates warns AI could wipe out a billion humans in a Terminator",
+      "description": "Microsoft co-founder Bill Gates has called for greater government oversight of artificial intelligence, urging the United States to take the lead in establishing safeguards",
+      "url": "https://www.dailystar.co.uk/news/latest-news/bill-gates-warns-ai-could-37710661",
+      "source": "The daily Star",
+      "publishedAt": "2026-09-28T14:57:10Z",
+      "image": "https://i2-prod.dailystar.co.uk/article37130380.ece/ALTERNATES/s1200d/2_Clinton-Global-Initiative-2024-Annual-Meeting.jpg",
+      "title_cn": "比尔·盖茨警告人工智能可能会在《终结者》中消灭十亿人类",
+      "description_cn": "微软联合创始人比尔·盖茨呼吁政府加强对人工智能的监督，敦促美国带头建立保障措施"
+    },
+    {
+      "title": "Florida asks court to bar OpenAI from developing new models as part of child harm lawsuit",
+      "description": "Sept 28 (Reuters) - ⁠Florida's attorney general asked ⁠a judge on Monday to ‌bar OpenAI from developing new artificial intelligence models without outside oversight as ​part of its lawsuit ⁠accusing the company ⁠of harming children.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/09/28/florida-asks-court-to-bar-openai-from-developing-new-models-as-part-of-child-harm-lawsuit",
+      "source": "The Star",
+      "publishedAt": "2026-09-28T14:45:00Z",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/09/28/4134706.jpg",
+      "title_cn": "佛罗里达州要求法院禁止OpenAI开发新模型，作为儿童伤害诉讼的一部分",
+      "description_cn": "9月28日（路透社）--佛罗里达州总检察长周一要求法官禁止OpenAI在没有外部监督的情况下开发新的人工智能模型，作为指控该公司伤害儿童的诉讼的一部分。"
+    },
+    {
+      "title": "Municipality of Chatham-Kent keeping human oversight over AI use",
+      "description": "Chatham-Kent municipal employees are using artificial intelligence as assistance, but they remain responsible for decisions and the work, the municipality’s directo…",
+      "url": "https://www.brantfordexpositor.ca/chatham-kent-news/municipality-of-chatham-kent-keeping-human-oversight-over-ai-use",
+      "source": "The Expositor",
+      "publishedAt": "2026-09-28T14:42:52Z",
+      "image": "https://www.chathamdailynews.ca/wp-content/uploads/sites/11/2026/09/CivicCentre2-e1683215511313-2-1-1-1-1-1-1-3-1-1-1-1-1-2-e1756748383816-1-1-2-3-1-2-1-1-1.jpg",
+      "title_cn": "查塔姆-肯特市对人工智能的使用进行人工监督",
+      "description_cn": "查塔姆肯特市政府员工正在使用人工智能作为援助，但他们仍然负责决策和工作、市政府的直接."
+    },
+    {
+      "title": "Software Stocks Slide After Meta's New Enterprise Platform Prompts New AI Fears",
+      "description": "By Joe Stonor\nSoftware stocks fell across the globe after Facebook owner Meta said it will launch a new artificial intelligence-powered Enterprise Platform, prompting renewed investor fears that...",
+      "url": "https://www.marketscreener.com/news/software-stocks-slide-after-meta-s-new-enterprise-platform-prompts-new-ai-fears-ce785adcde8df227",
+      "source": "MarketScreener",
+      "publishedAt": "2026-09-28T14:40:22Z",
+      "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "title_cn": "Meta新企业平台引发新的人工智能担忧后，软件股下滑",
+      "description_cn": "乔·斯托纳\nFacebook所有者Meta表示将推出新的人工智能驱动企业平台后，全球软件股下跌，引发投资者重新担心."
+    }
+  ]
+}
