@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-10-03T03:05:25Z",
+  "finance": [
+    {
+      "title": "Friday's rally in the S&P 500 might not be enough, but Linde is out of this world",
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "url": "https://www.cnbc.com/2026/10/02/fridays-rally-in-the-sp-500-might-not-be-enough-but-linde-is-out-of-this-world.html",
+      "source": "CNBC",
+      "datetime": 1790964215,
+      "image": "https://image.cnbcfm.com/api/v1/image/106804480-1606847609757-gettyimages-1227127675-GERMANY_HYDROGEN.jpeg?v=1775153464&w=1920&h=1080",
+      "title_cn": "周五标准普尔500指数的上涨可能还不够，但林德已经是世界上最棒的了",
+      "summary_cn": "每个工作日，投资俱乐部都会发布Homestretch;一个可操作的下午更新，正好赶上交易的最后一个小时。"
+    },
+    {
+      "title": "1.7 million skilled trade jobs will open annually through 2035, report says—experts don't know who will fill them",
+      "summary": "Jobs in the skilled trades are abundant as the industry struggles to keep up with job creation, an aging workforce, and high turnover rates.",
+      "url": "https://www.cnbc.com/2026/10/02/1point7-million-skilled-trade-jobs-to-open-annually-through-2035-report-says.html",
+      "source": "CNBC",
+      "datetime": 1790957701,
+      "image": "https://image.cnbcfm.com/api/v1/image/108370409-1790787032054-gettyimages-2175282412-3j3a9640.jpeg?v=1790787055&w=1920&h=1080",
+      "title_cn": "1.7报告称，到2035年，每年将新增数百万个技术贸易工作岗位--专家不知道谁将填补这些工作岗位",
+      "summary_cn": "由于该行业努力跟上就业创造、劳动力老龄化和高流动率的步伐，技术行业的工作岗位充足。"
+    },
+    {
+      "title": "The sector in the cross hairs of the bond sell-off looks poised for a bounce, says Mike Khouw",
+      "summary": "An interesting tug of war is happening in one of the market's hottest sectors: utilities.",
+      "url": "https://www.cnbc.com/2026/10/02/the-sector-in-the-cross-hairs-of-the-bond-sell-off-looks-poised-for-a-bounce-says-mike-khouw.html",
+      "source": "CNBC",
+      "datetime": 1790955268,
+      "image": "https://image.cnbcfm.com/api/v1/image/108330309-1783027295446-gettyimages-2283790550-US_HEAT.jpeg?v=1783027486&w=1920&h=1080",
+      "title_cn": "迈克·库（Mike Khouw）表示，债券抛售中的债券行业看起来有望反弹",
+      "summary_cn": "市场最热门的行业之一：公用事业行业正在发生一场有趣的拉锯战。"
+    },
+    {
+      "title": "Nvidia breaks through to new record highs. Plus, more good news for Boeing",
+      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "url": "https://www.cnbc.com/2026/10/02/nvidia-breaks-through-to-new-record-highs-plus-more-good-news-for-boeing.html",
+      "source": "CNBC",
+      "datetime": 1790955111,
+      "image": "https://image.cnbcfm.com/api/v1/image/108368702-1790598543513-Jensen4.jpg?v=1790598795&w=1920&h=1080",
+      "title_cn": "英伟达突破历史新高。另外，波音公司还有更多好消息",
+      "summary_cn": "投资俱乐部每个工作日上午10：20举行“晨会”。"
+    },
+    {
+      "title": "American starts letting customers mix cash and miles for tickets",
+      "summary": "American is joining other carriers that allow customers to book with a combination of points and miles.",
+      "url": "https://www.cnbc.com/2026/10/02/american-airlines-tickets-cash-miles.html",
+      "source": "CNBC",
+      "datetime": 1790953201,
+      "image": "https://image.cnbcfm.com/api/v1/image/108310665-1784815439644-108310665-1779380007938-IMG_9160_1.jpg?v=1784815450&w=1920&h=1080",
+      "title_cn": "美国航空开始允许顾客混合现金和里程购买机票",
+      "summary_cn": "美国航空正在加入其他航空公司的行列，允许客户以积分和里程组合进行预订。"
+    }
+  ],
+  "ai": [
+    {
+      "title": "SpaceX's AI Unit in Talks to Lease Compute Capacity to Microsoft",
+      "description": "SpaceX's artificial intelligence unit SpaceXAI held discussions to lease server capacity to Microsoft , The Information reported Thursday, citing people familiar with the matter.\nThe company is...",
+      "url": "https://www.marketscreener.com/news/spacex-s-ai-unit-in-talks-to-lease-compute-capacity-to-microsoft-ce785ddbd988f52d",
+      "source": "MarketScreener",
+      "publishedAt": "2026-10-02T15:04:39Z",
+      "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "title_cn": "SpaceX人工智能部门正在洽谈将计算能力租赁给微软",
+      "description_cn": "据《信息报》周四援引知情人士的话说，SpaceX的人工智能部门SpaceXAI就向微软租赁服务器容量进行了讨论。\n该公司是…"
+    },
+    {
+      "title": "India's IT companies likely to see sombre H1 FY27 as weakness persists",
+      "description": "Persistent macroeconomic uncertainty, geopolitical volatility, artificial intelligence (AI)-led pricing and productivity pressures continue to weigh on demand",
+      "url": "https://www.business-standard.com/industry/news/india-s-it-companies-likely-to-see-sombre-h1-fy27-as-weakness-persists-126100200775_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-10-02T15:03:58Z",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2020-03/15/thumb/fitandfill/1200X628/1584294167-5769.jpg",
+      "title_cn": "由于疲软持续，印度IT公司可能会看到2027财年上半年的严峻形势",
+      "description_cn": "持续的宏观经济不确定性、地缘政治波动、人工智能（AI）主导的定价和生产力压力继续拖累需求"
+    },
+    {
+      "title": "Ben Affleck slams 'propaganda' opposing AI as he advocates for tech use",
+      "description": "Ben Affleck pushes back against AI \"propaganda\" in Hollywood, saying artificial intelligence is additive to the film industry and not a threat to directors or jobs.",
+      "url": "https://www.foxnews.com/media/ben-affleck-rejects-propaganda-opposing-ai-insists-emerging-technology-help-filmmakers",
+      "source": "Fox News",
+      "publishedAt": "2026-10-02T15:01:43Z",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/Ben-Affleck-Bloomberg.jpg",
+      "title_cn": "本·阿弗莱克（Ben Affleck）在倡导技术使用时猛烈抨击反对人工智能的“宣传”",
+      "description_cn": "本·阿弗莱克（Ben Affleck）反驳了好莱坞的人工智能“宣传”，称人工智能对电影业来说是附加因素，而不是对导演或工作的威胁。"
+    },
+    {
+      "title": "Trump expected to name Jay Clayton as Al czar: Here’s what to know",
+      "description": "In a major update, President Donald Trump is expected to pick Jay Clayton to be the White House’s new czar of artificial intelligence. According to the sources, the president could announce...",
+      "url": "https://www.thenews.com.pk/latest/1418521-trump-expected-to-name-jay-clayton-as-al-czar-heres-what-to-know",
+      "source": "The News International",
+      "publishedAt": "2026-10-02T14:46:00Z",
+      "image": "https://www.thenews.com.pk/assets/uploads/2026-10-02/1418521_074706_updates.jpg",
+      "title_cn": "特朗普预计任命杰伊·克莱顿为沙皇：以下是需要了解的",
+      "description_cn": "在一项重大更新中，唐纳德·特朗普总统预计将选择杰伊·克莱顿担任白宫人工智能的新任沙皇。据消息人士透露，总统可以宣布."
+    },
+    {
+      "title": "Nvidia Hits First Record Since May As Value Nears $6 Trillion",
+      "description": "Shares of the world's most valuable public company gained 2.9% on Friday, extending a nearly 25% rally from a late July low when fears surrounding the outlook for artificial intelligence pressured the stock.",
+      "url": "https://www.ndtvprofit.com/markets/nvidia-hits-first-record-since-may-as-value-nears-6-trillion-12130870",
+      "source": "NDTV Profit",
+      "publishedAt": "2026-10-02T14:17:55Z",
+      "image": "https://c.ndtvimg.com/2026-10/u66648v4_bb_625x300_02_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "title_cn": "英伟达创下5月份以来首个纪录，身价接近6万亿美元",
+      "description_cn": "这家全球最有价值的上市公司的股价上周五上涨2.9%，较7月底的低点上涨近25%，当时围绕人工智能前景的担忧给该股带来压力。"
+    }
+  ]
+}
