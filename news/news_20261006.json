@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-10-06T04:02:42Z",
+  "finance": [
+    {
+      "title": "Wall Street rewards Microsoft's AI pivot. A longtime skeptic says it's just the beginning",
+      "summary": "Melius Research's Ben Reitzes has warned about AI disrupting legacy software providers for years. Now, he loves Microsoft's place in the AI race.",
+      "url": "https://www.cnbc.com/investingclub/2026/10/05/wall-street-rewards-microsofts-ai-pivot-a-longtime-skeptic-flips-bullish.html",
+      "source": "CNBC",
+      "datetime": 1791225792,
+      "image": "https://image.cnbcfm.com/api/v1/image/108126887-1743790425897-gettyimages-2207863979-776305461sb01.jpeg?v=1747159112&w=1920&h=1080",
+      "title_cn": "华尔街奖励微软的人工智能转向。一位长期持怀疑态度的人表示这只是开始",
+      "summary_cn": "Melius Research的Ben Reitzes多年来一直警告人工智能会扰乱传统软件提供商。现在，他喜欢微软在人工智能竞赛中的地位。"
+    },
+    {
+      "title": "Nvidia looks to take out its record high close — plus, don't worry about Intel's dip",
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "url": "https://www.cnbc.com/investingclub/2026/10/05/nvidia-looks-to-take-out-its-record-high-close-plus-dont-worry-about-intels-dip.html",
+      "source": "CNBC",
+      "datetime": 1791224731,
+      "image": "https://image.cnbcfm.com/api/v1/image/108368701-1790598712807-108368701-1790598543513-jensen3.jpg?v=1790598750&w=1920&h=1080",
+      "title_cn": "英伟达有望创下收盘新高--而且，不用担心英特尔的下跌",
+      "summary_cn": "每个工作日，投资俱乐部都会发布Homestretch;一个可操作的下午更新，正好赶上交易的最后一个小时。"
+    },
+    {
+      "title": "Cramer is closely watching Nvidia's massive buyback. Here's what he wants to see",
+      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "url": "https://www.cnbc.com/investingclub/2026/10/05/cramer-is-closely-watching-nvidias-buyback-heres-what-he-wants-to-see.html",
+      "source": "CNBC",
+      "datetime": 1791217798,
+      "image": "https://image.cnbcfm.com/api/v1/image/108363230-17894969232026-09-15t182809z_1396824136_rc2ujnangc2w_rtrmadp_0_tech-ai.jpeg?v=1789496953&w=1920&h=1080",
+      "title_cn": "克莱默正在密切关注英伟达的大规模回购。这是他想看到的",
+      "summary_cn": "投资俱乐部每个工作日上午10：20举行“晨会”。"
+    },
+    {
+      "title": "These are the cheapest and most expensive U.S. flights this November",
+      "summary": "Holiday airplane tickets are up more than 23% this year, according to Hopper.",
+      "url": "https://www.cnbc.com/2026/10/05/cheapest-most-expensive-us-flights-in-november.html",
+      "source": "CNBC",
+      "datetime": 1791214707,
+      "image": "https://image.cnbcfm.com/api/v1/image/108295831-1776895016623-gettyimages-2267658097-AA_24032026_2708274.jpeg?v=1776895137&w=1920&h=1080",
+      "title_cn": "这些是今年11月美国最便宜和最昂贵的航班",
+      "summary_cn": "根据霍珀的数据，今年假日机票上涨了23%以上。"
+    },
+    {
+      "title": "Jim Cramer's top 10 things to watch in the stock market Monday",
+      "summary": "Microsoft and Wells Fargo landed upgrades, and there's some encouraging M&A activity.",
+      "url": "https://www.cnbc.com/investingclub/2026/10/05/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
+      "source": "CNBC",
+      "datetime": 1791205180,
+      "image": "https://image.cnbcfm.com/api/v1/image/108355103-1787834325817-gettyimages-2291687665-schneider-microsof260826_nplhJ.jpeg?v=1787834344&w=1920&h=1080",
+      "title_cn": "吉姆·克莱默（Jim Cramer）周一股市最值得关注的10件事",
+      "summary_cn": "微软和富国银行进行了升级，并且有一些令人鼓舞的并购活动。"
+    }
+  ],
+  "ai": [
+    {
+      "title": "Hochul expands NY tuition-free college to address AI job impacts",
+      "description": "To help address the impact of artificial intelligence on the workforce, adult CUNY and SUNY students who previously graduated from college can enroll tuition-free in select \"high-demand\" associate degree programs.",
+      "url": "https://www.nydailynews.com/2026/10/05/hochul-expands-free-community-college-ai-workforce-impacts/",
+      "source": "New York Daily News",
+      "publishedAt": "2026-10-05T15:15:24Z",
+      "image": "https://www.nydailynews.com/wp-content/uploads/2025/08/54716542481_a3813353f2_k.jpg?w=2048&h=1365",
+      "title_cn": "Hochul扩大纽约免学费大学以解决人工智能就业影响",
+      "description_cn": "为了帮助解决人工智能对劳动力的影响，以前从大学毕业的纽约市立大学和纽约州立大学的成年学生可以免学费就读精选的“高需求”副学士学位课程。"
+    },
+    {
+      "title": "PTC Rallies on Deal; Qualcomm Up on Chip Patent Licensing | Stock Movers",
+      "description": "On this episode of Stock Movers:\n- PTC shares are rallying as Schneider Electric agreed to buy PTC for about $22.6 billion in an all-cash deal to tap into the artificial-intelligence boom.\n-...",
+      "url": "https://www.marketscreener.com/news/ptc-rallies-on-deal-qualcomm-up-on-chip-patent-licensing-stock-movers-ce785dd8db8bf722",
+      "source": "MarketScreener",
+      "publishedAt": "2026-10-05T15:02:49Z",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/mtnewswires/A3720657.png",
+      "title_cn": "PTC在交易中反弹;高通在芯片专利许可方面取得进展|股票经纪人",
+      "description_cn": "在这一集的股票推动者：\n- 由于施耐德电气同意以约226亿美元的全现金交易收购PTC，以进入人工智能热潮，PTC股价正在反弹。\n-..."
+    },
+    {
+      "title": "Capcom Integrates AI Into RE Engine To Accelerate Game Development",
+      "description": "Capcom has outlined a forward-looking strategy that extends beyond releasing game remakes, focusing heavily on embedding artificial intelligence into...",
+      "url": "https://www.ubergizmo.com/2026/10/capcom-integrates-ai-into-re-engine-to-accelerate-game-development/",
+      "source": "Ubergizmo",
+      "publishedAt": "2026-10-05T15:00:39Z",
+      "image": "https://i0.wp.com/cdnbunny.ubergizmo.com/wp-content/uploads/2026/10/requiem_Capcom.webp",
+      "title_cn": "Capcom将人工智能集成到RE引擎中加速游戏开发",
+      "description_cn": "Capcom概述了一项前瞻性战略，该战略超越了发布游戏翻拍，重点是将人工智能嵌入到游戏中。"
+    },
+    {
+      "title": "Zscaler Works With IBM, Red Hat on Cybersecurity for Private Apps",
+      "description": "By Kelly Cloonan\nZscaler is working with IBM and Red Hat to offer a cybersecurity solution aimed at protecting businesses' private applications from artificial intelligence-driven threats.\n...",
+      "url": "https://www.marketscreener.com/news/zscaler-works-with-ibm-red-hat-on-cybersecurity-for-private-apps-ce785dd8db88f42c",
+      "source": "MarketScreener",
+      "publishedAt": "2026-10-05T15:00:38Z",
+      "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "title_cn": "Zscaler与IBM、Red Hat合作开发私人应用的网络安全",
+      "description_cn": "凯莉·克鲁南\nZscaler正在与IBM和Red Hat合作，提供一种网络安全解决方案，旨在保护企业的私人应用程序免受人工智能驱动的威胁。\n..."
+    },
+    {
+      "title": "Microsoft Stock Upgraded On AI Trustworthiness",
+      "description": "Microsoft stock scored an upgrade as the software giant is seen as a leader in trustworthiness when it comes to artificial intelligence.",
+      "url": "https://www.investors.com/news/technology/microsoft-stock-upgraded-adults-in-charge-of-ai/",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2026-10-05T14:59:03Z",
+      "image": "https://www.investors.com/wp-content/uploads/2026/10/stock-Microsoft-Fairwater-AI-company.jpg",
+      "title_cn": "微软股价因人工智能可信度上调",
+      "description_cn": "微软股票获得了升级，因为这家软件巨头被视为人工智能可信度的领导者。"
+    }
+  ]
+}
