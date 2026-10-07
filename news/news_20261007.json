@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-10-07T03:30:23Z",
+  "finance": [
+    {
+      "title": "What Marvell's rosy long-term guidance means for our AI chip stocks",
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "url": "https://www.cnbc.com/investingclub/2026/10/06/what-marvells-rosy-long-term-guidance-means-for-our-ai-chip-stocks.html",
+      "source": "CNBC",
+      "datetime": 1791312661,
+      "image": "https://image.cnbcfm.com/api/v1/image/108190251-1756132836201-gettyimages-2169879324-INTEL_MARVELL_ALTERA.jpeg?v=1779811143&w=1920&h=1080",
+      "title_cn": "Marvell乐观的长期指引对我们的人工智能芯片股票意味着什么",
+      "summary_cn": "每个工作日，投资俱乐部都会发布Homestretch;一个可操作的下午更新，正好赶上交易的最后一个小时。"
+    },
+    {
+      "title": "Kalshi launches transparency features on its election contracts ahead of midterms",
+      "summary": "The platform will now provide tags that indicate which election markets have low volumes.",
+      "url": "https://www.cnbc.com/2026/10/06/kalshi-launches-transparency-features-on-its-election-contracts-ahead-of-midterms-.html",
+      "source": "CNBC",
+      "datetime": 1791311689,
+      "image": "https://image.cnbcfm.com/api/v1/image/108344439-17858457182026-08-04t102957z_668477747_rc2mrmamjzd6_rtrmadp_0_usa-prediction-markets.jpeg?v=1785845777&w=1920&h=1080",
+      "title_cn": "卡尔什在中期选举前在选举合同中推出透明度功能",
+      "summary_cn": "该平台现在将提供指示哪些选举市场交易量较低的标签。"
+    },
+    {
+      "title": "How the S&P 500 can be at record highs, while the market remains oversold",
+      "summary": "The S&P 500's new all-time high Tuesday might just be one of the most hated records in recent memory.",
+      "url": "https://www.cnbc.com/investingclub/2026/10/06/how-the-sp-500-can-be-at-record-highs-while-the-market-remains-oversold.html",
+      "source": "CNBC",
+      "datetime": 1791308506,
+      "image": "https://image.cnbcfm.com/api/v1/image/108345306-1785940340553-gettyimages-2289192413-mms15179_jiu9nbcp.jpeg?v=1785940383&w=1920&h=1080",
+      "title_cn": "标准普尔500指数如何创历史新高，而市场仍处于超卖状态",
+      "summary_cn": "标准普尔500指数周二创下历史新高可能只是近期记忆中最令人厌恶的记录之一。"
+    },
+    {
+      "title": "What's behind an 'explosion of buying' Tuesday, including the rally in GE Vernova",
+      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "url": "https://www.cnbc.com/investingclub/2026/10/06/whats-behind-an-explosion-of-buying-tuesday-including-the-rally-in-ge-vernova.html",
+      "source": "CNBC",
+      "datetime": 1791302541,
+      "image": "https://image.cnbcfm.com/api/v1/image/108295410-1776870973932-GE-OB-Photo-20260421-KK-PRESS-021.jpg?v=1776871106&w=1920&h=1080",
+      "title_cn": "周二“抢购爆炸”背后的原因，包括GE Vernova的反弹",
+      "summary_cn": "投资俱乐部每个工作日上午10：20举行“晨会”。"
+    },
+    {
+      "title": "British Airways plans record 106-seat business class on Airbus A380 jumbo jets",
+      "summary": "British Airways is ripping out coach class seats and building a giant premium economy and business class in a bet on the high-end travel boom.",
+      "url": "https://www.cnbc.com/2026/10/06/british-airways-business-class-a380.html",
+      "source": "CNBC",
+      "datetime": 1791301205,
+      "image": "https://image.cnbcfm.com/api/v1/image/108373389-1791300011182-British_Airways-British_Airways-evolution_of_its_Club_Suite-1280x721-ref211884.jpg?v=1791300167&w=1920&h=1080",
+      "title_cn": "英国航空计划在空客A380大型喷气式飞机上搭载创纪录的106个座位的商务舱",
+      "summary_cn": "英国航空公司（British Airways）正在取消经济舱座位，并建造一个巨大的高级经济舱和商务舱，押注于高端旅游的繁荣。"
+    }
+  ],
+  "ai": [
+    {
+      "title": "FANUC America Brings AI-Powered Robotics and Intelligent Packaging Automation to PACK EXPO International 2026",
+      "description": "ROCHESTER HILLS, Mich., Oct. 6, 2026 /CNW/ -- FANUC America, a global industrial automation leader, will demonstrate how artificial intelligence,",
+      "url": "https://www.nugget.ca/press-releases/pr-newswire/fanuc-america-brings-ai-powered-robotics-and-intelligent-packaging-automation-to-pack-expo-international-2026/",
+      "source": "The North Bay Nugget",
+      "publishedAt": "2026-10-06T15:18:47Z",
+      "image": "https://www.nugget.ca/wp-content/uploads/sites/14/2026/10/crx-copacking-packexpo2026.jpg",
+      "title_cn": "FANUC America为2026年国际包装博览会带来人工智能机器人和智能包装自动化",
+      "description_cn": "密歇根州罗切斯特山2026年10月6日/CNW/ --全球工业自动化领导者FANUC America将展示人工智能如何"
+    },
+    {
+      "title": "South Korean President says officials investigating possible use of AI in major bank hacking",
+      "description": "South Korean authorities have launched an investigation into whether artificial intelligence (AI) systems played an active role in a wave of recent",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/south-korean-president-says-officials-investigating-possible-use-of-ai-in-major-bank-hacking/articleshow/134744212.cms",
+      "source": "Times of India",
+      "publishedAt": "2026-10-06T15:16:00Z",
+      "image": "https://static.toiimg.com/thumb/msid-134744261,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "title_cn": "韩国总统称官员正在调查人工智能可能用于重大银行黑客攻击",
+      "description_cn": "韩国当局已启动调查，调查人工智能（AI）系统是否在最近的一波事件中发挥了积极作用"
+    },
+    {
+      "title": "Meta introduces new AI-powered tools at Ad Week 2026",
+      "description": "The company is testing importing and creative insight features, as well as improved conversational guidance for its artificial intelligence elements.",
+      "url": "https://www.socialmediatoday.com/news/meta-introduces-new-ai-powered-tools-at-ad-week-2026/832288/",
+      "source": "Social Media Today",
+      "publishedAt": "2026-10-06T14:37:34Z",
+      "image": "https://imgproxy.divecdn.com/Rp0xe1Ahhkz7jdldpGbwKnFSK0quBEraTUPQWPDsKbg/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudDMucG5n.webp",
+      "title_cn": "Meta在2026年广告周上推出新的人工智能工具",
+      "description_cn": "该公司正在测试导入和创意洞察功能，以及对其人工智能元素的改进对话指导。"
+    },
+    {
+      "title": "Meta introduces new AI-powered tools at Advertising Week",
+      "description": "The company is testing importing and creative insight features, as well as improved conversational guidance for its artificial intelligence elements.",
+      "url": "https://www.socialmediatoday.com/news/meta-introduces-new-ai-powered-tools-at-advertising-week/832288/",
+      "source": "Social Media Today",
+      "publishedAt": "2026-10-06T14:37:34Z",
+      "image": "https://imgproxy.divecdn.com/Rp0xe1Ahhkz7jdldpGbwKnFSK0quBEraTUPQWPDsKbg/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudDMucG5n.webp",
+      "title_cn": "Meta在广告周上推出新的人工智能工具",
+      "description_cn": "该公司正在测试导入和创意洞察功能，以及对其人工智能元素的改进对话指导。"
+    },
+    {
+      "title": "Mayor Zohran Mamdani wants AI to be regulated at every single level; does not agree with it being in an arms race with China; points to layoffs and more",
+      "description": "New York City (NYC) Mayor Zohran Mamdani has issued an urgent call for artificial intelligence (AI) oversight, warning that the technology must be",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/mayor-zohran-mamdani-wants-ai-to-be-regulated-at-every-single-level-does-not-agree-with-it-being-in-an-arms-race-with-china-points-to-layoffs-and-more/articleshow/134743098.cms",
+      "source": "Times of India",
+      "publishedAt": "2026-10-06T14:27:00Z",
+      "image": "https://static.toiimg.com/thumb/msid-134743184,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "title_cn": "市长Zohran Mamdani希望人工智能在各个层面受到监管;不同意人工智能与中国进行军备竞赛;指出裁员等",
+      "description_cn": "纽约市（NYC）市长佐兰·马姆达尼（Zohran Mamdani）紧急呼吁进行人工智能（AI）监督，并警告该技术必须"
+    }
+  ]
+}
