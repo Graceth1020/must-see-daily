@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-10-09T03:50:28Z",
+  "finance": [
+    {
+      "title": "Treasury yields are 'really, really high,' but can come down soon, Bessent's new adviser says",
+      "summary": "The comments from David Zervos come after the 10-year and 30-year yields marched to 24-year highs in recent days.",
+      "url": "https://www.cnbc.com/2026/10/08/treasury-yields-david-zervos.html",
+      "source": "CNBC",
+      "datetime": 1791488294,
+      "image": "https://image.cnbcfm.com/api/v1/image/108193937-17569303332025-09-03t150149z_497087102_rc2ekgaqfpn3_rtrmadp_0_usa-stocks.jpeg?v=1756930358&w=1920&h=1080",
+      "title_cn": "贝森特的新顾问表示，美国国债收益率“非常非常高”，但很快就会下降",
+      "summary_cn": "大卫·泽沃斯（David Zervos）发表上述言论之前，10年期和30年期国债收益率最近几天升至24年高点。"
+    },
+    {
+      "title": "New data shows Starbucks turnaround is working, but Chipotle takeover report slams shares",
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "url": "https://www.cnbc.com/investingclub/2026/10/08/new-data-shows-starbucks-turn-is-working-but-chipotle-takeover-report-slams-shares.html",
+      "source": "CNBC",
+      "datetime": 1791486487,
+      "image": "https://image.cnbcfm.com/api/v1/image/108259665-1769793014040-gettyimages-2258480012-NICCOL_INTERVIEW.jpeg?v=1769793046&w=1920&h=1080",
+      "title_cn": "新数据显示星巴克扭亏为盈，但Chipotle收购报告猛烈抨击股价",
+      "summary_cn": "每个工作日，投资俱乐部都会发布Homestretch;一个可操作的下午更新，正好赶上交易的最后一个小时。"
+    },
+    {
+      "title": "We're buying the dip in a stock being punished for something it's actually insulated from",
+      "summary": "We waited and watched patiently.",
+      "url": "https://www.cnbc.com/investingclub/2026/10/08/were-buying-the-dip-in-a-stock-being-punished-for-something-its-actually-insulated-from.html",
+      "source": "CNBC",
+      "datetime": 1791485367,
+      "image": "https://image.cnbcfm.com/api/v1/image/108356338-1788181104655-gettyimages-667735328-_mg_5102.jpeg?v=1788181165&w=1920&h=1080",
+      "title_cn": "我们购买的是一只股票的下跌，因为它实际上没有受到影响",
+      "summary_cn": "我们耐心地等待和观看。"
+    },
+    {
+      "title": "We're adding to our position in a hard-hit stock before important catalysts arrive",
+      "summary": "This is our second stock purchase on Thursday.",
+      "url": "https://www.cnbc.com/investingclub/2026/10/08/were-adding-to-our-position-in-a-hard-hit-stock-before-important-catalysts-arrive.html",
+      "source": "CNBC",
+      "datetime": 1791484003,
+      "image": "https://image.cnbcfm.com/api/v1/image/108345305-1785940332475-gettyimages-2289192391-mms15217_uigmz8mz.jpeg?v=1786046482&w=1920&h=1080",
+      "title_cn": "在重要催化剂到来之前，我们正在增持一只遭受重创的股票",
+      "summary_cn": "这是我们周四的第二次股票购买。"
+    },
+    {
+      "title": "We're putting some of our large cash pile to work in a beaten-down consumer name",
+      "summary": "We've been patient and waited for the stock to come down.",
+      "url": "https://www.cnbc.com/investingclub/2026/10/08/were-putting-some-of-our-large-cash-pile-to-work-in-a-beaten-down-consumer-name.html",
+      "source": "CNBC",
+      "datetime": 1791475756,
+      "image": "https://image.cnbcfm.com/api/v1/image/108337969-1784647816415-gettyimages-2287059636-anotherday241789531_ymselgek.jpeg?v=1784647890&w=1920&h=1080",
+      "title_cn": "我们正在将一部分巨额现金投入到一个饱受打击的消费者名下",
+      "summary_cn": "我们一直耐心等待股价下跌。"
+    }
+  ],
+  "ai": [
+    {
+      "title": "Developing countries should adapt to AI tools before racing to build own model: World Bank",
+      "description": "The World Development Report 2026, titled 'The Promise of Artificial Intelligence', said developing countries should first adopt existing AI tools and adapt to them for local needs before advancing to build their own frontier models.",
+      "url": "https://www.cnbctv18.com/business/developing-countries-should-adapt-to-ai-tools-before-racing-to-build-own-model-world-bank-20007898.htm",
+      "source": "CNBC TV18",
+      "publishedAt": "2026-10-08T15:45:03Z",
+      "image": "https://images.cnbctv18.com/uploads/2026/10/hclsoftware-1-2026-10-561dbee2a4aafb42b2bf3caec2473c7d.jpg?im=FitAndFill,width=1200,height=675",
+      "title_cn": "世界银行：发展中国家在竞相建立自己的模型之前应适应人工智能工具",
+      "description_cn": "题为《人工智能的承诺》的《2026年世界发展报告》表示，发展中国家应首先采用现有的人工智能工具并根据当地需求进行调整，然后再推进建立自己的前沿模型。"
+    },
+    {
+      "title": "Paul Graham says Amazon’s AI agent restrictions could open door for startup rival",
+      "description": "Amazon’s restrictions on artificial intelligence (AI) shopping agents could create an opening for startups to build a new rival to the e-commerce giant, as consumers increasingly look towards autonomous AI tools to search for and purchase products, Y Combinator co-founder Paul Graham said.",
+      "url": "https://www.devdiscourse.com/article/business/3989263-paul-graham-says-amazons-ai-agent-restrictions-could-open-door-for-startup-rival",
+      "source": "Devdiscourse",
+      "publishedAt": "2026-10-08T15:37:16Z",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/08_10_2026_21_07_11_1160289.jpg&width=920&format=jpeg",
+      "title_cn": "保罗·格雷厄姆表示亚马逊的人工智能代理限制可能会为初创公司竞争对手打开大门",
+      "description_cn": "Y Combinator联合创始人保罗·格雷厄姆（Paul Graham）表示，亚马逊对人工智能（AI）购物代理的限制可能会为初创公司打造这家电子商务巨头的新竞争对手创造机会，因为消费者越来越多地寻求自主人工智能工具来搜索和购买产品。"
+    },
+    {
+      "title": "Dear AI - so how, exactly, are you going to kill us?",
+      "description": "With so much concern over the surge of artificial intelligence, it seems worth inquiring about the specifics of our looming destruction.",
+      "url": "https://chicago.suntimes.com/columnists/2026/10/08/artificial-intelligence-doomsaying-ai-question-how-will-you-kill-us",
+      "source": "Chicago Sun-Times",
+      "publishedAt": "2026-10-08T15:18:10Z",
+      "image": "https://cst.brightspotcdn.com/dims4/default/635aa21/2147483647/strip/true/crop/3691x2107+138+0/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff6%2F2b%2Fa821310b4d71ac41aae70468d130%2Fafp-33v77t8.jpg",
+      "title_cn": "亲爱的人工智能--那么你到底要如何杀死我们呢？",
+      "description_cn": "由于人们对人工智能的激增如此担忧，似乎有必要询问我们即将到来的毁灭的具体情况。"
+    },
+    {
+      "title": "Michael Burry: Anthropic’s valuation equals 78 S&P 500 companies",
+      "description": "Michael Burry compares Anthropic’s massive valuation with 78 profitable S&P 500 companies, raising concerns about soaring artificial intelligence valuations. The Big Short investor also warns about AI infrastructure spending, market risks and potential losses if the economics of artificial intelligence change, while drawing comparisons with valuations seen before the dot-com crash.",
+      "url": "https://www.financialexpress.com/market/global-markets/michael-burry-anthropics-valuation-equals-78-sampp-500-companies/4356774/",
+      "source": "The Financial Express",
+      "publishedAt": "2026-10-08T15:06:00Z",
+      "image": "https://images.financialexpressdigital.com/2026/09/pictures-2026-09-30T191049.901.jpg",
+      "title_cn": "Michael Burry：Anthropic的估值相当于78家标准普尔500公司",
+      "description_cn": "迈克尔·伯里（Michael Burry）将Anthropic的巨额估值与78家盈利的标准普尔500指数公司进行了比较，引发了人们对人工智能估值飙升的担忧。这位大空头投资者还对人工智能基础设施支出、市场风险和潜在损失发出警告，同时与互联网崩盘前的估值进行了比较。"
+    },
+    {
+      "title": "ChatGPT Adds GPT-6 For Everyone, Featuring Dynamic Maps And Diagrams",
+      "description": "OpenAI has officially expanded access to its flagship GPT-6 model, rolling out the next-generation artificial intelligence system to all ChatGPT...",
+      "url": "https://www.ubergizmo.com/2026/10/chatgpt-adds-gpt-6-for-everyone-featuring-dynamic-maps-and-diagrams/",
+      "source": "Ubergizmo",
+      "publishedAt": "2026-10-08T15:00:37Z",
+      "image": "https://i0.wp.com/cdnbunny.ubergizmo.com/wp-content/uploads/2026/09/chatgpt-scaled.jpg",
+      "title_cn": "ChatGPT为每个人添加了GPT-6，具有动态地图和图表",
+      "description_cn": "OpenAI已正式扩大其旗舰GPT-6模型的访问权限，将下一代人工智能系统推广到所有ChatGPT..."
+    }
+  ]
+}
