@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-10-15T02:31:47Z",
+  "finance": [
+    {
+      "title": "AI infrastructure stocks tumble. Here's a few reasons for the sell-off",
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "url": "https://www.cnbc.com/investingclub/2026/10/14/ai-infrastructure-stocks-tumble-heres-a-few-reasons-for-the-sell-off-.html",
+      "source": "CNBC",
+      "datetime": 1792003271,
+      "image": "https://image.cnbcfm.com/api/v1/image/108226885-1763397102961-gettyimages-2246608610-US_STOCKS.jpeg?v=1774492750&w=1920&h=1080",
+      "title_cn": "人工智能基础设施股暴跌。以下是抛售的一些原因",
+      "summary_cn": "每个工作日，投资俱乐部都会发布Homestretch;一个可操作的下午更新，正好赶上交易的最后一个小时。"
+    },
+    {
+      "title": "Merck CEO tells CNBC he expects breakthrough cancer vaccine will become faster to make",
+      "summary": "His comments come after Merck officially opened its new 120,000-square-foot research facility in the Greater Philadelphia area.",
+      "url": "https://www.cnbc.com/2026/10/14/merck-moderna-cancer-vaccine-manufacturing-time.html",
+      "source": "CNBC",
+      "datetime": 1791998660,
+      "image": "https://image.cnbcfm.com/api/v1/image/107370990-1707414387296-gettyimages-1995499516-247a0388_agtnstai.jpeg?v=1736898742&w=1920&h=1080",
+      "title_cn": "默克首席执行官告诉CNBC，他预计突破性的癌症疫苗的制造速度将变得更快",
+      "summary_cn": "他发表上述言论之前，默克公司在大费城地区正式开设了占地120，000平方英尺的新研究设施。"
+    },
+    {
+      "title": "'The power of shrink' — tour the little-known $25B company that chipmakers can't live without",
+      "summary": "Here's a deep dive into Qnity and how its products help build the AI semiconductors that power the world.",
+      "url": "https://www.cnbc.com/investingclub/2026/10/14/the-power-of-shrink-tour-the-little-known-25b-company-that-chipmakers-cant-live-without.html",
+      "source": "CNBC",
+      "datetime": 1791997490,
+      "image": "https://image.cnbcfm.com/api/v1/image/108409495-1791997080235-qnity_screen1_1024.jpg?v=1791997136&w=1920&h=1080",
+      "title_cn": "“收缩的力量”--参观芯片制造商无法生存的鲜为人知的250亿美元公司",
+      "summary_cn": "以下是对Qnity及其产品如何帮助构建为世界提供动力的人工智能半导体的深入探讨。"
+    },
+    {
+      "title": "Jim Cramer says this healthcare stock is still a buy. Plus, what to do with BNY",
+      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "url": "https://www.cnbc.com/investingclub/2026/10/14/jim-cramer-says-this-healthcare-stock-is-still-a-buy-plus-what-to-do-with-bny.html",
+      "source": "CNBC",
+      "datetime": 1791993100,
+      "image": "https://image.cnbcfm.com/api/v1/image/108262729-1770404497809-gettyimages-2160937378-BNY_EARNS.jpeg?v=1770404560&w=1920&h=1080",
+      "title_cn": "吉姆·克莱默（Jim Cramer）表示，这只医疗保健股仍然值得买入。另外，如何处理BNY",
+      "summary_cn": "投资俱乐部每个工作日上午10：20举行“晨会”。"
+    },
+    {
+      "title": "Abilene Christian University is giving Ivy League endowments a run for their money in the market",
+      "summary": "The religious school in Texas is among college endowment funds rivaling market performance of Ivy investing giants like Yale and just hit the $1 billion mark.",
+      "url": "https://www.cnbc.com/2026/10/14/abilene-christian-giving-ivy-endowment-billions-a-run-for-their-money.html",
+      "source": "CNBC",
+      "datetime": 1791992914,
+      "image": "https://image.cnbcfm.com/api/v1/image/108408701-1791985702018-gettyimages-1354285436-1062_14_k_-110-.jpeg?v=1791985749&w=1920&h=1080",
+      "title_cn": "阿比林基督教大学正在与常春藤盟校捐赠基金在市场上展开竞争",
+      "summary_cn": "德克萨斯州的这所宗教学校是与耶鲁大学等常春藤投资巨头的市场表现相媲美的大学捐赠基金之一，刚刚突破10亿美元大关。"
+    }
+  ],
+  "ai": [
+    {
+      "title": "AI could free up 40% of middle, back-office capacity in banking sector by 2030: Report",
+      "description": "Artificial intelligence could free up to 40% of the banking workforce in middle- and back-office roles by 2030, reshaping operations and boosting efficiency in corporate and investment banking, says BCG.",
+      "url": "https://www.financialexpress.com/business/news/ai-could-free-up-40-of-middle-back-office-capacity-in-banking-sector-by-2030-report/4361304/",
+      "source": "The Financial Express",
+      "publishedAt": "2026-10-14T13:46:08Z",
+      "image": "https://images.financialexpressdigital.com/2026/10/pictures-2026-10-14T191303.086.jpg",
+      "title_cn": "到2030年，人工智能可以释放银行业40%的中层后台能力：报告",
+      "description_cn": "根据BCG的研究，到2030年，人工智能可以释放高达40%的银行业员工，这些员工原本从事的是中基层管理工作。这将有助于重塑银行业务运作方式，并提高企业和投资银行的运营效率。"
+    },
+    {
+      "title": "The crucial responsibilities doctors must never offshore to AI",
+      "description": "With artificial intelligence making deep inroads into health care, two doctors are urging physicians to embrace the technology but to remember that only humans can serve the best interests of individual patients.",
+      "url": "https://medicalxpress.com/news/2026-10-crucial-responsibilities-doctors-offshore-ai.html",
+      "source": "Medical Xpress",
+      "publishedAt": "2026-10-14T13:40:13Z",
+      "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/doctors-1.jpg",
+      "title_cn": "医生绝不能将关键责任外包给人工智能",
+      "description_cn": "随着人工智能深入医疗保健，两名医生敦促医生接受这项技术，但要记住，只有人类才能服务于个体患者的最大利益。"
+    },
+    {
+      "title": "Grimes is keeping her upcoming album ‘Psy Opera’ about AI rather than Elon Musk: ‘I really didn’t want any of this…’",
+      "description": "Grimes reveals that her upcoming album 'Psy Opera' will not focus on her ex, Elon Musk, but rather on her relationship with artificial intelligence. The singer discusses personal themes and the use of generative AI in her work.",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/grimes-is-keeping-her-upcoming-album-psy-opera-about-ai-rather-than-elon-musk-i-really-didnt-want-any-of-this/articleshow/134934703.cms",
+      "source": "Times of India",
+      "publishedAt": "2026-10-14T13:30:00Z",
+      "image": "https://static.toiimg.com/thumb/msid-134935188,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "title_cn": "格莱姆斯在她的新专辑《Psy Opera》中讲述的是关于人工智能的故事，而不是埃隆·马斯克的故事：“我真的不想涉及这些话题……”",
+      "description_cn": "格莱姆斯透露，她即将发布的专辑《Psy Opera》并不会聚焦于她的前男友埃隆·马斯克，而是关于她与人工智能之间的互动关系。这位歌手在专辑中探讨了个人主题以及人工智能在创作过程中的应用。"
+    },
+    {
+      "title": "Lonely brickie blows life savings travelling to meet 'dream woman'",
+      "description": "A man thought he had found the love of his life only to be hit with the sick realisation that she was a creation of Artificial Intelligence (AI)",
+      "url": "https://www.dailystar.co.uk/news/latest-news/lonely-brickie-blows-life-savings-37771572",
+      "source": "The daily Star",
+      "publishedAt": "2026-10-14T13:17:24Z",
+      "image": "https://i2-prod.dailystar.co.uk/article37771412.ece/ALTERNATES/s1200d/2_Lonely-bricklayer-49-travels-1300-miles-to-meet-dream-woman-only-to-discover-shes-AI-bot.jpg",
+      "title_cn": "孤独的砖瓦工花了一生的积蓄旅行去见“梦中女人”",
+      "description_cn": "一个男人以为他找到了一生的挚爱，却病态地意识到她是人工智能（AI）的产物"
+    },
+    {
+      "title": "Apple introduces HomeView, a $299 tablet for the home",
+      "description": "Apple unveiled the device as it continues its foray into artificial intelligence and tries to prove it can still innovate.",
+      "url": "https://www.mercurynews.com/2026/10/14/apple-introduces-homeview-a-299-tablet-for-the-home-2/",
+      "source": "The Mercury News",
+      "publishedAt": "2026-10-14T13:14:21Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/10/homeview.avif?w=1366&h=2048",
+      "title_cn": "苹果推出HomeView，这是一款售价299美元的家用平板电脑",
+      "description_cn": "苹果在继续进军人工智能之际推出了这款设备，并试图证明它仍然可以创新。"
+    }
+  ]
+}
