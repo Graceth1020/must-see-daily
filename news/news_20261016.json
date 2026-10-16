@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-10-16T02:26:40Z",
+  "finance": [
+    {
+      "title": "KFC to switch to Coca-Cola beverages in U.S. restaurants for the first time in decades",
+      "summary": "KFC is switching from PepsiCo to Coca-Cola as its beverage supplier for U.S. restaurants.",
+      "url": "https://www.cnbc.com/2026/10/15/kfc-coca-cola-pepsi-switch.html",
+      "source": "CNBC",
+      "datetime": 1792094021,
+      "image": "https://image.cnbcfm.com/api/v1/image/108004225-1720646729678-gettyimages-2161532031-js1_7834_axvogotf.jpeg?v=1792092510&w=1920&h=1080",
+      "title_cn": "肯德基几十年来首次在美国餐厅改用可口可乐饮料",
+      "summary_cn": "肯德基正在从百事可乐转向可口可乐，作为其为美国餐厅提供饮料的供应商。"
+    },
+    {
+      "title": "Nvidia and Cisco confirm multimillion-dollar donations to Trump's White House ballroom",
+      "summary": "Big Tech gave millions to Trump's White House ballroom, documents show",
+      "url": "https://www.cnbc.com/2026/10/15/trump-ballroom-nvidia-cisco-donations.html",
+      "source": "CNBC",
+      "datetime": 1792093420,
+      "image": "https://image.cnbcfm.com/api/v1/image/108356675-1788207196062-gettyimages-2291330125-ah704060.jpeg?v=1788207813&w=1920&h=1080",
+      "title_cn": "英伟达和思科确认向特朗普白宫宴会厅捐赠数百万美元",
+      "summary_cn": "文件显示，科技巨头向特朗普的白宫宴会厅捐赠了数百万美元"
+    },
+    {
+      "title": "Some 'classic' money advice is actually pretty new—and not all of it is worthwhile, says historian",
+      "summary": "A historian explains why housing, investing and budgeting advice has changed over time — and what that can teach you about money today.",
+      "url": "https://www.cnbc.com/make-it/2026/10/15/money-advice-history-joseph-moore.html",
+      "source": "CNBC",
+      "datetime": 1792092653,
+      "image": "https://image.cnbcfm.com/api/v1/image/108414832-1792079784425-gettyimages-2252191655-mage27207.jpeg?v=1792079818&w=1920&h=1080",
+      "title_cn": "历史学家表示，一些“经典”的金钱建议实际上相当新--而且并非所有建议都是值得的",
+      "summary_cn": "一位历史学家解释了为什么住房、投资和预算建议会随着时间的推移而发生变化，以及这可以教会你什么关于金钱的知识。"
+    },
+    {
+      "title": "Anduril CEO defends Trump administration contracts: 'We've done incredibly well under Biden'",
+      "summary": "Anduril CEO Brian Schimpf says contracts are won 'on the merits' amid ethics questions over co-founder Palmer Luckey's Pentagon role",
+      "url": "https://www.cnbc.com/2026/10/15/anduril-ceo-contracts-palmer-luckey-ethics.html",
+      "source": "CNBC",
+      "datetime": 1792086171,
+      "image": "https://image.cnbcfm.com/api/v1/image/108409783-1792000381844-gettyimages-2280377668-UK_FOUNDERS_FORUM.jpeg?v=1792000437&w=1920&h=1080",
+      "title_cn": "安杜里尔首席执行官为特朗普政府合同辩护：“在拜登的领导下，我们做得非常好”",
+      "summary_cn": "Anduril首席执行官Brian Schimpf表示，由于联合创始人Palmer Luckey在五角大楼的角色引发道德质疑，合同是“根据优点”赢得的"
+    },
+    {
+      "title": "How to weather the current AI stock storm that we were all dreading",
+      "summary": "We are at that moment.",
+      "url": "https://www.cnbc.com/investingclub/2026/10/15/cramer-how-to-weather-the-current-ai-stock-storm-that-we-were-all-dreading.html",
+      "source": "CNBC",
+      "datetime": 1792083977,
+      "image": "https://image.cnbcfm.com/api/v1/image/107200469-1677528554271-NUP_200782_00155.jpg?v=1721682202&w=1920&h=1080",
+      "title_cn": "如何度过当前我们都害怕的人工智能股风暴",
+      "summary_cn": "我们就在那一刻。"
+    }
+  ],
+  "ai": [
+    {
+      "title": "AI to help deliver uninterrupted electricity to every household: Union MoS Shripad Naik",
+      "description": "Artificial Intelligence (AI) can help prevent power supply disruptions by identifying problems in the electricity network and predicting transformer failures before they occur, Union Minister of State for Power and New & Renewable Energy Shripad Yesso Naik said.",
+      "url": "https://www.tribuneindia.com/news/business/ai-to-help-deliver-uninterrupted-electricity-to-every-household-union-mos-shripad-naik/",
+      "source": "The Tribune",
+      "publishedAt": "2026-10-15T14:26:18Z",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTY3MzA4MWUwLWM4YTQtMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc=",
+      "title_cn": "人工智能帮助为每个家庭提供不间断的电力：Union MoS Shripad Naik",
+      "description_cn": "英国电力和新与可再生能源国务部长Shripad Yesso Naik表示，人工智能（AI）可以通过识别电网中的问题并在发生前预测Transformer故障来帮助防止电力供应中断。"
+    },
+    {
+      "title": "Nasdaq slides to near one-month low as AI rout deepens",
+      "description": "The Nasdaq fell to near one-month lows on Thursday, weighed by a worsening selloff in AI-linked stocks on fears rising interest rates could impact artificial-intelligence investments, and fresh data...",
+      "url": "https://www.marketscreener.com/news/nasdaq-slides-to-near-one-month-low-as-ai-rout-deepens-ce785dd3df8ff422",
+      "source": "MarketScreener",
+      "publishedAt": "2026-10-15T14:24:32Z",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-09/2026-09-30T103730Z_1_LYNXMPEM8T0U2_RTROPTP_4_USA-STOCKS.JPG",
+      "title_cn": "随着人工智能溃败加深，纳斯达克跌至近一个月低点",
+      "description_cn": "周四，纳斯达克指数跌至近一个月低点，原因是担心利率上升可能影响人工智能投资，人工智能相关股票抛售加剧，以及最新数据……"
+    },
+    {
+      "title": "US stocks: Nasdaq nears one-month low as AI stocks slide on debt concerns",
+      "description": "On Thursday, the Nasdaq index fell sharply, hitting near a near-month low amid rising concerns about how increasing interest rates might impact investments in artificial intelligence and related sectors.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-nasdaq-nears-one-month-low-as-ai-stocks-slide-on-debt-concerns/articleshow/134969761.cms",
+      "source": "The Economic Times",
+      "publishedAt": "2026-10-15T13:57:00Z",
+      "image": "https://img.etimg.com/thumb/msid-134969777,width-1200,height-900,imgsize-30972,overlay-etmarkets/articleshow.jpg",
+      "title_cn": "美股：人工智能股因债务担忧而下滑，纳斯达克接近一个月低点",
+      "description_cn": "周四，纳斯达克指数大幅下跌，接近近一个月来的最低点。人们越来越担心，不断上升的利率可能会对人工智能及相关领域的投资产生负面影响。"
+    },
+    {
+      "title": "Beyond Metros: India’s Tier-2 Cities Eye AI Development Boom",
+      "description": "India's Tier-2 cities are gaining traction as viable locations for artificial intelligence development, with entrepreneurs seeking to create software products outside major hubs like Bengaluru. , Economy, Times Now",
+      "url": "https://www.timesnownews.com/business-economy/economy/beyond-metros-indias-tier-2-cities-eye-ai-development-boom-article-156346535",
+      "source": "Times Now",
+      "publishedAt": "2026-10-15T13:38:00Z",
+      "image": "https://images.timesnownews.com/thumb/msid-156346572,thumbsize-3496766,width-1280,height-720,resizemode-75/156346572.jpg",
+      "title_cn": "Beyond Metros：印度二级城市关注人工智能发展热潮",
+      "description_cn": "印度的二线城市作为人工智能发展的可行地点越来越受欢迎，企业家寻求在班加西等主要中心之外创建软件产品。、经济、时代现"
+    },
+    {
+      "title": "Nasdaq nears one-month low as AI stocks slide on debt concerns",
+      "description": "The Nasdaq fell to near one-month lows on Thursday as fears of a hit to artificial-intelligence investments from higher interest rates deepened a rout in AI-linked stocks, while fresh data confirmed...",
+      "url": "https://www.marketscreener.com/news/nasdaq-nears-one-month-low-as-ai-stocks-slide-on-debt-concerns-ce785dd3df89f421",
+      "source": "MarketScreener",
+      "publishedAt": "2026-10-15T13:36:35Z",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-10/2026-10-15T133728Z_2_LYNXMPEM9E1DZ_RTROPTP_4_GLOBAL-MARKETS.JPG",
+      "title_cn": "人工智能股因债务担忧而下跌，纳斯达克接近一个月低点",
+      "description_cn": "周四，纳斯达克指数跌至近一个月低点，因担心加息对人工智能投资造成打击，加剧了人工智能相关股票的暴跌，而最新数据证实……"
+    }
+  ]
+}
