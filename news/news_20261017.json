@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-10-17T02:19:11Z",
+  "finance": [
+    {
+      "title": "Why did CoreWeave stock get crushed this week? Look to this corner of the debt market for clues",
+      "summary": "CoreWeave’s bond yields and credit default swaps have surged as its stock sells off. Here’s what those credit signals mean for stock investors.",
+      "url": "https://www.cnbc.com/investingclub/2026/10/16/coreweave-credit-default-swaps.html",
+      "source": "CNBC",
+      "datetime": 1792182835,
+      "image": "https://image.cnbcfm.com/api/v1/image/108172056-1752584137888-gettyimages-2213626542-COREWEAVE_DEBT_DEAL.jpeg?v=1776976781&w=1920&h=1080",
+      "title_cn": "为什么CoreWeave的股价本周会暴跌呢？不妨从债务市场的这一角落寻找答案吧。",
+      "summary_cn": "随着CoreWeave股票的暴跌，该公司的债券收益率和信用违约互换价格也出现了飙升。对于股票投资者来说，这些信用指标意味着什么？"
+    },
+    {
+      "title": "Wall Street's fear gauge is ripping. Traders see it going even higher",
+      "summary": "The sell-off in AI-related stocks pushed the VIX above 22 for the first time in four months. A cluster of trades suggests it could go even higher.",
+      "url": "https://www.cnbc.com/2026/10/16/wall-streets-fear-gauge-is-ripping-traders-see-it-going-even-higher.html",
+      "source": "CNBC",
+      "datetime": 1792178890,
+      "image": "https://image.cnbcfm.com/api/v1/image/108408957-1791988869652-gettyimages-2300173631-mms15477_dpxylhl3.jpeg?v=1791989017&w=1920&h=1080",
+      "title_cn": "华尔街的恐惧指标正在撕裂。交易员认为价格会更高",
+      "summary_cn": "人工智能相关股票的抛售使得VIX指数首次在四个月内突破22的门槛。一系列交易行为表明，该指数还有可能进一步上升。"
+    },
+    {
+      "title": "We're downgrading this retail stock after a big comeback. Plus, AI names slide again",
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "url": "https://www.cnbc.com/investingclub/2026/10/16/were-downgrading-this-retail-stock-after-a-big-comeback-plus-ai-names-slide-again.html",
+      "source": "CNBC",
+      "datetime": 1792176379,
+      "image": "https://image.cnbcfm.com/api/v1/image/108148968-1747857895308-gettyimages-2216324853-l1131686_copy_8g4vru91.jpeg?v=1763565126&w=1920&h=1080",
+      "title_cn": "在这只股票经历了一波强劲反弹之后，我们决定下调对该股票的评级。此外，AI相关企业的股价又出现了下跌趋势。",
+      "summary_cn": "每个工作日，投资俱乐部都会发布Homestretch;一个可操作的下午更新，正好赶上交易的最后一个小时。"
+    },
+    {
+      "title": "NBA tightens betting rules, develops AI to flag suspicious wagers",
+      "summary": "The NBA is tightening restrictions on bets and deploying AI to help identify suspicious wagering, according to two documents obtained by CNBC.",
+      "url": "https://www.cnbc.com/2026/10/16/nba-tightens-betting-rules-develops-ai-to-flag-suspicious-wagers.html",
+      "source": "CNBC",
+      "datetime": 1792173050,
+      "image": "https://image.cnbcfm.com/api/v1/image/108420547-1792169925516-gettyimages-2269662093-2026_nba_0331_pistonsvsraptors_05.jpeg?v=1792169966&w=1920&h=1080",
+      "title_cn": "NBA收紧投注规则，开发人工智能来标记可疑投注",
+      "summary_cn": "根据CNBC获得的两份文件，NBA正在加强对赌球的监管措施，并利用人工智能技术来识别可疑的赌博行为。"
+    },
+    {
+      "title": "Here's who Netflix just brought in to run content — and what it means for the streamer",
+      "summary": "Peter Rice brings a wealth of experience in TV and film, including scripted and unscripted shows, live sports, prestige television and theatrical distribution.",
+      "url": "https://www.cnbc.com/2026/10/16/netflix-peter-rice-chief-content-officer.html",
+      "source": "CNBC",
+      "datetime": 1792170170,
+      "image": "https://image.cnbcfm.com/api/v1/image/107073528-1654800231246-rice.jpg?v=1711475524&w=1920&h=1080",
+      "title_cn": "以下是Netflix刚刚聘请来运行内容的人-以及这对流媒体意味着什么",
+      "summary_cn": "彼得·赖斯（Peter Rice）在电视和电影方面拥有丰富的经验，包括有剧本和无剧本的节目、体育直播、优质电视和戏剧发行。"
+    }
+  ],
+  "ai": [
+    {
+      "title": "Beyond AI: IndusGuru data shows what technology skills Indian companies are hiring for",
+      "description": "Mumbai (Maharashtra) [India], October 15: Artificial intelligence has become a theme of India’s technology hiring market. GCCs, consulting firms and enterprises are investing in AI, data analytics, cloud,…",
+      "url": "https://www.newsx.com/business/beyond-ai-indusguru-data-shows-what-technology-skills-indian-companies-are-hiring-for-284249/",
+      "source": "NewsX",
+      "publishedAt": "2026-10-16T14:08:10Z",
+      "image": "https://www.newsx.com/wp-content/uploads/2026/10/Beyond-AI-IndusGuru-data-shows-what-technology-skills-Indian-companies.avif",
+      "title_cn": "超越人工智能：IndusGuru的数据表明，印度企业正在招聘哪些技术人才",
+      "description_cn": "孟买（马哈拉施特拉邦），10月15日：人工智能已成为印度科技招聘市场的重要主题。GCC企业、咨询公司以及各类企业都在投资人工智能、数据分析、云计算等领域的相关业务。"
+    },
+    {
+      "title": "Pitched 2 ideas to PM Modi in 90 seconds on Chennai Metro: Who is AI startup founder Tejas Sudarshan & what did he propose?",
+      "description": "Chennai-based startup founder Tejas Parthasarathi Sudarshan pitched two artificial intelligence ideas to Prime Minister Narendra Modi during a Chennai Metro journey, getting around 90 seconds to present his proposals. The Winsen Labs founder suggested connecting students with real-world government projects and creating a unified AI-powered platform to simplify access to public services. He was among 17 startup founders shortlisted by SPI Chennai for the interaction.",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/pitched-2-ideas-to-pm-modi-in-90-seconds-on-chennai-metro-who-is-ai-startup-founder-tejas-sudarshan-what-did-he-propose/articleshow/134996863.cms",
+      "source": "The Economic Times",
+      "publishedAt": "2026-10-16T14:07:00Z",
+      "image": "https://img.etimg.com/thumb/msid-134996953,width-1200,height-900,imgsize-49826,overlay-economictimes/articleshow.jpg",
+      "title_cn": "我在90秒内向莫迪总理提出了两个关于金奈地铁项目的建议：谁是这家人工智能初创公司的创始人Tejas Sudarshan？他提出了什么计划？",
+      "description_cn": "位于钦奈的初创公司创始人Tejas Parthasarathi Sudarshan在参观钦奈地铁时，向总理纳伦德拉·莫迪提出了两个关于人工智能的想法。他只有大约90秒的时间来展示自己的提案。Winsen Labs的创始人建议将学生与实际的政府项目联系起来，并创建一个由人工智能驱动的平台，以简化公众服务的获取流程。他是SPI钦奈评选出的17位受邀参与交流的初创公司创始人之一。"
+    },
+    {
+      "title": "S&P 500 Holds Steady as Fed Rate Hold Expectations Rise After Warsh Remarks",
+      "description": "The S&P 500 Index was little changed on Friday, as indications that the Federal Reserve will hold interest rates steady this month heartened investors despite continued worries about the viability of the artificial intelligence trade.",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-16/s-p-500-steady-as-warsh-boosts-expectations-of-rate-hold",
+      "source": "Bloomberg",
+      "publishedAt": "2026-10-16T14:01:24Z",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iz24qrPsIRKI/v1/1200x800.jpg",
+      "title_cn": "在沃什发表讲话后，由于市场预计美联储将继续保持利率不变，S&P 500指数保持稳定走势。",
+      "description_cn": "周五时，标准普尔500指数变动不大。尽管人们对人工智能领域的前景仍持担忧态度，但美联储决定本月维持利率不变的消息让投资者们感到安心。"
+    },
+    {
+      "title": "Nova Scotia to host massive data centre to power Anthropic's AI assistant Claude",
+      "description": "A massive data centre to provide computing power for artificial intelligence is under pre-construction just outside a town on Cape Breton Island, Nova Scotia.",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-to-host-massive-data-centre-to-power-anthropic-s-ai-assistant-claude-9.7383129",
+      "source": "CBC.ca",
+      "publishedAt": "2026-10-16T14:00:00Z",
+      "image": "https://i.cbc.ca/ais/c383ff3d-723e-44ca-9a91-4a2f9a4c3e06,1792162410228/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C418%2C6080%2C3420%29%3BResize%3D620",
+      "title_cn": "新斯科舍省将托管大型数据中心，为Anthropic的人工智能助理Claude提供动力",
+      "description_cn": "在 Nova Scotia 的 Cape Breton 岛附近，一个大型数据中心正在建设中，该中心将为人工智能提供计算能力支持。"
+    },
+    {
+      "title": "IMF chief warns AI risks could outweigh benefits without proper safeguards",
+      "description": "During the annual IMF and World Bank meetings, IMF Managing Director Kristalina Georgieva warned that the risks posed by artificial intelligence could ultimately outweigh its economic benefits...",
+      "url": "https://www.thenews.com.pk/latest/1420202-imf-chief-warns-ai-risks-could-outweigh-benefits-without-proper-safeguards",
+      "source": "The News International",
+      "publishedAt": "2026-10-16T13:58:00Z",
+      "image": "https://www.thenews.com.pk/assets/uploads/2026-10-16/1420202_065837_updates.jpg",
+      "title_cn": "国际货币基金组织负责人警告称，如果没有适当的保障措施，人工智能带来的风险可能会超过其带来的好处。",
+      "description_cn": "在每年举行的国际货币基金组织和世界银行会议上，国际货币基金组织总裁克里斯塔利娜·格奥尔基耶娃警告说，人工智能带来的风险可能会超过其经济效益……"
+    }
+  ]
+}
