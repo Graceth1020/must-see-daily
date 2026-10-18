@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-10-18T02:19:15Z",
+  "finance": [
+    {
+      "title": "'Everyone laughed' when he started a pumpkin farm—now it brings in $2 million a year",
+      "summary": "Kelly Schultz bought a pumpkin farm in 1996. He transformed it into a seasonal attraction that draws in 100,000 visitors each fall.",
+      "url": "https://www.cnbc.com/make-it/2026/10/17/great-pumpkin-farm-new-york-2-million-revenue.html",
+      "source": "CNBC",
+      "datetime": 1792242001,
+      "image": "https://image.cnbcfm.com/api/v1/image/108420368-1792166542544-picking_out_pumpkins.jpg?v=1792168563&w=1920&h=1080",
+      "title_cn": "当他开始经营南瓜农场时，大家都笑了起来——现在这个农场每年能赚200万美元。",
+      "summary_cn": "凯利·舒尔茨在1996年购买了一片南瓜农场。他将其改造成了一个季节性景点，每年秋天都会吸引10万名游客前来参观。"
+    },
+    {
+      "title": "Why did CoreWeave stock get crushed this week? Look to this corner of the debt market for clues",
+      "summary": "CoreWeave’s bond yields and credit default swaps have surged as its stock sells off. Here’s what those credit signals mean for stock investors.",
+      "url": "https://www.cnbc.com/investingclub/2026/10/16/coreweave-credit-default-swaps.html",
+      "source": "CNBC",
+      "datetime": 1792182835,
+      "image": "https://image.cnbcfm.com/api/v1/image/108172056-1752584137888-gettyimages-2213626542-COREWEAVE_DEBT_DEAL.jpeg?v=1776976781&w=1920&h=1080",
+      "title_cn": "为什么CoreWeave的股价本周会暴跌呢？不妨从债务市场的这一角落寻找答案吧。",
+      "summary_cn": "随着CoreWeave股票的暴跌，该公司的债券收益率和信用违约互换价格也出现了大幅上涨。对于股票投资者来说，这些信用指标意味着什么？"
+    },
+    {
+      "title": "Wall Street's fear gauge is ripping. Traders see it going even higher",
+      "summary": "The sell-off in AI-related stocks pushed the VIX above 22 for the first time in four months. A cluster of trades suggests it could go even higher.",
+      "url": "https://www.cnbc.com/2026/10/16/wall-streets-fear-gauge-is-ripping-traders-see-it-going-even-higher.html",
+      "source": "CNBC",
+      "datetime": 1792178890,
+      "image": "https://image.cnbcfm.com/api/v1/image/108408957-1791988869652-gettyimages-2300173631-mms15477_dpxylhl3.jpeg?v=1791989017&w=1920&h=1080",
+      "title_cn": "华尔街的恐惧指标正在撕裂。交易员认为价格会更高",
+      "summary_cn": "人工智能相关股票的抛售使得VIX指数首次在四个月内突破22的门槛。一系列交易行为表明，该指数可能会进一步上升。"
+    },
+    {
+      "title": "We're downgrading this retail stock after a big comeback. Plus, AI names slide again",
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "url": "https://www.cnbc.com/investingclub/2026/10/16/were-downgrading-this-retail-stock-after-a-big-comeback-plus-ai-names-slide-again.html",
+      "source": "CNBC",
+      "datetime": 1792176379,
+      "image": "https://image.cnbcfm.com/api/v1/image/108148968-1747857895308-gettyimages-2216324853-l1131686_copy_8g4vru91.jpeg?v=1763565126&w=1920&h=1080",
+      "title_cn": "在这只股票经历了一波强劲反弹之后，我们决定下调对该股票的评级。此外，AI相关个股的表现再次不佳。",
+      "summary_cn": "每个工作日，投资俱乐部都会发布Homestretch;一个可操作的下午更新，正好赶上交易的最后一个小时。"
+    },
+    {
+      "title": "NBA tightens betting rules, develops AI to flag suspicious wagers",
+      "summary": "The NBA is tightening restrictions on bets and deploying AI to help identify suspicious wagering, according to two documents obtained by CNBC.",
+      "url": "https://www.cnbc.com/2026/10/16/nba-tightens-betting-rules-develops-ai-to-flag-suspicious-wagers.html",
+      "source": "CNBC",
+      "datetime": 1792173050,
+      "image": "https://image.cnbcfm.com/api/v1/image/108420547-1792169925516-gettyimages-2269662093-2026_nba_0331_pistonsvsraptors_05.jpeg?v=1792169966&w=1920&h=1080",
+      "title_cn": "NBA收紧投注规则，开发人工智能来标记可疑投注",
+      "summary_cn": "根据CNBC获得的两份文件，NBA正在加强对赌球的监管措施，并利用人工智能来识别可疑的投注行为。"
+    }
+  ],
+  "ai": [
+    {
+      "title": "Nuclear reactor design uses swappable cores to beat salt degradation",
+      "description": "Big tech firms in the US are pouring billions into advanced nuclear power to feed energy-hungry artificial intelligence. Across the Atlantic, European",
+      "url": "https://www.europesays.com/3315597/",
+      "source": "EUROPE SAYS",
+      "publishedAt": "2026-10-17T13:47:17Z",
+      "image": "https://www.europesays.com/wp-content/uploads/2026/10/1792244840.jpeg",
+      "title_cn": "核反应堆的设计采用了可更换核心的结构，以此来应对盐分的侵蚀问题。",
+      "description_cn": "美国的大型科技公司正在投入数十亿美元用于研发先进的核能技术，以满足那些需要大量能量的人工智能系统的需求。而在大西洋对面的欧洲地区……"
+    },
+    {
+      "title": "IMF says AI slowdown could knock 0.4pc off global GDP by 2028",
+      "description": "BANGKOK, Oct 17 — The artificial intelligence boom has been a key driver of global growth, but also poses economic risks should investment in the technology falter, experts and...",
+      "url": "https://www.malaymail.com/news/money/2026/10/17/imf-says-ai-slowdown-could-knock-04pc-off-global-gdp-by-2028/239509",
+      "source": "Malay Mail",
+      "publishedAt": "2026-10-17T12:03:33Z",
+      "image": "https://www.malaymail.com/malaymail/uploads/images/2026/10/17/368939.jpg",
+      "title_cn": "国际货币基金组织指出，人工智能发展的放缓可能会使得全球GDP在2028年减少0.4%。",
+      "description_cn": "曼谷，10月17日——人工智能领域的快速发展是全球经济增长的重要推动因素，但如果不对这项技术进行持续投资的话，ก็可能会带来经济风险，专家们对此表示担忧……"
+    },
+    {
+      "title": "Anthropic Co-Founder Claims AI Could Add Trillions To U.S. GDP Within Four Years",
+      "description": "Speaking at the IMF and World Bank meetings in Bangkok, Jack Clark said that artificial intelligence developments could increase U.S. economic output from its current level of about $30 trillion to",
+      "url": "https://www.ibtimes.com/anthropic-co-founder-claims-ai-could-add-trillions-us-gdp-within-four-years-3808698",
+      "source": "International Business Times",
+      "publishedAt": "2026-10-17T11:47:41Z",
+      "image": "https://d.ibtimes.com/en/full/4653529/jack-clark-imf.jpg",
+      "title_cn": "该项目的联合创始人声称，人工智能在四年内可能为美国GDP贡献数万亿美元的增长潜力。",
+      "description_cn": "在曼谷举行的国际货币基金组织和世界银行会议上，杰克·克拉克表示，人工智能的发展可能会使美国的经济产出从目前的30万亿美元水平进一步提升。"
+    },
+    {
+      "title": "AI rapidly improving, could vastly boost US GDP, Anthropic's Clark tells policymakers",
+      "description": "Rapidly improving artificial intelligence capabilities will bring far faster change across all fields, Anthropic co-founder Jack Clark said on Saturday, with one of the company's internal models...\n-October 17, 2026 at 07:40 am EDT\n- MarketScreener",
+      "url": "https://www.marketscreener.com/news/ai-rapidly-improving-could-vastly-boost-us-gdp-anthropic-s-clark-tells-policymakers-ce785cdade8ef62c",
+      "source": "MarketScreener",
+      "publishedAt": "2026-10-17T11:40:20Z",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-10/2026-10-17T091449Z_1_LYNXMPEM9G08J_RTROPTP_4_IMF-WORLDBANK.JPG",
+      "title_cn": "AI技术的快速发展有可能显著提升美国的GDP，Anthropic公司的Clark这样告诉政策制定者们。",
+      "description_cn": "人工智能能力的迅速提升将带来各个领域更快的变化，Anthropic公司的创始人Jack Clark在周六表示。该公司的一款内部模型……  \n- 2026年10月17日，东部时间上午7:40  \n- MarketScreener"
+    },
+    {
+      "title": "‘He was once my intern’: Jensen Huang’s introduction of Black Forest Labs CEO goes viral",
+      "description": "The moment highlighted a lesser-known connection between the two tech executives, who are now part of the fast-growing artificial intelligence (AI) world. A video of Huang’s introduction has gone viral on social media, drawing attention to Rombach’s journey from intern to the head of an AI company.",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/he-was-once-my-intern-jensen-huangs-introduction-of-black-forest-labs-ceo-goes-viral-watch/articleshow/135013348.cms",
+      "source": "The Economic Times",
+      "publishedAt": "2026-10-17T11:39:36Z",
+      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-55010,resizemode-75,msid-135013348/tech/artificial-intelligence/he-was-once-my-intern-jensen-huangs-introduction-of-black-forest-labs-ceo-goes-viral-watch.jpg",
+      "title_cn": "“他曾是我的实习生”：詹森·黄在介绍Black Forest Labs的CEO时这样说道，这一言论迅速流传开来。",
+      "description_cn": "这一时刻凸显了这两位科技高管之间鲜为人知的联系。他们如今都身处快速发展的人工智能领域。黄某的介绍视频在社交媒体上疯传，让人们注意到罗姆巴赫从一名实习生到成为一家人工智能公司领导者的历程。"
+    }
+  ]
+}
