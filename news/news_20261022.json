@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-10-22T02:38:33Z",
+  "finance": [
+    {
+      "title": "Southwest Airlines cuts 2026 profit forecast on higher fuel",
+      "summary": "Southwest Airlines became the third major U.S. airline this month to cut its 2026 profit forecast due to higher fuel prices.",
+      "url": "https://www.cnbc.com/2026/10/21/southwest-airlines-luv-3q-2026-earnings.html",
+      "source": "CNBC",
+      "datetime": 1792615003,
+      "image": "https://image.cnbcfm.com/api/v1/image/108313063-1779968970407-gettyimages-2277877363-260527_san_137.jpeg?v=1792016572&w=1920&h=1080",
+      "title_cn": "西南航空因燃料成本上升而下调了2026年的利润预期。",
+      "summary_cn": "本月，西南航空公司成为第三家因燃油价格上升而下调2026年利润预测的美国主要航空公司。"
+    },
+    {
+      "title": "SpaceX gives the AI trade a shot in the arm. What it means for our stocks",
+      "summary": "SpaceX indicated there's been no slowdown in demand for AI computing.",
+      "url": "https://www.cnbc.com/investingclub/2026/10/21/spacex-gives-the-ai-trade-a-shot-in-the-arm-what-it-means-for-our-stocks-.html",
+      "source": "CNBC",
+      "datetime": 1792609283,
+      "image": "https://image.cnbcfm.com/api/v1/image/108291439-1776202127048-gettyimages-2217198328-MEMPHISMUSK.jpeg?v=1776202200&w=1920&h=1080",
+      "title_cn": "SpaceX为人工智能产业带来了新的发展机遇。这对我们的股票来说意味着什么？",
+      "summary_cn": "SpaceX表示，对人工智能计算的需求并没有减少。"
+    },
+    {
+      "title": "Apple's iPhone Duo in short supply — plus, the 2 stocks fueling an AI rebound",
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "url": "https://www.cnbc.com/investingclub/2026/10/21/apples-iphone-duo-in-short-supply-plus-2-stocks-fueling-an-ai-rebound.html",
+      "source": "CNBC",
+      "datetime": 1792608328,
+      "image": "https://image.cnbcfm.com/api/v1/image/108360748-1788979859515-gettyimages-2294367938-benf4677_zvzia3lz.jpeg?v=1788979895&w=1920&h=1080",
+      "title_cn": "苹果的iPhone Duo非常抢手——此外，这两款产品的销售情况也有助于推动人工智能领域的复苏。",
+      "summary_cn": "每个工作日，投资俱乐部都会发布Homestretch;一个可操作的下午更新，正好赶上交易的最后一个小时。"
+    },
+    {
+      "title": "Trump-aligned super PACs pour millions into once-safe GOP House seats",
+      "summary": "Trump-aligned PACs are pouring hundreds of millions into House and Senate races as Republicans defend an expanding midterm election battleground map.",
+      "url": "https://www.cnbc.com/2026/10/21/trump-pac-spending-midterm-election-house-republicans.html",
+      "source": "CNBC",
+      "datetime": 1792605081,
+      "image": "https://image.cnbcfm.com/api/v1/image/108433876-17924383682026-10-19t193214z_904828289_rc2j6oamh4pl_rtrmadp_0_usa-trump.jpeg?v=1792438396&w=1920&h=1080",
+      "title_cn": "那些与特朗普关系密切的超级政治行动小组向那些曾经属于共和党控制的众议院席位投入了数百万美元的资金。",
+      "summary_cn": "那些与特朗普有联系的政治行动委员会正在投入数亿资金用于支持众议院和参议院的选举竞选活动，因为共和党人正试图巩固他们在中期选举中的优势地位。"
+    },
+    {
+      "title": "Meta stock advances ahead of after-the-bell earnings. What we're looking for",
+      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "url": "https://www.cnbc.com/investingclub/2026/10/21/meta-stock-advances-ahead-of-after-the-bell-earnings-what-were-looking-for.html",
+      "source": "CNBC",
+      "datetime": 1792598425,
+      "image": "https://image.cnbcfm.com/api/v1/image/108285632-1774986309800-cnbc_versant_share.png?v=1774986411&w=1920&h=1080",
+      "title_cn": "Meta公司的股价在业绩发布前就出现了上涨趋势。我们正在关注这一情况。",
+      "summary_cn": "投资俱乐部每个工作日上午10：20举行“晨会”。"
+    }
+  ],
+  "ai": [
+    {
+      "title": "Venture Global plans off-grid AI network in south Louisiana",
+      "description": "By Alton Wallace | The Center Square Liquefied natural gas exporter Venture Global has announced plans to build a 10-gigawatt off-grid power network to supply artificial intelligence data centers that […]",
+      "url": "https://americanpress.com/2026/10/21/venture-global-plans-off-grid-ai-network-in-south-louisiana/",
+      "source": "American Press",
+      "publishedAt": "2026-10-21T14:23:48Z",
+      "image": "https://americanpress.com/wp-content/uploads/sites/65/2021/12/Venture-Global.jpg?w=622",
+      "title_cn": "Venture Global计划在路易斯安那州南部构建一种离网人工智能网络。",
+      "description_cn": "由Alton Wallace撰写 | The Center Square：液化天然气出口企业Venture Global宣布计划建设一个10吉瓦的离网电力网络，以供应人工智能数据中心所需的电力。"
+    },
+    {
+      "title": "Merck KGaA to Develop AI-driven Support Model for Rare Tumors in Partnership with Nvidia, Microsoft, Dawn Health",
+      "description": "Merck KGaA , Nvidia , Microsoft and Denmark-based Dawn Health will explore the use of artificial intelligence in customizing support programs for patients with rare tumors under their latest...",
+      "url": "https://www.marketscreener.com/news/merck-kgaa-to-develop-ai-driven-support-model-for-rare-tumors-in-partnership-with-nvidia-microsoft-ce785cd9db8cf222",
+      "source": "MarketScreener",
+      "publishedAt": "2026-10-21T14:20:33Z",
+      "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "title_cn": "默克公司将与Nvidia、微软以及Dawn Health合作，共同开发一种基于人工智能的罕见肿瘤辅助诊断模型。",
+      "description_cn": "默克公司、英伟达、微软以及位于丹麦的Dawn Health公司，将在最新的项目中探索如何利用人工智能技术来定制针对患有罕见肿瘤患者的支持计划。"
+    },
+    {
+      "title": "Athens Fintech Summit Puts AI and the Future of Banking in Focus",
+      "description": "Banks, tech companies and startups meet in Athens next week as artificial intelligence, digital payments and cryptocurrencies erode banks' long hold on finance.",
+      "url": "https://www.iefimerida.gr/english/athens-fintech-summit-puts-ai-and-future-banking-focus",
+      "source": "iefimerida",
+      "publishedAt": "2026-10-21T14:13:09Z",
+      "image": "https://www.iefimerida.gr/sites/default/files/styles/facebook/public/2026-08/athens-shutterstock.jpg?itok=DY1dMs4a",
+      "title_cn": "雅典金融科技峰会聚焦人工智能与银行业的未来发展",
+      "description_cn": "下周，银行、科技公司和初创企业将在雅典聚在一起，因为人工智能、数字支付和加密货币正在逐渐侵蚀银行在金融领域的主导地位。"
+    },
+    {
+      "title": "powered shopping to Android TVs in India, US, Japan",
+      "description": "Google and Glance have partnered to bring artificial intelligence (AI)-powered shopping and product discovery to Android TVs in India, the United States and Japan, aiming to turn television screens into interactive platforms for lifestyle inspiration and online shopping.",
+      "url": "https://www.tribuneindia.com/news/business/google-glance-partner-to-bring-ai-powered-shopping-to-android-tvs-in-india-us-japan/",
+      "source": "The Tribune",
+      "publishedAt": "2026-10-21T13:49:34Z",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTQ2MDBkZmUwLWNkNTYtMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc=",
+      "title_cn": "在印度、美国、日本的Android电视上实现智能购物功能",
+      "description_cn": "谷歌与Glance合作，将在印度、美国和日本的Android电视上推出基于人工智能的购物和产品搜索功能。这一合作旨在将电视屏幕转变为互动平台，帮助用户获取生活灵感并进行在线购物。"
+    },
+    {
+      "title": "We asked ChatGPT what will be Bitcoin price end of 2026; Here’s what it said",
+      "description": "What will Bitcoin price by at the end of 2026? Here is what artificial intelligence has to say based on current data.",
+      "url": "https://finbold.com/we-asked-chatgpt-what-will-be-bitcoin-price-end-of-2026-heres-what-it-said/",
+      "source": "Finbold",
+      "publishedAt": "2026-10-21T13:48:04Z",
+      "image": "https://finbold.com/cdn-cgi/image/format=auto,quality=90,width=1600,height=900,fit=cover/https://assets.finbold.com/uploads/2026/10/we-asked-chatgpt-what-will-be-bitcoin-price-end-of-2026-heres-what-it-said-2d323f.jpg",
+      "title_cn": "我们询问了ChatGPT关于2026年底比特币价格会是多少的问题；它给出了这样的答案。",
+      "description_cn": "到2026年底，比特币的价格将会是多少呢？根据当前的数据，人工智能对此有所预测。"
+    }
+  ]
+}
