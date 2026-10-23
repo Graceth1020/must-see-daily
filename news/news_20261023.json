@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-10-23T02:43:03Z",
+  "finance": [
+    {
+      "title": "A lesson from poker tells us not to fold on Meta after its earnings sell-off. Here’s why",
+      "summary": "Meta's in-house AI lab is not getting enough credit on Wall Street.",
+      "url": "https://www.cnbc.com/investingclub/2026/10/22/meta-stock-why-were-staying-bullish-after-the-post-earnings-sell-off.html",
+      "source": "CNBC",
+      "datetime": 1792699915,
+      "image": "https://image.cnbcfm.com/api/v1/image/108443816-1792619674334-gettyimages-2296213884-META_CONNECT.jpeg?v=1792619769&w=1920&h=1080",
+      "title_cn": "从扑克中的经验可以学到一点：在Meta公司股价下跌之后，不要选择放弃投资。原因如下：",
+      "summary_cn": "Meta自己的AI实验室在华尔街并没有得到足够的认可。"
+    },
+    {
+      "title": "The perfect storm behind the Nasdaq's rout — plus, some of the bright spots in the market",
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "url": "https://www.cnbc.com/investingclub/2026/10/22/perfect-storm-behind-the-nasdaqs-rout-plus-some-bright-spots-in-the-market.html",
+      "source": "CNBC",
+      "datetime": 1792693385,
+      "image": "https://image.cnbcfm.com/api/v1/image/108437791-1792509114099-Traders-Photo-20261019-KK-008.jpg?v=1792509208&w=1920&h=1080",
+      "title_cn": "纳斯达克暴跌背后的完美风暴——此外，市场上还有一些积极的情况。",
+      "summary_cn": "每个工作日，投资俱乐部都会发布Homestretch;一个可操作的下午更新，正好赶上交易的最后一个小时。"
+    },
+    {
+      "title": "We're dipping back into the AI trade with our first data center buy in weeks",
+      "summary": "The stock is also getting an upgrade, with the expectation of a bounce ahead.",
+      "url": "https://www.cnbc.com/investingclub/2026/10/22/were-dipping-back-into-the-data-center-trade-with-small-buy.html",
+      "source": "CNBC",
+      "datetime": 1792690099,
+      "image": "https://image.cnbcfm.com/api/v1/image/108432675-1792420159361-gettyimages-2300478197-AFP_D3QN9WW.jpeg?v=1792420206&w=1920&h=1080",
+      "title_cn": "我们正在重新投入人工智能领域的投资，最近刚刚完成了第一座数据中心的收购。",
+      "summary_cn": "该股票的评级也有所提升，预计未来会有反弹行情。"
+    },
+    {
+      "title": "Pepsi renews contract with Taco Bell days after KFC switches to Coke in the U.S.",
+      "summary": "Taco Bell is sticking with longtime beverage supplier PepsiCo, even though sister chain KFC defected to Coca-Cola.",
+      "url": "https://www.cnbc.com/2026/10/22/pepsico-taco-bell-beverage-deal.html",
+      "source": "CNBC",
+      "datetime": 1792684320,
+      "image": "https://image.cnbcfm.com/api/v1/image/107369751-1707244053108-gettyimages-1653048097-MJP_Taco_Bell_20230821_7844_SOPA.jpeg?v=1707244711&w=1920&h=1080",
+      "title_cn": "在肯德基在美国改用可口可乐之后不久，百事公司便与塔可钟重新签订了合同。",
+      "summary_cn": "Taco Bell仍然选择继续与长期的饮料供应商百事公司合作，尽管其姊妹品牌KFC已经转投可口可乐旗下。"
+    },
+    {
+      "title": "AI stocks tumble as the defensives rise. What it says about this uneasy market",
+      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "url": "https://www.cnbc.com/investingclub/2026/10/22/ai-stocks-tumble-as-the-defensives-rise-what-it-says-about-this-uneasy-market.html",
+      "source": "CNBC",
+      "datetime": 1792683957,
+      "image": "https://image.cnbcfm.com/api/v1/image/104965972-GettyImages-823212518.jpg?v=1619192738&w=1920&h=1080",
+      "title_cn": "随着防御性措施的实施，人工智能相关股票纷纷下跌。这反映了当前市场的不安定状况。",
+      "summary_cn": "投资俱乐部每个工作日上午10：20举行“晨会”。"
+    }
+  ],
+  "ai": [
+    {
+      "title": "Perceptron moves 800,000-node AI data network to Walrus",
+      "description": "Perceptron has announced a strategic migration to Walrus, a data platform built for artificial intelligence (AI) applications.",
+      "url": "https://finbold.com/perceptron-moves-800000-node-ai-data-network-to-walrus/",
+      "source": "Finbold",
+      "publishedAt": "2026-10-22T14:00:00Z",
+      "image": "https://finbold.com/cdn-cgi/image/format=auto,quality=90,width=1600,height=900,fit=cover/https://assets.finbold.com/uploads/2026/10/Perceptron-moves-800000-node-AI-data-network-to-Walrus.jpg",
+      "title_cn": "感知器将包含80万个节点的AI数据网络转移到了Walrus系统中。",
+      "description_cn": "Perceptron宣布了一项战略转移计划，即将其系统迁移到Walrus平台上。Walrus是一个专为人工智能应用而设计的数据平台。"
+    },
+    {
+      "title": "Startup Funding News Today, October 22, 2026: Flapping Airplanes, Legora, Mach9, Peak Energy, Whop & More",
+      "description": "More than $2 billion in fresh venture capital funding poured into startups over the past 24 hours, as investors doubled down on artificial intelligence and the technologies needed to sustain its growth. From AI research and developer infrastructure to legal technology, energy storage, and defense software, the latest funding rounds reveal where investors are placing",
+      "url": "https://techstartups.com/2026/10/22/startup-funding-news-today-october-22-2026-flapping-airplanes-legora-mach9-peak-energy-whop-more/",
+      "source": "TechStartups.com",
+      "publishedAt": "2026-10-22T13:55:47Z",
+      "image": "https://techstartups.com/wp-content/uploads/2026/10/Flapping-Airplanes-Founders.jpg",
+      "title_cn": "2026年10月22日，关于初创企业融资的新闻：Flapping Airplanes、Legora、Mach9、Peak Energy、Whop等公司的动态。",
+      "description_cn": "在过去的24小时内，有超过20亿美元的新风险投资资金投入到了初创企业中。投资者们再次加大对人工智能及相关技术的投资，因为这些技术对于推动其发展至关重要。从人工智能研究到开发者基础设施，再到法律技术、能源存储以及国防软件等领域，最新的融资活动表明，投资者正在将资金投入到这些领域。"
+    },
+    {
+      "title": "Emerging credit risk: What could take out the AI trade",
+      "description": "Artificial intelligence stocks may not be the sure-fire bet they once were as credit risks mount.",
+      "url": "https://www.cnbc.com/2026/10/22/ai-credit-risk-debt.html",
+      "source": "CNBC",
+      "publishedAt": "2026-10-22T13:49:21Z",
+      "image": "https://image.cnbcfm.com/api/v1/image/108303373-1778105774863-gettyimages-2274855480-anotherday210772977_fgieapyf.jpeg?v=1778105970&w=1920&h=1080",
+      "title_cn": "新兴的信用风险：可能会威胁到人工智能交易的发展",
+      "description_cn": "随着信用风险的增加，人工智能相关股票可能不再像过去那样具有十足的投资价值了。"
+    },
+    {
+      "title": "Companies Are Licensing Workplace Emails, Slack Messages to AI Developers, Often Without Employee Knowledge",
+      "description": "Companies are increasingly licensing internal emails, Slack messages and documents to artificial intelligence developers, often without the knowledge of the employees whose communications generate the data, according to reports from Business Insider and the International Business Times [1][2]. AI firms including OpenAI, Anthropic and Meta are seeking real-world workplace records to train AI agents capable […]",
+      "url": "https://www.naturalnews.com/2026-10-22-companies-licensing-workplace-emails-to-ai-developers.html",
+      "source": "Natural News",
+      "publishedAt": "2026-10-22T13:46:29Z",
+      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/ai-training-data-workplace-emails-data-licensing-5449-32563f06-original.jpg",
+      "title_cn": "许多公司正在将工作场所的邮件以及Slack上的消息授权给人工智能开发者使用，而员工往往并不知情。",
+      "description_cn": "根据Business Insider和International Business Times的报道，越来越多的公司开始将内部电子邮件、Slack消息以及文档授权给人工智能开发者使用，而这些员工往往并不知情。包括OpenAI、Anthropic和Meta在内的AI公司正在寻求现实世界中的工作场所数据来训练能够胜任各种任务的AI代理。"
+    },
+    {
+      "title": "Goa unveils Artificial Intelligence Policy 2026, launches hackathon",
+      "description": "Goa unveils Artificial Intelligence Policy 2026, launches hackathon",
+      "url": "https://www.news18.com/agency-feeds/goa-unveils-artificial-intelligence-policy-2026-launches-hackathon-10393353.html",
+      "source": "News18",
+      "publishedAt": "2026-10-22T13:45:07Z",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/07/News18_Business_Section_Default_Image_1600x900-2025-07-454f4d093355309283e1b9f3be42698a-16x9.jpg",
+      "title_cn": "果阿邦发布了《2026年人工智能政策》，并举办了一次编程马拉松活动。",
+      "description_cn": "果阿邦发布了《2026年人工智能政策》，并举办了相关竞赛活动"
+    }
+  ]
+}
