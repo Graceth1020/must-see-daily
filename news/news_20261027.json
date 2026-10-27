@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-10-27T03:03:57Z",
+  "finance": [
+    {
+      "title": "JetBlue posts bigger loss on fuel costs, but CEO says margins improving",
+      "summary": "JetBlue Airways is in the middle of a plan that aims to cut costs and increase premium revenue.",
+      "url": "https://www.cnbc.com/2026/10/26/jetblue-jblu-3q-2026-earnings.html",
+      "source": "CNBC",
+      "datetime": 1793047185,
+      "image": "https://image.cnbcfm.com/api/v1/image/108448316-1792700050649-gettyimages-2284742860-bb526758_s4vfzq1d_oq14lr5y.jpeg?v=1792700321&w=1920&h=1080",
+      "title_cn": "JetBlue在燃料成本方面的损失比之前更大，但首席执行官表示利润率正在改善。",
+      "summary_cn": "JetBlue航空正在实施一项计划，旨在降低运营成本并增加高端客群的收入。"
+    },
+    {
+      "title": "Anthropic's IPO puts power in the hands of founders, giving everyday shareholders little voice",
+      "summary": "Founder LLC is one component of the \"novel capital and corporate governance structure\" that Anthropic outlined in its public S-1 filing.",
+      "url": "https://www.cnbc.com/2026/10/26/anthropic-ipo-founder-voting-control.html",
+      "source": "CNBC",
+      "datetime": 1793045274,
+      "image": "https://image.cnbcfm.com/api/v1/image/108267419-1771518692466-gettyimages-2261864825-INDIA_AI_SUMMIT.jpeg?v=1776348710&w=1920&h=1080",
+      "title_cn": "Antropic的首次公开募股使得权力集中在创始人手中，普通股东几乎没有任何发言权。",
+      "summary_cn": "Founder LLC是Anthropic公司在公开提交的S-1文件中所描述的“新型资本与公司治理结构”的一个组成部分。"
+    },
+    {
+      "title": "J&J's potential 'game-changer' drug — plus, what Microsoft's mass buyouts mean",
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "url": "https://www.cnbc.com/investingclub/2026/10/26/jjs-potential-game-changer-drug-plus-what-microsofts-buyouts-mean.html",
+      "source": "CNBC",
+      "datetime": 1793040333,
+      "image": "https://image.cnbcfm.com/api/v1/image/108295877-1776904195815-gettyimages-2262967294-20090101260225-99-646971.jpeg?v=1777513711&w=1920&h=1080",
+      "title_cn": "强生公司潜在的“颠覆性”药物——此外，微软的大规模收购行为意味着什么",
+      "summary_cn": "每个工作日，投资俱乐部都会发布Homestretch;一个可操作的下午更新，正好赶上交易的最后一个小时。"
+    },
+    {
+      "title": "Trump DOJ unlawfully fired Epstein prosecutor Maurene Comey, judge rules",
+      "summary": "The judge ordered that Comey, the daughter of ex-FBI director James Comey, be retroactively reinstated to her job as an assistant United States attorney.",
+      "url": "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html",
+      "source": "CNBC",
+      "datetime": 1793028482,
+      "image": "https://image.cnbcfm.com/api/v1/image/108270067-1772047070205-gettyimages-2246539844-aw1a5644_zhw13cew.jpeg?v=1772047118&w=1920&h=1080",
+      "title_cn": "根据法官的裁决，特朗普政府的司法部非法解雇了负责调查爱泼斯坦案件的检察官莫琳·科米。",
+      "summary_cn": "法官裁定，前联邦调查局局长詹姆斯·科米的女儿科米应被重新任命为美国助理检察官。"
+    },
+    {
+      "title": "Mortgage rates above 7% are the 'new normal'—here's why",
+      "summary": "High inflation and competition for investor dollars are helping keep longer-term interest rates elevated, economists say.",
+      "url": "https://www.cnbc.com/make-it/2026/10/26/mortgage-rates-above-7percent-are-the-new-normalheres-why.html",
+      "source": "CNBC",
+      "datetime": 1793023201,
+      "image": "https://image.cnbcfm.com/api/v1/image/108451840-1792764719468-gettyimages-2191749854-img_8372.jpeg?v=1792765151&w=1920&h=1080",
+      "title_cn": "抵押贷款利率超过7%已经成为了“新常态”——原因如下",
+      "summary_cn": "经济学家们表示，高通胀以及投资者资金的激烈竞争使得长期利率保持在高水平。"
+    }
+  ],
+  "ai": [
+    {
+      "title": "Will Donald Trump or AI blow up financial markets first?",
+      "description": "Technology and artificial intelligence have enthralled investors, and Australia's super funds have dived in with their ears pinned back. But now comes the reckoning.",
+      "url": "https://www.abc.net.au/news/2026-10-27/will-donald-trump-or-ai-blow-up-financial-markets-first/107311432",
+      "source": "ABC (Australian Broadcasting Corporation)",
+      "publishedAt": "2026-10-26T15:00:00Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/7ee26e9878e8f971257f536576be6621?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+      "title_cn": "是唐纳德·特朗普还是人工智能先导致金融市场崩溃呢？",
+      "description_cn": "技术和人工智能吸引了众多投资者的兴趣，澳大利亚的养老基金也纷纷投入其中。不过，现在到了该清算的时候了。"
+    },
+    {
+      "title": "AI companies are barreling toward huge Wall Street debuts. A look at the biggest players",
+      "description": "Some of the leading artificial intelligence companies are moving toward initial public offerings this year at eye-popping valuations. Some of the leading",
+      "url": "https://www.breitbart.com/news/ai-companies-are-barreling-toward-huge-wall-street-debuts-a-look-at-the-biggest-players/",
+      "source": "Breitbart News Network",
+      "publishedAt": "2026-10-26T14:45:48Z",
+      "image": "https://media.breitbart.com/media/2026/06/wi/ap/spacex-ipo-87145-spacex-ipo-elon-musk-departs-ceremony-president-donald-trump-china-president-640x335.jpg",
+      "title_cn": "那些从事人工智能领域的公司正迅速在华尔街取得重要突破。让我们来看看其中最著名的几家企业吧。",
+      "description_cn": "一些领先的人工智能公司计划在今年进行首次公开募股，其估值相当高。这些公司包括一些顶尖的企业。"
+    },
+    {
+      "title": "Anthropic warns investors of political risks as it prepares to go public",
+      "description": "The artificial intelligence company said its public positions on AI safety and regulation could invite backlash, scrutiny and restrictions as it prepares to go public.",
+      "url": "https://www.politico.com/news/2026/10/26/anthropic-warns-investors-of-political-risks-01135241",
+      "source": "POLITICO",
+      "publishedAt": "2026-10-26T14:43:00Z",
+      "image": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fff%2F68%2F23916b7b4e318001c9e6712a45ca%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2249797221",
+      "title_cn": "人类风险警示公司提醒投资者注意政治风险，该公司正在准备上市。",
+      "description_cn": "这家人工智能公司表示，在准备上市之际，其关于人工智能安全与监管的公开声明可能会引发反对意见、审查以及各种限制措施。"
+    },
+    {
+      "title": "AI Giant Anthropic Files for IPO, Eyes Major Market Debut",
+      "description": "AI Giant Anthropic Files for IPO, Eyes Major Market Debut - San Francisco-based artificial intelligence (AI) company Anthropic officially filed documents on Monday for its highly anticipated initial public offering ... Get Latest News on Business only on lokmattimes.com",
+      "url": "https://www.lokmattimes.com/business/ai-giant-anthropic-files-for-ipo-eyes-major-market-debut-a001-w03/",
+      "source": "Lokmat Times",
+      "publishedAt": "2026-10-26T14:35:25Z",
+      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/PTI-anthropic-ipo-filing-ai-market-buzz_202610.jpg",
+      "title_cn": "人工智能巨头Anthropic申请上市，计划在主要市场进行首次公开募股",
+      "description_cn": "人工智能巨头Anthropic申请上市，计划在主要市场进行首次公开募股——位于旧金山的人工智能公司Anthropic于周一正式提交了其备受期待的首次公开募股的相关文件……更多商业新闻请访问lokmattimes.com。"
+    },
+    {
+      "title": "A look at the major players in the industry",
+      "description": "Some of the leading artificial intelligence companies are moving toward initial public offerings at eye-popping valuations. Anthropic and OpenAI are looking to go public to access more capital in the race to shape the technology’s future.",
+      "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/10/26/ai-companies-are-barrelling-toward-huge-wall-street-debuts-a-look-at-the-biggest-players/",
+      "source": "Bnn Bloomberg",
+      "publishedAt": "2026-10-26T14:30:43Z",
+      "image": "https://www.bnnbloomberg.ca/resizer/v2/MW3P5QFWDYDTBIL6YNODODYEVE.jpg?smart=true&auth=911c0999790821b85684401815c0a5e74c9bc766bf70db4a22be35354671d8d1&width=1200&height=630",
+      "title_cn": "看看这个行业中的主要参与者们",
+      "description_cn": "一些领先的人工智能公司正在以极高的估值进行首次公开募股。Anthropic和OpenAI都希望通过上市来获得更多资金，以推动这项技术的未来发展。"
+    }
+  ]
+}
