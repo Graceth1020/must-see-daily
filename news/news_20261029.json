@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-10-29T03:40:52Z",
+  "finance": [
+    {
+      "title": "Fed chairman talks tough on inflation — plus, what's behind Micron's big rally",
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "url": "https://www.cnbc.com/investingclub/2026/10/28/fed-chairman-talks-tough-on-inflation-plus-whats-behind-microns-big-rally.html",
+      "source": "CNBC",
+      "datetime": 1793215055,
+      "image": "https://image.cnbcfm.com/api/v1/image/108352482-1787272514906-IMG_8261.jpeg?v=1787272676&w=1920&h=1080",
+      "title_cn": "美联储主席对通货膨胀问题表达了强硬立场——此外，还探讨了美光股价上涨背后的原因。",
+      "summary_cn": "每个工作日，投资俱乐部都会发布Homestretch;一个可操作的下午更新，正好赶上交易的最后一个小时。"
+    },
+    {
+      "title": "Bond investor Jeff Gundlach talks to CNBC about Fed's rate pause, Warsh reducing vote-setting meetings",
+      "summary": "The DoubleLine founder spoke with CNBC's \"Closing Bell\" on Wednesday after the Fed announced its decision to hold interest rates steady.",
+      "url": "https://www.cnbc.com/2026/10/28/bond-investor-jeff-gundlach-talks-feds-rate-pause-with-cnbc.html",
+      "source": "CNBC",
+      "datetime": 1793214330,
+      "image": "https://image.cnbcfm.com/api/v1/image/108342041-1785356381074-gettyimages-2219071094-BLOOMBERG_CREDIT.jpeg?v=1789588213&w=1920&h=1080",
+      "title_cn": "债券投资者杰夫·冈德拉克在CNBC节目中讨论了美联储的利率暂停政策，以及沃什对投票程序的调整建议。",
+      "summary_cn": "DoubleLine的创始人于周三在CNBC的“Closing Bell”节目中发表了讲话，当时美联储宣布了维持利率不变的决定。"
+    },
+    {
+      "title": "We're adding a new, high-profile AI play to our Bullpen stocks to watch list",
+      "summary": "With the Club portfolio now down to 31 positions, we are working on new ideas to add to the Bullpen.",
+      "url": "https://www.cnbc.com/investingclub/2026/10/28/were-adding-a-new-high-profile-ai-stock-to-our-bullpen.html",
+      "source": "CNBC",
+      "datetime": 1793212433,
+      "image": "https://image.cnbcfm.com/api/v1/image/108196912-1757519281221-gettyimages-2223423631-20090101250708-99-391116.jpeg?v=1775492935&w=1920&h=1080",
+      "title_cn": "我们正在将一个新的、备受关注的AI工具加入我们的“值得关注的工具列表”中。",
+      "summary_cn": "随着俱乐部球员名单现在减少到31人，我们正在思考新的补充方案，以完善球队的投手阵容。"
+    },
+    {
+      "title": "GE Vernova shares slip despite a beat-and-raise. What the sellers are getting wrong",
+      "summary": "We're reiterating our buy-equivalent 1 rating on the stock after another strong earnings report.",
+      "url": "https://www.cnbc.com/investingclub/2026/10/28/ge-vernova-shares-slip-despite-a-beat-and-raise-what-the-sellers-are-getting-wrong.html",
+      "source": "CNBC",
+      "datetime": 1793209844,
+      "image": "https://image.cnbcfm.com/api/v1/image/108295410-1776870973932-GE-OB-Photo-20260421-KK-PRESS-021.jpg?v=1776871106&w=1920&h=1080",
+      "title_cn": "尽管GE Vernova的股价有所上涨，但其股票还是出现了下跌。那些卖房者到底哪里出错了呢？",
+      "summary_cn": "在又一份强劲的财报发布之后，我们继续给予这家公司股票“买入”评级。"
+    },
+    {
+      "title": "Jim Cramer sees buying opportunities in these 2 beaten-down stocks",
+      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "url": "https://www.cnbc.com/investingclub/2026/10/28/jim-cramer-sees-buying-opportunities-in-these-2-beaten-down-stocks.html",
+      "source": "CNBC",
+      "datetime": 1793202983,
+      "image": "https://image.cnbcfm.com/api/v1/image/108371276-1790880093675-gettyimages-2271074553-BOEING_FACTORY.jpeg?v=1790880143&w=1920&h=1080",
+      "title_cn": "吉姆·克拉默认为，在这两支已被大幅抛售的股票中，仍然存在买入的机会。",
+      "summary_cn": "投资俱乐部每个工作日上午10：20举行“晨会”。"
+    }
+  ],
+  "ai": [
+    {
+      "title": "Vertiv: even analysts underestimated the data-center frenzy",
+      "description": "Vertiv handily beat expectations in Q3, benefiting from accelerating investment in infrastructure dedicated to artificial intelligence. The US specialist in electrical and cooling equipment for data...",
+      "url": "https://www.marketscreener.com/news/vertiv-even-analysts-underestimated-the-data-center-frenzy-ce785cd2de8dfe20",
+      "source": "MarketScreener",
+      "publishedAt": "2026-10-28T15:24:16Z",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0/https://cdn.zonebourse.com/static/resize/0/0//images/ImagesTagged/zbimg_3255098_800.png",
+      "title_cn": "Vertiv：就连分析师们也低估了数据中心建设的热潮。",
+      "description_cn": "Vertiv在第三季度表现超出预期，这得益于公司在人工智能相关基础设施方面的投资不断增加。这家专注于提供电气与制冷设备的美国企业……"
+    },
+    {
+      "title": "Formation Bio launches $600M fund to accelerate AI",
+      "description": "Formation Bio is launching a $600 million investment fund to acquire promising experimental medicines and move them through clinical trials faster using artificial intelligence. The New York-based biotech company is betting that the pharmaceutical industry's biggest problem isn't finding new drugs. It's getting them through the costly, time-consuming development process and into patients' hands. The",
+      "url": "https://techstartups.com/2026/10/28/formation-bio-launches-600m-fund-to-accelerate-ai-powered-drug-development/",
+      "source": "TechStartups.com",
+      "publishedAt": "2026-10-28T15:03:47Z",
+      "image": "https://techstartups.com/wp-content/uploads/2026/10/Formation-Bio-960x597.jpg",
+      "title_cn": "Formation Bio推出了一项价值6亿美元的资金计划，旨在加速人工智能技术的发展。",
+      "description_cn": "Formation Bio公司正在推出一个价值6亿美元的投资基金，旨在收购那些具有潜力的实验性药物，并通过人工智能技术加速这些药物的临床试验进程。这家位于纽约的生物技术公司认为，制药行业面临的最大问题并非是找到新的药物，而是如何让这些药物通过成本高昂、耗时漫长的研发过程，最终被患者所使用。"
+    },
+    {
+      "title": "AI assistance may weaken independent problem-solving and persistence, study finds",
+      "description": "Artificial intelligence can help people solve problems faster, but relying on it for ready-made answers may make them less willing and able to work",
+      "url": "https://timesofindia.indiatimes.com/technology/aiq/ai-assistance-may-weaken-independent-problem-solving-and-persistence-study-finds/articleshow/135269979.cms",
+      "source": "Times of India",
+      "publishedAt": "2026-10-28T14:51:00Z",
+      "image": "https://static.toiimg.com/thumb/msid-135270335,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "title_cn": "研究发现，人工智能的辅助功能可能会削弱人们独立解决问题和坚持执行任务的能力。",
+      "description_cn": "人工智能可以帮助人们更快地解决问题，但依赖其提供的现成答案可能会使人们变得不那么愿意或能够主动去工作。"
+    },
+    {
+      "title": "Disinformation videos, likely from Russia, are exploiting real people to malign Senate candidates",
+      "description": "Social media videos believed to be produced with artificial intelligence and linked to Russia are misusing real people’s names and photographs to spread",
+      "url": "https://www.europesays.com/3337566/",
+      "source": "EUROPE SAYS",
+      "publishedAt": "2026-10-28T14:48:20Z",
+      "image": "https://www.europesays.com/wp-content/uploads/2026/10/1793198903.jpeg",
+      "title_cn": "这些虚假信息视频很可能是来自俄罗斯的，它们利用真实的人来诋毁参议院的候选人。",
+      "description_cn": "那些被认为是由人工智能制作并与俄罗斯有关的社交媒体视频，实际上是在滥用真实人物的姓名和照片来传播虚假信息。"
+    },
+    {
+      "title": "SAP swaps costly AI models for cheaper alternatives, targets over €2 billion in gains",
+      "description": "Oct 28 (Reuters) - ⁠SAP, whose software is used by many of ⁠the world's largest companies, is replacing some expensive ‌artificial-intelligence models powering its products with cheaper alternatives, a move it expects will generate more than €2 billion in efficiency gains over the ​next two years.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/10/28/sap-swaps-costly-ai-models-for-cheaper-alternatives-targets-over-2-billion-in-gains",
+      "source": "The Star",
+      "publishedAt": "2026-10-28T14:45:00Z",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/10/28/4185298.jpg",
+      "title_cn": "SAP用成本较低的AI模型替代那些昂贵的模型，预计能带来超过20亿欧元的收益。",
+      "description_cn": "10月28日（路透社）——SAP是一家拥有软件解决方案的公司，其产品被全球许多大型企业所使用。目前，SAP正在用成本较低的替代方案替换那些用于驱动其产品的昂贵人工智能模型。预计这一举措将在未来两年内为该公司带来超过20亿欧元的效率提升。"
+    }
+  ]
+}
