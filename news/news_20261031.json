@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-10-31T03:27:45Z",
+  "finance": [
+    {
+      "title": "Jim Cramer says it's time to look beyond tech. Here are 4 consumer stocks he likes",
+      "summary": "Cramer said investors looking to diversify beyond the struggling AI trade should consider consumer staples.",
+      "url": "https://www.cnbc.com/2026/10/30/jim-cramer-consumer-staples-stocks.html",
+      "source": "CNBC",
+      "datetime": 1793400724,
+      "image": "https://image.cnbcfm.com/api/v1/image/103097578-GettyImages-493449710.jpg?v=1762199297&w=1920&h=1080",
+      "title_cn": "吉姆·克拉默认为，是时候关注那些超越科技领域的投资机会了。以下是他比较喜欢的4只消费类股票。",
+      "summary_cn": "克拉默表示，那些希望从表现不佳的人工智能领域转向其他领域的投资者，应该考虑投资消费品行业。"
+    },
+    {
+      "title": "Tech gets crushed, defensive stocks shine. How we're making sense of it all",
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "url": "https://www.cnbc.com/investingclub/2026/10/30/tech-gets-crushed-defensive-stocks-shine-how-were-making-sense-of-it-all.html",
+      "source": "CNBC",
+      "datetime": 1793386544,
+      "image": "https://image.cnbcfm.com/api/v1/image/108295609-1776882616323-gettyimages-2271950132-AFP_A8NJ9YH.jpeg?v=1776882638&w=1920&h=1080",
+      "title_cn": "科技类股票遭遇重挫，而防御型股票则表现亮眼。我们该如何理解这一现象呢？",
+      "summary_cn": "每个工作日，投资俱乐部都会发布Homestretch;一个可操作的下午更新，正好赶上交易的最后一个小时。"
+    },
+    {
+      "title": "Why bitcoin held up better after the record Binance hack",
+      "summary": "Bitcoin was trading down about 4% on Friday afternoon, less than a day after the biggest crypto hack in history.",
+      "url": "https://www.cnbc.com/2026/10/30/binance-hack-bitcoin-price.html",
+      "source": "CNBC",
+      "datetime": 1793383620,
+      "image": "https://image.cnbcfm.com/api/v1/image/108484198-1793330361900-gettyimages-2206279872-AA_25032025_2144027.jpeg?v=1793379056&w=1920&h=1080",
+      "title_cn": "为什么在Binance遭遇严重黑客攻击之后，比特币的表现仍然较为稳定？",
+      "summary_cn": "周五下午，比特币的价格下跌了约4%。这发生在史上最严重的加密货币黑客事件发生不到一天之后。"
+    },
+    {
+      "title": "Halloween gets pricier as chocolate costs climb — Hershey may feel the pinch",
+      "summary": "Higher cocoa and sugar prices are fueling above-average cost inflation for candy",
+      "url": "https://www.cnbc.com/2026/10/30/halloween-gets-pricier-as-chocolate-costs-rise-hershey-could-feel-it.html",
+      "source": "CNBC",
+      "datetime": 1793377875,
+      "image": "https://image.cnbcfm.com/api/v1/image/108216038-1761233682571-gettyimages-2240168883-img_8556.jpeg?v=1761233698&w=1920&h=1080",
+      "title_cn": "随着巧克力价格的上涨，万圣节相关的商品也越来越贵了——好时公司可能会因此受到一些影响。",
+      "summary_cn": "可可粉和糖的价格上涨，导致糖果产品的成本超出平均水平。"
+    },
+    {
+      "title": "St. Louis Fed's Musalem: Tighter monetary policy is needed 'soon'",
+      "summary": "Musalem's comments offer the first morsels of insight into what leaders at the Fed see next following this week's decision to hold interst rates steady.",
+      "url": "https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html",
+      "source": "CNBC",
+      "datetime": 1793377816,
+      "image": "https://image.cnbcfm.com/api/v1/image/108105145-17400781462025-02-20t184936z_2090028325_rc2hycaxwx8g_rtrmadp_0_usa-fed-musalem.jpeg?v=1758551164&w=1920&h=1080",
+      "title_cn": "圣路易斯联邦储备银行的穆萨莱姆表示：需要“尽快”实施更严格的货币政策。",
+      "summary_cn": "Musalem的评论为我们提供了一些关于美联储领导层在未来如何应对本周决定保持利率不变这一情况的初步见解。"
+    }
+  ],
+  "ai": [
+    {
+      "title": "After ‘hitting’ RAM supply, AI demand may have triggered another key component shortage for PC makers",
+      "description": "First it was memory chips (RAM) and processors, now, the boom in artificial intelligence (AI) computing is squeezing another foundational piece of",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/after-hitting-ram-supply-ai-demand-may-have-triggered-another-key-component-shortage-for-pc-makers/articleshow/135367269.cms",
+      "source": "Times of India",
+      "publishedAt": "2026-10-30T14:57:00Z",
+      "image": "https://static.toiimg.com/thumb/msid-135367297,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "title_cn": "在RAM供应出现短缺之后，AI相关产品的需求可能又引发了PC制造商的另一个关键零部件短缺问题。",
+      "description_cn": "起初是内存芯片（RAM）和处理器，而现在，人工智能计算领域的快速发展正推动着另一个基础技术的变革。"
+    },
+    {
+      "title": "Startup Funding News Today, October 30, 2026: Kalshi, Cohere, Bites, Dulo, Opentrons, Firehawk Defense, Wabi & More",
+      "description": "More than $1.77 billion in newly announced venture-equity financing flowed into financial technology, artificial intelligence, defense manufacturing, battery materials, and enterprise automation over the past 24 hours. Kalshi led the day's funding announcements with a $1 billion Series G at a $40 billion valuation, while Canadian AI startup Cohere announced the initial closing of a",
+      "url": "https://techstartups.com/2026/10/30/startup-funding-news-today-october-30-2026-kalshi-cohere-bites-dulo-opentrons-firehawk-defense-more/",
+      "source": "TechStartups.com",
+      "publishedAt": "2026-10-30T14:53:07Z",
+      "image": "https://techstartups.com/wp-content/uploads/2026/10/Bites.io-founders.jpg",
+      "title_cn": "2026年10月30日，关于初创企业融资的新闻：Kalshi、Cohere、Bites、Dulo、Opentrons、Firehawk Defense、Wabi等公司的动态。",
+      "description_cn": "在过去24小时内，有超过17.7亿美元的新一轮风险投资资金流入了金融科技、人工智能、国防制造、电池材料以及企业自动化领域。Kalshi公司今天宣布了最大的一笔投资，一笔价值100亿美元的G系列融资，该项目的估值达到了400亿美元；而加拿大的人工智能初创公司Cohere则宣布已完成了一笔初始融资。"
+    },
+    {
+      "title": "TRAI releases draft AI guidelines for telecom sector, seeks public comments by November 27",
+      "description": "The proposed framework aims to ensure safe, accountable and responsible integration of artificial intelligence into telecommunication networks and services",
+      "url": "https://www.tribuneindia.com/news/business/trai-releases-draft-ai-guidelines-for-telecom-sector-seeks-public-comments-by-november-27/",
+      "source": "The Tribune",
+      "publishedAt": "2026-10-30T14:47:16Z",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTQwNzQ5MDkwLWQ0NzEtMTFmMS1iYTAzLTc3OTVjZGZhOTdmZS5qcGc=",
+      "title_cn": "TRAI发布了电信行业的AI应用指南草案，希望能在11月27日之前收到公众的意见反馈。",
+      "description_cn": "该框架旨在确保人工智能在电信网络和服务中的使用是安全、负责任且符合道德的。"
+    },
+    {
+      "title": "Lawsuit: AI recording tool used by AHN, Highmark violates patient rights",
+      "description": "A Pittsburgh-area woman who disclosed sensitive and confidential medical information to her doctor is suing Allegheny Health Network and Highmark alleging that she was not properly notified about the artificial intelligence recording tool they use in the clinical setting. The lawsuit, filed Thursday in Allegheny County Common Pleas Court, said",
+      "url": "https://triblive.com/news/health-now/lawsuit-ai-recording-tool-used-by-ahn-highmark-violates-patient-rights/",
+      "source": "Pittsburgh Tribune-Review",
+      "publishedAt": "2026-10-30T14:23:02Z",
+      "image": "https://assets-varnish.triblive.com/2026/10/10085365_web1_PTR-City-County-Building-Ross-St-090126.jpeg",
+      "title_cn": "诉讼：AHN和Highmark公司使用的AI录音工具侵犯了患者的权利",
+      "description_cn": "一位来自匹兹堡地区的女性向她的医生透露了敏感且机密的医疗信息。她现在起诉了Allegheny Health Network和Highmark公司，声称他们没有充分告知她他们在临床工作中使用的智能录音工具的相关情况。这份诉讼文件于周四在阿勒格尼县民事法庭提起。"
+    },
+    {
+      "title": "US stocks tumble after disappointing tech results",
+      "description": "NEW YORK - Wall Street stocks fell early on Friday, with the tech-focused Nasdaq sinking more than two percent following disappointing results that added to worries about the artificial intelligence investment boom.",
+      "url": "https://www.bangkokpost.com/business/general/3345429/us-stocks-tumble-after-disappointing-tech-results",
+      "source": "Bangkok Post",
+      "publishedAt": "2026-10-30T14:18:00Z",
+      "image": "https://static.bangkokpost.com/media/content/20261030/c1_3345429_700.jpg",
+      "title_cn": "美国股市在科技行业业绩令人失望后大幅下跌",
+      "description_cn": "纽约——周五早盘时，华尔街的股票价格下跌。以科技股为主的纳斯达克指数跌幅超过2%，这反映出公司业绩令人失望，进一步引发了人们对人工智能领域投资热潮的担忧。"
+    }
+  ]
+}
