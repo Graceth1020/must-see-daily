@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-11-01T03:30:25Z",
+  "finance": [
+    {
+      "title": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
+      "summary": "The Colossus data centers and a power plant that SpaceXAI is also building in Southaven, Mississippi, have faced community backlash for years.",
+      "url": "https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html",
+      "source": "CNBC",
+      "datetime": 1793472997,
+      "image": "https://image.cnbcfm.com/api/v1/image/108334421-1783985304743-xAI_Power_Plant_12.jpg?v=1784162069&w=1920&h=1080",
+      "title_cn": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "Binance, crypto and hacks: What to know about keeping coin safe as cyber criminals advance",
+      "summary": "The Binance hack of $6.3 billion, the largest crypto theft ever, is a wake-up call for investors to understand how coin is guarded and the risk of losing it.",
+      "url": "https://www.cnbc.com/2026/10/31/binance-crypto-hack-safety.html",
+      "source": "CNBC",
+      "datetime": 1793455120,
+      "image": "https://image.cnbcfm.com/api/v1/image/108491975-1793452126817-gettyimages-2248692610-nodes001.jpeg?v=1793452141&w=1920&h=1080",
+      "title_cn": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "In the wake of Weil, a legal recruiter's advice for surviving a company wind-down",
+      "summary": "Legal recruiter Danielle Thompson shares her best advice for the employees of Weil, Gotshal & Manges and others who face a company wind-down or dissolution.",
+      "url": "https://www.cnbc.com/make-it/2026/10/31/weil-wind-down-career-advice.html",
+      "source": "CNBC",
+      "datetime": 1793452021,
+      "image": "https://image.cnbcfm.com/api/v1/image/108487952-1793387914781-gettyimages-1390191632-vegf05455.jpeg?v=1793387981&w=1920&h=1080",
+      "title_cn": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "35-year-old took on $20K in debt to launch a business from her dining room—now it brings in 8 figures a year",
+      "summary": "Set Active founder Lindsey Carter shares how she learned to separate her professional stress from her personal life while growing her athleisure company.",
+      "url": "https://www.cnbc.com/make-it/2026/10/31/set-active-lindsey-carter-entrepreneurship.html",
+      "source": "CNBC",
+      "datetime": 1793451901,
+      "image": "https://image.cnbcfm.com/api/v1/image/108452641-1792778844118-IMG_4134.jpg?v=1792778928&w=1920&h=1080",
+      "title_cn": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "Berkshire ekes out some new highs, but October rally stalls",
+      "summary": "Berkshire Hathaway shares managed to set a few more all-time highs in an otherwise lackluster week of trading.",
+      "url": "https://www.cnbc.com/2026/10/31/berkshire-ekes-out-some-new-highs-but-october-rally-stalls.html",
+      "source": "CNBC",
+      "datetime": 1793449560,
+      "image": "https://image.cnbcfm.com/api/v1/image/108140490-1746283733049-BUFFETT_3.jpg?v=1747341825&w=1920&h=1080",
+      "title_cn": "",
+      "summary_cn": ""
+    }
+  ],
+  "ai": [
+    {
+      "title": "IISc Director Prof. Rangarajan Flags AI’s Promise and Perils at Adani University’s Third Convocation; 374 Students Graduate",
+      "description": "As a Chief Guest, Prof. Govindan Rangarajan, Director of the Indian Institute of Science (IISc), addressed artificial intelligence’s (AI) impact on education, research and society, including concerns over the erosion of truth and weakening human relationships.",
+      "url": "https://www.republicworld.com/initiatives/iisc-director-prof-rangarajan-flags-ais-promise-and-perils-at-adani-universitys-third-convocation-374-students-graduate-2026-10-31-140146",
+      "source": "Republic World",
+      "publishedAt": "2026-10-31T15:05:38Z",
+      "image": "https://img.republicworld.com/all_images/2026/10/iisc-director-prof-rangarajan-flags-ais-promise-and-perils-at-adani-universitys-third-convocation-374-students-graduate-1793459130696-1280x720.webp",
+      "title_cn": "",
+      "description_cn": ""
+    },
+    {
+      "title": "Mourinho talks about the impact of the China crisis on Mbappe and settles Vinicius's fate after the suspension",
+      "description": "The Portuguese coach: Mbappé is very intelligent and I need Vinícius José Mourinho has leapt to the defence of Kylian Mbappé amid the storm over his recent crisis linked to China and the use of artificial intelligence to fake facial images.",
+      "url": "https://www.yardbarker.com/soccer/articles/mourinho_talks_about_the_impact_of_the_china_crisis_on_mbappe_and_settles_viniciuss_fate_after_the_suspension/s1_17790_44497413",
+      "source": "Yardbarker",
+      "publishedAt": "2026-10-31T14:45:23Z",
+      "image": "https://us-west-2-gw-2.yardbarker.com/images/yb_white_on_black_medium.jpg",
+      "title_cn": "",
+      "description_cn": ""
+    },
+    {
+      "title": "Coast Guard chief stresses importance of human judgement amid rise of AI, emerging tech",
+      "description": "Indian Coast Guard Director General Paramesh Sivamani has said artificial intelligence and emerging technologies can strengthen maritime security but cannot replace human judgement, conscience or courage. Addressing Karnavati University's convocation, he outlined the Coast Guard's expanding technological capabilities, highlighted India's maritime security priorities and urged graduates to place integrity and responsibility at the centre of their careers.",
+      "url": "https://economictimes.indiatimes.com/news/defence/coast-guard-chief-stresses-importance-of-human-judgement-amid-rise-of-ai-emerging-tech/articleshow/135403844.cms",
+      "source": "The Economic Times",
+      "publishedAt": "2026-10-31T14:44:00Z",
+      "image": "https://img.etimg.com/thumb/msid-135404142,width-1200,height-900,imgsize-181380,overlay-etdefence/articleshow.jpg",
+      "title_cn": "",
+      "description_cn": ""
+    },
+    {
+      "title": "AI's Promise and Perils: IISc Director Highlights Truth and Trust Concerns at Adani University Convocation",
+      "description": "AI's Promise and Perils: IISc Director Highlights Truth and Trust Concerns at Adani University Convocation - Ahmedabad: Artificial Intelligence (AI) holds immense potential for education and scientific advancement, but its rapid growth also brings significant ... Get Latest News on Technology only on lokmattimes.com",
+      "url": "https://www.lokmattimes.com/technology/ais-promise-and-perils-iisc-director-highlights-truth-and-trust-concerns-at-adani-university-convocation-a001-w02/",
+      "source": "Lokmat Times",
+      "publishedAt": "2026-10-31T14:10:38Z",
+      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202610313998149_202610.jpeg",
+      "title_cn": "",
+      "description_cn": ""
+    },
+    {
+      "title": "Judge Raises Child Privacy Concerns Over Disney's $20 Million Character.AI Deal",
+      "description": "A federal bankruptcy judge has urged Character.AI to appoint an independent privacy expert amid concerns about the platform's potential harm to children, as The Walt Disney Company moves forward with a $20 million bid to license its artificial intelligence technology.",
+      "url": "https://wdwnt.com/2026/10/judge-raises-child-privacy-concerns-over-disneys-20-million-character-ai-deal/",
+      "source": "wdwnt.com",
+      "publishedAt": "2026-10-31T14:00:00Z",
+      "image": "https://r2-media.wdwnt.com/2026/10/character-ai-edited.jpg",
+      "title_cn": "",
+      "description_cn": ""
+    }
+  ]
+}
