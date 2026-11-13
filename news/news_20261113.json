@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-11-13T04:19:14Z",
+  "finance": [
+    {
+      "title": "Without Jensen Huang, Nvidia's organizational structure isn't 'built to last,' management expert says",
+      "summary": "Nvidia's flat management structure could pose challenges for Huang's successor, according to experts.",
+      "url": "https://www.cnbc.com/make-it/2026/11/12/nvidia-jensen-huang-management-structure.html",
+      "source": "CNBC",
+      "datetime": 1794521168,
+      "image": "https://image.cnbcfm.com/api/v1/image/108546139-1794240325781-108546139-1794228912264-gettyimages-2301620664-20090101261026-99-66998.jpg?v=1794519843&w=1920&h=1080",
+      "title_cn": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "Cerebras surges 13% after beating on quarterly revenue and announcing Microsoft deal",
+      "summary": "Cerebras announced a new deal with Microsoft after partnering with major cloud providers Amazon and Oracle.",
+      "url": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
+      "source": "CNBC",
+      "datetime": 1794518613,
+      "image": "https://image.cnbcfm.com/api/v1/image/108550490-1794515369096-gettyimages-2299540938-TECHCRUNCH_DISRUPT.jpeg?v=1794515427&w=1920&h=1080",
+      "title_cn": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "Cisco beats on earnings, says AI infrastructure revenue will double this fiscal year",
+      "summary": "Cisco is trying to become a bigger player in AI after missing out on the early years of the boom.",
+      "url": "https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html",
+      "source": "CNBC",
+      "datetime": 1794518435,
+      "image": "https://image.cnbcfm.com/api/v1/image/108264683-1770843445357-gettyimages-2256809517-DAVOS_WEF_2026.jpeg?v=1770843513&w=1920&h=1080",
+      "title_cn": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "Microsoft outage hits Outlook. AWS and Google users also report issues",
+      "summary": "Amazon Web Services and Google users also reported outages on Thursday",
+      "url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+      "source": "CNBC",
+      "datetime": 1794517074,
+      "image": "https://image.cnbcfm.com/api/v1/image/108465628-17930473022026-10-26t203948z_25222247_rc28boaxmoul_rtrmadp_0_microsoft-buyouts.jpeg?v=1793047365&w=1920&h=1080",
+      "title_cn": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "United Airlines won’t let AI agents book your flight. Expert says you shouldn't let a bot do that for you, anyway",
+      "summary": "AI agents can save you time, but an expert says decisions involving your health, wealth and privacy still need human input.",
+      "url": "https://www.cnbc.com/make-it/2026/11/12/ai-agents-human-in-loop.html",
+      "source": "CNBC",
+      "datetime": 1794515099,
+      "image": "https://image.cnbcfm.com/api/v1/image/108354100-1787685448125-gettyimages-2291484368-UNITED_NEWARK.jpeg?v=1794514770&w=1920&h=1080",
+      "title_cn": "",
+      "summary_cn": ""
+    }
+  ],
+  "ai": [
+    {
+      "title": "Dark Sky Films Acquires Stephen Kay's ‘ANSWR’",
+      "description": "The film is said to “examine the increasingly blurred boundaries between human emotion and artificial intelligence.”",
+      "url": "https://deadline.com/2026/11/answr-dark-sky-films-afm-stephen-kay-1237221677/",
+      "source": "Deadline",
+      "publishedAt": "2026-11-12T16:14:22Z",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/ANSWR_Still_Colt_02.jpg?w=1024",
+      "title_cn": "",
+      "description_cn": ""
+    },
+    {
+      "title": "hit Jensen Huang quits as Nvidia CEO; Chief Financial Officer Colette Kress named interim chief",
+      "description": "Nvidia CEO Jensen Huang resigned Thursday after his extramarital affair raised national security concerns, in a spectacular downfall for the longtime head of the chipmaker, a vital player in the artificial intelligence boom.",
+      "url": "https://www.tribuneindia.com/news/world/scandal-hit-jensen-huang-quits-as-nvidia-ceo-cfo-colette-kress-named-interim-chief/",
+      "source": "The Tribune",
+      "publishedAt": "2026-11-12T16:03:29Z",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWRlYTk2OTAwLWRlYjQtMTFmMS1iNDhmLTExMWE4MGEyNWU2MS5qcGc=",
+      "title_cn": "",
+      "description_cn": ""
+    },
+    {
+      "title": "China’s AI firms seek Nvidia chip capacity",
+      "description": "BEIJING — Chinese artificial intelligence (AI) companies are trying to rent Nvidia-powered computing capacity at data centers outside China, concerned that a scandal involving the US chipmaker’s chief executive Jensen Huang could spur Washington to tighten restrictions on their remote use of advanced processors.",
+      "url": "https://www.manilatimes.net/2026/11/13/business/foreign-business/chinas-ai-firms-seek-nvidia-chip-capacity/2468348",
+      "source": "The Manila Times",
+      "publishedAt": "2026-11-12T16:03:00Z",
+      "image": "https://manilatimes.net/manilatimes/uploads/images/2026/11/12/1304533.jpg",
+      "title_cn": "",
+      "description_cn": ""
+    },
+    {
+      "title": "The AI Revolution Meets America's Measles Regression",
+      "description": "As America spends hundreds of billions on artificial intelligence, rising measles cases expose a troubling reversal in public health progress.",
+      "url": "https://www.newsweek.com/america-measles-elimination-status-ai-revolution-12705655",
+      "source": "Newsweek",
+      "publishedAt": "2026-11-12T15:57:33Z",
+      "image": "https://assets.newsweek.com/wp-content/uploads/2026/11/AP26293778494826.jpg?w=1200&crop=1",
+      "title_cn": "",
+      "description_cn": ""
+    },
+    {
+      "title": "Concurrent Technologies Corporation Names Two New Members to Technical Advisory Board",
+      "description": "TAB expansion deepens artificial intelligence, national security, cyber, and mission solutions expertise to support CTC’s clients",
+      "url": "https://www.manilatimes.net/2026/11/12/tmt-newswire/globenewswire/concurrent-technologies-corporation-names-two-new-members-to-technical-advisory-board/2468856",
+      "source": "The Manila Times",
+      "publishedAt": "2026-11-12T15:56:53Z",
+      "image": "https://manilatimes.net/manilatimes/uploads/images/2026/11/12/1305506.jpg",
+      "title_cn": "",
+      "description_cn": ""
+    }
+  ]
+}
