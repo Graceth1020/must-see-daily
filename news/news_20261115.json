@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-11-15T03:59:34Z",
+  "finance": [
+    {
+      "title": "SpaceX, in a historic first, catches upper stage of its Starship rocket",
+      "summary": "Starship Test Flight 15 marks the first time Elon Musk's company has tried to catch both the booster and upper stage of the rocket.",
+      "url": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html",
+      "source": "CNBC",
+      "datetime": 1794691591,
+      "image": "https://image.cnbcfm.com/api/v1/image/108551491-1794611116156-gettyimages-2304487605-AFP_D7FF9MN.jpeg?v=1794611301&w=1920&h=1080",
+      "title_cn": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "Nvidia's leadership crisis rattles the AI trade. Here's how we're adjusting our portfolio",
+      "summary": "Despite the turbulence, the S&P 500 secured a weekly gain of 2.5%, while the tech-heavy Nasdaq added 2.3%.",
+      "url": "https://www.cnbc.com/investingclub/2026/11/14/nvidias-leadership-crisis-rattles-wall-street-how-were-adjusting.html",
+      "source": "CNBC",
+      "datetime": 1794682119,
+      "image": "https://image.cnbcfm.com/api/v1/image/108549797-1794473558680-gettyimages-2300707653-261019_KBMW_PHT102.jpeg?v=1794473568&w=1920&h=1080",
+      "title_cn": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "Rising rents draw Wall Street money to industrial outdoor storage lot investments across the U.S.",
+      "summary": "A real estate investment in markets across the U.S. called 'industrial outdoor storage' is attracting Wall Street giants including Brookfield and Blackstone.",
+      "url": "https://www.cnbc.com/2026/11/14/real-estate-rental-income-industrial-storage-market.html",
+      "source": "CNBC",
+      "datetime": 1794669297,
+      "image": "https://image.cnbcfm.com/api/v1/image/108549406-1794431992526-gettyimages-2228684594-dji_20250805110916_0215_d_jsenib21.jpeg?v=1794433155&w=1920&h=1080",
+      "title_cn": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "Juice your growth and save on taxes in this workplace investment account",
+      "summary": "High-deductible medical benefit plans with health savings accounts are on the menu at many employers as enrollment season for 2027 continues.",
+      "url": "https://www.cnbc.com/2026/11/14/hsa-investing-tax-benefits.html",
+      "source": "CNBC",
+      "datetime": 1794665297,
+      "image": "https://image.cnbcfm.com/api/v1/image/108260302-1770056020760-gettyimages-2208880941-_dsc0378.jpeg?v=1787685894&w=1920&h=1080",
+      "title_cn": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "Retailers are turning to entertainment to win shoppers’ attention",
+      "summary": "Retailers are increasingly investing in and building out entertainment studios as the race for audience attention speeds up.",
+      "url": "https://www.cnbc.com/2026/11/14/retailers-invest-entertainment.html",
+      "source": "CNBC",
+      "datetime": 1794661201,
+      "image": "https://image.cnbcfm.com/api/v1/image/108527434-1793906235283-GAP_JYT_GROUP_SHOT.jpg?v=1794430218&w=1920&h=1080",
+      "title_cn": "",
+      "summary_cn": ""
+    }
+  ],
+  "ai": [
+    {
+      "title": "The Nvidia scandal is heightening America’s AI rivalry with China ahead of Trump’s visit",
+      "description": "HONG KONG — Well before reports emerged that former Nvidia CEO Jensen Huang was having an affair with a suspected Chinese spy, the advanced chips made by his company were at the center of the race between the U.S. and China to dominate artificial intelligence. The scandal now threatens to",
+      "url": "https://triblive.com/news/world/the-nvidia-scandal-is-heightening-americas-ai-rivalry-with-china-ahead-of-trumps-visit/",
+      "source": "Pittsburgh Tribune-Review",
+      "publishedAt": "2026-11-14T15:24:36Z",
+      "image": "https://assets-varnish.triblive.com/2026/11/10130359_web1_10130359-03749b78884a47eab5f3701f621f986f.jpg",
+      "title_cn": "",
+      "description_cn": ""
+    },
+    {
+      "title": "‘Unable to determine probable cause’: Arizona judge releases DUI suspect over AI-generated police report",
+      "description": "An Arizona judge has released a DUI suspect due to uncertainties in an AI-generated police report, raising questions about the use of artificial intelligence in law enforcement documentation.",
+      "url": "https://timesofindia.indiatimes.com/world/us/unable-to-determine-probable-cause-arizona-judge-releases-dui-suspect-over-ai-generated-police-report/articleshow/135835795.cms",
+      "source": "Times of India",
+      "publishedAt": "2026-11-14T14:54:00Z",
+      "image": "https://static.toiimg.com/thumb/msid-135835874,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "title_cn": "",
+      "description_cn": ""
+    },
+    {
+      "title": "Disney Patent Filing Outlines AI Virtual Theme Park That Mirrors Real",
+      "description": "Disney has published a patent application for an AI (artificial intelligence) system that keeps virtual worlds continuously synced with real-life events.",
+      "url": "https://wdwnt.com/2026/11/disney-patent-filing-outlines-ai-virtual-theme-park-that-mirrors-real-life-parades-fireworks-and-wait-times/",
+      "source": "wdwnt.com",
+      "publishedAt": "2026-11-14T14:02:30Z",
+      "image": "https://r2-media.wdwnt.com/2026/07/wdw-mk-4th-of-july-fireworks-2026-1-scaled.jpg",
+      "title_cn": "",
+      "description_cn": ""
+    },
+    {
+      "title": "Could Spain follow the Netherlands? AI puts government jobs under scrutiny",
+      "description": "Artificial intelligence could transform Spanish public services, raising questions over the future of thousands of administrative roles and the way residents…",
+      "url": "https://euroweeklynews.com/2026/11/14/could-spain-follow-the-netherlands-ai-puts-government-jobs-under-scrutiny/",
+      "source": "Euro Weekly News",
+      "publishedAt": "2026-11-14T12:37:22Z",
+      "image": "https://euroweeklynews.com/wp-content/uploads/2026/11/shutterstock_2415840955-1-e1794659686970.jpg",
+      "title_cn": "",
+      "description_cn": ""
+    },
+    {
+      "title": "FPI Inflows Surge To ₹76,189 Crore In November As Foreign Investors Return After Two Months Of Selling",
+      "description": "Foreign portfolio investors invested ₹76,188.75 crore in Indian equities between Nov 3 and Nov 13, reversing two months of heavy selling. Improving corporate earnings, attractive large-cap valuations and global concerns over artificial intelligence stocks supported sentiment. Reports of possible tax relief also boosted expectations, although uncertainties remain over sustained inflows",
+      "url": "https://www.freepressjournal.in/business/fpi-inflows-surge-to-76189-crore-in-november-as-foreign-investors-return-after-two-months-of-selling",
+      "source": "Free Press Journal",
+      "publishedAt": "2026-11-14T12:23:52Z",
+      "image": "https://media.assettype.com/freepressjournal/2026-07-12/mfkic77i/flpi-flow.jpg",
+      "title_cn": "",
+      "description_cn": ""
+    }
+  ]
+}
