@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-11-16T03:59:32Z",
+  "finance": [
+    {
+      "title": "3 big things we're watching in the stock market in the week ahead",
+      "summary": "Nvidia and Anthropic will share the spotlight in a pivotal week for the AI trade.",
+      "url": "https://www.cnbc.com/investingclub/2026/11/15/3-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
+      "source": "CNBC",
+      "datetime": 1794756380,
+      "image": "https://image.cnbcfm.com/api/v1/image/108550333-1794506199655-gettyimages-2304259201-nokings-sf1017.jpeg?v=1794506305&w=1920&h=1080",
+      "title_cn": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "Rivian, Lucid, Scout CEOs aren’t counting on Democrats to restore EV federal support after midterm wins",
+      "summary": "EV makers have had to contend with flip-flopping regulatory support from Washington over the years.",
+      "url": "https://www.cnbc.com/2026/11/15/rivian-lucid-scout-arent-counting-on-dems-to-restore-ev-incentives.html",
+      "source": "CNBC",
+      "datetime": 1794747602,
+      "image": "https://image.cnbcfm.com/api/v1/image/108116571-1742136946876-gettyimages-1242853588-AFP_32HF6PF.jpeg?v=1742136964&w=1920&h=1080",
+      "title_cn": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "'We slept here.' Flight delays linger as airlines scramble to recover from ground stop",
+      "summary": "Flight disruptions lingered two days after the Federal Aviation Administration grounded departures nationwide for more than four hours.",
+      "url": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
+      "source": "CNBC",
+      "datetime": 1794747088,
+      "image": "https://image.cnbcfm.com/api/v1/image/108551632-1794744176028-gettyimages-2304485779-ag_groundstop_02.jpeg?v=1794744200&w=1920&h=1080",
+      "title_cn": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "SpaceX, in a historic first, catches upper stage of its Starship rocket",
+      "summary": "Starship Test Flight 15 marks the first time Elon Musk's company has tried to catch both the booster and upper stage of the rocket.",
+      "url": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html",
+      "source": "CNBC",
+      "datetime": 1794691591,
+      "image": "https://image.cnbcfm.com/api/v1/image/108551491-1794611116156-gettyimages-2304487605-AFP_D7FF9MN.jpeg?v=1794611301&w=1920&h=1080",
+      "title_cn": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "Nvidia's leadership crisis rattles the AI trade. Here's how we're adjusting our portfolio",
+      "summary": "Despite the turbulence, the S&P 500 secured a weekly gain of 2.5%, while the tech-heavy Nasdaq added 2.3%.",
+      "url": "https://www.cnbc.com/investingclub/2026/11/14/nvidias-leadership-crisis-rattles-wall-street-how-were-adjusting.html",
+      "source": "CNBC",
+      "datetime": 1794682119,
+      "image": "https://image.cnbcfm.com/api/v1/image/108549797-1794473558680-gettyimages-2300707653-261019_KBMW_PHT102.jpeg?v=1794473568&w=1920&h=1080",
+      "title_cn": "",
+      "summary_cn": ""
+    }
+  ],
+  "ai": [
+    {
+      "title": "Trump heads to Asia with hopes of shifting the momentum after midterm setbacks hurt him at home",
+      "description": "President Donald Trump heads to Asia this week and he's aiming to shift the momentum after Republican losses in the midterm elections. Trump plans a historic meeting with Chinese President Xi Jinping and Russian President Vladimir Putin to discuss nuclear stockpiles. He's first visiting the Philippines on Tuesday to meet Southeast Asian leaders. Then it's on to China for the Asia-Pacific Economic Cooperation summit. The trip comes as Democrats prepare to take control of Congress in January and they may try to curb his foreign policy tools. Trump faces scrutiny over issues such as artificial intelligence and trade. The wars in Iran and Ukraine also loom over the trip.",
+      "url": "https://www.ajc.com/news/2026/11/trump-heads-to-asia-with-hopes-of-shifting-the-momentum-after-midterm-setbacks-hurt-him-at-home/",
+      "source": "The Atlanta Journal-Constitution",
+      "publishedAt": "2026-11-15T13:33:09Z",
+      "image": "https://images.ajc.com/resizer/v2/PTBAM3QJ75HAVESIKSB5JHE43U.jpg?auth=ddbfa508b77026f567289e478ce6152d2220314e4090fbbef8f3aad2a5354273&width=1200&height=630&smart=true",
+      "title_cn": "",
+      "description_cn": ""
+    },
+    {
+      "title": "BITS Pilani raises USD 54 million through endowment drive in 23 months: Group VC V Ramgopal Rao",
+      "description": "Using alumni contributions, six new research centres have been established across Pilani, Goa and Hyderabad in artificial intelligence, semiconductors, clean energy, social and rural innovation, smart electronics manufacturing and advanced materials.",
+      "url": "https://indianexpress.com/article/education/bits-pilani-raises-usd-54-million-through-endowment-drive-23-months-group-vc-ramgopal-rao-10964239/",
+      "source": "The Indian Express",
+      "publishedAt": "2026-11-15T13:12:07Z",
+      "image": "https://images.indianexpress.com/2026/11/BITS-Pilani-1.jpg",
+      "title_cn": "",
+      "description_cn": ""
+    },
+    {
+      "title": "Data centers, AI were factors in election results, candidates and experts say",
+      "description": "Various election winners and experts said data centers, artificial intelligence and affordability issues were some top voter issues.",
+      "url": "https://www.chicagotribune.com/2026/11/15/data-centers-ai-were-factors-in-election-results-candidates-and-experts-say/",
+      "source": "Chicago Tribune",
+      "publishedAt": "2026-11-15T13:00:09Z",
+      "image": "https://www.chicagotribune.com/wp-content/uploads/2026/05/PTB-L-AMAZON-OPEN-HOUSE-0430-2.jpg?w=3000&h=2012",
+      "title_cn": "",
+      "description_cn": ""
+    },
+    {
+      "title": "Jenson Huang is now a meme sensation thanks to AI tools he helped to create",
+      "description": "Once artificial intelligence's leading hype-man, Jensen Huang is now the face of an AI-driven meme craze.",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/15/jenson-huang-is-now-a-meme-sensation-thanks-to-ai-tools-he-helped-to-create",
+      "source": "The Star",
+      "publishedAt": "2026-11-15T12:48:00Z",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/11/15/4213821.jpg",
+      "title_cn": "",
+      "description_cn": ""
+    },
+    {
+      "title": "AI may deepen pricing pressure on Indian IT services before new demand offsets it: Report",
+      "description": "Rapid advances in artificial intelligence could put more pressure on prices for traditional Indian IT services in the near to medium term, even as demand for new AI projects grows, Systematix Institutional Equities said in its second-quarter FY27 sector earnings review.",
+      "url": "https://www.tribuneindia.com/news/business/ai-may-deepen-pricing-pressure-on-indian-it-services-before-new-demand-offsets-it-report/",
+      "source": "The Tribune",
+      "publishedAt": "2026-11-15T12:07:41Z",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTJjMjU5ZWQwLWUwZWQtMTFmMS1hNzhjLWJmZGZhODg2ZTA2Yy5qcGc=",
+      "title_cn": "",
+      "description_cn": ""
+    }
+  ]
+}
