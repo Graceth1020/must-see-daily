@@ -1,0 +1,87 @@
+{
+  "lastUpdated": "2026-11-17T05:51:56Z",
+  "finance": [
+    {
+      "title": "United Airlines reports system outage affecting departing flights",
+      "summary": "United Airlines said Monday that a widespread system outage was affecting departing flights.",
+      "url": "https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html",
+      "source": "CNBC",
+      "datetime": 1794868968,
+      "image": "https://image.cnbcfm.com/api/v1/image/108551868-1794831966954-gettyimages-2304760092-AFP_D7JH4CQ.jpeg?v=1794831989&w=1920&h=1080",
+      "title_cn": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
+      "summary": "Berkshire Hathaway added to several stock positions in the third quarter while trimming others, including Bank of America.",
+      "url": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html",
+      "source": "CNBC",
+      "datetime": 1794867772,
+      "image": "https://image.cnbcfm.com/api/v1/image/108332343-17835390822026-07-08t192912z_1218639865_rc2v9mavrnxc_rtrmadp_0_media-sunvalley.jpeg?v=1783539130&w=1920&h=1080",
+      "title_cn": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "JPMorgan Chase says temporary software bug is affecting consumer banking",
+      "summary": "CNBC's Eamon Javers reported there was no indication of bad actors involved and likewise no indication that a bug was impacting multiple banks at the same time.",
+      "url": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
+      "source": "CNBC",
+      "datetime": 1794865370,
+      "image": "https://image.cnbcfm.com/api/v1/image/108398335-1791812925028-gettyimages-2299307812-JPMORGAN_EARNS.jpeg?v=1791812945&w=1920&h=1080",
+      "title_cn": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "Eli Lilly makes a deal outside obesity. Plus, another word of caution on Nvidia",
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "url": "https://www.cnbc.com/investingclub/2026/11/16/eli-lilly-makes-a-deal-outside-obesity-plus-another-word-of-caution-on-nvidia.html",
+      "source": "CNBC",
+      "datetime": 1794859666,
+      "image": "https://image.cnbcfm.com/api/v1/image/108203001-17586586822025-09-23t201404z_1944581795_rc2oxgab9a9h_rtrmadp_0_usa-lilly.jpeg?v=1758658848&w=1920&h=1080",
+      "title_cn": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "Jim Cramer says J&J is a 'metaphor for what's working' in the stock market",
+      "summary": "Johnson & Johnson is a prime example of the kind of stocks doing well as investors shy away from the volatile AI trade.",
+      "url": "https://www.cnbc.com/investingclub/2026/11/16/jim-cramer-says-jj-is-a-metaphor-for-whats-working-in-the-stock-market.html",
+      "source": "CNBC",
+      "datetime": 1794858265,
+      "image": "https://image.cnbcfm.com/api/v1/image/108172713-1752674650223-gettyimages-2170898851-JJ_FUTURE_OFFICER.jpeg?v=1759491442&w=1920&h=1080",
+      "title_cn": "",
+      "summary_cn": ""
+    }
+  ],
+  "ai": [
+    {
+      "title": "\"AI could boost economic growth but disrupt jobs\": Fed Chair Warsh flags impact of super intelligence",
+      "description": "Federal Reserve Chairman Kevin Warsh on Monday said the emergence of artificial intelligence and what he described as \"super intelligence\" could fundamentally transform the US economy, potentially driving productivity growth, generating new ideas and reshaping the labour market.",
+      "url": "https://economictimes.indiatimes.com/us/business/ai-could-boost-economic-growth-but-disrupt-jobs-fed-chair-warsh-flags-impact-of-super-intelligence/articleshow/135898533.cms",
+      "source": "The Economic Times",
+      "publishedAt": "2026-11-16T17:51:00Z",
+      "image": "https://img.etimg.com/thumb/msid-135898532,width-1200,height-900,imgsize-77638,overlay-economictimes/articleshow.jpg",
+      "title_cn": "",
+      "description_cn": ""
+    },
+    {
+      "title": "Google threat team finds first AI hacking without human intervention: Why and how your phone and laptop security updates may be at risk",
+      "description": "Google’s threat researchers say attackers have, for the first time, used an artificial intelligence (AI) framework that works with no human in the loop to",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-threat-team-finds-first-ai-hacking-without-human-intervention-why-and-how-your-phone-and-laptop-security-updates-may-be-at-risk/articleshow/135898222.cms",
+      "source": "Times of India",
+      "publishedAt": "2026-11-16T17:44:00Z",
+      "image": "https://static.toiimg.com/thumb/msid-135898347,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "title_cn": "",
+      "description_cn": ""
+    },
+    {
+      "title": "Warsh grapples with AI’s potential economic impact",
+      "description": "Artificial intelligence could accelerate innovation and usher in an era of faster economic growth, Federal Reserve Chairman Kevin Warsh said Monday in remarks that underscored his generally optimistic outlook on the new technology, a view at odds with many of his colleagues.",
+      "url": "https://www.courant.com/2026/11/16/warsh-federal-reserve-ai/",
+      "source": "Hartford Courant",
+      "publishedAt": "2026-11-16T17:43:10Z",
+      "image": "https://www.courant.com/wp-content/uploads/2026/11/Federal_Reserve_63146-1.jpg?w=1999&h=1333",
+      "title_cn": "",
+      "description_cn": ""
+    }
+  ]
+}
