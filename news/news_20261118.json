@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-11-18T05:18:47Z",
+  "finance": [
+    {
+      "title": "A generational flight from tech to defensive stocks is underway. How we’re capitalizing",
+      "summary": "Jim Cramer has pushed the message that its important for investors to balance their portfolios.",
+      "url": "https://www.cnbc.com/investingclub/2026/11/17/a-generational-flight-from-tech-to-defensive-stocks-is-underway-how-were-capitalizing.html",
+      "source": "CNBC",
+      "datetime": 1794947487,
+      "image": "https://image.cnbcfm.com/api/v1/image/108208441-1759780797780-gettyimages-2239612462-dsc06109_nvmrly0l.jpeg?v=1759780953&w=1920&h=1080",
+      "title_cn": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "Wall Street's fear gauge is surging again and this time it's not just about AI jitters",
+      "summary": "VIX up four days in a row as options traders show fear unseen since April",
+      "url": "https://www.cnbc.com/2026/11/17/wall-streets-fear-gauge-is-surging-again-and-this-time-its-not-just-about-ai-jitters.html",
+      "source": "CNBC",
+      "datetime": 1794947287,
+      "image": "https://image.cnbcfm.com/api/v1/image/108553205-1794932257619-Traders-Photo-20261116-KK-PRESS-006.jpg?v=1794932755&w=1920&h=1080",
+      "title_cn": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "We’re watching Cramer’s favorite market indicator for a signal to buy stocks",
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "url": "https://www.cnbc.com/investingclub/2026/11/17/were-watching-cramers-favorite-indicator-for-a-signal-to-buy-stocks.html",
+      "source": "CNBC",
+      "datetime": 1794942927,
+      "image": "https://image.cnbcfm.com/api/v1/image/108553208-1794932257620-Traders-Photo-20261116-KK-PRESS-009.jpg?v=1794932755&w=1920&h=1080",
+      "title_cn": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "Jensen Huang breaks his silence ahead of Nvidia earnings — plus, 1 stock to buy on weakness",
+      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "url": "https://www.cnbc.com/investingclub/2026/11/17/jensen-huang-breaks-his-silence-ahead-of-nvidia-earnings-plus-1-stock-to-buy.html",
+      "source": "CNBC",
+      "datetime": 1794933741,
+      "image": "https://image.cnbcfm.com/api/v1/image/108289438-1775762935321-gettyimages-2269517561-US_STOCKS.jpeg?v=1777726782&w=1920&h=1080",
+      "title_cn": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "Kalshi takes down controversial Trump 'mention' markets at CFTC's request",
+      "summary": "Some Trump-related Kalshi mention contracts have been taken down as the CFTC warns the contract type carries heightened manipulation risk.",
+      "url": "https://www.cnbc.com/2026/11/17/kalshi-takes-down-trump-mention-markets.html",
+      "source": "CNBC",
+      "datetime": 1794931250,
+      "image": "https://image.cnbcfm.com/api/v1/image/108344439-17858457182026-08-04t102957z_668477747_rc2mrmamjzd6_rtrmadp_0_usa-prediction-markets.jpeg?v=1785845777&w=1920&h=1080",
+      "title_cn": "",
+      "summary_cn": ""
+    }
+  ],
+  "ai": [
+    {
+      "title": "Superintelligence, rare earth minerals and more: What Trump pitched at US-Asean dinner in Manila",
+      "description": "US President Donald Trump on Tuesday pitched American leadership in artificial intelligence, energy exports, critical minerals and defence production to",
+      "url": "https://timesofindia.indiatimes.com/world/us/superintelligence-rare-earth-minerals-and-more-what-trump-pitched-at-us-asean-dinner-in-manila/articleshow/135934650.cms",
+      "source": "Times of India",
+      "publishedAt": "2026-11-17T17:15:00Z",
+      "image": "https://static.toiimg.com/thumb/msid-135934825,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "title_cn": "",
+      "description_cn": ""
+    },
+    {
+      "title": "Beyond the AI hype: How Industrial AI is reshaping India’s factories and infrastructure",
+      "description": "As India moves forward, artificial intelligence technologies are being woven into the fabric of its manufacturing, infrastructure, and transportation sectors. This innovative integration is set to boost productivity and create more sustainable practices, with companies likely to see a drop in engineering timelines and costs through tools like predictive maintenance and automated quality checks.",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/beyond-the-ai-hype-how-industrial-ai-is-reshaping-indias-factories-and-infrastructure/articleshow/135934331.cms",
+      "source": "The Economic Times",
+      "publishedAt": "2026-11-17T17:06:14Z",
+      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-110508,resizemode-75,msid-135934331/tech/artificial-intelligence/beyond-the-ai-hype-how-industrial-ai-is-reshaping-indias-factories-and-infrastructure.jpg",
+      "title_cn": "",
+      "description_cn": ""
+    },
+    {
+      "title": "Amazon and Google will own more than a quarter of Anthropic after its IPO",
+      "description": "(Bloomberg) -- Two of Anthropic PBC’s biggest customers will have more than 28% of its stock in aggregate after it goes public, adding to the close links between the companies powering the artificial intelligence boom.",
+      "url": "https://www.latimes.com/business/story/2026-11-17/amazon-google-will-own-more-than-quarter-of-anthropic-after-its-ipo",
+      "source": "Los Angeles Times",
+      "publishedAt": "2026-11-17T16:58:51Z",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/416dd2c/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd5%2Fe0%2F7a572b4af098d4be8de9b9f3fc5d%2F1x-1.jpg",
+      "title_cn": "",
+      "description_cn": ""
+    },
+    {
+      "title": "Researchers develop DentalGEN, an AI framework for automated dental crown restoration",
+      "description": "A collaborative international research team led by the Faculty of Dentistry of the University of Hong Kong (HKU) has developed DentalGEN, a large-scale controllable generative artificial intelligence-plus (AI+) framework for automated dental crown restoration. Their study, published in npj Digital Medicine, represents an important advancement in digital prosthodontics, smart dental manufacturing and Industry 4.0 applications in dentistry.",
+      "url": "https://medicalxpress.com/news/2026-11-dentalgen-ai-framework-automated-dental.html",
+      "source": "Medical Xpress",
+      "publishedAt": "2026-11-17T16:20:08Z",
+      "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/hku-dentistry-leads-de-1.jpg",
+      "title_cn": "",
+      "description_cn": ""
+    },
+    {
+      "title": "Report says AI adoption alone no longer offers competitive edge",
+      "description": "SIMPLY adopting artificial intelligence (AI) no longer provides a competitive edge as the technology becomes more accessible across the business landscape, professional services network firm Deloitte said.",
+      "url": "https://www.manilatimes.net/2026/11/18/business/top-business/report-says-ai-adoption-alone-no-longer-offers-competitive-edge/2472570",
+      "source": "The Manila Times",
+      "publishedAt": "2026-11-17T16:17:00Z",
+      "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=75&f=webp&v=1",
+      "title_cn": "",
+      "description_cn": ""
+    }
+  ]
+}
