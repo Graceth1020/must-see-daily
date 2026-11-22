@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-11-22T04:16:48Z",
+  "finance": [
+    {
+      "title": "Trump says there could be a 'positive spin' from the latest FBI database hack",
+      "summary": "This would make the second recent intrusion into the FBI system.",
+      "url": "https://www.cnbc.com/2026/11/21/trump-fbi-database-hack.html",
+      "source": "CNBC",
+      "datetime": 1795280254,
+      "image": "https://image.cnbcfm.com/api/v1/image/108556666-17951972432026-11-20t175115z_1355872127_rc2troappj32_rtrmadp_0_usa-trump.jpeg?v=1795197271&w=1920&h=1080",
+      "title_cn": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "I never wanted the American Dream and I felt like something was wrong with me—until I moved abroad",
+      "summary": "\"I realized it was okay to want something different,\" says Cepee Tabibian, who moved to Spain in 2015 at age 35.",
+      "url": "https://www.cnbc.com/make-it/2026/11/21/never-wanted-american-dream-moving-abroad-redefine-success.html",
+      "source": "CNBC",
+      "datetime": 1795273202,
+      "image": "https://image.cnbcfm.com/api/v1/image/108556562-1795191385939-067.jpg?v=1795191458&w=1920&h=1080",
+      "title_cn": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "During Wall Street's worst week in over a year, we put money to work. What we're buying",
+      "summary": "The brutal sell-off is creating opportunities for us to put cash to work.",
+      "url": "https://www.cnbc.com/investingclub/2026/11/21/during-wall-streets-worst-week-in-over-a-year-we-put-money-to-work-what-were-buying.html",
+      "source": "CNBC",
+      "datetime": 1795270924,
+      "image": "https://image.cnbcfm.com/api/v1/image/108556481-1795186749925-108556481-1795186692796-gettyimages-2305475004-US_STOCKS.jpg?v=1795186759&w=1920&h=1080",
+      "title_cn": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "International first class is over for U.S. airlines. Enter the mega business-class cabin",
+      "summary": "Airlines are opting to build giant business-class cabins with ever-more luxurious suites.",
+      "url": "https://www.cnbc.com/2026/11/21/us-airlines-first-class-business-class.html",
+      "source": "CNBC",
+      "datetime": 1795262401,
+      "image": "https://image.cnbcfm.com/api/v1/image/108555266-1795098920001-IMG_6917_1.jpg?v=1795099096&w=1920&h=1080",
+      "title_cn": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "S&P 500 correction: Five forces behind the market sell-off",
+      "summary": "The S&P 500 and Dow Jones Industrial Average closed in correction territory, off 10% from their records. The Nasdaq Composite lost its gain for the year.",
+      "url": "https://www.cnbc.com/2026/11/20/sp-500-correction-market-sell-off.html",
+      "source": "CNBC",
+      "datetime": 1795260565,
+      "image": "https://image.cnbcfm.com/api/v1/image/108554307-17950192062026-11-18t162223z_189106541_rc2dqoahnid0_rtrmadp_0_usa-stocks.jpeg?v=1795019320&w=1920&h=1080",
+      "title_cn": "",
+      "summary_cn": ""
+    }
+  ],
+  "ai": [
+    {
+      "title": "DOLE to prepare workers for AI shift",
+      "description": "THE Department of Labor and Employment (DOLE) said it will help prepare Filipino workers to adapt to artificial intelligence (AI) under a national governance framework signed by President Ferdinand Marcos Jr.",
+      "url": "https://www.manilatimes.net/2026/11/22/news/national/dole-to-prepare-workers-for-ai-shift/2475544",
+      "source": "The Manila Times",
+      "publishedAt": "2026-11-21T16:15:00Z",
+      "image": "https://manilatimes.net/manilatimes/uploads/images/2026/11/21/1319862.jpg",
+      "title_cn": "",
+      "description_cn": ""
+    },
+    {
+      "title": "AI cannot take jobs of skilled workers: PM Modi",
+      "description": "Prime Minister Narendra Modi on Saturday said that while there is a lot of discussion about artificial intelligence, no one can take away the livelihood of a person who possesses skills.",
+      "url": "https://www.greaterkashmir.com/national/ai-cannot-take-jobs-of-skilled-workers-pm-modi-12829934",
+      "source": "Greater Kashmir",
+      "publishedAt": "2026-11-21T16:10:12Z",
+      "image": "https://img-cdn.publive.online/fit-in/1200x675/greater-kashmir/media/media_files/2026/11/21/pm-modi-2026-11-21-21-39-25.jpg",
+      "title_cn": "",
+      "description_cn": ""
+    },
+    {
+      "title": "South Korea’s Lee says speed is decisive in AI race",
+      "description": "SEOUL — South Korean President Lee Jae Myung on Saturday urged the country to move fast as it competes in the global artificial intelligence (AI) race, as he toured a data center under construction in the southeastern city of Ulsan.",
+      "url": "https://www.manilatimes.net/2026/11/22/world/asia-oceania/south-koreas-lee-says-speed-is-decisive-in-ai-race/2475521",
+      "source": "The Manila Times",
+      "publishedAt": "2026-11-21T16:07:00Z",
+      "image": "https://manilatimes.net/manilatimes/uploads/images/2026/11/21/1319577.jpg",
+      "title_cn": "",
+      "description_cn": ""
+    },
+    {
+      "title": "AI governance must move beyond policy",
+      "description": "PHILIPPINE businesses need to build real-time controls into their artificial intelligence systems as they move from individual AI applications to autonomous agents operating across enterprise workflows, an IBM Philippines executive said in an exclusive online interview with The Manila Times.",
+      "url": "https://www.manilatimes.net/2026/11/22/business/sunday-business-it/ai-governance-must-move-beyond-policy/2475432",
+      "source": "The Manila Times",
+      "publishedAt": "2026-11-21T16:06:00Z",
+      "image": "https://manilatimes.net/manilatimes/uploads/images/2026/11/21/1319487.jpg",
+      "title_cn": "",
+      "description_cn": ""
+    },
+    {
+      "title": "917Ventures’ Velocity advances four startups toward commercial deals, targets 10 in 2027",
+      "description": "917VENTURES, Globe’s corporate venture builder, is advancing four startups toward commercial partnerships through Velocity, its year-round collaboration program, as it targets 10 startup deals in 2027, with artificial intelligence (AI) central to its strategy.",
+      "url": "https://www.manilatimes.net/2026/11/22/tmt-newswire/917ventures-velocity-advances-four-startups-toward-commercial-deals-targets-10-in-2027/2475437",
+      "source": "The Manila Times",
+      "publishedAt": "2026-11-21T16:05:00Z",
+      "image": "https://manilatimes.net/manilatimes/uploads/images/2026/11/21/1319549.jpg",
+      "title_cn": "",
+      "description_cn": ""
+    }
+  ]
+}
