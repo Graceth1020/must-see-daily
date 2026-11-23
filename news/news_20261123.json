@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-11-23T05:01:01Z",
+  "finance": [
+    {
+      "title": "Let's weigh the cons — and pros — of this brutal market to find a way forward",
+      "summary": "My dad always said a list can help you make an informed decision — not always the right one, but the most informed at that moment.",
+      "url": "https://www.cnbc.com/investingclub/2026/11/22/lets-weigh-the-cons-and-pros-of-this-market-to-find-a-way-forward.html",
+      "source": "CNBC",
+      "datetime": 1795391384,
+      "image": "https://image.cnbcfm.com/api/v1/image/108556475-1795186492969-gettyimages-2305372283-AFP_D8394NG.jpeg?v=1795186549&w=1920&h=1080",
+      "title_cn": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
+      "summary": "Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea's Base Group.",
+      "url": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
+      "source": "CNBC",
+      "datetime": 1795373705,
+      "image": "https://image.cnbcfm.com/api/v1/image/108314199-1780134094393-Phantom_work2.png?v=1780135127&w=1920&h=1080",
+      "title_cn": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages",
+      "summary": "Clayton’s warning comes ahead of Thanksgiving travel, after separate outages disrupted air travel, Microsoft 365 and some bank transactions.",
+      "url": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html",
+      "source": "CNBC",
+      "datetime": 1795364289,
+      "image": "https://image.cnbcfm.com/api/v1/image/108554284-1795017875830-gettyimages-2305725511-_s019615_hvtmmvsn.jpeg?v=1795017895&w=1920&h=1080",
+      "title_cn": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "26-year-old Google worker earns $323,000 a year—but lives on less than minimum wage",
+      "summary": "Charles Broomfield set a post-college goal of reaching $750,000 in investments by age 30. Now 26, he expects to get there within the next year.",
+      "url": "https://www.cnbc.com/make-it/2026/11/22/google-worker-earns-323000-a-yearbut-he-lives-on-minimum-wage.html",
+      "source": "CNBC",
+      "datetime": 1795356001,
+      "image": "https://image.cnbcfm.com/api/v1/image/108553366-1794942971028-Screenshots00_01_01_00Still012.png?v=1794944217&w=1920&h=1080",
+      "title_cn": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "Saudi Arabia, Bahrain report new attacks as Iran says it remains open to a deal with U.S.",
+      "summary": "Saudi Arabia said it destroyed a drone launched by Iran-backed Houthis, while Bahrain said an industrial facility was hit by Iranian projectiles.",
+      "url": "https://www.cnbc.com/2026/11/22/saudi-houthi-bahrain-iran-attacks-araghchi-talks.html",
+      "source": "CNBC",
+      "datetime": 1795353947,
+      "image": "https://image.cnbcfm.com/api/v1/image/108355655-1787917072063-108355655-1787912744442-gettyimages-2289641696-IRAN-TEHRAN-FM-HEALTH_NEEDS.jpg?v=1795351744&w=1920&h=1080",
+      "title_cn": "",
+      "summary_cn": ""
+    }
+  ],
+  "ai": [
+    {
+      "title": "Domestic professional services firms eye mergers to build scale, compete with Big Six",
+      "description": "Indian professional services firms are merging to build scale and enhance their service offerings in various sectors. The entry of Artificial Intelligence has changed the competitive landscape, prompting increased consolidation among local firms. Younger leadership is more open to mergers, which can address challenges of maintaining control and adapting to client needs. Regulatory changes are slowly being introduced, supporting the growth of these firms.",
+      "url": "https://economictimes.indiatimes.com/industry/services/consultancy-/-audit/domestic-professional-services-firms-eye-mergers-to-build-scale-compete-with-big-six/articleshow/136079482.cms",
+      "source": "The Economic Times",
+      "publishedAt": "2026-11-22T16:55:00Z",
+      "image": "https://img.etimg.com/thumb/msid-136079552,width-1200,height-900,imgsize-135879,overlay-economictimes/articleshow.jpg",
+      "title_cn": "",
+      "description_cn": ""
+    },
+    {
+      "title": "The AI talent war: China is the factory, America the magnet, India an also-ran",
+      "description": "TOI correspondent from Washington: In the new world order being fashioned by artificial intelligence, scientists such as Fei-Fei Li, Kaiming He, and Anima",
+      "url": "https://timesofindia.indiatimes.com/world/us/the-ai-talent-war-china-is-the-factory-america-the-magnet-india-an-also-ran/articleshow/136078837.cms",
+      "source": "Times of India",
+      "publishedAt": "2026-11-22T16:22:00Z",
+      "image": "https://static.toiimg.com/thumb/msid-136078865,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "title_cn": "",
+      "description_cn": ""
+    },
+    {
+      "title": "AI weapons could soon be impossible to control, Red Cross warns",
+      "description": "The International Committee of the Red Cross has warned that governments are running out of time to regulate autonomous weapons as artificial intelligence technology advances faster than...",
+      "url": "https://www.thenews.com.pk/latest/1424646-ai-weapons-could-soon-be-impossible-to-control-red-cross-warns",
+      "source": "The News International",
+      "publishedAt": "2026-11-22T16:00:49Z",
+      "image": "https://www.thenews.com.pk/assets/uploads/2026-11-22/1424646_090053_updates.jpg",
+      "title_cn": "",
+      "description_cn": ""
+    },
+    {
+      "title": "Google Issues Ominous Warning: 'The Era Of Autonomous Attacks Has Arrived'",
+      "description": "Cybersecurity is no joke, but the issue has gotten more complicated as hacking attempts increasingly rely on deploying artificial intelligence.",
+      "url": "https://www.slashgear.com/2321524/google-ai-threat-tracker-autonomous-attack-warning/",
+      "source": "SlashGear",
+      "publishedAt": "2026-11-22T15:45:00Z",
+      "image": "https://www.slashgear.com/img/gallery/google-issues-ominous-warning-the-era-of-autonomous-attacks-has-arrived/l-intro-1795091331.jpg",
+      "title_cn": "",
+      "description_cn": ""
+    },
+    {
+      "title": "Trump has made the world unready for the rise of a nuclear-armed China",
+      "description": "Artificial intelligence may be all the rage at the moment, but atomic bombs can still ruin your day",
+      "url": "https://www.telegraph.co.uk/news/2026/11/22/trump-made-america-unready-for-the-rise-of-a-nuclear-china/",
+      "source": "The Telegraph",
+      "publishedAt": "2026-11-22T15:30:00Z",
+      "image": "https://www.telegraph.co.uk/content/dam/news/2026/11/22/TELEMMGLPICT000512211109_17953542054410_trans_NvBQzQNjv4BqlGWEKWRdEU2JZux9ambLpsQ9ErjkTanuFb6XMOS_E3Y.jpeg?impolicy=OG-Comment",
+      "title_cn": "",
+      "description_cn": ""
+    }
+  ]
+}
