@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-11-25T06:15:59Z",
+  "finance": [
+    {
+      "title": "How Meta is using Instagram to get an ad boost from its Muse personal AI agent",
+      "summary": "Meta doesn't serve ads in its Muse personal agent, but the tool is already boosting the company's ad business, a senior executive told CNBC.",
+      "url": "https://www.cnbc.com/2026/11/24/meta-instagram-muse-ad-revenue.html",
+      "source": "CNBC",
+      "datetime": 1795552660,
+      "image": "https://image.cnbcfm.com/api/v1/image/108372027-1790964949550-gettyimages-2296314757-META_CONNECT.jpeg?v=1790964985&w=1920&h=1080",
+      "title_cn": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "Gold is doing something strange. Here's one way to play it",
+      "summary": "Gold is not acting like the traditional safe haven. How one trader is playing the move.",
+      "url": "https://www.cnbc.com/2026/11/24/gold-is-doing-something-strange-heres-one-way-to-play-it-.html",
+      "source": "CNBC",
+      "datetime": 1795548313,
+      "image": "https://image.cnbcfm.com/api/v1/image/108375012-1791434896477-gettyimages-2179215252-vcg111524625398.jpeg?v=1791434922&w=1920&h=1080",
+      "title_cn": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "Who qualifies for Costco’s $30-per-share dividend — plus, Meta puts share plan on hold",
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "url": "https://www.cnbc.com/investingclub/2026/11/24/who-qualifies-for-costcos-dividend-plus-meta-pauses-share-plan.html",
+      "source": "CNBC",
+      "datetime": 1795548239,
+      "image": "https://image.cnbcfm.com/api/v1/image/108479535-1793267636211-gettyimages-2297257915-AFP_C9QC8D2.jpeg?v=1793267644&w=1920&h=1080",
+      "title_cn": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "Retail turnarounds are taking hold just in time for the holiday season",
+      "summary": "Retail earnings reports on Tuesday pointed to a mix of factors behind the strong results, including a resilient consumer and stronger execution.",
+      "url": "https://www.cnbc.com/2026/11/24/retail-turnarounds-holiday-season.html",
+      "source": "CNBC",
+      "datetime": 1795544495,
+      "image": "https://image.cnbcfm.com/api/v1/image/108554570-1795032736273-gettyimages-2305757426-l1090818_copy_25nvihon.jpeg?v=1795032895&w=1920&h=1080",
+      "title_cn": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "We're adding to our position in a tech giant that is too cheap to ignore",
+      "summary": "Our discipline requires us to put some money to work in these oversold conditions.",
+      "url": "https://www.cnbc.com/investingclub/2026/11/24/were-adding-to-our-position-in-a-tech-giant-that-is-too-cheap-to-ignore-.html",
+      "source": "CNBC",
+      "datetime": 1795540792,
+      "image": "https://image.cnbcfm.com/api/v1/image/107176652-1673370154777-NUP_200112_10053.jpg?v=1675643206&w=1920&h=1080",
+      "title_cn": "",
+      "summary_cn": ""
+    }
+  ],
+  "ai": [
+    {
+      "title": "House Committee: Commerce Approved 879,000 AI Chips for Chinese Military",
+      "description": "House lawmakers on Thursday released confidential export license records showing that the Commerce Department approved sales of more than 879,000 advanced artificial intelligence chips to organizations designated by the Pentagon as Chinese military companies, including firms tied to a network connected to Nvidia’s former chief executive. The approvals include advanced AI chips made by Nvidia […]",
+      "url": "https://www.naturalnews.com/2026-11-24-commerce-approved-ai-chips-chinese-military-firms.html",
+      "source": "Natural News",
+      "publishedAt": "2026-11-24T17:50:48Z",
+      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/11/ai-chip-exports-commerce-department-chinese-military-companies-7051-28849eea-original.jpg",
+      "title_cn": "",
+      "description_cn": ""
+    },
+    {
+      "title": "Nvidia, Chip Stocks Fall On Data Center Spending Fears",
+      "description": "Nvidia and chip stocks fell Tuesday on renewed fears about a slowdown in spending on data centers for artificial intelligence.",
+      "url": "https://www.investors.com/news/technology/chip-stocks-fall-data-center-spending-fears/",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2026-11-24T17:41:23Z",
+      "image": "https://www.investors.com/wp-content/uploads/2026/07/Stock-Nvidia-dataCenterRack-company.jpg",
+      "title_cn": "",
+      "description_cn": ""
+    },
+    {
+      "title": "Peter Gabriel contends with AI's impact in 'o/i'",
+      "description": "Peter Gabriel is reflecting on artificial intelligence and what it means to be human. On his new album, “o/i,” the Genesis vocalist urges listeners to connect with nature.",
+      "url": "https://www.courant.com/2026/11/24/music-review-peter-gabriel-i-o/",
+      "source": "Hartford Courant",
+      "publishedAt": "2026-11-24T17:22:00Z",
+      "image": "https://www.courant.com/wp-content/uploads/2026/11/Music_Review_-_Peter_Gabriel_96781.jpg?w=2000&h=2000",
+      "title_cn": "",
+      "description_cn": ""
+    },
+    {
+      "title": "AI Is Making Social Security Faster, but Can It Make It Fairer?",
+      "description": "China’s integration of artificial intelligence into social security administration is delivering measurable efficiency gains, expanding round-the-clock access to services and reducing manual workloads. An ILO report examining 45 cases across 15 provincial-level regions highlights how intelligent public services can strengthen social protection while raising critical questions about algorithmic fairness, human oversight, data privacy and digital inclusion.",
+      "url": "https://www.devdiscourse.com/article/technology/4011168-ai-is-making-social-security-faster-but-can-it-make-it-fairer",
+      "source": "Devdiscourse",
+      "publishedAt": "2026-11-24T17:21:16Z",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/24_11_2026_11_16_04_5175147.png&width=920&format=jpeg",
+      "title_cn": "",
+      "description_cn": ""
+    },
+    {
+      "title": "EU sees over €200 billion in missed tax revenues per year",
+      "description": "The European Commission reported a massive loss of over €200 billion annually due to tax fraud. This revenue loss stems from tax evasion, avoidance, and administrative shortcomings across member states. Approximately €125 billion is lost from value-added tax, while corporate income tax losses reach nearly €50 billion. The Commission suggests adopting technologies like artificial intelligence to enhance tax collection efforts.",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/eu-sees-over-200-billion-in-missed-tax-revenues-per-year/articleshow/136137998.cms",
+      "source": "The Economic Times",
+      "publishedAt": "2026-11-24T17:18:00Z",
+      "image": "https://img.etimg.com/thumb/msid-136138079,width-1200,height-900,imgsize-329956,overlay-economictimes/articleshow.jpg",
+      "title_cn": "",
+      "description_cn": ""
+    }
+  ]
+}
