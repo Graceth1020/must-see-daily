@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-11-26T06:07:58Z",
+  "finance": [
+    {
+      "title": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
+      "summary": "S&P Global Ratings said Nvidia's credit rating could be cut by one notch as it flagged \"rising\" management and governance risk at the chipmaker.",
+      "url": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
+      "source": "CNBC",
+      "datetime": 1795661852,
+      "image": "https://image.cnbcfm.com/api/v1/image/108559274-1795616819098-gettyimages-2306584360-vcg111684383907.jpeg?v=1795616838&w=1920&h=1080",
+      "title_cn": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "Macy's postpones Thanksgiving Day Parade due to severe weather",
+      "summary": "Macy's announced on Wednesday that the annual Thanksgiving Day Parade is being postponed to Saturday due to severe weather.",
+      "url": "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html",
+      "source": "CNBC",
+      "datetime": 1795641996,
+      "image": "https://image.cnbcfm.com/api/v1/image/108231283-17640201792025-11-24t213315z_1538790581_rc253iad2162_rtrmadp_0_usa-christmas-season-new-york.jpeg?v=1764020242&w=1920&h=1080",
+      "title_cn": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "Vance says he was assured Jensen Huang was not under DOJ investigation",
+      "summary": "Whether the Trump administration has investigated Jensen Huang for potential national security risks has been the subject of questions.",
+      "url": "https://www.cnbc.com/2026/11/25/vance-jensen-huang-nvidia-doj-investigation.html",
+      "source": "CNBC",
+      "datetime": 1795638522,
+      "image": "https://image.cnbcfm.com/api/v1/image/108558516-17955383482025-12-03t204438z_1611070846_rc269iamutg0_rtrmadp_0_nvidia-huang-congress.jpeg?v=1795635517&w=1920&h=1080",
+      "title_cn": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "SpaceX, Musk pledge to donate a share each to active Trump Accounts",
+      "summary": "SpaceX said it will donate one share of the company's class A stock to every active Trump Account, and CEO Elon Musk would match it.",
+      "url": "https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html",
+      "source": "CNBC",
+      "datetime": 1795637277,
+      "image": "https://image.cnbcfm.com/api/v1/image/108433967-1792440076573-gettyimages-2297619001-TRUMPWHITEHOUSE.jpeg?v=1792519423&w=1920&h=1080",
+      "title_cn": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "We're buying more of a stock down big from its July highs",
+      "summary": "We're dipping into our large cash position as the market remains oversold.",
+      "url": "https://www.cnbc.com/investingclub/2026/11/25/were-buying-more-of-a-stock-down-big-from-its-july-highs.html",
+      "source": "CNBC",
+      "datetime": 1795636518,
+      "image": "https://image.cnbcfm.com/api/v1/image/108549228-1794422029822-CNBC_INVSTNG_CLB_BB_110626_1515.JPG?v=1794423061&w=1920&h=1080",
+      "title_cn": "",
+      "summary_cn": ""
+    }
+  ],
+  "ai": [
+    {
+      "title": "ACC’s ‘fully operational’ AI tool is finding claimants for staff to consider removing from its books",
+      "description": "By Anusha Bradley of RNZ ACC has trained an artificial intelligence model to find injured people whose weekly compensation claims could be “suspended...",
+      "url": "https://www.nzherald.co.nz/nz/accs-fully-operational-ai-tool-is-finding-claimants-for-staff-to-consider-removing-from-its-books/ZGFOSYHFBZBJXG4WO45JECPJLI/",
+      "source": "The New Zealand Herald",
+      "publishedAt": "2026-11-25T17:58:19Z",
+      "image": "https://www.nzherald.co.nz/resizer/v2/W2FLV34ZXJCOPNGGHHZUU466WY.jpg?auth=fae4405d224e5b2ad5d9df6e7c49d078b4567e46472477c4ac0978bdeb1d0e71&width=1200&height=675&quality=70&focal=577%2C326&smart=false",
+      "title_cn": "",
+      "description_cn": ""
+    },
+    {
+      "title": "China steps up AI warfare push, integrates loyal wingman drones into pilot training",
+      "description": "China is expanding the use of artificial intelligence in military aviation, bringing loyal wingman drones into routine fighter pilot training. PLA simulations now allow pilots to practise coordinated combat missions with unmanned aircraft while facing complex battlefield scenarios. The development follows earlier efforts to validate manned-unmanned operations involving China's J-20 stealth fighter and GJ-11 combat drone.",
+      "url": "https://economictimes.indiatimes.com/news/defence/china-steps-up-ai-warfare-push-integrates-loyal-wingman-drones-into-pilot-training/articleshow/136169197.cms",
+      "source": "The Economic Times",
+      "publishedAt": "2026-11-25T17:25:00Z",
+      "image": "https://img.etimg.com/thumb/msid-136169241,width-1200,height-900,imgsize-61515,overlay-etdefence/articleshow.jpg",
+      "title_cn": "",
+      "description_cn": ""
+    },
+    {
+      "title": "How AI is reshaping real estate",
+      "description": "The rise of artificial intelligence is reshaping the real estate industry and regulators are racing to draft rules to draw a line between virtual home staging and false advertising, which is now referred to as housefishing.",
+      "url": "https://www.bnnbloomberg.ca/business/real-estate/2026/11/25/ai-modified-home-listings-are-everywhere-what-buyers-need-to-know/",
+      "source": "Bnn Bloomberg",
+      "publishedAt": "2026-11-25T17:05:14Z",
+      "image": "https://www.bnnbloomberg.ca/resizer/v2/6URJAJ7IQ5EMLIXRWTSVJTVFVU.png?smart=true&auth=b9d81e714512f0691e55a0cee1370da05037a2fd1d36542ff1edb4423d93e572&width=1200&height=630",
+      "title_cn": "",
+      "description_cn": ""
+    },
+    {
+      "title": "Musk's SpaceX gets FCC nod for 1 million satellites to power orbital data centres",
+      "description": "The Federal Communications Commission has authorized SpaceX to deploy a constellation of 1 million satellites. This decision is aimed at facilitating data processing for Earth-based applications. The satellites will be used to meet the increasing demand for artificial intelligence computing capacities globally. SpaceX aims to utilize the Starmind constellation for its orbital compute modules. This initiative highlights the growing need for advanced data processing infrastructures in space.",
+      "url": "https://economictimes.indiatimes.com/news/international/business/musks-spacex-gets-fcc-nod-for-1-million-satellites-to-power-orbital-data-centres/articleshow/136168640.cms",
+      "source": "The Economic Times",
+      "publishedAt": "2026-11-25T17:05:00Z",
+      "image": "https://img.etimg.com/thumb/msid-136168638,width-1200,height-900,imgsize-59402,overlay-economictimes/articleshow.jpg",
+      "title_cn": "",
+      "description_cn": ""
+    },
+    {
+      "title": "AI expands Russia's ability to conduct global disinformation campaigns - expert",
+      "description": "Russia is actively using artificial intelligence and other advanced technologies to expand the geographical reach of its disinformation campaigns. — Ukrinform.",
+      "url": "https://www.ukrinform.net/rubric-society/4188604-ai-expands-russias-ability-to-conduct-global-disinformation-campaigns-expert.html",
+      "source": "Ukrinform",
+      "publishedAt": "2026-11-25T17:00:00Z",
+      "image": "https://static.ukrinform.com/photos/2026_11/thumb_files/630_360_1795521268-216.jpg",
+      "title_cn": "",
+      "description_cn": ""
+    }
+  ]
+}
