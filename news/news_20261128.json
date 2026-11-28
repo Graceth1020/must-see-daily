@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-11-28T05:40:14Z",
+  "finance": [
+    {
+      "title": "Jensen Huang's return did little to ease AI jitters. We used the weakness to buy",
+      "summary": "Jensen Huang's return sparked a fleeting AI rally, but persistent market volatility gave us another opportunity to put cash to work.",
+      "url": "https://www.cnbc.com/investingclub/2026/11/27/jensen-huangs-return-did-little-to-ease-ai-jitters-we-bought-on-weakness.html",
+      "source": "CNBC",
+      "datetime": 1795805180,
+      "image": "https://image.cnbcfm.com/api/v1/image/108550021-1794492334597-gettyimages-2224669758-AFP_66W349F.jpeg?v=1795450267&w=1920&h=1080",
+      "title_cn": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "'The Traitors' ended with a $246,300 prize—here's who won and what they told us about spending it",
+      "summary": "Winning prize money can come with some big financial decisions, including how much to set aside for taxes.",
+      "url": "https://www.cnbc.com/make-it/2026/11/27/the-traitors-ends-with-246300-prize-heres-how-much-goes-to-taxes.html",
+      "source": "CNBC",
+      "datetime": 1795794569,
+      "image": "https://image.cnbcfm.com/api/v1/image/108559654-1795642748488-gettyimages-2305376827-NUP_210715_02930.jpeg?v=1795644306&w=1920&h=1080",
+      "title_cn": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "Top 10 things to watch in the stock market on Black Friday",
+      "summary": "Stocks are on pace for a record Black Friday as Anthropic tries to regain its IPO price.",
+      "url": "https://www.cnbc.com/investingclub/2026/11/27/top-10-things-to-watch-in-the-stock-market-on-black-friday.html",
+      "source": "CNBC",
+      "datetime": 1795789716,
+      "image": "https://image.cnbcfm.com/api/v1/image/108556478-1795186653493-108556478-1795186592615-gettyimages-2305474808-US_STOCKS.jpg?v=1795186665&w=1920&h=1080",
+      "title_cn": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "It’s not just you: Durable goods are getting less reliable, from sputtering cars to glitching smart TVs",
+      "summary": "A wide swath of consumer products are becoming less reliable and durable, even as their prices rise, research shows.",
+      "url": "https://www.cnbc.com/make-it/2026/11/27/durable-goods-reliability-cars-appliances-tvs.html",
+      "source": "CNBC",
+      "datetime": 1795784702,
+      "image": "https://image.cnbcfm.com/api/v1/image/108559472-1795626999461-261117_mg_31_exp_Buy_Worse_Thumb_D_clean.png?v=1795627066&w=1920&h=1080",
+      "title_cn": "",
+      "summary_cn": ""
+    },
+    {
+      "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
+      "summary": "Even as consumers face macroeconomic headwinds, retailers are expecting robust holiday spending through Black Friday and beyond.",
+      "url": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
+      "source": "CNBC",
+      "datetime": 1795777201,
+      "image": "https://image.cnbcfm.com/api/v1/image/108548604-1794349959300-gettyimages-2304504774-anotherday36809902_nb5fdvlx.jpeg?v=1795623957&w=1920&h=1080",
+      "title_cn": "",
+      "summary_cn": ""
+    }
+  ],
+  "ai": [
+    {
+      "title": "Global stocks rise, key indices on track, while India bucks the trend",
+      "description": "In stock markets worldwide, buying of stocks tied to artificial intelligence has been pushing benchmarks higher, despite some profit-taking that has kept those gains in check.",
+      "url": "https://www.newindianexpress.com/business/2026/Nov/27/global-stocks-rise-keeping-key-indices-on-track-while-india-bucks-the-trend",
+      "source": "The New Indian Express",
+      "publishedAt": "2026-11-27T17:06:48Z",
+      "image": "https://cf-images.assettype.com/newindianexpress%2F2026-11-27%2F7f9u4th9%2FAP26321561412893.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "title_cn": "",
+      "description_cn": ""
+    },
+    {
+      "title": "What is Muse from Meta and how does the AI assistant work on WhatsApp and other apps?",
+      "description": "META has unleashed a new artificial intelligence \"digital butler\" that can do your weekly food shop, book holidays and manage your diary.\nCalled...",
+      "url": "https://www.thesun.co.uk/tech/41173738/meta-muse-ai-whatsapp-instagram-app-guide/",
+      "source": "The Sun",
+      "publishedAt": "2026-11-27T16:58:02Z",
+      "image": "https://www.thesun.co.uk/wp-content/uploads/2026/11/commuter-walks-past-meta-muse-1123908844_af9c36.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
+      "title_cn": "",
+      "description_cn": ""
+    },
+    {
+      "title": "Satya Nadella may have admitted Microsoft’s AI is 6 months behind but why he is ‘happy’ about it",
+      "description": "Microsoft CEO Satya Nadella may have acknowledged that the company’s in-house MAI artificial intelligence (AI) models can lag behind rivals OpenAI and",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/satya-nadella-may-have-admitted-microsofts-ai-is-6-months-behind-but-why-he-is-happy-about-it/articleshow/136228698.cms",
+      "source": "Times of India",
+      "publishedAt": "2026-11-27T16:46:00Z",
+      "image": "https://static.toiimg.com/thumb/msid-136228757,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "title_cn": "",
+      "description_cn": ""
+    },
+    {
+      "title": "Meta’s (META) Muse Could Unlock a New Revenue Stream",
+      "description": "Meta Platforms, Inc. (META) could unlock a new revenue stream through Muse, its personal artificial intelligence (AI) agent. The social media pl...",
+      "url": "https://markets.businessinsider.com/news/stocks/meta-s-meta-muse-could-unlock-a-new-revenue-stream-1036806408",
+      "source": "Markets Insider",
+      "publishedAt": "2026-11-27T16:23:53Z",
+      "image": "https://blog.tipranks.com/wp-content/uploads/2026/11/META-Stock-Analysis-2.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+      "title_cn": "",
+      "description_cn": ""
+    },
+    {
+      "title": "\"Coin-toss\" odds for humanity by 2030, warns researcher over AI threat; says 2027 may bring COVID-level disruption",
+      "description": "Artificial Intelligence (AI) safety researcher Nikola Jurkovic has warned that humanity could face a 50-50 chance of being destroyed or disempowered by AI before the end of 2030, cautioning that the technology could reach intelligence levels far beyond humans as early as 2027 without strict global regulation.",
+      "url": "https://www.aninews.in/news/world/us/coin-toss-odds-for-humanity-by-2030-warns-researcher-over-ai-threat-says-2027-may-bring-covid-level-disruption20261127214417/",
+      "source": "ANI (Asian News International)",
+      "publishedAt": "2026-11-27T16:14:17Z",
+      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261127160257-thumbnail-320x180-70.jpg",
+      "title_cn": "",
+      "description_cn": ""
+    }
+  ]
+}
